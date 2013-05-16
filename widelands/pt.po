@@ -37,8 +37,12 @@ msgstr "não foi possível encontrar caminho para o executável principal"
 
 #
 # File: ../../src/wlapplication.cc, line: 1037
-msgid "Waited 5 seconds to close audio. problems here so killing widelands. update your sound driver and/or SDL to fix this problem\n"
-msgstr "Esperei 5 segundos para fechar o som. Há problemas por isso fecho widelands. Actualiza o driver de som e/ou SDL para resolver este problema.\n"
+msgid ""
+"Waited 5 seconds to close audio. problems here so killing widelands. update "
+"your sound driver and/or SDL to fix this problem\n"
+msgstr ""
+"Esperei 5 segundos para fechar o som. Há problemas por isso fecho widelands. "
+"Actualiza o driver de som e/ou SDL para resolver este problema.\n"
 
 #
 # File: ../../src/wlapplication.cc, line: 1174
@@ -175,7 +179,8 @@ msgstr ""
 #
 # File: ../../src/wlapplication.cc, line: 1344
 msgid " --dedicated=FILENAME Starts a dedicated server with FILENAME as map\n"
-msgstr " --dedicated=FICHEIRO Inicia um servidor próprio com FICHEIRO como mapa\n"
+msgstr ""
+" --dedicated=FICHEIRO Inicia um servidor próprio com FICHEIRO como mapa\n"
 
 #
 # File: ../../src/wlapplication.cc, line: 1347
@@ -323,22 +328,29 @@ msgstr "Erro inesperado durante o jogo"
 msgid ""
 "\n"
 "\n"
-"Please report this problem to help us improve Widelands. You will find related messages in the standard output (stdout.txt on Windows). You are using build "
+"Please report this problem to help us improve Widelands. You will find "
+"related messages in the standard output (stdout.txt on Windows). You are "
+"using build "
 msgstr ""
 "\n"
 "\n"
-"Por favor relate este problema para nos ajudar a melhorar o Widelands. Irá encontrar as mensagens relacionadas no ficheiro de saída standard (stdout.txt no Windows). Está a usar a versão "
+"Por favor relate este problema para nos ajudar a melhorar o Widelands. Irá "
+"encontrar as mensagens relacionadas no ficheiro de saída standard (stdout."
+"txt no Windows). Está a usar a versão "
 
 #
 # File: ../../src/wlapplication.cc, line: 1573
 msgid ""
 ". Please add this information to your report.\n"
 "\n"
-"Widelands attempts to create a savegame when errors occur during the game. It is often - though not always - possible to load it and continue playing.\n"
+"Widelands attempts to create a savegame when errors occur during the game. "
+"It is often - though not always - possible to load it and continue playing.\n"
 msgstr ""
 ". Por favor adicione esta informação ao seu relatório.\n"
 "\n"
-"O Widelands tenta guardar o estado do jogo quando ocorrem erros durante o jogo. É possível, na maior parte  das vezes carregá-lo novamente e continuar a jogar.\n"
+"O Widelands tenta guardar o estado do jogo quando ocorrem erros durante o "
+"jogo. É possível, na maior parte  das vezes carregá-lo novamente e continuar "
+"a jogar.\n"
 
 #
 # File: ../../src/wlapplication.cc, line: 1690
@@ -365,8 +377,12 @@ msgstr "Fim da repetição"
 
 #
 # File: ../../src/wlapplication.cc, line: 2096
-msgid "The end of the replay has been reached and the game has been paused. You may unpause the game and continue watching if you want to."
-msgstr "A repetição acabou e o jogo foi pausado. Podes tirar o jogo da pausa e continuar a vê-la se quiseres."
+msgid ""
+"The end of the replay has been reached and the game has been paused. You may "
+"unpause the game and continue watching if you want to."
+msgstr ""
+"A repetição acabou e o jogo foi pausado. Podes tirar o jogo da pausa e "
+"continuar a vê-la se quiseres."
 
 #
 # File: ../../src/wlapplication.cc, line: 2179
@@ -587,13 +603,18 @@ msgstr "Propriedades de Combate"
 # File: ../../src/writeHTML.cc, line: 586
 #, c-format
 msgid "Hitpoints is %u, plus %u for each level above 0 (maximum level is %u)."
-msgstr "Resistência é %u, mais %u por cada nível acima de 0 (nível máximo é %u)."
+msgstr ""
+"Resistência é %u, mais %u por cada nível acima de 0 (nível máximo é %u)."
 
 #
 # File: ../../src/writeHTML.cc, line: 596
 #, c-format
-msgid "Attack is between %u and %u, plus %u for each level above 0 (maximum level is %u)."
-msgstr "Ataque é entre %u e %u, mais %u por cada nível acima de 0 (nível máximo é %u)."
+msgid ""
+"Attack is between %u and %u, plus %u for each level above 0 (maximum level "
+"is %u)."
+msgstr ""
+"Ataque é entre %u e %u, mais %u por cada nível acima de 0 (nível máximo é "
+"%u)."
 
 #
 # File: ../../src/writeHTML.cc, line: 606
@@ -909,8 +930,12 @@ msgstr "Formato não suportado"
 #
 # File: ../../src/editor/editorinteractive.cc, line: 173
 #, c-format
-msgid "Widelands could not load the file \"%s\". The file format seems to be incompatible."
-msgstr "Widelands não conseguiu carregar o ficheiro \"%s\". O formato parece ser incompatível."
+msgid ""
+"Widelands could not load the file \"%s\". The file format seems to be "
+"incompatible."
+msgstr ""
+"Widelands não conseguiu carregar o ficheiro “%s”. O formato parece ser "
+"incompatível."
 
 #
 # File: ../../src/editor/editorinteractive.cc, line: 192
@@ -1073,7 +1098,7 @@ msgstr "pré-carregar: %s"
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 130
 #, c-format
 msgid "expected %s but found \"%s\""
-msgstr "esperava %s mas encontrei \"%s\""
+msgstr "esperava %s mas encontrei “%s”"
 
 #
 # File: ../../src/graphic/animation.cc, line: 139
@@ -1103,7 +1128,7 @@ msgstr "[battle] acordando o vencedor %d\n"
 # File: ../../src/logic/immovable.cc, line: 207
 #, c-format
 msgid "bad attribute \"%s\""
-msgstr "mau atributo \"%s\""
+msgstr "mau atributo “%s”"
 
 #
 # File: ../../src/logic/building.cc, line: 523
@@ -1235,8 +1260,10 @@ msgstr "Falta de posição inicial"
 # File: ../../src/logic/player.cc, line: 150
 #, c-format
 msgid ""
-"Widelands could not start the game, because player %u has no starting position.\n"
-"You can manually add a starting position with Widelands Editor, to fix this problem."
+"Widelands could not start the game, because player %u has no starting "
+"position.\n"
+"You can manually add a starting position with Widelands Editor, to fix this "
+"problem."
 msgstr ""
 "Widelands não conseguiu começar o jogo, porque o jogador %u não tem\n"
 "nenhuma posição inicial. Pode adicionar manualmente uma posição inicial\n"
@@ -1247,7 +1274,7 @@ msgstr ""
 # File: ../../src/logic/production_program.cc, line: 1614
 #, c-format
 msgid "unknown command type \"%s\""
-msgstr "tipo de comando desconhecido \"%s\""
+msgstr "tipo de comando desconhecido “%s”"
 
 #
 # File: ../../src/logic/immovable.cc, line: 148
@@ -1282,19 +1309,19 @@ msgstr "duplicado"
 # File: ../../src/logic/immovable.cc, line: 279
 #, c-format
 msgid "[terrain affinity] \"%s\" (not in current world): %s"
-msgstr "[terrain affinity] \"%s\" (não no mundo actual): %s"
+msgstr "[terrain affinity] “%s” (não no mundo actual): %s"
 
 #
 # File: ../../src/logic/immovable.cc, line: 315
 #, c-format
 msgid "immovable %s has no program \"%s\""
-msgstr "o amovível %s não tem um programa \"%s\""
+msgstr "o amovível %s não tem um programa “%s”"
 
 #
 # File: ../../src/logic/immovable.cc, line: 772
 #, c-format
 msgid "tribe %s does not define immovable type \"%s\""
-msgstr "tribo %s não define tipo amovível \"%s\""
+msgstr "tribo %s não define tipo amovível “%s”"
 
 #
 # File: ../../src/logic/immovable.cc, line: 775
@@ -1306,13 +1333,13 @@ msgstr "tribo desconhecida %s"
 # File: ../../src/logic/immovable.cc, line: 781
 #, c-format
 msgid "world does not define immovable type \"%s\""
-msgstr "o mundo não define tipo amovível \"%s\""
+msgstr "o mundo não define tipo amovível “%s”"
 
 #
 # File: ../../src/logic/immovable.cc, line: 791
 #, c-format
 msgid "immovable type %s"
-msgstr "tipo amovível \"%s\""
+msgstr "tipo amovível “%s”"
 
 #
 # File: ../../src/logic/immovable.cc, line: 825
@@ -1332,13 +1359,16 @@ msgstr "prioridade"
 # File: ../../src/logic/immovable.cc, line: 1080
 #, c-format
 msgid "expected probability in range [1, 254] but found \"%s\""
-msgstr "probabilidade esperada nos limites [1, 254] mas foi encontrada \"%s\""
+msgstr "probabilidade esperada nos limites [1, 254] mas foi encontrada “%s”"
 
 #
 # File: ../../src/logic/immovable.cc, line: 920
 #, c-format
-msgid "unknown scope \"%s\" given for target type (must be \"world\" or \"tribe\")"
-msgstr "limite desconhecido \"%s\" dado para tipo de alvo (tem de ser \"world\" ou \"tribe\")"
+msgid ""
+"unknown scope \"%s\" given for target type (must be \"world\" or \"tribe\")"
+msgstr ""
+"limite desconhecido “%s” dado para tipo de alvo (tem de ser “world” ou "
+"“tribe”)"
 
 #
 # File: ../../src/logic/immovable.cc, line: 931
@@ -1350,14 +1380,14 @@ msgstr "Transformação ilegal para o mesmo tipo"
 # File: ../../src/logic/immovable.cc, line: 1059
 #, c-format
 msgid "immovable type not in tribe but target type has scope (\"%s\")"
-msgstr "tipo amovível não está na tribo mas mas o tipo alvo tem escopo (\"%s\")"
+msgstr "tipo amovível não está na tribo mas mas o tipo alvo tem escopo (“%s”)"
 
 #
 # File: ../../src/logic/immovable.cc, line: 979
 # File: ../../src/logic/immovable.cc, line: 1065
 #, c-format
 msgid "scope \"%s\" given for target type (must be \"world\")"
-msgstr "escopo \"%s\" dado para o tipo alvo (tem de ser \"mundo\")"
+msgstr "escopo “%s” dado para o tipo alvo (tem de ser “mundo”)"
 
 #
 # File: ../../src/logic/immovable.cc, line: 1026
@@ -1397,7 +1427,7 @@ msgstr "Jogador 1"
 # File: ../../src/logic/military_data.cc, line: 51
 # File: ../../src/logic/soldier.cc, line: 68
 msgid "\"min-max\""
-msgstr "\"min-max\""
+msgstr "“min-max”"
 
 #
 # File: ../../src/logic/military_data.cc, line: 59
@@ -1408,13 +1438,13 @@ msgstr "inteiro positivo <= 100"
 # File: ../../src/logic/military_data.cc, line: 63
 #, c-format
 msgid "expected positive integer >= %u <= 100 but found \"%s\""
-msgstr "esperado inteiro positivo >= %u <= 100 mas foi encontrado \"%s\""
+msgstr "esperado inteiro positivo >= %u <= 100 mas foi encontrado “%s”"
 
 #
 # File: ../../src/logic/military_data.cc, line: 75
 #, c-format
 msgid "expected positive integer >= %u <= %u but found \"%u\""
-msgstr "esperado inteiro positivo >= %u <= %u mas foi encontrado \"%u\""
+msgstr "esperado inteiro positivo >= %u <= %u mas foi encontrado “%u”"
 
 #
 # File: ../../src/logic/militarysite.cc, line: 63
@@ -1641,14 +1671,22 @@ msgstr "mensagem do jogador: %s"
 #
 # File: ../../src/logic/production_program.cc, line: 87
 #, c-format
-msgid "%s is not declared as an input (\"%s=<count>\" was not found in the [inputs] section)"
-msgstr "%s não está declarada como input (\"%s=<count>\" não foi encontrada na seção [inputs])"
+msgid ""
+"%s is not declared as an input (\"%s=<count>\" was not found in the [inputs] "
+"section)"
+msgstr ""
+"%s não está declarada como input (“%s=<count>” não foi encontrada na seção "
+"[inputs])"
 
 #
 # File: ../../src/logic/production_program.cc, line: 100
 #, c-format
-msgid "wrong order of ware types within group: ware type %s appears after ware type %s (fix order!)"
-msgstr "ordem incorrecta de tipo de mercadorias dentro do grupo: tipo de mercadoria %s aparece depois do tipo de mercadoria  %s (corrija a ordem!)"
+msgid ""
+"wrong order of ware types within group: ware type %s appears after ware type "
+"%s (fix order!)"
+msgstr ""
+"ordem incorrecta de tipo de mercadorias dentro do grupo: tipo de mercadoria "
+"%s aparece depois do tipo de mercadoria  %s (corrija a ordem!)"
 
 #
 # File: ../../src/logic/production_program.cc, line: 114
@@ -1660,8 +1698,13 @@ msgstr "count"
 #
 # File: ../../src/logic/production_program.cc, line: 119
 #, c-format
-msgid "group count is %u but (total) input storage capacity of the specified ware type(s) is only %u, so the group can never be fulfilled by the site"
-msgstr "group count é %u mas a capacidade de armazenamento de entrada (total) do tipo(s) de mercadoria(s) especificado(s) é apenas %u, por isso o grup nunca poderá ser preenchido pelo sitio"
+msgid ""
+"group count is %u but (total) input storage capacity of the specified ware "
+"type(s) is only %u, so the group can never be fulfilled by the site"
+msgstr ""
+"group count é %u mas a capacidade de armazenamento de entrada (total) do tipo"
+"(s) de mercadoria(s) especificado(s) é apenas %u, por isso o grup nunca "
+"poderá ser preenchido pelo sitio"
 
 #
 # File: ../../src/logic/production_program.cc, line: 149
@@ -1699,12 +1742,12 @@ msgstr "condição inválida: %s"
 # File: ../../src/logic/production_program.cc, line: 350
 #, c-format
 msgid "expected {\"failed\"|\"completed\"|\"skipped\"} but found \"%s\""
-msgstr "esperava {\"failed\"|\"completed\"|\"skipped\"} mas encontrei  \"%s\""
+msgstr "esperava {\"failed\"|\"completed\"|\"skipped\"} mas encontrei  “%s”"
 
 #
 # File: ../../src/logic/production_program.cc, line: 363
 msgid "expected \"and\" or end of input"
-msgstr "esperava \"and\" ou fim de input"
+msgstr "esperava “and” ou fim de input"
 
 #
 # File: ../../src/logic/production_program.cc, line: 372
@@ -1714,7 +1757,7 @@ msgstr "esperava condição no fim do input"
 #
 # File: ../../src/logic/production_program.cc, line: 378
 msgid "expected \"or\" or end of input"
-msgstr "esperava \"or\" ou fim do input"
+msgstr "esperava “or” ou fim do input"
 
 #
 # File: ../../src/logic/production_program.cc, line: 411
@@ -1758,8 +1801,12 @@ msgstr " porque não: "
 #
 # File: ../../src/logic/production_program.cc, line: 480
 #, c-format
-msgid "the program \"%s\" has not (yet) been declared in %s (wrong declaration order?)"
-msgstr "O programa \"%s\"  (ainda) não foi declarado em %s ('ordem de declaração incorrecta ?)"
+msgid ""
+"the program \"%s\" has not (yet) been declared in %s (wrong declaration "
+"order?)"
+msgstr ""
+"O programa “%s”  (ainda) não foi declarado em %s ('ordem de declaração "
+"incorrecta ?)"
 
 #
 # File: ../../src/logic/production_program.cc, line: 502
@@ -1805,7 +1852,7 @@ msgstr "hibernação: %s"
 # File: ../../src/logic/production_program.cc, line: 668
 #, c-format
 msgid "Unknown parameter \"%s\""
-msgstr "Parâmetro desconhecido: \"%s\"\n"
+msgstr "Parâmetro desconhecido: “%s”"
 
 #
 # File: ../../src/logic/production_program.cc, line: 670
@@ -1833,8 +1880,12 @@ msgstr[1] " faltam"
 # File: ../../src/logic/production_program.cc, line: 890
 # File: ../../src/logic/production_program.cc, line: 985
 #, c-format
-msgid "%s is not declared as an output (\"output=%s\" was not found in the [global] section)"
-msgstr "%s não está declarada como output (\"output=%s\" não foi encontrada na secção [global])"
+msgid ""
+"%s is not declared as an output (\"output=%s\" was not found in the [global] "
+"section)"
+msgstr ""
+"%s não está declarada como output (“output=%s” não foi encontrada na secção "
+"[global])"
 
 #
 # File: ../../src/logic/production_program.cc, line: 917
@@ -1884,8 +1935,12 @@ msgstr "A principal veia esgotou!"
 
 #
 # File: ../../src/logic/production_program.cc, line: 1211
-msgid "This mines' main vein exhausted. Expect strongly diminished returns on investment. You should consider to expand, dismantle or destruct it."
-msgstr "Estas minas ficaram vazias. Espera pouco retorno ao teu investimento. Deve considerar expandir-as, desmanchar-as ou destruir-as."
+msgid ""
+"This mines' main vein exhausted. Expect strongly diminished returns on "
+"investment. You should consider to expand, dismantle or destruct it."
+msgstr ""
+"Estas minas ficaram vazias. Espera pouco retorno ao teu investimento. Deve "
+"considerar expandir-as, desmanchar-as ou destruir-as."
 
 #
 # File: ../../src/logic/production_program.cc, line: 1225
@@ -1897,7 +1952,9 @@ msgstr "tipo de soldado"
 # File: ../../src/logic/production_program.cc, line: 1238
 #, c-format
 msgid "expected {\"hp\"|\"attack\"|\"defense\"|\"evade\"} but found \"%s\""
-msgstr "esperava {\"resistencia\"|\"ataque\"|\"defensa\"|\"evasão\"} mas encontrei \"%s\""
+msgstr ""
+"esperava {\"resistencia\"|\"ataque\"|\"defensa\"|\"evasão\"} mas encontrei “"
+"%s”"
 
 #
 # File: ../../src/logic/production_program.cc, line: 1247
@@ -1916,7 +1973,7 @@ msgstr "Não escontrado soldado com este nivel de treino!"
 # File: ../../src/logic/production_program.cc, line: 1329
 #, c-format
 msgid "expected level > %u but found \"%s\""
-msgstr "esperava nivel > %u mas encontrei \"%s\""
+msgstr "esperava nivel > %u mas encontrei “%s”"
 
 #
 # File: ../../src/logic/productionsite.cc, line: 73
@@ -1949,8 +2006,12 @@ msgstr "(parado)"
 #
 # File: ../../src/logic/requirements.cc, line: 223
 #, c-format
-msgid "expected atrHP (%u), atrAttack (%u), atrDefense (%u), atrEvade (%u) or atrTotal (%u) but found unknown attribute value (%u)"
-msgstr "esperava atrHP (%u), atrAttack (%u), atrDefense (%u), atrEvade (%u) ou atrTotal (%u) mas encontrei valor desconhecido (%u)"
+msgid ""
+"expected atrHP (%u), atrAttack (%u), atrDefense (%u), atrEvade (%u) or "
+"atrTotal (%u) but found unknown attribute value (%u)"
+msgstr ""
+"esperava atrHP (%u), atrAttack (%u), atrDefense (%u), atrEvade (%u) ou "
+"atrTotal (%u) mas encontrei valor desconhecido (%u)"
 
 #
 # File: ../../src/logic/ship.cc, line: 530
@@ -1967,12 +2028,12 @@ msgstr "inteiro positivo"
 # File: ../../src/logic/soldier.cc, line: 80
 #, c-format
 msgid "expected positive integer >= %u but found \"%s\""
-msgstr "esperava inteiro positivo >= %u mas encontrei \"%s\""
+msgstr "esperava inteiro positivo >= %u mas encontrei “%s”"
 
 #
 # File: ../../src/logic/soldier.cc, line: 183
 msgid "\"anim_name[,another_anim,...]\""
-msgstr "\"anim_name[,another_anim,...]\""
+msgstr "“anim_name[,another_anim,...]”"
 
 #
 # File: ../../src/logic/soldier.cc, line: 1253
@@ -1983,8 +2044,19 @@ msgstr "má direção '%d'"
 #
 # File: ../../src/logic/soldier.cc, line: 1430
 #, c-format
-msgid "The game engine has encountered a logic error. The %s #%u of player %u could not find a way from (%i, %i) (with %s immovable) to the opponent (%s #%u of player %u) at (%i, %i) (with %s immovable). The %s will now desert (but will not be executed). Strange things may happen. No solution for this problem has been implemented yet. (bug #1951113) (The game has been paused.)"
-msgstr "O Motor do jogo encontrou um problema lógico. O %s #%u do jogador %u não conseguiu encontrar uma caminho a partir de (%i, %i) (comh %s amovivel) para o opositor (%s #%u do jogador %u) em (%i, %i) (com %s amovivel). O %s irá agora desertar (mas não será executado). Podem acontecer coisas estranhas. Não foi ainda implementada nenhuma solução para este problema. (bug #1951113) (O jogo entrou em pausa.)"
+msgid ""
+"The game engine has encountered a logic error. The %s #%u of player %u could "
+"not find a way from (%i, %i) (with %s immovable) to the opponent (%s #%u of "
+"player %u) at (%i, %i) (with %s immovable). The %s will now desert (but will "
+"not be executed). Strange things may happen. No solution for this problem "
+"has been implemented yet. (bug #1951113) (The game has been paused.)"
+msgstr ""
+"O Motor do jogo encontrou um problema lógico. O %s #%u do jogador %u não "
+"conseguiu encontrar uma caminho a partir de (%i, %i) (comh %s amovivel) para "
+"o opositor (%s #%u do jogador %u) em (%i, %i) (com %s amovivel). O %s irá "
+"agora desertar (mas não será executado). Podem acontecer coisas estranhas. "
+"Não foi ainda implementada nenhuma solução para este problema. (bug "
+"#1951113) (O jogo entrou em pausa.)"
 
 #
 # File: ../../src/logic/soldier.cc, line: 1441
@@ -2011,20 +2083,20 @@ msgstr "Não trabalhando"
 #
 # File: ../../src/logic/tribe.cc, line: 134
 msgid "constructionsite type \"constructionsite\" is missing"
-msgstr "tipo de local de construção \"constructionsite\" está em falta"
+msgstr "tipo de local de construção “constructionsite” está em falta"
 
 #
 # File: ../../src/logic/tribe.cc, line: 143
 #, fuzzy
 msgid "dismantlesite type \"distmantlesite\" is missing"
-msgstr "tipo de local de construção \"constructionsite\" está em falta"
+msgstr "tipo de local de construção “constructionsite” está em falta"
 
 #
 # File: ../../src/logic/tribe.cc, line: 260
 # File: ../../src/logic/tribe.cc, line: 281
 #, c-format
 msgid "\"%s\" is duplicated"
-msgstr "\"%s\" está em duplicado"
+msgstr "“%s” está em duplicado"
 
 #
 # File: ../../src/logic/tribe.cc, line: 269
@@ -2059,14 +2131,22 @@ msgstr "Um novo %s foi adicionado à tua economia."
 #
 # File: ../../src/logic/worker.cc, line: 109
 #, c-format
-msgid "should mine resource %s, which does not exist in world; tribe is not compatible with world"
-msgstr "devia minar recurso %s, que não existe no mundo; tribo não é compatível com este mundo"
+msgid ""
+"should mine resource %s, which does not exist in world; tribe is not "
+"compatible with world"
+msgstr ""
+"devia minar recurso %s, que não existe no mundo; tribo não é compatível com "
+"este mundo"
 
 #
 # File: ../../src/logic/worker.cc, line: 211
 #, c-format
-msgid "should breed resource type %s, which does not exist in world; tribe is not compatible with world"
-msgstr "devia criar tipo de recurso %s, que não existe no mundo; tribo não é compatível com este mundo"
+msgid ""
+"should breed resource type %s, which does not exist in world; tribe is not "
+"compatible with world"
+msgstr ""
+"devia criar tipo de recurso %s, que não existe no mundo; tribo não é "
+"compatível com este mundo"
 
 #
 # File: ../../src/logic/worker.cc, line: 594
@@ -2075,8 +2155,12 @@ msgstr "Não há mais "
 
 #
 # File: ../../src/logic/worker.cc, line: 597
-msgid "The worker of this building cannot find any more resources of the following type: "
-msgstr "O trabalhador deste edifício já não consegue encontrar mais recursos do seguinte tipo: "
+msgid ""
+"The worker of this building cannot find any more resources of the following "
+"type: "
+msgstr ""
+"O trabalhador deste edifício já não consegue encontrar mais recursos do "
+"seguinte tipo: "
 
 #
 # File: ../../src/logic/worker.cc, line: 944
@@ -2087,7 +2171,9 @@ msgstr "Um geólogo encontrou recursos."
 # File: ../../src/logic/worker.cc, line: 1835
 #, c-format
 msgid "Your %s can't find a way home and will likely die."
-msgstr "O teu %s não consegue encontrar o caminho para casa e irá certamente morrer. Paz à sua alma digital."
+msgstr ""
+"O teu %s não consegue encontrar o caminho para casa e irá certamente morrer. "
+"Paz à sua alma digital."
 
 #
 # File: ../../src/logic/worker.cc, line: 1842
@@ -2128,7 +2214,7 @@ msgstr "tipo de bob %u desconhecido"
 # File: ../../src/map_io/widelands_map_bob_data_packet.cc, line: 102
 #, c-format
 msgid "tribe \"%s\" does not exist"
-msgstr "tribo \"%s\" já não existe"
+msgstr "tribo “%s” já não existe"
 
 #
 # File: ../../src/map_io/widelands_map_bob_data_packet.cc, line: 139
@@ -2140,7 +2226,7 @@ msgstr "bobs: %s"
 # File: ../../src/map_io/widelands_map_bobdata_data_packet.cc, line: 227
 #, c-format
 msgid "unknown task type \"%s\""
-msgstr "tarefa desconhecida \"%s\""
+msgstr "tarefa desconhecida “%s”"
 
 #
 # File: ../../src/map_io/widelands_map_bobdata_data_packet.cc, line: 231
@@ -2224,8 +2310,12 @@ msgstr "hibernação: %s"
 #
 # File: ../../src/map_io/widelands_map_buildingdata_data_packet.cc, line: 589
 #, c-format
-msgid "%s %u has a next_spawn time for worker type \"%s\" set to %u, but it was previously set to %u\n"
-msgstr "%s %u tem um tempo next_spawn para o tipo de trabalhador \"%s\" definido em %u, mas tinha sido anteriormente definido para %u\n"
+msgid ""
+"%s %u has a next_spawn time for worker type \"%s\" set to %u, but it was "
+"previously set to %u\n"
+msgstr ""
+"%s %u tem um tempo next_spawn para o tipo de trabalhador “%s” definido em "
+"%u, mas tinha sido anteriormente definido para %u\n"
 
 #
 # File: ../../src/map_io/widelands_map_buildingdata_data_packet.cc, line: 667
@@ -2351,7 +2441,7 @@ msgstr "Mundo inválido"
 # File: ../../src/map_io/widelands_map_loader.cc, line: 87
 #, c-format
 msgid "The world \"%s\" set by the map, does not exist on your filesystem."
-msgstr "O mundo \"%s\" definido pelo teu mapa, não existe nos teus ficheiros."
+msgstr "O mundo “%s” definido pelo teu mapa, não existe nos teus ficheiros."
 
 #
 # File: ../../src/map_io/widelands_map_node_ownership_data_packet.cc, line: 64
@@ -2399,37 +2489,53 @@ msgstr "posição dos jogadores: %s"
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 88
 #, c-format
 msgid "messages are not ordered: sent at %u but previous message sent at %u"
-msgstr "as mensagens não estão ordenadas: enviada em %u mas a mensagem anterior foi enviada em %u"
+msgstr ""
+"as mensagens não estão ordenadas: enviada em %u mas a mensagem anterior foi "
+"enviada em %u"
 
 #
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 94
 #, c-format
 msgid "message is sent in the future: sent at %u but gametime is only %u"
-msgstr "a mensagem é enviada no futuro: enviada em %u mas o tempo de jogo é apenas %u"
+msgstr ""
+"a mensagem é enviada no futuro: enviada em %u mas o tempo de jogo é apenas %u"
 
 #
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 103
 #, c-format
-msgid "the value %u is not allowed as duration; it is a special value meaning forever, which is the default; omit the duration key to make the message exist forever"
-msgstr "o valor %u não é permitido como duração; é um valor especial que quer dizer para sempre, e que é a predefinição; omitindo a chave de duração esta mensagem irá existir para sempre"
+msgid ""
+"the value %u is not allowed as duration; it is a special value meaning "
+"forever, which is the default; omit the duration key to make the message "
+"exist forever"
+msgstr ""
+"o valor %u não é permitido como duração; é um valor especial que quer dizer "
+"para sempre, e que é a predefinição; omitindo a chave de duração esta "
+"mensagem irá existir para sempre"
 
 #
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 111
 #, c-format
-msgid "duration %u is too large; causes numeric overflow when added to sent time %u"
-msgstr "a duração %u é demasiado grande; causa um transbordamento numérico quando adicionada a tempo de envio %u"
+msgid ""
+"duration %u is too large; causes numeric overflow when added to sent time %u"
+msgstr ""
+"a duração %u é demasiado grande; causa um transbordamento numérico quando "
+"adicionada a tempo de envio %u"
 
 #
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 117
 #, c-format
-msgid "message should have expired at %u; sent at %u with duration %u but gametime is already %u"
-msgstr "a mensagem devia ter expirado em %u; enviada em %u com a duração de %u mas o gametime é já de %u"
+msgid ""
+"message should have expired at %u; sent at %u with duration %u but gametime "
+"is already %u"
+msgstr ""
+"a mensagem devia ter expirado em %u; enviada em %u com a duração de %u mas o "
+"gametime é já de %u"
 
 #
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 150
 #, c-format
 msgid "\"%s\": %s"
-msgstr "\"%s\": %s"
+msgstr "“%s”: %s"
 
 #
 # File: ../../src/map_io/widelands_map_players_messages_data_packet.cc, line: 155
@@ -2463,8 +2569,12 @@ msgstr "Nenhum lugar para o carregador"
 #
 # File: ../../src/map_io/widelands_map_roaddata_data_packet.cc, line: 133
 #, c-format
-msgid "expected 1 but found %u carrier slots in road saved with packet version 2 (old)"
-msgstr "esperava 1 mas encontrei %u lugares de carrregador na estrada guardados com a versão 2 (antiga)"
+msgid ""
+"expected 1 but found %u carrier slots in road saved with packet version 2 "
+"(old)"
+msgstr ""
+"esperava 1 mas encontrei %u lugares de carrregador na estrada guardados com "
+"a versão 2 (antiga)"
 
 #
 # File: ../../src/map_io/widelands_map_roaddata_data_packet.cc, line: 202
@@ -2554,8 +2664,13 @@ msgstr "O servidor principal enviou um ERRO estranho durante a sessão"
 #
 # File: ../../src/network/internet_gaming.cc, line: 366
 #, c-format
-msgid "Expected a LOGIN, RELOGIN or REJECTED packet from server, but received command %s. Maybe the metaserver is using a different protocol version ?"
-msgstr "Fora esperado um comando ENTRAR, REENTRAR ou REJEITADO vindo do servidor, mas foi recebido o comando %s. Talvez o servidor esteja a correr uma versão diferente de Widelands?"
+msgid ""
+"Expected a LOGIN, RELOGIN or REJECTED packet from server, but received "
+"command %s. Maybe the metaserver is using a different protocol version ?"
+msgstr ""
+"Fora esperado um comando ENTRAR, REENTRAR ou REJEITADO vindo do servidor, "
+"mas foi recebido o comando %s. Talvez o servidor esteja a correr uma versão "
+"diferente de Widelands?"
 
 #
 # File: ../../src/network/internet_gaming.cc, line: 379
@@ -2623,8 +2738,12 @@ msgstr "Já entraste no servidor!"
 
 #
 # File: ../../src/network/internet_gaming_messages.cc, line: 48
-msgid "You got disconnected, as you send a superuser command without superuser permission.This incident will be logged and reported to the administrator."
-msgstr "Perdeste a ligação, já que mandaste um comando administrativo sem teres os devidos direitos. Este incidente será guardado e relatado ao administrador."
+msgid ""
+"You got disconnected, as you send a superuser command without superuser "
+"permission.This incident will be logged and reported to the administrator."
+msgstr ""
+"Perdeste a ligação, já que mandaste um comando administrativo sem teres os "
+"devidos direitos. Este incidente será guardado e relatado ao administrador."
 
 #
 # File: ../../src/network/internet_gaming_messages.cc, line: 50
@@ -2653,17 +2772,30 @@ msgstr "O teu jogo não pode ser encontrado na Internet."
 
 #
 # File: ../../src/network/internet_gaming_messages.cc, line: 57
-msgid "You got disconnected from the metaserver, as you did not answer a PING request in time."
-msgstr "Perdeste a ligação ao servidor, já que não respondeste ao ping a tempo."
+msgid ""
+"You got disconnected from the metaserver, as you did not answer a PING "
+"request in time."
+msgstr ""
+"Perdeste a ligação ao servidor, já que não respondeste ao ping a tempo."
 
 #
 # File: ../../src/network/internet_gaming_messages.cc, line: 60
-msgid "The metaserver was unable to connect to your game. Most likely it is not connectable from the internet! Please take a look at http://wl.widelands.org/wiki/InternetGaming for setting up your internet connection for hosting a game online."
-msgstr "O servidor não foi capaz de ligar ao teu jogo. O mais provável é que não está ligado à Internet! Por favor verifica http://wl.widelands.org/wiki/InternetGaming em como definir a tua ligação a rede para hospedar uma partida."
+msgid ""
+"The metaserver was unable to connect to your game. Most likely it is not "
+"connectable from the internet! Please take a look at http://wl.widelands.org/"
+"wiki/InternetGaming for setting up your internet connection for hosting a "
+"game online."
+msgstr ""
+"O servidor não foi capaz de ligar ao teu jogo. O mais provável é que não "
+"está ligado à Internet! Por favor verifica http://wl.widelands.org/wiki/"
+"InternetGaming em como definir a tua ligação a rede para hospedar uma "
+"partida."
 
 #
 # File: ../../src/network/internet_gaming_messages.cc, line: 64
-msgid "You tried to relogin, but the server has no more knowledge of your previous state."
+msgid ""
+"You tried to relogin, but the server has no more knowledge of your previous "
+"state."
 msgstr "Tentaste reentrar, mas o servidor já não te conhece de nenhum lado."
 
 #
@@ -2673,7 +2805,8 @@ msgid ""
 "Either no Widelands server was running at the supposed port or\n"
 "the server shut down as you tried to connect."
 msgstr ""
-"Não foi possível ao Widelands estabelecer uma ligação ao endereço fornecido.\n"
+"Não foi possível ao Widelands estabelecer uma ligação ao endereço fornecido."
+"\n"
 "Ou o servidor do Widelands estava em execução na suposta porta ou\n"
 "o servidor desligou-se assim que tentou ligar."
 
@@ -2684,7 +2817,9 @@ msgstr "ficheiro /me falhou a verificação md5 checksumming."
 
 #
 # File: ../../src/network/netclient.cc, line: 865
-msgid "/me checked the received file. Although md5 check summing succeeded, I can not handle the file."
+msgid ""
+"/me checked the received file. Although md5 check summing succeeded, I can "
+"not handle the file."
 msgstr ""
 
 #
@@ -2699,8 +2834,20 @@ msgstr "O servidor remoto desconectou-se."
 
 #
 # File: ../../src/network/nethost.cc, line: 360
-msgid "<br>Available host commands are:<br>/help  -  Shows this help<br>/announce <msg>  -  Send a chatmessage as announcement (system chat)<br>/warn <name> <reason>  -  Warn the user <name> because of <reason><br>/kick <name> <reason>  -  Kick the user <name> because of <reason><br>/forcePause            -  Force the game to pause.<br>/endForcedPause        -  Puts game back to normal speed."
-msgstr "<br>Os comando de Anfitrião são:<br>/help  -  Mostra esta ajuda<br>/announce <msg>  -  Enviar mensagem como um anúncio (system chat)<br>/warn <nome> <razão>  -  Avisar o utilizador <nome> por causa de <razão><br>/kick <nome> <razão>  -  Expulsar o utilizador <nome> por causa de <razão><br>/forcePause            -  Forçar a  pausa do jogo.<br>/endForcedPause        -  Põe de novo o jogo à velocidade normal."
+msgid ""
+"<br>Available host commands are:<br>/help  -  Shows this help<br>/announce "
+"<msg>  -  Send a chatmessage as announcement (system chat)<br>/warn <name> "
+"<reason>  -  Warn the user <name> because of <reason><br>/kick <name> "
+"<reason>  -  Kick the user <name> because of <reason><br>/forcePause         "
+"   -  Force the game to pause.<br>/endForcedPause        -  Puts game back "
+"to normal speed."
+msgstr ""
+"<br>Os comando de Anfitrião são:<br>/help  -  Mostra esta ajuda<br>/announce "
+"<msg>  -  Enviar mensagem como um anúncio (system chat)<br>/warn <nome> "
+"<razão>  -  Avisar o utilizador <nome> por causa de <razão><br>/kick <nome> "
+"<razão>  -  Expulsar o utilizador <nome> por causa de <razão><br>/forcePause "
+"           -  Forçar a  pausa do jogo.<br>/endForcedPause        -  Põe de "
+"novo o jogo à velocidade normal."
 
 #
 # File: ../../src/network/nethost.cc, line: 374
@@ -2795,17 +2942,26 @@ msgstr "Comando inválido ! Escreve /help para ver a lista de comandos."
 #
 # File: ../../src/network/nethost.cc, line: 700
 #, c-format
-msgid "This is a dedicated server send \"@%s help\" to get a full list of available commands."
-msgstr "Este é um servidor local, encia \"@%s help\" para teres uma lista completa dos comandos existentes."
+msgid ""
+"This is a dedicated server send \"@%s help\" to get a full list of available "
+"commands."
+msgstr ""
+"Este é um servidor local, encia “@%s help” para teres uma lista completa dos "
+"comandos existentes."
 
 #
 # File: ../../src/network/nethost.cc, line: 1166
-msgid "<br>Available host commands are:<br>help   - Shows this help<br>host $ - Tries to run the host command $<br>save $ - Saves the current game state as $.wgf"
+msgid ""
+"<br>Available host commands are:<br>help   - Shows this help<br>host $ - "
+"Tries to run the host command $<br>save $ - Saves the current game state as "
+"$.wgf"
 msgstr ""
 
 #
 # File: ../../src/network/nethost.cc, line: 1173
-msgid "<br>Available host commands are:<br>help           - Shows this help<br>host         $ - Tries to run the host command $"
+msgid ""
+"<br>Available host commands are:<br>help           - Shows this help<br>host "
+"        $ - Tries to run the host command $"
 msgstr ""
 
 #
@@ -2815,14 +2971,16 @@ msgstr ""
 
 #
 # File: ../../src/network/nethost.cc, line: 1185
-msgid "Access to host commands denied. To gain access, send the password with pwd command."
+msgid ""
+"Access to host commands denied. To gain access, send the password with pwd "
+"command."
 msgstr ""
 
 #
 # File: ../../src/network/nethost.cc, line: 1190
 #, c-format
 msgid "%s told me to run the command: \"%s\""
-msgstr "%s ordenou-me para executar o comando: \"%s\""
+msgstr "%s ordenou-me para executar o comando: “%s”"
 
 #
 # File: ../../src/network/nethost.cc, line: 1199
@@ -2843,7 +3001,7 @@ msgstr "Partida guardada com sucesso!"
 # File: ../../src/network/nethost.cc, line: 1215
 #, c-format
 msgid "Could not save the game to the file \"%s\"! (%s)"
-msgstr "Não foi possível guardar a partida para o directório \"%s\"! (%s)"
+msgstr "Não foi possível guardar a partida para o directório “%s”! (%s)"
 
 #
 # File: ../../src/network/nethost.cc, line: 1221
@@ -2859,7 +3017,7 @@ msgstr "A senha foi correcta, cesso permitido"
 # File: ../../src/network/nethost.cc, line: 1243
 #, c-format
 msgid "Unknown dedicated server command \"%s\"!"
-msgstr "Comando desconhecido \"%s\" do servidor dedicado !"
+msgstr "Comando desconhecido “%s” do servidor dedicado !"
 
 #
 # File: ../../src/network/nethost.cc, line: 1927
@@ -2870,8 +3028,11 @@ msgstr "Computador%u"
 #
 # File: ../../src/network/nethost.cc, line: 2091
 #, c-format
-msgid "This server is password protected. You can send the password with: \"@%s pwd PASSWORD\""
-msgstr "Este servidor é protegido por uma senha. Podes enviar-a com: \"@%s pwd SENHA\""
+msgid ""
+"This server is password protected. You can send the password with: \"@%s pwd "
+"PASSWORD\""
+msgstr ""
+"Este servidor é protegido por uma senha. Podes enviar-a com: “@%s pwd SENHA”"
 
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 123
@@ -2951,7 +3112,8 @@ msgstr "O Servidor enviou um SYNCREQUEST apesar do jogo não estar a correr."
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 137
 msgid "Received a PLAYERCOMMAND even though no game is running."
-msgstr "O Servidor enviou um comando de jogar apesar nenhum jogo estar a correr."
+msgstr ""
+"O Servidor enviou um comando de jogar apesar nenhum jogo estar a correr."
 
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 138
@@ -2966,7 +3128,8 @@ msgstr "O Servidor enviou uma actualização de jogador para um que não existe.
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 140
 msgid "Server sent an user update for a user that does not exist."
-msgstr "O Servidor enviou uma actualização de utilizador para um que não existe."
+msgstr ""
+"O Servidor enviou uma actualização de utilizador para um que não existe."
 
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 141
@@ -3012,7 +3175,8 @@ msgstr "O cliente não tem acesso as definições do servidor."
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 149
 msgid "Client sent start command, although server is not yet ready."
-msgstr "O Cliente enviou o comando de inicio apesar do jogo ainda não estar pronto."
+msgstr ""
+"O Cliente enviou o comando de inicio apesar do jogo ainda não estar pronto."
 
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 150
@@ -3032,7 +3196,8 @@ msgstr "O Cliente enviou um relatorio de sincronização inesperado."
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 153
 msgid "Client requests file although none is available to send."
-msgstr "O Cliente solicitou um ficheiro apesar de não haver nenhum para ser enviado."
+msgstr ""
+"O Cliente solicitou um ficheiro apesar de não haver nenhum para ser enviado."
 
 #
 # File: ../../src/network/network_gaming_messages.cc, line: 154
@@ -3343,7 +3508,8 @@ msgid ""
 "of the server.\n"
 msgstr ""
 "Widelands não conseguiu obter o IP do servidor em tempo útil.\n"
-"Parece haver um problema de rede do teu lado ou no do servidor."
+"Parece haver um problema de rede do teu lado ou\n"
+"no do servidor.\n"
 
 #
 # File: ../../src/ui_fsmenu/internet_lobby.cc, line: 408
@@ -3477,8 +3643,10 @@ msgstr "A partida guardada é um directório"
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 395
 msgid ""
 "WARNING:\n"
-"The saved game you selected is a directory. This happens, if you set the option \"nozip\" to true or did manually unzip the saved game.\n"
-"Widelands is not able to transfer directory structures to the clients, please select another saved game or zip the directories content."
+"The saved game you selected is a directory. This happens, if you set the "
+"option \"nozip\" to true or did manually unzip the saved game.\n"
+"Widelands is not able to transfer directory structures to the clients, "
+"please select another saved game or zip the directories content."
 msgstr ""
 
 #
@@ -3491,18 +3659,28 @@ msgstr "Ficheiro não encontrado"
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 425
 #, c-format
 msgid ""
-"Widelands tried to start a game with a file that could not be found at given path.\n"
+"Widelands tried to start a game with a file that could not be found at given "
+"path.\n"
 "The file was: %s\n"
-"If this happens, the host might have selected a file that you do not own. Normally such a file should be send from the host to you, but perhaps the transfer was not yet finished!?!"
+"If this happens, the host might have selected a file that you do not own. "
+"Normally such a file should be send from the host to you, but perhaps the "
+"transfer was not yet finished!?!"
 msgstr ""
-"Widelands tentou iniciar um jogo com um ficheiro que não pôde ser encontrado no directório indicado.\n"
+"Widelands tentou iniciar um jogo com um ficheiro que não pôde ser encontrado "
+"no directório indicado.\n"
 "O Ficheiro fora: %s\n"
-"Se isto acontecer provavelmente o Anfitrião seleccionou um jogo que ainda não tens. Normalmente tal ficheiro irá enviado pelo Anfitrião, mas talvez a transferência ainda não terminou !?!"
+"Se isto acontecer provavelmente o Anfitrião seleccionou um jogo que ainda "
+"não tens. Normalmente tal ficheiro irá enviado pelo Anfitrião, mas talvez a "
+"transferência ainda não terminou !?!"
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 449
-msgid "The selected file can not be found. If it is not automatically transferred to you, please write the host about this problem."
-msgstr "O ficheiro não pode ser encontrado. Se não te fora enviado automaticamente, por favor contacta o Anfitrião e conta-lhe do teu problema."
+msgid ""
+"The selected file can not be found. If it is not automatically transferred "
+"to you, please write the host about this problem."
+msgstr ""
+"O ficheiro não pode ser encontrado. Se não te fora enviado automaticamente, "
+"por favor contacta o Anfitrião e conta-lhe do teu problema."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 481
@@ -3532,7 +3710,7 @@ msgstr ""
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 485
 msgid "Click on the \"?\" in the right top corner to get help."
-msgstr "Clica no \"?\" no canto superior direito para obteres ajuda."
+msgstr "Clica no “?” no canto superior direito para obteres ajuda."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 546
@@ -3594,18 +3772,33 @@ msgstr "Definições do Cliente"
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 667
-msgid "On the left side is a list of all clients including you. With the button in the rear of your nickname, you can set your role. Available roles are:"
-msgstr "Na parte esquerda ica uma lista de todos os utilizadores, incluindo tu. Com o botão junto ao teu nome, podes definir o teu estatuto. Existem os seguintes estatutos:"
+msgid ""
+"On the left side is a list of all clients including you. With the button in "
+"the rear of your nickname, you can set your role. Available roles are:"
+msgstr ""
+"Na parte esquerda ica uma lista de todos os utilizadores, incluindo tu. Com "
+"o botão junto ao teu nome, podes definir o teu estatuto. Existem os "
+"seguintes estatutos:"
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 671
-msgid "The player with the color of the flag. If more than one client selected the same color, these share the control over the player (\"shared kingdom mode\")."
-msgstr "O jogador com a cor da bandeira. Se mais que um cliente seleccionado controlar a mesma cor, todos eles partilham o controlo sobre o jogador (\"Modo Reino Partilhado\")."
+msgid ""
+"The player with the color of the flag. If more than one client selected the "
+"same color, these share the control over the player (\"shared kingdom "
+"mode\")."
+msgstr ""
+"O jogador com a cor da bandeira. Se mais que um cliente seleccionado "
+"controlar a mesma cor, todos eles partilham o controlo sobre o jogador "
+"(“Modo Reino Partilhado”)."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 675
-msgid "And spectator mode, meaning you can see everything, but can not control any player"
-msgstr "E o modo espectador, que significa que poderás ver tudo, mas não controlarás nenhum jogador."
+msgid ""
+"And spectator mode, meaning you can see everything, but can not control any "
+"player"
+msgstr ""
+"E o modo espectador, que significa que poderás ver tudo, mas não controlarás "
+"nenhum jogador."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 677
@@ -3614,18 +3807,27 @@ msgstr "Definições de Jogador"
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 680
-msgid "In the middle are the settings for the players. To start a game, each player must be one of the following:"
-msgstr "Ao meio ficam as definições dos jogadores. Para começar uma partida, cada jogador têm de ser um dos seguintes:"
+msgid ""
+"In the middle are the settings for the players. To start a game, each player "
+"must be one of the following:"
+msgstr ""
+"Ao meio ficam as definições dos jogadores. Para começar uma partida, cada "
+"jogador têm de ser um dos seguintes:"
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 683
 msgid "Connected to one or more clients (see \"Client settings\")."
-msgstr "Ligado a um ou mais clientes (veja \"Definições de utilizador\")."
+msgstr "Ligado a um ou mais clientes (veja “Definições de utilizador”)."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 686
-msgid "Connected to a computer player (the face in the picture as well as the mouse hover texts indicates the strength of the currently selected computer player)."
-msgstr "Ligado a um jogador controlado pelo computador (a cara na imagem assim como o texto sobreposto quando passares o rato nele indicam a qualidade dele)."
+msgid ""
+"Connected to a computer player (the face in the picture as well as the mouse "
+"hover texts indicates the strength of the currently selected computer "
+"player)."
+msgstr ""
+"Ligado a um jogador controlado pelo computador (a cara na imagem assim como "
+"o texto sobreposto quando passares o rato nele indicam a qualidade dele)."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 689
@@ -3639,12 +3841,18 @@ msgstr "Fechado."
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 693
-msgid "The later three are only settable by the hosting client by left clicking the \"type\" button of a player. Hosting players can further set the initializations of each player (the set of buildings, wares and workers the player starts with) and the tribe an team for computer players"
+msgid ""
+"The later three are only settable by the hosting client by left clicking the "
+"\"type\" button of a player. Hosting players can further set the "
+"initializations of each player (the set of buildings, wares and workers the "
+"player starts with) and the tribe an team for computer players"
 msgstr ""
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 698
-msgid "Every client connected to a player (the set \"role\" player) can set the tribe and the team for that player"
+msgid ""
+"Every client connected to a player (the set \"role\" player) can set the "
+"tribe and the team for that player"
 msgstr ""
 
 #
@@ -3654,8 +3862,16 @@ msgstr "Informações do Mapa"
 
 #
 # File: ../../src/ui_fsmenu/launchMPG.cc, line: 703
-msgid "On the right side are informations about the selected map or savegame. A button right to the map name allows the host to change to a different one. Further the host is able to set a specific win condition and finally can start the game as soon as all players are set up."
-msgstr "No lado direito estão as informações sobre o mapa seleccionado ou o jogo guardado. O botão à direita do mapa permite ao Anfitrião mudar para outro mapa. O Anfitrião pode ainda definir uma condição de vitória e finalmente pode começar um jogo assim que todos os jogadores estejam prontos."
+msgid ""
+"On the right side are informations about the selected map or savegame. A "
+"button right to the map name allows the host to change to a different one. "
+"Further the host is able to set a specific win condition and finally can "
+"start the game as soon as all players are set up."
+msgstr ""
+"No lado direito estão as informações sobre o mapa seleccionado ou o jogo "
+"guardado. O botão à direita do mapa permite ao Anfitrião mudar para outro "
+"mapa. O Anfitrião pode ainda definir uma condição de vitória e finalmente "
+"pode começar um jogo assim que todos os jogadores estejam prontos."
 
 #
 # File: ../../src/ui_fsmenu/launchSPG.cc, line: 55
@@ -3702,13 +3918,19 @@ msgstr "Muda para a posição"
 # File: ../../src/ui_fsmenu/launchSPG.cc, line: 261
 #, c-format
 msgid ""
-"Widelands tried to start a game with a file that could not be found at given path.\n"
+"Widelands tried to start a game with a file that could not be found at given "
+"path.\n"
 "The file was: %s\n"
-"If this happens in a network game, the host might have selected a file that you do not own. Normally such a file should be send from the host to you, but perhaps the transfer was not yet finished!?!"
+"If this happens in a network game, the host might have selected a file that "
+"you do not own. Normally such a file should be send from the host to you, "
+"but perhaps the transfer was not yet finished!?!"
 msgstr ""
-"Widelands tentou iniciar o jogo com um ficheiro que não está no caminho indicado.\n"
+"Widelands tentou iniciar o jogo com um ficheiro que não está no caminho "
+"indicado.\n"
 "O ficheiro era: %s\n"
-"Se isto acontecer num jogo de rede, o anfitrião terá escolhido um ficheiro que não tens. Em geral, cabe ao anfitrião enviar-te o ficheiro do mapa. Talvez a transferência ainda não esteja concluída!?!"
+"Se isto acontecer num jogo de rede, o anfitrião terá escolhido um ficheiro "
+"que não tens. Em geral, cabe ao anfitrião enviar-te o ficheiro do mapa. "
+"Talvez a transferência ainda não esteja concluída!?!"
 
 #
 # File: ../../src/ui_fsmenu/loadgame.cc, line: 63
@@ -3891,7 +4113,9 @@ msgstr "desconhecido"
 
 #
 # File: ../../src/ui_fsmenu/mapselect.cc, line: 504
-msgid "This map file is not present on your filesystem. Data shown here was sent by the server."
+msgid ""
+"This map file is not present on your filesystem. Data shown here was sent by "
+"the server."
 msgstr "Não possuis este ficheiro tu próprio, fora-te enviado pelo servidor."
 
 #
@@ -4126,7 +4350,9 @@ msgstr "Emitir um som quando chegar uma mensagem."
 #
 # File: ../../src/ui_fsmenu/options.cc, line: 446
 msgid "Do not zip widelands data files (maps, replays and savegames)."
-msgstr "Não zipar os ficheiros de dados do Widelands (mapas, repetições, e salvaguardas)."
+msgstr ""
+"Não zipar os ficheiros de dados do Widelands (mapas, repetições, e "
+"salvaguardas)."
 
 #
 # File: ../../src/ui_fsmenu/options.cc, line: 451
@@ -5426,8 +5652,12 @@ msgstr "Definir origem"
 
 #
 # File: ../../src/editor/ui_menus/editor_main_menu_map_options.cc, line: 103
-msgid "Set the position that will have the coordinates (0, 0). This will be the top-left corner of a generated minimap."
-msgstr "Define a posição que terá as coordenadas (0, 0). Este ponto será o canto superior esquerdo do mini-mapa gerado."
+msgid ""
+"Set the position that will have the coordinates (0, 0). This will be the top-"
+"left corner of a generated minimap."
+msgstr ""
+"Define a posição que terá as coordenadas (0, 0). Este ponto será o canto "
+"superior esquerdo do mini-mapa gerado."
 
 #
 # File: ../../src/editor/ui_menus/editor_main_menu_new_map.cc, line: 65
@@ -5609,8 +5839,13 @@ msgstr "Erro!"
 
 #
 # File: ../../src/editor/ui_menus/editor_player_menu.cc, line: 325
-msgid "Can not remove player. It is referenced in some place. Remove all buildings and bobs that depend on this player and try again."
-msgstr "Não é possível remover o jogador. Existe algures uma referencia a ele. Remove todos os Edifícios e Naturezas que dependem deste jogador e começa de novo."
+msgid ""
+"Can not remove player. It is referenced in some place. Remove all buildings "
+"and bobs that depend on this player and try again."
+msgstr ""
+"Não é possível remover o jogador. Existe algures uma referencia a ele. "
+"Remove todos os Edifícios e Naturezas que dependem deste jogador e começa de "
+"novo."
 
 #
 # File: ../../src/editor/ui_menus/editor_player_menu_allowed_buildings_menu.cc, line: 56
@@ -5783,4 +6018,3 @@ msgstr "nenhuma descrição definida"
 # File: ../../src/logic/objective.h, line: 42
 msgid "no descr"
 msgstr "sem descr."
-

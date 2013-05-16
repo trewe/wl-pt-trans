@@ -3,30 +3,35 @@ msgstr ""
 "Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2012-03-26 08:30+0000\n"
-"PO-Revision-Date: 2012-12-17 14:43+0100\n"
-"Last-Translator: trewe <sjr456@yahoo.fr>\n"
+"PO-Revision-Date: 2013-05-16 11:36+0100\n"
+"Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-03-20 04:35+0000\n"
-"X-Generator: Launchpad (build 12559)\n"
+"X-Generator: Poedit 1.5.4\n"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 12
 # File: ../../tribes/barbarians/warmill/help.lua, line: 12
-msgid "\"A new Warriors Axe brings forth the best in its wielder – or the worst in its maker.\""
+msgid ""
+"\"A new Warriors Axe brings forth the best in its wielder – or the worst in "
+"its maker.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 12
-msgid "\"As silent as a panther,<br> as deft as a weasel,<br> as swift as an arrow,<br> as deadly as a viper.\""
+msgid ""
+"\"As silent as a panther,<br> as deft as a weasel,<br> as swift as an arrow,"
+"<br> as deadly as a viper.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 17
-msgid "\"Evade\" increases the soldier's chance not to be hit by the enemy and so to remain totally unaffected."
+msgid ""
+"\"Evade\" increases the soldier's chance not to be hit by the enemy and so "
+"to remain totally unaffected."
 msgstr ""
 
 #
@@ -36,56 +41,75 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 12
-msgid "\"He loves the animals and to breed them<br>as we love to cook and eat them.\""
+msgid ""
+"\"He loves the animals and to breed them<br>as we love to cook and eat them."
+"\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 13
-msgid "\"He who can grow two trees where normally grows only one exceeds the most important general!\""
+msgid ""
+"\"He who can grow two trees where normally grows only one exceeds the most "
+"important general!\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 12
-msgid "\"He who is strong shall not forgive nor forget, but revenge injustice suffered - in the past and for all future.\""
+msgid ""
+"\"He who is strong shall not forgive nor forget, but revenge injustice "
+"suffered - in the past and for all future.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 12
-msgid "\"I can handle tons of granite, man, but no more of your vain prattle.\""
+msgid ""
+"\"I can handle tons of granite, man, but no more of your vain prattle.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 12
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 12
 # File: ../../tribes/barbarians/oremine/help.lua, line: 12
-msgid "\"I look at my own pick wearing away day by day and I realize why my work is important.\""
+msgid ""
+"\"I look at my own pick wearing away day by day and I realize why my work is "
+"important.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 12
-msgid "\"Let the first one drive away the hunger, the second one put you at ease; when you have swallowed up your third one, it's time for the next shift!\""
+msgid ""
+"\"Let the first one drive away the hunger, the second one put you at ease; "
+"when you have swallowed up your third one, it's time for the next shift!\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 12
-msgid "\"No better friend you have in battle than the enemy's blow that misses.\""
+msgid ""
+"\"No better friend you have in battle than the enemy's blow that misses.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/well/help.lua, line: 12
-msgid "\"Oh how sweet is the source of life,<br> that comes down from the sky <br> and lets the earth drink.\""
+msgid ""
+"\"Oh how sweet is the source of life,<br> that comes down from the sky <br> "
+"and lets the earth drink.\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 12
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 12
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 12
-msgid "\"Soft and supple.<br> And yet untouched by time and weather.<br> Rays of sun, wrought into eternity ...\""
+msgid ""
+"\"Soft and supple.<br> And yet untouched by time and weather.<br> Rays of "
+"sun, wrought into eternity ...\""
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 12
-msgid "\"Take 200 hits to fell a tree and you're a baby. Take 100 and you're a soldier. Take 50 and you're a hero. Take 20 and soon you will be a honorable lumberjack.\""
+msgid ""
+"\"Take 200 hits to fell a tree and you're a baby. Take 100 and you're a "
+"soldier. Take 50 and you're a hero. Take 20 and soon you will be a honorable "
+"lumberjack.\""
 msgstr ""
 
 #
@@ -162,27 +186,21 @@ msgstr ""
 msgid "%s from an Inn"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 26
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 26
-#, fuzzy
 msgid "%s from the Coal mine or the Charcoal Burner's House"
-msgstr "Carvoeiro"
+msgstr "%s da mina de carvão e do carvoeiro."
 
-#
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 26
-#, fuzzy
 msgid "%s from the Lumberjack's hut"
-msgstr "Cabana do lenhador"
+msgstr "%s dos trabalhos florestais"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 24
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 25
 # File: ../../tribes/barbarians/warmill/help.lua, line: 24
 # File: ../../tribes/barbarians/warmill/help.lua, line: 25
-#, fuzzy
 msgid "%s from the Smelting Works"
-msgstr "Fundição"
+msgstr "%s dos trabalhos da fundição"
 
 #
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 14
@@ -245,20 +263,26 @@ msgstr ""
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 16
-msgid "A %s exploits all of the resource down to the deepest level.<br>But even after having done so, it will still have a %s chance of finding some more %s."
+msgid ""
+"A %s exploits all of the resource down to the deepest level.<br>But even "
+"after having done so, it will still have a %s chance of finding some more %s."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 16
-msgid "A %s exploits only %s of the resource. <br> From there on, it will only have a 5%% chance of finding %s."
+msgid ""
+"A %s exploits only %s of the resource. <br> From there on, it will only have "
+"a 5%% chance of finding %s."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
-msgid "A %s exploits only %s of the resource.<br>From there on, it will only have a 5%% chance of finding %s."
+msgid ""
+"A %s exploits only %s of the resource.<br>From there on, it will only have a "
+"5%% chance of finding %s."
 msgstr ""
 
 #
@@ -268,17 +292,24 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/snack/conf, line: 1
-msgid "A bigger morsel than the ration to provide miners in deep mines. It is produced in an inn or a big inn out of fish/meat, pitta bread and beer."
+msgid ""
+"A bigger morsel than the ration to provide miners in deep mines. It is "
+"produced in an inn or a big inn out of fish/meat, pitta bread and beer."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/helm/conf, line: 1
-msgid "A helmet is basic tool to protect warriors. It is produced in the helmsmithy and used in the trainingscamp - together with food -  to train soldiers from healthpoints level 0 to healphpoints level 1."
+msgid ""
+"A helmet is basic tool to protect warriors. It is produced in the helmsmithy "
+"and used in the trainingscamp - together with food -  to train soldiers from "
+"healthpoints level 0 to healphpoints level 1."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/meal/conf, line: 1
-msgid "A meal is made out of pitta bread, strongbeer and fish/meat in a big inn. This substantial food is exactly what workers in a deeper mine need."
+msgid ""
+"A meal is made out of pitta bread, strongbeer and fish/meat in a big inn. "
+"This substantial food is exactly what workers in a deeper mine need."
 msgstr ""
 
 #
@@ -288,12 +319,18 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/ration/conf, line: 1
-msgid "A small bite to keep miners strong and working. Also the scout consumes rations on his scouting trips. Rations are produced in a tavern, an inn or a big inn out of fish or meat or pitta bread."
+msgid ""
+"A small bite to keep miners strong and working. Also the scout consumes "
+"rations on his scouting trips. Rations are produced in a tavern, an inn or a "
+"big inn out of fish or meat or pitta bread."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/warhelmet/conf, line: 1
-msgid "A warhelmet is an enhanced armour for barbarian warriors. It is produced in a helmsmithy and used in a trainingscamp - together with food - to train soldiers from healthpoints level 1 to level 2."
+msgid ""
+"A warhelmet is an enhanced armour for barbarian warriors. It is produced in "
+"a helmsmithy and used in a trainingscamp - together with food - to train "
+"soldiers from healthpoints level 1 to level 2."
 msgstr ""
 
 #
@@ -301,29 +338,39 @@ msgstr ""
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 12
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 12
 msgid ""
-"Ages ago, the Barbarians learned to delve into mountainsides for that black material that feeds their furnaces. <br>\n"
-"\t\t\tWood may serve for a household fire and to keep you warm, but when it comes to working with iron or gold, there is no way around coal."
+"Ages ago, the Barbarians learned to delve into mountainsides for that black "
+"material that feeds their furnaces. <br>\n"
+"\t\t\tWood may serve for a household fire and to keep you warm, but when it "
+"comes to working with iron or gold, there is no way around coal."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 64
-msgid "All three weapons take the same time for making, but the required raw materials vary."
+msgid ""
+"All three weapons take the same time for making, but the required raw "
+"materials vary."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/warmill/help.lua, line: 66
-msgid "All weapons require the same time for making, but the consumption of the same raw materials increases from step to step. The last two need gold."
+msgid ""
+"All weapons require the same time for making, but the consumption of the "
+"same raw materials increases from step to step. The last two need gold."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/oremine/help.lua, line: 16
-msgid "An %s exploits only %s of the resource. <br> From there on, it will only have a 5%% chance of finding %s."
+msgid ""
+"An %s exploits only %s of the resource. <br> From there on, it will only "
+"have a 5%% chance of finding %s."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 13
 # File: ../../tribes/barbarians/warmill/help.lua, line: 13
-msgid "An old Barbarian proverb<br> meaning that you need to take some risks sometimes."
+msgid ""
+"An old Barbarian proverb<br> meaning that you need to take some risks "
+"sometimes."
 msgstr ""
 
 #
@@ -331,15 +378,13 @@ msgstr ""
 msgid "Ashes"
 msgstr "Cinzas"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 msgid "Attack"
-msgstr ""
+msgstr "Ataque"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 25
 msgid "Attack Training:"
-msgstr ""
+msgstr "Treino de ataque:"
 
 #
 # File: ../../tribes/barbarians/conf, line: 73
@@ -381,12 +426,10 @@ msgstr "Padaria"
 msgid "Bakes bread for workers."
 msgstr "Coze o pão para os trabalhadores."
 
-#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 51
 msgid "Baking Tray"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 13
 #, fuzzy
 msgid "Barbarian nursery rhyme"
@@ -431,12 +474,17 @@ msgstr "Cerveja"
 
 #
 # File: ../../tribes/barbarians/beer/conf, line: 1
-msgid "Beer is produced in micro breweries used in inns and big inns to produce snacks."
+msgid ""
+"Beer is produced in micro breweries used in inns and big inns to produce "
+"snacks."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/fish/conf, line: 1
-msgid "Besides pitta bread and meat, fish is also a foodstuff for the barbarians. It is used in the taverns, inns and big inns and in the trainingsites (trainingscamp and battle arena)."
+msgid ""
+"Besides pitta bread and meat, fish is also a foodstuff for the barbarians. "
+"It is used in the taverns, inns and big inns and in the trainingsites "
+"(trainingscamp and battle arena)."
 msgstr ""
 
 #
@@ -491,20 +539,15 @@ msgstr "Ferreiro"
 msgid "Blackwood"
 msgstr "Madeira queimada"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 33
-#, fuzzy
 msgid "Both Trainings:"
-msgstr "Campo de treino"
+msgstr "Ambos os treinos:"
 
-#
 # File: ../../tribes/barbarians/conf, line: 74
 msgid "Bread Paddle"
-msgstr ""
+msgstr "Asse pão"
 
-#
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 16
-#, fuzzy
 msgid "Breed Oxen for adding them to the transportation system."
 msgstr "Cria os bois de carga que ajudam no transporte das mercadorias."
 
@@ -538,7 +581,6 @@ msgstr "Machado largo"
 msgid "Bronze Axe"
 msgstr "Machado de bronze"
 
-#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 36
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 34
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 31
@@ -560,7 +602,7 @@ msgstr "Machado de bronze"
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 40
 # File: ../../tribes/barbarians/well/help.lua, line: 34
 msgid "Build Cost:"
-msgstr ""
+msgstr "Custo de produção:"
 
 #
 # File: ../../tribes/barbarians/conf, line: 127
@@ -568,7 +610,6 @@ msgstr ""
 msgid "Builder"
 msgstr "Construtor"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 31
 # File: ../../tribes/barbarians/bakery/help.lua, line: 33
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 31
@@ -597,9 +638,8 @@ msgstr "Construtor"
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 37
 # File: ../../tribes/barbarians/warmill/help.lua, line: 33
 # File: ../../tribes/barbarians/well/help.lua, line: 31
-#, fuzzy
 msgid "Building"
-msgstr "Construtor"
+msgstr "Construindo"
 
 #
 # File: ../../tribes/barbarians/conf, line: 128
@@ -611,13 +651,10 @@ msgstr "Queimador"
 msgid "Burns coal."
 msgstr "Queima carvão"
 
-#
 # File: ../../tribes/barbarians/lime-burner/conf, line: 1
-#, fuzzy
 msgid "Burns lime in the lime kiln."
 msgstr "Queima cal no forno da cal."
 
-#
 # File: ../../tribes/barbarians/farm/help.lua, line: 50
 msgid "Calculation needed"
 msgstr ""
@@ -713,7 +750,8 @@ msgstr "Tecido"
 #
 # File: ../../tribes/barbarians/cloth/conf, line: 2
 msgid "Cloth is needed for barbarian ships. It is produced out of thatch reed."
-msgstr "O tecido é necessário ao barcos do Bárbaros. É produzido com fibras de colmo."
+msgstr ""
+"O tecido é necessário ao barcos do Bárbaros. É produzido com fibras de colmo."
 
 #
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 26
@@ -746,7 +784,6 @@ msgstr ""
 msgid "Coal mine"
 msgstr "Mina de carvão"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 19
 # File: ../../tribes/barbarians/bakery/help.lua, line: 18
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 20
@@ -778,11 +815,9 @@ msgstr "Mina de carvão"
 msgid "Conquer range:"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/shipyard/conf, line: 21
-#, fuzzy
 msgid "Constructing ship"
-msgstr "Construção"
+msgstr "Construindo o Navio"
 
 #
 # File: ../../tribes/barbarians/conf, line: 155
@@ -794,7 +829,6 @@ msgstr "Construção"
 msgid "Construction Site"
 msgstr "Construção"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 40
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 42
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 38
@@ -806,7 +840,6 @@ msgstr "Construção"
 msgid "Cost cumulative:"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 55
 # File: ../../tribes/barbarians/bakery/help.lua, line: 49
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 49
@@ -898,7 +931,6 @@ msgstr "Veado"
 msgid "Defend and Conquer!"
 msgstr "Defende e Conquista!"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 22
 # File: ../../tribes/barbarians/bakery/help.lua, line: 21
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 23
@@ -928,7 +960,7 @@ msgstr "Defende e Conquista!"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 22
 # File: ../../tribes/barbarians/well/help.lua, line: 21
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependências"
 
 #
 # File: ../../tribes/barbarians/conf, line: 42
@@ -953,12 +985,10 @@ msgstr ""
 msgid "Discovers resources for mining."
 msgstr "Descobre recursos para minerar."
 
-#
 # File: ../../tribes/barbarians/conf, line: 158
 msgid "Dismantle Site"
-msgstr ""
+msgstr "Desmontar local"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 46
 # File: ../../tribes/barbarians/bakery/help.lua, line: 41
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 40
@@ -1000,24 +1030,22 @@ msgstr "Torre de Menagem"
 msgid "Draw Water out of the deep."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 55
 msgid "Evade"
-msgstr ""
+msgstr "Evasão"
 
-#
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 26
 msgid "Evade Training:"
-msgstr ""
+msgstr "Treino de Evasão:"
 
 #
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 13
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 13
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 13
-msgid "Excerpt from \"Our Treasures Underground\",<br> a traditional Barbarian song."
+msgid ""
+"Excerpt from \"Our Treasures Underground\",<br> a traditional Barbarian song."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 58
 # File: ../../tribes/barbarians/bakery/help.lua, line: 52
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 52
@@ -1047,7 +1075,7 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 61
 # File: ../../tribes/barbarians/well/help.lua, line: 44
 msgid "Experience levels:"
-msgstr ""
+msgstr "Níveis experimentais:"
 
 #
 # File: ../../tribes/barbarians/conf, line: 207
@@ -1121,7 +1149,10 @@ msgstr "Pinças de fogo"
 
 #
 # File: ../../tribes/barbarians/fire_tongs/conf, line: 1
-msgid "Fire tongs are tools of the smelter, who works in the smelting works. Produced in the metal works (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"Fire tongs are tools of the smelter, who works in the smelting works. "
+"Produced in the metal works (but ceases to be produced by the building if it "
+"is enhanced to an axefactory and war mill)."
 msgstr ""
 
 #
@@ -1158,7 +1189,10 @@ msgstr "Cana de pesca"
 
 #
 # File: ../../tribes/barbarians/fishing_rod/conf, line: 1
-msgid "Fishing rods are needed by barbarian fishers for fishing. It is one of the basic tools produced in a metalwork shop (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"Fishing rods are needed by barbarian fishers for fishing. It is one of the "
+"basic tools produced in a metalwork shop (but ceases to be produced by the "
+"building if it is enhanced to an axefactory and war mill)."
 msgstr ""
 
 #
@@ -1179,7 +1213,6 @@ msgstr "Couteiro"
 msgid "Gamekeeper's Hut"
 msgstr "Coutada"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 15
 # File: ../../tribes/barbarians/bakery/help.lua, line: 15
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 15
@@ -1209,7 +1242,7 @@ msgstr "Coutada"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 15
 # File: ../../tribes/barbarians/well/help.lua, line: 15
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #
 # File: ../../tribes/barbarians/conf, line: 135
@@ -1261,12 +1294,19 @@ msgstr "Minério de Ouro"
 
 #
 # File: ../../tribes/barbarians/gold/conf, line: 1
-msgid "Gold is the most valuable of all metals; only very important things are garnished with it. It is obtained out of gold ore in a smelting works. It is used as a precious building material and to produce different axes (in the war mill) and different armours (in the helmsmithy)."
+msgid ""
+"Gold is the most valuable of all metals; only very important things are "
+"garnished with it. It is obtained out of gold ore in a smelting works. It is "
+"used as a precious building material and to produce different axes (in the "
+"war mill) and different armours (in the helmsmithy)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/goldstone/conf, line: 5
-msgid "Gold ore is mined in a goldmine. Smelted in a smelting works it becomes gold, which is used as a precious building material and to produce weapons and armours."
+msgid ""
+"Gold ore is mined in a goldmine. Smelted in a smelting works it becomes "
+"gold, which is used as a precious building material and to produce weapons "
+"and armours."
 msgstr ""
 
 #
@@ -1369,19 +1409,20 @@ msgstr ""
 msgid "High Tower"
 msgstr "Torre elevada"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 msgid "Hitpoints"
-msgstr ""
+msgstr "Pontos de vida"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 30
 msgid "Hitpoints Training:"
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/kitchen_tools/conf, line: 1
-msgid "How can one create a meal, snack or ration, if there are no kitchen tools? Be sure to have a metalworks to produce this basic tool (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"How can one create a meal, snack or ration, if there are no kitchen tools? "
+"Be sure to have a metalworks to produce this basic tool (but ceases to be "
+"produced by the building if it is enhanced to an axefactory and war mill)."
 msgstr ""
 
 #
@@ -1410,18 +1451,24 @@ msgstr "Lança de caça"
 
 #
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 55
-msgid "If all needed wares are delivered in time, a %s can train %s for one soldier from 0 to the highest level in %s on average."
+msgid ""
+"If all needed wares are delivered in time, a %s can train %s for one soldier "
+"from 0 to the highest level in %s on average."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
-msgid "If all needed wares are delivered in time, a %s can train one new soldier in %s and %s to the final level in %s on average."
+msgid ""
+"If all needed wares are delivered in time, a %s can train one new soldier in "
+"%s and %s to the final level in %s on average."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/bakery/help.lua, line: 55
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 48
-msgid "If all needed wares are delivered in time, this building can produce %s in %s on average."
+msgid ""
+"If all needed wares are delivered in time, this building can produce %s in "
+"%s on average."
 msgstr ""
 
 #
@@ -1430,7 +1477,9 @@ msgstr ""
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 70
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 53
 # File: ../../tribes/barbarians/warmill/help.lua, line: 65
-msgid "If all needed wares are delivered in time, this building can produce %s in about %s on average."
+msgid ""
+"If all needed wares are delivered in time, this building can produce %s in "
+"about %s on average."
 msgstr ""
 
 #
@@ -1444,10 +1493,10 @@ msgstr ""
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 52
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 52
 # File: ../../tribes/barbarians/oremine/help.lua, line: 52
-msgid "If the food supply is steady, this mine can produce %s in %s on average."
+msgid ""
+"If the food supply is steady, this mine can produce %s in %s on average."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 23
 # File: ../../tribes/barbarians/bakery/help.lua, line: 22
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 22
@@ -1475,7 +1524,7 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 23
 # File: ../../tribes/barbarians/well/help.lua, line: 22
 msgid "Incoming:"
-msgstr ""
+msgstr "Rendimento:"
 
 #
 # File: ../../tribes/barbarians/bakery/help.lua, line: 28
@@ -1494,7 +1543,9 @@ msgstr "Estalajadeiro"
 
 #
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 13
-msgid "Inscription on the threshold of the now ruined Olde Forge at Harradsheim, the eldest known smithy."
+msgid ""
+"Inscription on the threshold of the now ruined Olde Forge at Harradsheim, "
+"the eldest known smithy."
 msgstr ""
 
 #
@@ -1534,12 +1585,17 @@ msgstr "Mina de minério de ferro"
 
 #
 # File: ../../tribes/barbarians/iron/conf, line: 1
-msgid "Iron is obtained out of iron ores in the smelting works. It is used to produce weapons and tools in the metalwork shop, axefactory, war mill and in the helmsmithy."
+msgid ""
+"Iron is obtained out of iron ores in the smelting works. It is used to "
+"produce weapons and tools in the metalwork shop, axefactory, war mill and in "
+"the helmsmithy."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/ironore/conf, line: 1
-msgid "Iron ores are mined in iron mines. They deliver iron when smelted in a smelting works."
+msgid ""
+"Iron ores are mined in iron mines. They deliver iron when smelted in a "
+"smelting works."
 msgstr ""
 
 #
@@ -1549,20 +1605,20 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 18
-msgid "It can make Bread Paddles, Felling Axes, Fire Tongs, Fishing Rods, Hammers, Hunting Spears, Kitchen Tools, Picks, Scythes and Shovels."
+msgid ""
+"It can make Bread Paddles, Felling Axes, Fire Tongs, Fishing Rods, Hammers, "
+"Hunting Spears, Kitchen Tools, Picks, Scythes and Shovels."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 16
 msgid "It can not be upgraded."
-msgstr ""
+msgstr "Não pode ser melhorado."
 
 #
 # File: ../../tribes/barbarians/conf, line: 94
 msgid "Kitchen Tools"
 msgstr "Utensílios de cozinha"
 
-#
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 13
 msgid "Krumta, carpenter of Chat'Karuth"
 msgstr ""
@@ -1584,7 +1640,6 @@ msgstr "Forno de cal"
 msgid "Lime-Burner"
 msgstr "Queimador de cal"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 10
 # File: ../../tribes/barbarians/bakery/help.lua, line: 10
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 10
@@ -1684,10 +1739,13 @@ msgstr "Carne"
 
 #
 # File: ../../tribes/barbarians/meat/conf, line: 1
-msgid "Meat contains a lot of energy. It is produced by the hunters and used in the taverns, inns and big inns to prepare rations, snacks and meals for the miners. It is also consumed in the training sites (trainingscamp and battle arena)."
+msgid ""
+"Meat contains a lot of energy. It is produced by the hunters and used in the "
+"taverns, inns and big inns to prepare rations, snacks and meals for the "
+"miners. It is also consumed in the training sites (trainingscamp and battle "
+"arena)."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 32
 # File: ../../tribes/barbarians/bakery/help.lua, line: 34
 # File: ../../tribes/barbarians/fernery/help.lua, line: 30
@@ -1712,7 +1770,6 @@ msgstr "Loja do Ferreiro"
 msgid "Micro Brewery"
 msgstr "Pequena cervejeira"
 
-#
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 38
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 37
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 33
@@ -1759,10 +1816,13 @@ msgstr "Espaço insuficiente"
 
 #
 # File: ../../tribes/barbarians/strongbeer/conf, line: 1
-msgid "Only this beer is acceptable for the warriors in a battle arena. Some say, the whole power of the barbarians is in this ale. It helps to train the soldier's evade level from 0 to 1 to 2. Strong beer is also used in big inns to prepare meals."
+msgid ""
+"Only this beer is acceptable for the warriors in a battle arena. Some say, "
+"the whole power of the barbarians is in this ale. It helps to train the "
+"soldier's evade level from 0 to 1 to 2. Strong beer is also used in big inns "
+"to prepare meals."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 27
 # File: ../../tribes/barbarians/bakery/help.lua, line: 25
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 25
@@ -1886,10 +1946,9 @@ msgstr "Cultivar os campos."
 msgid "Plants trees."
 msgstr "Planta árvores."
 
-#
 # File: ../../tribes/barbarians/conf, line: 179
 msgid "Port"
-msgstr ""
+msgstr "Porto"
 
 #
 # File: ../../tribes/barbarians/axefactory/conf, line: 29
@@ -2021,7 +2080,8 @@ msgstr "Produz comida para mineiros"
 # File: ../../tribes/barbarians/brewer/conf, line: 1
 # File: ../../tribes/barbarians/master-brewer/conf, line: 1
 msgid "Produces the finest ales to keep warriors strong and happy in training."
-msgstr "Produs a melhor cerveja para manter os guerreiros fortes e felizes no treino."
+msgstr ""
+"Produs a melhor cerveja para manter os guerreiros fortes e felizes no treino."
 
 #
 # File: ../../tribes/barbarians/blacksmith/conf, line: 1
@@ -2029,7 +2089,6 @@ msgstr "Produs a melhor cerveja para manter os guerreiros fortes e felizes no tr
 msgid "Produces weapons for soldiers and tools for workers."
 msgstr "Produz armas para os guerreiros e ferramentas para os trabalhadores."
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 62
 # File: ../../tribes/barbarians/bakery/help.lua, line: 54
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 54
@@ -2058,18 +2117,15 @@ msgstr "Produz armas para os guerreiros e ferramentas para os trabalhadores."
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 60
 # File: ../../tribes/barbarians/warmill/help.lua, line: 64
 # File: ../../tribes/barbarians/well/help.lua, line: 46
-#, fuzzy
 msgid "Production"
-msgstr "Produz ração"
+msgstr "Produção"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 27
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 29
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 32
 msgid "Provided by the "
-msgstr ""
+msgstr "Disponibilizado por"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 16
 # File: ../../tribes/barbarians/bakery/help.lua, line: 16
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 16
@@ -2099,14 +2155,13 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 16
 # File: ../../tribes/barbarians/well/help.lua, line: 16
 msgid "Purpose:"
-msgstr ""
+msgstr "Propósito:"
 
 #
 # File: ../../tribes/barbarians/conf, line: 182
 msgid "Quarry"
 msgstr "Pedreira"
 
-#
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 13
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 13
 # File: ../../tribes/barbarians/oremine/help.lua, line: 13
@@ -2115,7 +2170,9 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 13
-msgid "Ragnald the Child's answer to the question, what he's doing in the dirt. His \"new stone\" now is an important building material."
+msgid ""
+"Ragnald the Child's answer to the question, what he's doing in the dirt. His "
+"\"new stone\" now is an important building material."
 msgstr ""
 
 #
@@ -2220,12 +2277,16 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/raw_stone/conf, line: 1
-msgid "Raw Stones are a basic building material of the barbarians. It is produced in quarries and granite mines."
+msgid ""
+"Raw Stones are a basic building material of the barbarians. It is produced "
+"in quarries and granite mines."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/grout/conf, line: 1
-msgid "Raw stone can be processed into grout which provides a solid, non burning building material. Grout is produced in a lime kiln."
+msgid ""
+"Raw stone can be processed into grout which provides a solid, non burning "
+"building material. Grout is produced in a lime kiln."
 msgstr ""
 
 #
@@ -2329,11 +2390,9 @@ msgstr "O explorador explora áreas inexploradas a sua volta."
 msgid "Scythe"
 msgstr "Foice"
 
-#
 # File: ../../tribes/barbarians/farm/help.lua, line: 16
-#, fuzzy
 msgid "Seed and harvest wheat."
-msgstr "Colheita de trigo"
+msgstr "Semeia e colhe trigo."
 
 #
 # File: ../../tribes/barbarians/conf, line: 167
@@ -2346,26 +2405,21 @@ msgstr "Sentinela"
 msgid "Sharp Axe"
 msgstr "Machado afiado"
 
-#
 # File: ../../tribes/barbarians/conf, line: 152
 msgid "Ship"
-msgstr ""
+msgstr "Navio"
 
-#
 # File: ../../tribes/barbarians/conf, line: 62
-#, fuzzy
 msgid "Ship construction site"
-msgstr "Construção"
+msgstr "Construção de navios"
 
-#
 # File: ../../tribes/barbarians/conf, line: 143
 msgid "Shipwright"
-msgstr ""
+msgstr "Construtor naval"
 
-#
 # File: ../../tribes/barbarians/conf, line: 201
 msgid "Shipyard"
-msgstr ""
+msgstr "Estaleiro Naval"
 
 #
 # File: ../../tribes/barbarians/conf, line: 104
@@ -2380,7 +2434,6 @@ msgstr "Pá"
 msgid "Sleep"
 msgstr "Hibernação"
 
-#
 # File: ../../tribes/barbarians/fernery/help.lua, line: 13
 msgid "Slogan of the Guild of Ferners"
 msgstr ""
@@ -2390,7 +2443,6 @@ msgstr ""
 msgid "Small Tower"
 msgstr "Pequena torre"
 
-#
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 34
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 26
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 34
@@ -2479,10 +2531,11 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/well/help.lua, line: 13
-msgid "Song written by Sigurd the Bard<br> when the first rain fell after the Great Drought in the 21st year of Chat'Karuth' reign."
+msgid ""
+"Song written by Sigurd the Bard<br> when the first rain fell after the Great "
+"Drought in the 21st year of Chat'Karuth' reign."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 13
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 13
 # File: ../../tribes/barbarians/farm/help.lua, line: 13
@@ -2495,7 +2548,6 @@ msgstr ""
 msgid "Source needed."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 32
 # File: ../../tribes/barbarians/bakery/help.lua, line: 34
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 32
@@ -2554,7 +2606,6 @@ msgstr "Forte"
 msgid "Tavern"
 msgstr "Taverna"
 
-#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 12
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 12
 # File: ../../tribes/barbarians/farm/help.lua, line: 12
@@ -2590,7 +2641,9 @@ msgstr "Colmo"
 
 #
 # File: ../../tribes/barbarians/thatchreed/conf, line: 1
-msgid "Thatch reed is produced in a fernery and used to make the roofs of buildings waterproof."
+msgid ""
+"Thatch reed is produced in a fernery and used to make the roofs of buildings "
+"waterproof."
 msgstr ""
 
 #
@@ -2603,8 +2656,12 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/axe/conf, line: 1
-msgid "The Axe is a basic weapon for the barbarians. All young soldiers are equipped with it."
-msgstr "O Machado é a arma básica dos Bárbaros. Todos os jovens soldados estão equipados com um."
+msgid ""
+"The Axe is a basic weapon for the barbarians. All young soldiers are "
+"equipped with it."
+msgstr ""
+"O Machado é a arma básica dos Bárbaros. Todos os jovens soldados estão "
+"equipados com um."
 
 #
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 8
@@ -2613,161 +2670,121 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 16
-msgid "The Barbarian Axefactory is the intermediate production site in a series of three buildings. It is an upgrade from the Metalwork Shop but doesn't require additional qualification for the worker."
+msgid ""
+"The Barbarian Axefactory is the intermediate production site in a series of "
+"three buildings. It is an upgrade from the Metalwork Shop but doesn't "
+"require additional qualification for the worker."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Bakery"
-msgstr "Bárbaros"
+msgstr "A padaria dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Battle Arena"
-msgstr "Arena de combate"
+msgstr "A arena de combate dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Cattle Farm"
-msgstr "Criação de Bois"
+msgstr "A criação de Bois dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Coal Mine"
-msgstr "Mina de carvão muito profunda"
+msgstr "A mina de carvão dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Deep Coal Mine"
-msgstr "Mina de carvão funda"
+msgstr "A mina de carvão muito profunda dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Deep Gold Mine"
-msgstr "Mina de ouro funda"
+msgstr "A mina de ouro muito profunda dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Deep Iron Ore Mine"
-msgstr "Mina de ferro funda"
+msgstr "A mina de ferro muito profunda dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Deeper Coal Mine"
-msgstr "Mina de carvão muito profunda"
+msgstr "A mina de carvão profunda dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Deeper Gold Mine"
-msgstr "Mina de ouro profunda"
+msgstr "A mina de ouro profunda dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Deeper Iron Ore Mine"
-msgstr "Mina de ferro profunda"
+msgstr "A mina de ferro profunda dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/farm/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Farm"
-msgstr "Bárbaros"
+msgstr "A quinta dos bárbaros"
 
 #
 # File: ../../tribes/barbarians/fernery/help.lua, line: 8
 msgid "The Barbarian Fernery"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Fisher's Hut"
-msgstr "Cabana do pescador"
+msgstr "A cabana do pescador bárbaro"
 
-#
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Gamekeeper's Hut"
-msgstr "Coutada"
+msgstr "A coutada dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Gold Mine"
-msgstr "Mina de ouro profunda"
+msgstr "A mina de ouro dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Granite Mine"
-msgstr "Mina de granito"
+msgstr "A mina de granito dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Hunter's Hut"
-msgstr "Cabana do caçador"
+msgstr "A cabana do caçador bárbaro"
 
-#
 # File: ../../tribes/barbarians/oremine/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Iron Ore Mine"
-msgstr "Mina de ferro profunda"
+msgstr "A mina de ferro dos bárbaros"
 
 #
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 8
 msgid "The Barbarian Limekiln"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Lumberjack's Hut"
-msgstr "Cabana do lenhador"
+msgstr "A cabana do lenhador bárbaro"
 
-#
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Metalwork Shop"
-msgstr "Loja do Ferreiro"
+msgstr "A loja do Ferreiro bárbaro"
 
 #
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 16
-msgid "The Barbarian Metalwork Shop is the basic production site in a series of three buildings and creates all the tools that Barbarians need. The others are for weapons."
+msgid ""
+"The Barbarian Metalwork Shop is the basic production site in a series of "
+"three buildings and creates all the tools that Barbarians need. The others "
+"are for weapons."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Micro Brewery"
-msgstr "Pequena cervejeira"
+msgstr "A pequena cervejeira dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/quarry/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Quarry"
-msgstr "Bárbaros"
+msgstr "A pedreira dos bárbaros"
 
-#
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Ranger's Hut"
-msgstr "Cabana do Silvicultor"
+msgstr "A cabana do Silvicultor bárbaro"
 
-#
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Trainingscamp"
-msgstr "Campo de treino"
+msgstr "O campo de treino bárbaro"
 
 #
 # File: ../../tribes/barbarians/warmill/help.lua, line: 8
@@ -2776,14 +2793,14 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/warmill/help.lua, line: 16
-msgid "The Barbarian War Mill is their most advanced production site for weapons. As such it needs to be upgraded from an Axefactory."
+msgid ""
+"The Barbarian War Mill is their most advanced production site for weapons. "
+"As such it needs to be upgraded from an Axefactory."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/well/help.lua, line: 8
-#, fuzzy
 msgid "The Barbarian Well"
-msgstr "Bárbaros"
+msgstr "O poço bárbaro"
 
 #
 # File: ../../tribes/barbarians/well/help.lua, line: 47
@@ -2792,7 +2809,10 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/fernery/help.lua, line: 16
-msgid "The Fernery cultivates reed that serves two different purposes for the Barbarian tribe.<br>It is the traditional material for roofing, and it is woven into the extremely durable cloth that they use for their ship's sails."
+msgid ""
+"The Fernery cultivates reed that serves two different purposes for the "
+"Barbarian tribe.<br>It is the traditional material for roofing, and it is "
+"woven into the extremely durable cloth that they use for their ship's sails."
 msgstr ""
 
 #
@@ -2807,8 +2827,12 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/gamekeeper/conf, line: 1
-msgid "The Gamekeeper makes sure that the natural population of animals never drops too low."
-msgstr "O Tratador da Caça mantém a população de animais num nível considerado natural."
+msgid ""
+"The Gamekeeper makes sure that the natural population of animals never drops "
+"too low."
+msgstr ""
+"O Tratador da Caça mantém a população de animais num nível considerado "
+"natural."
 
 #
 # File: ../../tribes/barbarians/hunter/conf, line: 1
@@ -2822,17 +2846,23 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 16
-msgid "The Limekiln processes Raw Stones to make \"Grout\", a substance that solidifies and so reinforces masonry."
+msgid ""
+"The Limekiln processes Raw Stones to make \"Grout\", a substance that "
+"solidifies and so reinforces masonry."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 32
-msgid "The Limekiln's output will only go to construction sites that need it. Those are predominantly houses that work with fire, and some military sites."
+msgid ""
+"The Limekiln's output will only go to construction sites that need it. Those "
+"are predominantly houses that work with fire, and some military sites."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 48
-msgid "The Lumberjack needs %s to fell a tree, not counting the time he needs to reach the destination and go home again."
+msgid ""
+"The Lumberjack needs %s to fell a tree, not counting the time he needs to "
+"reach the destination and go home again."
 msgstr ""
 
 #
@@ -2842,7 +2872,10 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 16
-msgid "The Micro Brewery produces Beer of the lower grade. This beer is a vital component of the Snacks that Inns and Big Inns prepare for Miners in Deep Mines."
+msgid ""
+"The Micro Brewery produces Beer of the lower grade. This beer is a vital "
+"component of the Snacks that Inns and Big Inns prepare for Miners in Deep "
+"Mines."
 msgstr ""
 
 #
@@ -2852,12 +2885,16 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 43
-msgid "The Ranger needs %s to plant a tree, not counting the time he needs to reach the destination and go home again."
+msgid ""
+"The Ranger needs %s to plant a tree, not counting the time he needs to reach "
+"the destination and go home again."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 23
-msgid "The Ranger's Hut needs free space in the immediate vicinity to plant the trees."
+msgid ""
+"The Ranger's Hut needs free space in the immediate vicinity to plant the "
+"trees."
 msgstr ""
 
 #
@@ -2867,37 +2904,62 @@ msgstr "A equipa de desenvolvimento de Widelands"
 
 #
 # File: ../../tribes/barbarians/pittabread/conf, line: 1
-msgid "The barbarian bakers are best in making this flat and tasty pitta bread. It is made out of wheat and water following a secret recipe. Pitta bread is used in the taverns, inns and big inns to prepare rations, snacks and meals. It is also consumed in trainingssites (trainingscamp and battle arena)."
+msgid ""
+"The barbarian bakers are best in making this flat and tasty pitta bread. It "
+"is made out of wheat and water following a secret recipe. Pitta bread is "
+"used in the taverns, inns and big inns to prepare rations, snacks and meals. "
+"It is also consumed in trainingssites (trainingscamp and battle arena)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/bakingtray/conf, line: 1
-msgid "The bread paddle is a tool of the baker and each baker needs his own. It is produced in the metal works like all other tools (but it ceases to be produced by the building if the metal works is enhanced to an axefactory and war mill)."
+msgid ""
+"The bread paddle is a tool of the baker and each baker needs his own. It is "
+"produced in the metal works like all other tools (but it ceases to be "
+"produced by the building if the metal works is enhanced to an axefactory and "
+"war mill)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/broadaxe/conf, line: 1
-msgid "The broad axe is produced in the axefactory and the war mill. It is used in the trainingscamp - together with food- to train warriors with a fundamental fighting knowledge (from attack level 1 to attack level 2)."
+msgid ""
+"The broad axe is produced in the axefactory and the war mill. It is used in "
+"the trainingscamp - together with food- to train warriors with a fundamental "
+"fighting knowledge (from attack level 1 to attack level 2)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/bronzeaxe/conf, line: 1
-msgid "The bronze axe is considered a hard to handle weapon. Only skilled warriors can use this. It is produced in the war mill and used in the trainingscamp (trains -together with food - from attack level 2 to level 3)."
+msgid ""
+"The bronze axe is considered a hard to handle weapon. Only skilled warriors "
+"can use this. It is produced in the war mill and used in the trainingscamp "
+"(trains -together with food - from attack level 2 to level 3)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/felling_axe/conf, line: 1
-msgid "The felling axe is the tool of the lumberjack to take down trees. It is produced in the metalwork shop (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"The felling axe is the tool of the lumberjack to take down trees. It is "
+"produced in the metalwork shop (but ceases to be produced by the building if "
+"it is enhanced to an axefactory and war mill)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/coal/conf, line: 1
-msgid "The fires of the barbarians are usually fed with coal. It is produced in coal mines or out of trunks in a charcoal burner's house. Consumers are several buildings: lime kiln, smelting works, axefactory, war mill, helmsmithy."
+msgid ""
+"The fires of the barbarians are usually fed with coal. It is produced in "
+"coal mines or out of trunks in a charcoal burner's house. Consumers are "
+"several buildings: lime kiln, smelting works, axefactory, war mill, "
+"helmsmithy."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/hammer/conf, line: 1
-msgid "The hammer is an essential tool. It is needed by the geologist, the builder, the blacksmith and the helmsmith. Make sure you always have some in reserve! It is one of the basic tools produced at the metalwork shop, (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"The hammer is an essential tool. It is needed by the geologist, the builder, "
+"the blacksmith and the helmsmith. Make sure you always have some in reserve! "
+"It is one of the basic tools produced at the metalwork shop, (but ceases to "
+"be produced by the building if it is enhanced to an axefactory and war mill)."
 msgstr ""
 
 #
@@ -2932,47 +2994,77 @@ msgstr "As poderosas tribos das terras de Este, lá onde o sol nasce !"
 
 #
 # File: ../../tribes/barbarians/scythe/conf, line: 1
-msgid "The scythe is the tool of the farmers. It is produced in the metalwork shop (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"The scythe is the tool of the farmers. It is produced in the metalwork shop "
+"(but ceases to be produced by the building if it is enhanced to an "
+"axefactory and war mill)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/shovel/conf, line: 1
-msgid "The shovel is needed for proper handling of plants. Therefore the ferner and the ranger use it. Produced at the metalwork shop (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"The shovel is needed for proper handling of plants. Therefore the ferner and "
+"the ranger use it. Produced at the metalwork shop (but ceases to be produced "
+"by the building if it is enhanced to an axefactory and war mill)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/warriorsaxe/conf, line: 1
-msgid "The warriors axe is the most dangerous of all Barbarian weapons. Only a few warriors ever were able to handle those huge and powerful axes. It is produced in a war mill and used -together with food - in a trainingscamp to train soldiers from attack level 4 to level 5."
+msgid ""
+"The warriors axe is the most dangerous of all Barbarian weapons. Only a few "
+"warriors ever were able to handle those huge and powerful axes. It is "
+"produced in a war mill and used -together with food - in a trainingscamp to "
+"train soldiers from attack level 4 to level 5."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/blackwood/conf, line: 1
-msgid "This fire-hardened wood is as hard as iron and it is used for several buildings. It is produced out of trunks in the wood hardener."
+msgid ""
+"This fire-hardened wood is as hard as iron and it is used for several "
+"buildings. It is produced out of trunks in the wood hardener."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/battleaxe/conf, line: 1
-msgid "This is a dangerous weapon the barbarians are able to produce. It is produced in the axe factory. Only trained warriors are able to wield such a weapon. It is used (together with food) in the trainingscamp to train soldiers from attack level 3 to 4."
+msgid ""
+"This is a dangerous weapon the barbarians are able to produce. It is "
+"produced in the axe factory. Only trained warriors are able to wield such a "
+"weapon. It is used (together with food) in the trainingscamp to train "
+"soldiers from attack level 3 to 4."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/mask/conf, line: 1
-msgid "This is the most enhanced Barbarian armour. It is produced in the helmsmithy and used in the trainingscamp - together with food - to train soldiers from healthpoints level 2 to healthpoints level 3."
+msgid ""
+"This is the most enhanced Barbarian armour. It is produced in the helmsmithy "
+"and used in the trainingscamp - together with food - to train soldiers from "
+"healthpoints level 2 to healthpoints level 3."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 13
-msgid "This phrase was the reply Rimbert the miner – later known as Rimbert the loner – gave, when he was asked to remain seated on an emergency meeting at Stonford in the year of the great flood. <br> The same man had all the 244 granite blocks ready only a week later, that still fortify the city's levee."
+msgid ""
+"This phrase was the reply Rimbert the miner – later known as Rimbert the "
+"loner – gave, when he was asked to remain seated on an emergency meeting at "
+"Stonford in the year of the great flood. <br> The same man had all the 244 "
+"granite blocks ready only a week later, that still fortify the city's levee."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/pick/conf, line: 1
-msgid "This pick is used by the stonemasons and the miners. It is produced in the metalwork shop (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"This pick is used by the stonemasons and the miners. It is produced in the "
+"metalwork shop (but ceases to be produced by the building if it is enhanced "
+"to an axefactory and war mill)."
 msgstr ""
 
 #
 # File: ../../tribes/barbarians/hunting_spear/conf, line: 1
-msgid "This spear is light enough to be thrown, but heavy enough to kill any animal in one blow. It is only used by the hunters. Produced in the metal works (but ceases to be produced by the building if it is enhanced to an axefactory and war mill)."
+msgid ""
+"This spear is light enough to be thrown, but heavy enough to kill any animal "
+"in one blow. It is only used by the hunters. Produced in the metal works "
+"(but ceases to be produced by the building if it is enhanced to an "
+"axefactory and war mill)."
 msgstr ""
 
 #
@@ -3001,7 +3093,9 @@ msgstr "Campo de treino"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 16
-msgid "Trains soldiers in Attack up to level 4, and in Hitpoints up to level 2.<br>Equips the soldiers with all necessary weapons and armour parts."
+msgid ""
+"Trains soldiers in Attack up to level 4, and in Hitpoints up to level 2."
+"<br>Equips the soldiers with all necessary weapons and armour parts."
 msgstr ""
 
 #
@@ -3087,10 +3181,14 @@ msgstr "Tronco"
 
 #
 # File: ../../tribes/barbarians/trunk/conf, line: 1
-msgid "Trunks are a principal building material of the barbarians. The trees are felled by lumberjacks; rangers care for the supply of trees. Trunks are also used in the metalwork shop to build basic tools, and in the charcoal burner's house in the production of coal. The wood hardener refines trunks by hardening them in the fire which gives blackwood."
+msgid ""
+"Trunks are a principal building material of the barbarians. The trees are "
+"felled by lumberjacks; rangers care for the supply of trees. Trunks are also "
+"used in the metalwork shop to build basic tools, and in the charcoal "
+"burner's house in the production of coal. The wood hardener refines trunks "
+"by hardening them in the fire which gives blackwood."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 34
 # File: ../../tribes/barbarians/warmill/help.lua, line: 36
 msgid "Upgrade Cost:"
@@ -3113,8 +3211,12 @@ msgstr "Treinar guerreiro ataque 0"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 38
-msgid "Upgrade soldier attack 0 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro ataque 0 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier attack 0 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro ataque 0 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 39
@@ -3123,8 +3225,12 @@ msgstr "Treinar guerreiro ataque 1"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 40
-msgid "Upgrade soldier attack 1 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro ataque 1 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier attack 1 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro ataque 1 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 41
@@ -3133,8 +3239,12 @@ msgstr "Treinar guerreiro ataque 2"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 42
-msgid "Upgrade soldier attack 2 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro ataque 2 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier attack 2 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro ataque 2 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 43
@@ -3143,8 +3253,12 @@ msgstr "Treinar guerreiro ataque 3"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 44
-msgid "Upgrade soldier attack 3 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro ataque 3 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier attack 3 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro ataque 3 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 45
@@ -3153,8 +3267,12 @@ msgstr "Treinar guerreiro ataque 4"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 46
-msgid "Upgrade soldier attack 4 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro ataque 4 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier attack 4 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro ataque 4 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 29
@@ -3163,8 +3281,11 @@ msgstr "Treinar guerreiro defesa 0"
 
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 30
-msgid "Upgrade soldier evade 0 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro defesa 0 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier evade 0 (only for compatibility with old savegames (build13))"
+msgstr ""
+"Treinar guerreiro defesa 0 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 31
@@ -3173,8 +3294,11 @@ msgstr "Treinar guerreiro defesa 1"
 
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 32
-msgid "Upgrade soldier evade 1 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro defesa 1 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier evade 1 (only for compatibility with old savegames (build13))"
+msgstr ""
+"Treinar guerreiro defesa 1 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 47
@@ -3183,8 +3307,12 @@ msgstr "Treinar guerreiro resistência 0"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 48
-msgid "Upgrade soldier hitpoints 0 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro resistência 0 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier hitpoints 0 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro resistência 0 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 49
@@ -3193,8 +3321,12 @@ msgstr "Treinar guerreiro resistência 1"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 50
-msgid "Upgrade soldier hitpoints 1 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro resistência 1 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier hitpoints 1 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro resistência 1 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 51
@@ -3203,10 +3335,13 @@ msgstr "Treinar guerreiro resistência 2"
 
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 52
-msgid "Upgrade soldier hitpoints 2 (only for compatibility with old savegames (build13))"
-msgstr "Treinar guerreiro resistência 2 (só usado para compatibilidade com jogos guardados por versões mais antigas (build13))"
+msgid ""
+"Upgrade soldier hitpoints 2 (only for compatibility with old savegames "
+"(build13))"
+msgstr ""
+"Treinar guerreiro resistência 2 (só usado para compatibilidade com jogos "
+"guardados por versões mais antigas (build13))"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 52
 # File: ../../tribes/barbarians/bakery/help.lua, line: 46
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 46
@@ -3270,7 +3405,6 @@ msgstr ""
 msgid "Upgraded from:"
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 20
 # File: ../../tribes/barbarians/bakery/help.lua, line: 19
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 21
@@ -3333,7 +3467,6 @@ msgstr "Machado de guerreiro"
 msgid "Water"
 msgstr "Água"
 
-#
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 27
 msgid "Water from a Well"
 msgstr ""
@@ -3347,7 +3480,10 @@ msgstr ""
 
 #
 # File: ../../tribes/barbarians/water/conf, line: 1
-msgid "Water is the essence for life! It is used in the bakery, the micro brewery and the brewery. Also the lime kiln and the cattle farm need to be supplied with water."
+msgid ""
+"Water is the essence for life! It is used in the bakery, the micro brewery "
+"and the brewery. Also the lime kiln and the cattle farm need to be supplied "
+"with water."
 msgstr ""
 
 #
@@ -3372,17 +3508,18 @@ msgstr "Poço"
 msgid "Wheat"
 msgstr "Trigo"
 
-#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 23
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 23
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 24
-#, fuzzy
 msgid "Wheat from the Farm"
-msgstr "Criação de Bois"
+msgstr "Trigo das quintas"
 
 #
 # File: ../../tribes/barbarians/wheat/conf, line: 1
-msgid "Wheat is essential for surviving. It is produced in farms and consumed by bakeries, micro breweries and breweries. Also Cattle farms need to be supplied with wheat."
+msgid ""
+"Wheat is essential for surviving. It is produced in farms and consumed by "
+"bakeries, micro breweries and breweries. Also Cattle farms need to be "
+"supplied with wheat."
 msgstr ""
 
 #
@@ -3442,7 +3579,6 @@ msgstr "Endurecedor de madeira"
 msgid "Work"
 msgstr "Trabalho"
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 57
 # File: ../../tribes/barbarians/bakery/help.lua, line: 51
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 51
@@ -3557,22 +3693,23 @@ msgstr ""
 # File: ../../tribes/barbarians/master-miner/conf, line: 1
 # File: ../../tribes/barbarians/miner/conf, line: 1
 msgid "Works deep in the mines to obtain coal, iron or gold."
-msgstr "Trabalha na profundeza das minas para extrair o carvão, o ferro ou o ouro."
+msgstr ""
+"Trabalha na profundeza das minas para extrair o carvão, o ferro ou o ouro."
 
-#
 # File: ../../tribes/barbarians/sharpaxe/conf, line: 1
-msgid "Young warriors are proud to learn to fight with this powerful weapon. It is heavier and sharper than the ordinary axe. It is produced in axefactories and war mills. In trainingscamps, it is used - together with food- to train soldiers from attack level 0 to level 1."
+msgid ""
+"Young warriors are proud to learn to fight with this powerful weapon. It is "
+"heavier and sharper than the ordinary axe. It is produced in axefactories "
+"and war mills. In trainingscamps, it is used - together with food- to train "
+"soldiers from attack level 0 to level 1."
 msgstr ""
 
-#
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 63
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 70
 # File: ../../tribes/barbarians/warmill/help.lua, line: 65
 msgid "each item"
-msgstr ""
+msgstr "cada item"
 
-#
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 46
 msgid "n/a"
-msgstr ""
-
+msgstr "n/a"

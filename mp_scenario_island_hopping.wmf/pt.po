@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: Widelands svnVERSION\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2012-03-26 08:30+0000\n"
-"PO-Revision-Date: 2012-12-17 20:24+0100\n"
-"Last-Translator: trewe <sjr456@yahoo.fr>\n"
+"PO-Revision-Date: 2013-05-16 10:47+0100\n"
+"Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: LANGUAGE <widelands-public@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/init.lua:101
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/multiplayer_init.lua:101
+#: Hopping.wmf/scripting/multiplayer_init.lua:101
 msgid "%i %s<br>"
 msgstr "%i %s<br>"
 
@@ -28,8 +29,12 @@ msgid "%s has won the game. Congratulations!"
 msgstr "%s venceu a partida. Parabéns!"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:46
-msgid "%s is now King of the Hill and will win the game in 20 minutes, if nobody takes over the hill until than."
-msgstr "%s é agora o rei da montanha e irá venver a partida em 20 minutos, se ninguém o desaloja da montanha até então."
+msgid ""
+"%s is now King of the Hill and will win the game in 20 minutes, if nobody "
+"takes over the hill until than."
+msgstr ""
+"%s é agora o rei da montanha e irá venver a partida em 20 minutos, se "
+"ninguém o desaloja da montanha até então."
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:49
 msgid "%s lost control of the hill."
@@ -60,22 +65,22 @@ msgid "15 minutes"
 msgstr "15 minutos"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:25
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:30
+#: Hopping.wmf/scripting/texts.lua:30
 msgid "1st to finish"
 msgstr "1º a terminar"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:26
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:31
+#: Hopping.wmf/scripting/texts.lua:31
 msgid "2nd to finish"
 msgstr "2º a terminar"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:27
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:32
+#: Hopping.wmf/scripting/texts.lua:32
 msgid "3rd to finish"
 msgstr "3º a terminar"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:28
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:33
+#: Hopping.wmf/scripting/texts.lua:33
 msgid "4th to finish"
 msgstr "4º  a terminar"
 
@@ -92,25 +97,41 @@ msgid "First Island"
 msgstr "Primeira Ilha"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/init.lua:94
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/multiplayer_init.lua:94
+#: Hopping.wmf/scripting/multiplayer_init.lua:94
 msgid "Game Status"
 msgstr "Estado do Jogo"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:13
 msgid ""
-"If you finish a castle at the target area on the second island, you will get\n"
-"a third headquarters on the third island. You must build and hold a castle at\n"
+"If you finish a castle at the target area on the second island, you will "
+"get\n"
+"a third headquarters on the third island. You must build and hold a castle "
+"at\n"
 "the center of the third island for 20 minutes to win the game"
 msgstr ""
+"Quando terminares a construção de um castelo na área alvejada na segunda "
+"ilha, terás\n"
+"um terceiro quartel-general na terceira ilha. Tens de construir um castelo "
+"no centro desta\n"
+"e defender-o por 20 minutos para vencer o jogo."
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:8
 msgid ""
 "Island Hopping is a traditional tournament in the Atlantean culture. The\n"
 "rules of the game are simple: You start with a headquarters one one island.\n"
 "When you finish a castle at the end of the first island, you are granted a\n"
-"second headquarters on a second island which will contain all wares from your\n"
+"second headquarters on a second island which will contain all wares from "
+"your\n"
 "first headquarters."
 msgstr ""
+"Ilhas Saltitantes é um torneio tradicional na cultura Atlanta. As regras do "
+"jogo\n"
+"são simples: Começarás com um quartel-general numa ilha.\n"
+"Quando terminares a construção de um castelo na tua primeira ilha, será te "
+"concebido\n"
+"um segundo quartel-general numa nova ilha que conterá todas as mercadorias "
+"da tua\n"
+"economia anterior."
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:6
 msgid "Rules"
@@ -121,15 +142,15 @@ msgid "Second Island"
 msgstr "Segunda Ilha"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:19
-#, fuzzy
 msgid ""
 "The clue is that the first island only offers stones and wood, the second\n"
 "only meadows and resources. The economies you leave behind will continue to\n"
 "work for you, but you only reap the benefits when you reach a new island."
 msgstr ""
 "A chave é que a primeira ilha somente oferece pedras e madeira, a segunda\n"
-"apenas e recursos. A economia que deixares para traz irá continuar a\n"
-"fornecer-te de recursos, mas só beneficias deles quando chegares a próxima ilha."
+"apenas prados e recursos. A economia que deixares para traz irá continuar a\n"
+"fornecer-te de recursos, mas só beneficias deles quando chegares a próxima "
+"ilha."
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:43
 msgid "The reward for this feat amounts to<br><br>%s"
@@ -141,11 +162,14 @@ msgstr "Bem-vindo as Ilhas Saltitantes"
 
 #: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:16
 msgid ""
-"Whenever you finish an island, you get bonus wares depending how many players\n"
-"have finished the island before you. The earlier you finish, the less wares you\n"
+"Whenever you finish an island, you get bonus wares depending how many "
+"players\n"
+"have finished the island before you. The earlier you finish, the less wares "
+"you\n"
 "get. See below for the details."
 msgstr ""
-"Sempre que terminares uma ilha, receberás um bónus de mercadorias dependendo de quantos\n"
-"jogadores terminaram antes de ti. O quão cedo terminares menos mercadorias receberás.\n"
+"Sempre que terminares uma ilha, receberás um bónus de mercadorias dependendo "
+"de quantos\n"
+"jogadores terminaram antes de ti. O quão cedo terminares menos mercadorias "
+"receberás.\n"
 "Veja abaixo para detalhes."
-

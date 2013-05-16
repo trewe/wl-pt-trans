@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-03-20 04:40+0000\n"
 "X-Generator: Launchpad (build 12559)\n"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 33
 msgid ""
@@ -20,32 +21,39 @@ msgid ""
 msgstr ""
 "* Derrota Erwyn. Esta a comandar os guerreiros adversários mais fortes\n"
 "deixados nesta nesta ilha."
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 40
 msgid "* Defeat Jomo. He takes care about the soldiers food supply."
 msgstr ""
 "* Derrota Jomo. Esta a cuidar do abastecimento alimentar dos guerreiros."
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 26
 msgid "* Defeat Lanissa and capture the ancient castle."
 msgstr "* Derrota o Chefe Lanissa e captura o castelo antigo."
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 54
 msgid "-- NEW OBJECTIVES --"
 msgstr "-- NOVOS OBJECTIVOS --"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 86
 msgid "An ancient castle"
 msgstr "Um castelo antigo"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 102
 msgid "Ancient castle captured"
 msgstr "O Castelo antigo foi capturado"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 116
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 126
 msgid "Another Briefing"
 msgstr "Outras Instruções"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 87
 msgid ""
@@ -69,27 +77,33 @@ msgstr ""
 "hipótese de conquistar este poderoso edifício sem muita luta!<br>\n"
 "De qualquer das maneiras temos mesmo de capturá-lo pois é a chave\n"
 "para o nosso domínio sobre esta ilha!"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 25
 msgid "Capture the ancient castle"
 msgstr "Captura o castelo antigo"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 143
 msgid ""
 "Congratulations! You mastered this scenario. You may play on if you like!"
 msgstr "Parabéns! Dominaste este cenário. Podes continuar a jogar se quiseres!"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 31
 msgid "Defeat Erwyn"
 msgstr "Derrota o Chefe Erwyn"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 38
 msgid "Defeat Jomo"
 msgstr "Derrota o Chefe Jomo"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 120
 msgid "Erwyn defeated"
 msgstr "Erwyn foi derrotado"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 74
 msgid ""
@@ -109,6 +123,7 @@ msgstr ""
 "a nossa\n"
 "infraestrutura. Em breve estaremos suficientemente fortes para atacar as "
 "suas posições."
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 141
 msgid ""
@@ -118,10 +133,12 @@ msgid ""
 msgstr ""
 "Por fim a ilha inteira é nossa! Agora, temos de defender-a melhor do que\n"
 "os Senhores de Guerra fizeram."
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 69
 msgid "First Briefing"
 msgstr "Primeiras Instruções"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 121
 msgid ""
@@ -132,6 +149,7 @@ msgstr ""
 "Excelente! Erwyn desistiu quando viu os seus últimos edifícios a serem "
 "queimados.\n"
 "É menos um Chefe-guerreiro nesta ilha!"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 131
 msgid ""
@@ -142,27 +160,33 @@ msgstr ""
 "Excelente! Jomo desistiu quando viu os seus últimos edifícios a serem "
 "queimados.\n"
 "É menos um Chefe-guerreiro nesta ilha !"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 130
 msgid "Jomo defeated"
 msgstr "Jomo foi derrotado"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 136
 msgid "Last Briefing"
 msgstr "Ultima Informação"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 82
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 98
 msgid "Second Briefing"
 msgstr "Segunda Informação"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 73
 msgid "The forbidden island"
 msgstr "A Ilha proibida"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 140
 msgid "Victory!"
 msgstr "Vitória!"
+
 #
 # File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 103
 msgid ""
@@ -197,4 +221,4 @@ msgstr ""
 "Nordeste do castelo. É conhecido por ser um forte guerreiro e de certo que\n"
 "comanda os guerreiros mais fortes. A Sul avistam-se algumas infraestruturas\n"
 "de produção de mantimentos de Jomo - um jovem senhor de guerra - temos de\n"
-"\"tratar\" delas para cortar-lhe o fornecimento de alimentos à sua economia."
+"“tratar” delas para cortar-lhe o fornecimento de alimentos à sua economia."
