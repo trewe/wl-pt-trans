@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
-"POT-Creation-Date: 2012-03-26 08:30+0000\n"
+"POT-Creation-Date: 2013-06-23 17:28+0000\n"
 "PO-Revision-Date: 2012-12-15 23:32+0100\n"
 "Last-Translator: trewe <sjr456@yahoo.fr>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
@@ -12,8 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-03-20 04:33+0000\n"
 "X-Generator: Launchpad (build 12559)\n"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 36
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 36
 msgid ""
 " \"Finally, the Gods were with us!<br> We landed on an unknown coast and "
@@ -29,8 +29,8 @@ msgstr ""
 "esta manhã, só encontrei areia à nossa volta.<br> Parece que desembarcámos "
 "sob a única palmeira existente neste longínquo e arenoso deserto. Temo que "
 "não vamos encontrar a ajuda que precisamos para reparar o navio a tempo.” "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 84
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 84
 msgid ""
 " \"Hey Lutius, I got the message that our first lumberjack started his work "
@@ -47,10 +47,10 @@ msgstr ""
 "possamos produzir rapidamente mais troncos.<br> Infelizmente, para reparar o "
 "nosso navio não nos basta troncos, precisamos também de madeira cortada, as "
 "mesmas que precisam tanto os navios como os edifícios maiores. Por isso "
-"temos de construir uma serração assim que tenhamos espaço para isso."
-"”<br><br>-- NOVO OBJECTIVO --<br> "
-
+"temos de construir uma serração assim que tenhamos espaço para "
+"isso.”<br><br>-- NOVO OBJECTIVO --<br> "
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 68
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 68
 msgid ""
 " \"Hey Lutius, I just met Saledus outside.<br> He told me about the "
@@ -67,8 +67,8 @@ msgstr ""
 "nosso navio. Por isso ontem andei pela floresta a procura de um bom local "
 "para construir uma Cabana para o Lenhador e encontrei um a sul do nosso "
 "Quartel-general provisório. ”<br><br>-- NOVO OBJECTIVO --<br>"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 117
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 117
 msgid ""
 " \"Hey Lutius, today we got a lot closer to our first castle. The quarry to "
@@ -80,8 +80,8 @@ msgstr ""
 "castelo. A pedreira que fica a sul começou a trabalhar hoje e vai estar "
 "pronta a fornecer pedra e mármore.<br> Agora já podemos esperar colonizar "
 "outra ilha.” "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 106
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 106
 msgid ""
 " \"Hey, my good old friend. I just thought about the rocks standing on the "
@@ -95,8 +95,8 @@ msgstr ""
 "<br> A reparação do nosso navio vai levar umas semanas e os recursos que "
 "recolhermos agora poderão vir a ser a base para construirmos mais edifícios "
 "noutras terras.”<br><br>-- NOVO OBJECTIVO --<br> "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 95
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 95
 msgid ""
 " \"Hi Lutius, I've got two important things to talk about... First the good "
@@ -119,8 +119,8 @@ msgstr ""
 "areia do deserto, dão-nos sombra e são a casa de muitos e gentis animais. "
 "Não devemos deixar esta ilha um deserto completo: encontra alguém que se "
 "preocupe em plantar novas árvores.”<br><br>-- NOVO OBJECTIVO --<br>"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 25
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 25
 msgid ""
 " \"It seems as if sailing on the perl-gulf was one of our biggest mistakes. "
@@ -136,8 +136,8 @@ msgstr ""
 "maiores que o nosso navio, mas ainda é perigoso ir lá fora.<br> O nosso "
 "navio está tão danificado que está a meter cada vez mais água. Podemos "
 "agradecer aos Deuses se sobrevivermos à noite mais negra das nossas vidas.” "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 47
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 47
 msgid ""
 " \"Sire, I fear we are not safe in this foreign land. Who knows what "
@@ -155,10 +155,10 @@ msgstr ""
 "o meu medo seja inusitado, mas acho que é melhor ficar de olho na floresta, "
 "para termos a certeza que vemos os inimigos antes que eles nos vejam.<br> "
 "Devíamos construir uma caserna no lado Este da floresta. Depois um de nós "
-"pode ficar de vigia na escuridão e manter-nos a salvo das criaturas."
-"”<br><br>-- NOVO OBJECTIVO --<br> "
-
+"pode ficar de vigia na escuridão e manter-nos a salvo das "
+"criaturas.”<br><br>-- NOVO OBJECTIVO --<br> "
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 59
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 59
 msgid ""
 " \"Sire, I saw that the construction of the barracks was complete, so I "
@@ -170,8 +170,8 @@ msgstr ""
 "dos nossos melhores soldados  para vigiar o deserto.<br> As coisas já estão "
 "a andar em frente. Agora já nos podemos sentir mais seguros e ter melhores "
 "esperanças de reparar o nosso navio.” "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 125
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 125
 msgid ""
 " \"Today I got the message that our ship is completely repaired. At the "
@@ -191,8 +191,8 @@ msgstr ""
 "Freemil outra vez.<br><br>--------------------- VITÓRIA! "
 "----------------------<br><br> Completaste esta missão! Se desejares podes "
 "continuar a jogar ou partir já para uma nova missão.” "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 14
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 14
 msgid ""
 " \"What has become of our Empire? I really ask this question - why did my "
@@ -238,17 +238,18 @@ msgstr ""
 "isso deixei Fremil e parti em busca de um novo mundo, uma nova vida algures "
 "mais a Sul. Agora estou a navegar no Golfo das Pérolas com a minha família, "
 "alguns dos meus amigos e um punhado dos meus melhores soldados.” "
-
 #
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 135
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 135
 msgid ""
-" \"You have made this peninsula a very secure place. It is time to move "
-"on!\" "
+" \"You have made this peninsula a very secure place. It is time to move on!"
+"\" "
 msgstr ""
 " “Tornaste esta península um local muito seguro. É hora de seguir em "
 "frente!” "
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 48
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 146
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 48
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 146
 msgid ""
@@ -257,8 +258,9 @@ msgid ""
 msgstr ""
 "* Constrói um Quartel no símbolo da casa vermelha no lado Este da floresta, "
 "à direita do teu Quartel-general provisório"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 96
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 171
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 96
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 171
 msgid ""
@@ -266,8 +268,8 @@ msgid ""
 msgstr ""
 "* Constrói a Casa do Silvicultor para preservar os recursos florestais nesta "
 "ilha."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 69
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 69
 msgid ""
 "* Build a lumberjack's house at the red house symbol, south of your "
@@ -279,8 +281,8 @@ msgstr ""
 "teu Quartel-general provisional. Cortar árvores para abrir clareiras onde se "
 "possam construir novos edifícios vai demorar algum tempo. Usa a tecla PAGE "
 "UP para acelerar o jogo e PAGE DOWN para desacelerar."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 153
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 153
 msgid ""
 "* Build a lumberjack's house at the red point, south of your provisional "
@@ -292,8 +294,9 @@ msgstr ""
 "general provisional. Cortar árvores para abrir clareiras onde se possam "
 "construir novos edifícios vai demorar algum tempo. Usa a tecla PAGE UP para "
 "acelerar o jogo e PAGE DOWN para desacelerar."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 107
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 178
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 107
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 178
 msgid ""
@@ -302,8 +305,9 @@ msgid ""
 msgstr ""
 "* Constrói um Pedreira no Sul para extrair pedras e mármore dela.<br> Estas "
 "podem vir a ser necessárias para outros edifícios."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 85
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 164
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 85
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 164
 msgid ""
@@ -312,28 +316,28 @@ msgid ""
 msgstr ""
 "* Constrói mais duas casas de Lenhador e uma Serração assim que haja espaço "
 "para elas."
-
 #
+# File: ../../campaigns/emp01.wmf/elemental, line: 7
 # File: ../../campaigns/emp01.wmf/elemental, line: 7
 msgid "01 - The Strands of Malac' Mor"
 msgstr "01 - As Praias de Malac' Mor"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 10
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 10
 msgid "A dark night"
 msgstr "Uma noite escura"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 43
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 43
 msgid "A foreboding"
 msgstr "Um presságio"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 113
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 113
 msgid "A step forward"
 msgstr "Um passo em frente"
-
 #
+# File: ../../campaigns/emp01.wmf/elemental, line: 9
 # File: ../../campaigns/emp01.wmf/elemental, line: 9
 msgid ""
 "After losing an important battle against the barbarians which lead to the "
@@ -347,110 +351,114 @@ msgstr ""
 "começar uma nova vida. Mas o destino quis que o seu navio entrasse numa "
 "forte tempestade que quase o destruiu. Só com muita sorte consegue encalhar "
 "já o muito danificado navio uma praia deserta e salvar a sua gente. Por ora!"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 93
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 93
 msgid "Amalea comes in..."
 msgstr "Amalea entra..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 82
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 82
 msgid "Amalea recommends..."
 msgstr "Amalea recomenda..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 66
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 66
 msgid "Amalea smiles..."
 msgstr "Amalea sorri..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 144
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 144
 msgid "Build a barracks"
 msgstr "Construir uma Caserna"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 169
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 169
 msgid "Build a forester's house"
 msgstr "Construir um Florestal"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 151
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 151
 msgid "Build a lumberjack's house"
 msgstr "Construir um Lenhador"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 176
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 176
 msgid "Build a quarry"
 msgstr "Construir uma Pedreira"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 162
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 162
 msgid "Build two lumberjack's houses and a sawmill"
 msgstr "Constrói duas casas de Lenhador e uma Serração"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 12
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 23
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 34
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 12
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 23
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 34
 msgid "Diary of Lutius"
 msgstr "O Diário de Lutius"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 123
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 123
 msgid "Mission Complete"
 msgstr "Missão Cumprida"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 131
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 131
 msgid "Safe Peninsula"
 msgstr "Península Segura"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 55
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 55
 msgid "Safe for now"
 msgstr "Seguro por agora"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 45
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 45
 msgid "Saledus looks around nervously..."
 msgstr "Saledus olha em volta nervosamente..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 115
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 115
 msgid "Saledus looks promising..."
 msgstr "Saladeus parece prometedor ..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 104
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 104
 msgid "Saledus notes..."
 msgstr "Saledus faz notar ..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 57
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 57
 msgid "Saledus speaks with a sigh of relief..."
 msgstr "Saladeus suspira de alívio e diz ..."
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 133
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 133
 msgid "Saledus speaks:"
 msgstr "Saladeus diz:"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 32
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 32
 msgid "Survivor"
 msgstr "Sobrevivente"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 21
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 21
 msgid "The rough sea"
 msgstr "O mar bravo"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 102
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 102
 msgid "Thinking about the future"
 msgstr "Pensando no futuro"
-
 #
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 64
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 80
+# File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 91
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 64
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 80
 # File: ../../campaigns/emp01.wmf/scripting/texts.lua, line: 91

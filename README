@@ -5,28 +5,28 @@ European Portuguese translation files for « Widelands »
 Statistics:
 
  » map_plateau.wmf/pt.po -    25/  0/25    (100%)  -0
- » maps/pt.po            -    99/  0/99    (100%)  -0
+ » maps/pt.po            -    98/  0/98    (100%)  -0
  » mp_scenario_island_hopping.wmf/pt.po -    28/  0/28    (100%)  -0
- » mp_scenario_smugglers.wmf/pt.po -    11/  0/11    (100%)  -0
+ » mp_scenario_smugglers.wmf/pt.po -    13/  0/13    (100%)  -0
  » mp_scenario_together_we_re_strong.wmf/pt.po -     7/  0/7     (100%)  -0
- » scenario_atl01.wmf/pt.po -    89/  0/107   ( 83%)  -18
+ » scenario_atl01.wmf/pt.po -   102/  0/107   ( 95%)  -5
  » scenario_emp01.wmf/pt.po -    45/  0/45    (100%)  -0
  » scenario_emp02.wmf/pt.po -    56/  0/56    (100%)  -0
  » scenario_t01.wmf/pt.po -    49/  0/49    (100%)  -0
  » scenario_t02.wmf/pt.po -    92/  0/92    (100%)  -0
  » scenario_t03.wmf/pt.po -    86/  0/86    (100%)  -0
  » scenario_tutorial01.wmf/pt.po -   165/  0/165   (100%)  -0
- » texts/pt.po           -   182/  0/182   (100%)  -0
+ » texts/pt.po           -   188/  0/188   (100%)  -0
  » tribe_atlanteans/pt.po -   286/  0/286   (100%)  -0
- » tribe_barbarians/pt.po -   291/  2/451   ( 64%)  -160
- » tribe_empire/pt.po    -   293/  0/293   (100%)  -0
- » widelands/pt.po       -   951/  3/959   ( 99%)  -8
- » win_conditions/pt.po  -    39/  0/39    (100%)  -0
+ » tribe_barbarians/pt.po -   291/  2/449   ( 64%)  -158
+ » tribe_empire/pt.po    -   295/  2/295   (100%)  -0
+ » widelands/pt.po       -   982/  1/997   ( 98%)  -15
+ » win_conditions/pt.po  -    43/  0/43    (100%)  -0
  » world_blackland/pt.po -    57/  0/57    (100%)  -0
  » world_desert/pt.po    -    42/  0/42    (100%)  -0
  » world_greenland/pt.po -    66/  0/66    (100%)  -0
  » world_winterland/pt.po -    64/  0/64    (100%)  -0
- » Total                 -  3023/  5/3209  (94%)  -186
+ » Total                 -  3080/  5/3258  (94%)  -178
 
 
  © wl-pt-trans

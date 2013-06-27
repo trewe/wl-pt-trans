@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
-"POT-Creation-Date: 2012-03-26 08:30+0000\n"
+"POT-Creation-Date: 2013-06-23 17:28+0000\n"
 "PO-Revision-Date: 2013-05-16 11:36+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
@@ -12,61 +12,65 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-03-20 04:35+0000\n"
 "X-Generator: Poedit 1.5.4\n"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 12
+# File: ../../tribes/barbarians/warmill/help.lua, line: 12
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 12
 # File: ../../tribes/barbarians/warmill/help.lua, line: 12
 msgid ""
 "\"A new Warriors Axe brings forth the best in its wielder – or the worst in "
 "its maker.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 12
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 12
 msgid ""
 "\"As silent as a panther,<br> as deft as a weasel,<br> as swift as an arrow,"
 "<br> as deadly as a viper.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 17
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 17
 msgid ""
 "\"Evade\" increases the soldier's chance not to be hit by the enemy and so "
 "to remain totally unaffected."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 12
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 12
 msgid "\"Forming new stone from old with fire and water.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 12
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 12
 msgid ""
 "\"He loves the animals and to breed them<br>as we love to cook and eat them."
 "\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 13
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 13
 msgid ""
 "\"He who can grow two trees where normally grows only one exceeds the most "
 "important general!\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 12
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 12
 msgid ""
 "\"He who is strong shall not forgive nor forget, but revenge injustice "
 "suffered - in the past and for all future.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 12
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 12
 msgid ""
 "\"I can handle tons of granite, man, but no more of your vain prattle.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 12
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 12
+# File: ../../tribes/barbarians/oremine/help.lua, line: 12
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 12
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 12
 # File: ../../tribes/barbarians/oremine/help.lua, line: 12
@@ -74,28 +78,30 @@ msgid ""
 "\"I look at my own pick wearing away day by day and I realize why my work is "
 "important.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 12
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 12
 msgid ""
 "\"Let the first one drive away the hunger, the second one put you at ease; "
 "when you have swallowed up your third one, it's time for the next shift!\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 12
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 12
 msgid ""
 "\"No better friend you have in battle than the enemy's blow that misses.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/well/help.lua, line: 12
 # File: ../../tribes/barbarians/well/help.lua, line: 12
 msgid ""
 "\"Oh how sweet is the source of life,<br> that comes down from the sky <br> "
 "and lets the earth drink.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 12
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 12
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 12
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 12
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 12
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 12
@@ -103,36 +109,41 @@ msgid ""
 "\"Soft and supple.<br> And yet untouched by time and weather.<br> Rays of "
 "sun, wrought into eternity ...\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 12
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 12
 msgid ""
 "\"Take 200 hits to fell a tree and you're a baby. Take 100 and you're a "
 "soldier. Take 50 and you're a hero. Take 20 and soon you will be a honorable "
 "lumberjack.\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 13
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 13
 msgid "\"The Art of Hunting\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fernery/help.lua, line: 12
 # File: ../../tribes/barbarians/fernery/help.lua, line: 12
 msgid "\"We grow roofs\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 12
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 12
 msgid "\"We make it work!\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 12
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 12
 msgid "\"What do you mean, my fish ain't fresh?!\""
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 30
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 30
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 29
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 29
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 31
+# File: ../../tribes/barbarians/oremine/help.lua, line: 31
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 30
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 30
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 29
@@ -141,8 +152,14 @@ msgstr ""
 # File: ../../tribes/barbarians/oremine/help.lua, line: 31
 msgid "%s always goes to the %s. It has no other use."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 27
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 28
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 48
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 34
+# File: ../../tribes/barbarians/warmill/help.lua, line: 58
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 27
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 28
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 52
@@ -152,8 +169,17 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 58
 msgid "%s and"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 28
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 27
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 26
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 25
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 27
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 27
+# File: ../../tribes/barbarians/oremine/help.lua, line: 27
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 28
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 27
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 26
@@ -166,16 +192,25 @@ msgstr ""
 # File: ../../tribes/barbarians/oremine/help.lua, line: 27
 msgid "%s from a Big Inn"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 26
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 25
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 25
+# File: ../../tribes/barbarians/oremine/help.lua, line: 25
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 26
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 25
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 25
 # File: ../../tribes/barbarians/oremine/help.lua, line: 25
 msgid "%s from a Tavern"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 27
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 25
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 26
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 26
+# File: ../../tribes/barbarians/oremine/help.lua, line: 26
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 27
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 26
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 25
@@ -185,35 +220,58 @@ msgstr ""
 # File: ../../tribes/barbarians/oremine/help.lua, line: 26
 msgid "%s from an Inn"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 26
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 26
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 26
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 26
 msgid "%s from the Coal mine or the Charcoal Burner's House"
 msgstr "%s da mina de carvão e do carvoeiro."
-
+#
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 26
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 26
 msgid "%s from the Lumberjack's hut"
 msgstr "%s dos trabalhos florestais"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 24
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 25
+# File: ../../tribes/barbarians/warmill/help.lua, line: 24
+# File: ../../tribes/barbarians/warmill/help.lua, line: 25
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 24
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 25
 # File: ../../tribes/barbarians/warmill/help.lua, line: 24
 # File: ../../tribes/barbarians/warmill/help.lua, line: 25
 msgid "%s from the Smelting Works"
 msgstr "%s dos trabalhos da fundição"
-
 #
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 14
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 14
 msgid "%s in a conversation with a %s"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 29
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 35
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 29
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 35
 msgid "%s or %s"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 56
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 48
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 49
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 54
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 50
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 46
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 46
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 63
+# File: ../../tribes/barbarians/oremine/help.lua, line: 46
+# File: ../../tribes/barbarians/warmill/help.lua, line: 59
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 56
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 50
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 52
@@ -232,15 +290,30 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 59
 msgid "%s or better"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 49
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 53
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 49
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 49
 msgid "%s or better and"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 60
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 57
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 53
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 49
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 67
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 50
+# File: ../../tribes/barbarians/oremine/help.lua, line: 49
+# File: ../../tribes/barbarians/warmill/help.lua, line: 62
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 60
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 53
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 56
@@ -257,8 +330,11 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 62
 msgid "%s to %s (%s EP)"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 16
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 16
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 16
@@ -267,16 +343,19 @@ msgid ""
 "A %s exploits all of the resource down to the deepest level.<br>But even "
 "after having done so, it will still have a %s chance of finding some more %s."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 16
 msgid ""
 "A %s exploits only %s of the resource. <br> From there on, it will only have "
 "a 5%% chance of finding %s."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
@@ -284,56 +363,58 @@ msgid ""
 "A %s exploits only %s of the resource.<br>From there on, it will only have a "
 "5%% chance of finding %s."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fernery/help.lua, line: 47
 # File: ../../tribes/barbarians/fernery/help.lua, line: 47
 msgid "A Fernery can produce a sheaf of Thatch Reed in about %s on average."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/snack/conf, line: 1
 # File: ../../tribes/barbarians/snack/conf, line: 1
 msgid ""
 "A bigger morsel than the ration to provide miners in deep mines. It is "
 "produced in an inn or a big inn out of fish/meat, pitta bread and beer."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/helm/conf, line: 1
 # File: ../../tribes/barbarians/helm/conf, line: 1
 msgid ""
 "A helmet is basic tool to protect warriors. It is produced in the helmsmithy "
 "and used in the trainingscamp - together with food -  to train soldiers from "
 "healthpoints level 0 to healphpoints level 1."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/meal/conf, line: 1
 # File: ../../tribes/barbarians/meal/conf, line: 1
 msgid ""
 "A meal is made out of pitta bread, strongbeer and fish/meat in a big inn. "
 "This substantial food is exactly what workers in a deeper mine need."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/ship/conf, line: 1
 # File: ../../tribes/barbarians/ship/conf, line: 1
 msgid "A sea-worthy ship"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/ration/conf, line: 1
 # File: ../../tribes/barbarians/ration/conf, line: 1
 msgid ""
 "A small bite to keep miners strong and working. Also the scout consumes "
 "rations on his scouting trips. Rations are produced in a tavern, an inn or a "
 "big inn out of fish or meat or pitta bread."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/warhelmet/conf, line: 1
 # File: ../../tribes/barbarians/warhelmet/conf, line: 1
 msgid ""
 "A warhelmet is an enhanced armour for barbarian warriors. It is produced in "
 "a helmsmithy and used in a trainingscamp - together with food - to train "
 "soldiers from healthpoints level 1 to level 2."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 12
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 12
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 12
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 12
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 12
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 12
@@ -343,55 +424,64 @@ msgid ""
 "\t\t\tWood may serve for a household fire and to keep you warm, but when it "
 "comes to working with iron or gold, there is no way around coal."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 64
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 64
 msgid ""
 "All three weapons take the same time for making, but the required raw "
 "materials vary."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/warmill/help.lua, line: 66
 # File: ../../tribes/barbarians/warmill/help.lua, line: 66
 msgid ""
 "All weapons require the same time for making, but the consumption of the "
 "same raw materials increases from step to step. The last two need gold."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/oremine/help.lua, line: 16
 msgid ""
 "An %s exploits only %s of the resource. <br> From there on, it will only "
 "have a 5%% chance of finding %s."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 13
+# File: ../../tribes/barbarians/warmill/help.lua, line: 13
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 13
 # File: ../../tribes/barbarians/warmill/help.lua, line: 13
 msgid ""
 "An old Barbarian proverb<br> meaning that you need to take some risks "
 "sometimes."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 41
 # File: ../../tribes/barbarians/conf, line: 41
 msgid "Ashes"
 msgstr "Cinzas"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 msgid "Attack"
 msgstr "Ataque"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 25
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 25
 msgid "Attack Training:"
 msgstr "Treino de ataque:"
-
 #
+# File: ../../tribes/barbarians/conf, line: 73
 # File: ../../tribes/barbarians/conf, line: 73
 msgid "Axe"
 msgstr "Machado"
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 31
+# File: ../../tribes/barbarians/conf, line: 203
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 30
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 29
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 59
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 27
+# File: ../../tribes/barbarians/warmill/help.lua, line: 35
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 31
 # File: ../../tribes/barbarians/conf, line: 203
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 30
@@ -401,57 +491,68 @@ msgstr "Machado"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 35
 msgid "Axefactory"
 msgstr "Fábrica de machados"
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 16
 # File: ../../tribes/barbarians/bakery/help.lua, line: 16
 msgid "Bake Pitta Bread for Soldiers and Miners alike."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 50
+# File: ../../tribes/barbarians/conf, line: 122
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 28
 # File: ../../tribes/barbarians/bakery/help.lua, line: 50
 # File: ../../tribes/barbarians/conf, line: 122
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 28
 msgid "Baker"
 msgstr "Padeiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 193
+# File: ../../tribes/barbarians/farm/help.lua, line: 25
+# File: ../../tribes/barbarians/well/help.lua, line: 25
 # File: ../../tribes/barbarians/conf, line: 193
 # File: ../../tribes/barbarians/farm/help.lua, line: 25
 # File: ../../tribes/barbarians/well/help.lua, line: 25
 msgid "Bakery"
 msgstr "Padaria"
-
 #
+# File: ../../tribes/barbarians/baker/conf, line: 1
 # File: ../../tribes/barbarians/baker/conf, line: 1
 msgid "Bakes bread for workers."
 msgstr "Coze o pão para os trabalhadores."
-
+#
+# File: ../../tribes/barbarians/bakery/help.lua, line: 51
 # File: ../../tribes/barbarians/bakery/help.lua, line: 51
 msgid "Baking Tray"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 13
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 13
 #, fuzzy
 msgid "Barbarian nursery rhyme"
 msgstr "Bárbaros"
-
 #
+# File: ../../tribes/barbarians/conf, line: 5
 # File: ../../tribes/barbarians/conf, line: 5
 msgid "Barbarians"
 msgstr "Bárbaros"
-
 #
+# File: ../../tribes/barbarians/conf, line: 168
 # File: ../../tribes/barbarians/conf, line: 168
 msgid "Barracks"
 msgstr "Casernas"
-
 #
+# File: ../../tribes/barbarians/conf, line: 169
+# File: ../../tribes/barbarians/conf, line: 221
 # File: ../../tribes/barbarians/conf, line: 169
 # File: ../../tribes/barbarians/conf, line: 221
 msgid "Barrier"
 msgstr "Barreira"
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 30
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 55
+# File: ../../tribes/barbarians/conf, line: 229
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 27
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 27
 # File: ../../tribes/barbarians/bakery/help.lua, line: 30
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 55
 # File: ../../tribes/barbarians/conf, line: 229
@@ -459,35 +560,41 @@ msgstr "Barreira"
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 27
 msgid "Battle Arena"
 msgstr "Arena de combate"
-
 #
+# File: ../../tribes/barbarians/conf, line: 75
 # File: ../../tribes/barbarians/conf, line: 75
 msgid "Battle Axe"
 msgstr "Machado de guerra"
-
 #
+# File: ../../tribes/barbarians/conf, line: 76
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 26
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 53
 # File: ../../tribes/barbarians/conf, line: 76
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 26
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 53
 msgid "Beer"
 msgstr "Cerveja"
-
 #
+# File: ../../tribes/barbarians/beer/conf, line: 1
 # File: ../../tribes/barbarians/beer/conf, line: 1
 msgid ""
 "Beer is produced in micro breweries used in inns and big inns to produce "
 "snacks."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fish/conf, line: 1
 # File: ../../tribes/barbarians/fish/conf, line: 1
 msgid ""
 "Besides pitta bread and meat, fish is also a foodstuff for the barbarians. "
 "It is used in the taverns, inns and big inns and in the trainingsites "
 "(trainingscamp and battle arena)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 29
+# File: ../../tribes/barbarians/conf, line: 196
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 31
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 31
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 28
 # File: ../../tribes/barbarians/bakery/help.lua, line: 29
 # File: ../../tribes/barbarians/conf, line: 196
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 31
@@ -495,16 +602,26 @@ msgstr ""
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 28
 msgid "Big Inn"
 msgstr "Estalagem"
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 32
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 29
+# File: ../../tribes/barbarians/farm/help.lua, line: 31
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 38
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 32
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 29
 # File: ../../tribes/barbarians/farm/help.lua, line: 31
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 38
 msgid "Big plot"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 56
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 60
+# File: ../../tribes/barbarians/conf, line: 124
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 35
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 63
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 67
+# File: ../../tribes/barbarians/warmill/help.lua, line: 59
+# File: ../../tribes/barbarians/warmill/help.lua, line: 62
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 56
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 60
 # File: ../../tribes/barbarians/conf, line: 124
@@ -515,8 +632,26 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 62
 msgid "Blacksmith"
 msgstr "Ferreiro"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 35
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 41
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 47
+# File: ../../tribes/barbarians/bakery/help.lua, line: 37
+# File: ../../tribes/barbarians/bakery/help.lua, line: 42
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 32
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 36
+# File: ../../tribes/barbarians/conf, line: 77
+# File: ../../tribes/barbarians/farm/help.lua, line: 34
+# File: ../../tribes/barbarians/farm/help.lua, line: 38
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 38
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 42
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 48
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 54
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 34
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 39
+# File: ../../tribes/barbarians/warmill/help.lua, line: 37
+# File: ../../tribes/barbarians/warmill/help.lua, line: 43
+# File: ../../tribes/barbarians/warmill/help.lua, line: 49
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 35
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 41
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 47
@@ -538,49 +673,77 @@ msgstr "Ferreiro"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 49
 msgid "Blackwood"
 msgstr "Madeira queimada"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 33
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 33
 msgid "Both Trainings:"
 msgstr "Ambos os treinos:"
-
+#
+# File: ../../tribes/barbarians/conf, line: 74
 # File: ../../tribes/barbarians/conf, line: 74
 msgid "Bread Paddle"
 msgstr "Asse pão"
-
+#
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 16
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 16
 msgid "Breed Oxen for adding them to the transportation system."
 msgstr "Cria os bois de carga que ajudam no transporte das mercadorias."
-
 #
+# File: ../../tribes/barbarians/cattlebreeder/conf, line: 1
 # File: ../../tribes/barbarians/cattlebreeder/conf, line: 1
 msgid "Breeds the strong oxen that help in the transportation of wares."
 msgstr "Cria os bois de carga que ajudam no transporte das mercadorias."
-
 #
+# File: ../../tribes/barbarians/conf, line: 126
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 47
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 50
 # File: ../../tribes/barbarians/conf, line: 126
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 47
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 50
 msgid "Brewer"
 msgstr "Cervejeiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 194
+# File: ../../tribes/barbarians/farm/help.lua, line: 27
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 43
+# File: ../../tribes/barbarians/well/help.lua, line: 27
 # File: ../../tribes/barbarians/conf, line: 194
 # File: ../../tribes/barbarians/farm/help.lua, line: 27
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 43
 # File: ../../tribes/barbarians/well/help.lua, line: 27
 msgid "Brewery"
 msgstr "Cervejeira"
-
 #
+# File: ../../tribes/barbarians/conf, line: 78
 # File: ../../tribes/barbarians/conf, line: 78
 msgid "Broad Axe"
 msgstr "Machado largo"
-
 #
+# File: ../../tribes/barbarians/conf, line: 79
 # File: ../../tribes/barbarians/conf, line: 79
 msgid "Bronze Axe"
 msgstr "Machado de bronze"
-
+#
+# File: ../../tribes/barbarians/bakery/help.lua, line: 36
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 34
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 31
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 40
+# File: ../../tribes/barbarians/farm/help.lua, line: 33
+# File: ../../tribes/barbarians/fernery/help.lua, line: 32
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 36
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 28
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 36
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 36
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 36
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 37
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 35
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 47
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 33
+# File: ../../tribes/barbarians/oremine/help.lua, line: 36
+# File: ../../tribes/barbarians/quarry/help.lua, line: 33
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 30
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 40
+# File: ../../tribes/barbarians/well/help.lua, line: 34
 # File: ../../tribes/barbarians/bakery/help.lua, line: 36
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 34
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 31
@@ -603,13 +766,42 @@ msgstr "Machado de bronze"
 # File: ../../tribes/barbarians/well/help.lua, line: 34
 msgid "Build Cost:"
 msgstr "Custo de produção:"
-
 #
+# File: ../../tribes/barbarians/conf, line: 127
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 32
 # File: ../../tribes/barbarians/conf, line: 127
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 32
 msgid "Builder"
 msgstr "Construtor"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 31
+# File: ../../tribes/barbarians/bakery/help.lua, line: 33
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 31
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 28
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 37
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 36
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 32
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 32
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 35
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 31
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 31
+# File: ../../tribes/barbarians/farm/help.lua, line: 30
+# File: ../../tribes/barbarians/fernery/help.lua, line: 29
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 33
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 25
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 33
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 33
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 33
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 34
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 32
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 44
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 30
+# File: ../../tribes/barbarians/oremine/help.lua, line: 33
+# File: ../../tribes/barbarians/quarry/help.lua, line: 30
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 27
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 37
+# File: ../../tribes/barbarians/warmill/help.lua, line: 33
+# File: ../../tribes/barbarians/well/help.lua, line: 31
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 31
 # File: ../../tribes/barbarians/bakery/help.lua, line: 33
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 31
@@ -640,77 +832,101 @@ msgstr "Construtor"
 # File: ../../tribes/barbarians/well/help.lua, line: 31
 msgid "Building"
 msgstr "Construindo"
-
 #
+# File: ../../tribes/barbarians/conf, line: 128
 # File: ../../tribes/barbarians/conf, line: 128
 msgid "Burner"
 msgstr "Queimador"
-
 #
+# File: ../../tribes/barbarians/burner/conf, line: 1
 # File: ../../tribes/barbarians/burner/conf, line: 1
 msgid "Burns coal."
 msgstr "Queima carvão"
-
+#
+# File: ../../tribes/barbarians/lime-burner/conf, line: 1
 # File: ../../tribes/barbarians/lime-burner/conf, line: 1
 msgid "Burns lime in the lime kiln."
 msgstr "Queima cal no forno da cal."
-
+#
+# File: ../../tribes/barbarians/farm/help.lua, line: 50
 # File: ../../tribes/barbarians/farm/help.lua, line: 50
 msgid "Calculation needed"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 115
+# File: ../../tribes/barbarians/well/help.lua, line: 42
 # File: ../../tribes/barbarians/conf, line: 115
 # File: ../../tribes/barbarians/well/help.lua, line: 42
 msgid "Carrier"
 msgstr "Carregador"
-
 #
+# File: ../../tribes/barbarians/carrier/conf, line: 1
 # File: ../../tribes/barbarians/carrier/conf, line: 1
 msgid "Carries items along the roads."
 msgstr "Carrega itens pelas estradas."
-
 #
+# File: ../../tribes/barbarians/quarry/help.lua, line: 17
 # File: ../../tribes/barbarians/quarry/help.lua, line: 17
 msgid "Carve %s out of stones standing near the hut."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 18
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 18
 msgid "Carve %s out of the rock in mountain terrain."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 161
+# File: ../../tribes/barbarians/conf, line: 170
 # File: ../../tribes/barbarians/conf, line: 161
 # File: ../../tribes/barbarians/conf, line: 170
 msgid "Castle"
 msgstr "Castelo"
-
 #
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 43
+# File: ../../tribes/barbarians/conf, line: 149
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 43
 # File: ../../tribes/barbarians/conf, line: 149
 msgid "Cattle Breeder"
 msgstr "Criador de Bois"
-
 #
+# File: ../../tribes/barbarians/conf, line: 205
+# File: ../../tribes/barbarians/farm/help.lua, line: 28
+# File: ../../tribes/barbarians/well/help.lua, line: 28
 # File: ../../tribes/barbarians/conf, line: 205
 # File: ../../tribes/barbarians/farm/help.lua, line: 28
 # File: ../../tribes/barbarians/well/help.lua, line: 28
 msgid "Cattle Farm"
 msgstr "Criação de Bois"
-
 #
+# File: ../../tribes/barbarians/conf, line: 199
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 28
 # File: ../../tribes/barbarians/conf, line: 199
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 28
 msgid "Charcoal Burner's House"
 msgstr "Carvoeiro"
-
 #
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 13
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 13
 msgid "Chief Chat'Karuth in a speech to his army."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/conf, line: 130
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 48
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 57
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 49
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 53
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 49
+# File: ../../tribes/barbarians/oremine/help.lua, line: 49
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 53
 # File: ../../tribes/barbarians/conf, line: 130
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 52
@@ -730,30 +946,45 @@ msgstr ""
 # File: ../../tribes/barbarians/oremine/help.lua, line: 49
 msgid "Chief Miner"
 msgstr "Mineiro chefe"
-
 #
+# File: ../../tribes/barbarians/conf, line: 224
 # File: ../../tribes/barbarians/conf, line: 224
 msgid "Citadel"
 msgstr "Cidadela"
-
 #
+# File: ../../tribes/barbarians/conf, line: 234
+# File: ../../tribes/barbarians/scripting/sc01_citadel_village.lua, line: 10
 # File: ../../tribes/barbarians/conf, line: 234
 # File: ../../tribes/barbarians/scripting/sc01_citadel_village.lua, line: 10
 msgid "Citadel village"
 msgstr "Aldeia da Cidadela"
-
 #
+# File: ../../tribes/barbarians/conf, line: 80
 # File: ../../tribes/barbarians/conf, line: 80
 msgid "Cloth"
 msgstr "Tecido"
-
 #
+# File: ../../tribes/barbarians/cloth/conf, line: 2
 # File: ../../tribes/barbarians/cloth/conf, line: 2
 msgid "Cloth is needed for barbarian ships. It is produced out of thatch reed."
 msgstr ""
 "O tecido é necessário ao barcos do Bárbaros. É produzido com fibras de colmo."
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 26
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 19
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 30
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/conf, line: 81
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 29
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 59
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 28
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 60
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 26
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 26
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 19
@@ -771,19 +1002,49 @@ msgstr ""
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 26
 msgid "Coal"
 msgstr "Carvão"
-
 #
+# File: ../../tribes/barbarians/warmill/help.lua, line: 27
 # File: ../../tribes/barbarians/warmill/help.lua, line: 27
 msgid "Coal from the Coal mine or the Charcoal Burner's House"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/conf, line: 212
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 38
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/conf, line: 212
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 38
 msgid "Coal mine"
 msgstr "Mina de carvão"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 19
+# File: ../../tribes/barbarians/bakery/help.lua, line: 18
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 20
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 18
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 21
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 21
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 20
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 20
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 21
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 20
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 20
+# File: ../../tribes/barbarians/farm/help.lua, line: 18
+# File: ../../tribes/barbarians/fernery/help.lua, line: 18
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 19
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 18
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 20
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 20
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 19
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 18
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 19
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 20
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 18
+# File: ../../tribes/barbarians/oremine/help.lua, line: 20
+# File: ../../tribes/barbarians/quarry/help.lua, line: 19
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 19
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 19
+# File: ../../tribes/barbarians/warmill/help.lua, line: 19
+# File: ../../tribes/barbarians/well/help.lua, line: 18
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 19
 # File: ../../tribes/barbarians/bakery/help.lua, line: 18
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 20
@@ -814,12 +1075,18 @@ msgstr "Mina de carvão"
 # File: ../../tribes/barbarians/well/help.lua, line: 18
 msgid "Conquer range:"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/shipyard/conf, line: 21
 # File: ../../tribes/barbarians/shipyard/conf, line: 21
 msgid "Constructing ship"
 msgstr "Construindo o Navio"
-
 #
+# File: ../../tribes/barbarians/conf, line: 155
+# File: ../../tribes/barbarians/fernery/help.lua, line: 25
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 30
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 31
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 27
+# File: ../../tribes/barbarians/quarry/help.lua, line: 27
 # File: ../../tribes/barbarians/conf, line: 155
 # File: ../../tribes/barbarians/fernery/help.lua, line: 25
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 30
@@ -828,7 +1095,15 @@ msgstr "Construindo o Navio"
 # File: ../../tribes/barbarians/quarry/help.lua, line: 27
 msgid "Construction Site"
 msgstr "Construção"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 40
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 42
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 38
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 38
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 41
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 37
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 37
+# File: ../../tribes/barbarians/warmill/help.lua, line: 42
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 40
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 42
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 38
@@ -839,7 +1114,35 @@ msgstr "Construção"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 42
 msgid "Cost cumulative:"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 55
+# File: ../../tribes/barbarians/bakery/help.lua, line: 49
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 49
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 42
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 49
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 51
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 47
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 47
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 51
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 47
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 47
+# File: ../../tribes/barbarians/farm/help.lua, line: 44
+# File: ../../tribes/barbarians/fernery/help.lua, line: 41
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 43
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 37
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 45
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 45
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 45
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 48
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 42
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 62
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 46
+# File: ../../tribes/barbarians/oremine/help.lua, line: 45
+# File: ../../tribes/barbarians/quarry/help.lua, line: 40
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 37
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 55
+# File: ../../tribes/barbarians/warmill/help.lua, line: 57
+# File: ../../tribes/barbarians/well/help.lua, line: 41
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 55
 # File: ../../tribes/barbarians/bakery/help.lua, line: 49
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 49
@@ -870,67 +1173,110 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 41
 msgid "Crew required:"
 msgstr ""
-
 #
 # File: ../../tribes/barbarians/stonemason/conf, line: 2
+# File: ../../tribes/barbarians/stonemason/conf, line: 1
 msgid "Cuts raw pieces of granite out of laying stones."
 msgstr "Extrai pedra dos rochedos."
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 46
+# File: ../../tribes/barbarians/conf, line: 211
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 37
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 46
 # File: ../../tribes/barbarians/conf, line: 211
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 37
 msgid "Deep Coal Mine"
 msgstr "Mina de carvão funda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 217
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 33
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 42
 # File: ../../tribes/barbarians/conf, line: 217
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 33
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 42
 msgid "Deep Gold Mine"
 msgstr "Mina de ouro funda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 214
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 33
+# File: ../../tribes/barbarians/oremine/help.lua, line: 42
 # File: ../../tribes/barbarians/conf, line: 214
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 33
 # File: ../../tribes/barbarians/oremine/help.lua, line: 42
 msgid "Deep Iron Ore Mine"
 msgstr "Mina de ferro funda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 210
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 17
 # File: ../../tribes/barbarians/conf, line: 210
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 48
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 17
 msgid "Deeper Coal Mine"
 msgstr "Mina de carvão muito profunda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 216
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 44
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/conf, line: 216
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 44
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 16
 msgid "Deeper Gold Mine"
 msgstr "Mina de ouro profunda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 213
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 44
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/conf, line: 213
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 44
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 16
 msgid "Deeper Iron Ore Mine"
 msgstr "Mina de ferro profunda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 65
 # File: ../../tribes/barbarians/conf, line: 65
 msgid "Deer"
 msgstr "Veado"
-
 #
+# File: ../../tribes/barbarians/soldier/conf, line: 1
 # File: ../../tribes/barbarians/soldier/conf, line: 1
 msgid "Defend and Conquer!"
 msgstr "Defende e Conquista!"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 22
+# File: ../../tribes/barbarians/bakery/help.lua, line: 21
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 23
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 21
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 24
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 24
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 23
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 23
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 24
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 23
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 23
+# File: ../../tribes/barbarians/farm/help.lua, line: 21
+# File: ../../tribes/barbarians/fernery/help.lua, line: 21
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 22
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 21
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 23
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 23
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 22
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 21
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 22
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 23
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 21
+# File: ../../tribes/barbarians/oremine/help.lua, line: 23
+# File: ../../tribes/barbarians/quarry/help.lua, line: 22
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 22
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 22
+# File: ../../tribes/barbarians/warmill/help.lua, line: 22
+# File: ../../tribes/barbarians/well/help.lua, line: 21
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 22
 # File: ../../tribes/barbarians/bakery/help.lua, line: 21
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 23
@@ -961,13 +1307,21 @@ msgstr "Defende e Conquista!"
 # File: ../../tribes/barbarians/well/help.lua, line: 21
 msgid "Dependencies"
 msgstr "Dependências"
-
 #
+# File: ../../tribes/barbarians/conf, line: 42
 # File: ../../tribes/barbarians/conf, line: 42
 msgid "Destroyed building"
 msgstr "Edifício destruído"
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 18
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 18
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 18
+# File: ../../tribes/barbarians/oremine/help.lua, line: 18
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 19
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 19
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 18
@@ -979,16 +1333,45 @@ msgstr "Edifício destruído"
 # File: ../../tribes/barbarians/oremine/help.lua, line: 18
 msgid "Dig %s out of the ground in mountain terrain."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/geologist/conf, line: 1
 # File: ../../tribes/barbarians/geologist/conf, line: 1
 msgid "Discovers resources for mining."
 msgstr "Descobre recursos para minerar."
-
+#
+# File: ../../tribes/barbarians/conf, line: 158
 # File: ../../tribes/barbarians/conf, line: 158
 msgid "Dismantle Site"
 msgstr "Desmontar local"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 46
+# File: ../../tribes/barbarians/bakery/help.lua, line: 41
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 40
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 35
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 43
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 45
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 41
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 41
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 45
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 41
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 41
+# File: ../../tribes/barbarians/farm/help.lua, line: 37
+# File: ../../tribes/barbarians/fernery/help.lua, line: 35
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 38
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 31
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 39
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 39
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 39
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 41
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 37
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 53
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 38
+# File: ../../tribes/barbarians/oremine/help.lua, line: 39
+# File: ../../tribes/barbarians/quarry/help.lua, line: 35
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 32
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 46
+# File: ../../tribes/barbarians/warmill/help.lua, line: 48
+# File: ../../tribes/barbarians/well/help.lua, line: 36
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 46
 # File: ../../tribes/barbarians/bakery/help.lua, line: 41
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 40
@@ -1019,33 +1402,65 @@ msgstr "Desmontar local"
 # File: ../../tribes/barbarians/well/help.lua, line: 36
 msgid "Dismantle yields:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 226
 # File: ../../tribes/barbarians/conf, line: 226
 msgid "Donjon"
 msgstr "Torre de Menagem"
-
 #
+# File: ../../tribes/barbarians/well/help.lua, line: 16
 # File: ../../tribes/barbarians/well/help.lua, line: 16
 msgid "Draw Water out of the deep."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 55
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 55
 msgid "Evade"
 msgstr "Evasão"
-
+#
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 26
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 26
 msgid "Evade Training:"
 msgstr "Treino de Evasão:"
-
 #
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 13
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 13
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 13
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 13
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 13
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 13
 msgid ""
 "Excerpt from \"Our Treasures Underground\",<br> a traditional Barbarian song."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 58
+# File: ../../tribes/barbarians/bakery/help.lua, line: 52
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 52
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 45
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 51
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 51
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 52
+# File: ../../tribes/barbarians/farm/help.lua, line: 47
+# File: ../../tribes/barbarians/fernery/help.lua, line: 44
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 46
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 40
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 48
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 48
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 48
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 51
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 45
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 65
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 49
+# File: ../../tribes/barbarians/oremine/help.lua, line: 48
+# File: ../../tribes/barbarians/quarry/help.lua, line: 43
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 40
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 58
+# File: ../../tribes/barbarians/warmill/help.lua, line: 61
+# File: ../../tribes/barbarians/well/help.lua, line: 44
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 58
 # File: ../../tribes/barbarians/bakery/help.lua, line: 52
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 52
@@ -1076,143 +1491,186 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 44
 msgid "Experience levels:"
 msgstr "Níveis experimentais:"
-
 #
+# File: ../../tribes/barbarians/conf, line: 207
 # File: ../../tribes/barbarians/conf, line: 207
 msgid "Farm"
 msgstr "Quinta"
-
 #
+# File: ../../tribes/barbarians/conf, line: 131
+# File: ../../tribes/barbarians/farm/help.lua, line: 45
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 40
 # File: ../../tribes/barbarians/conf, line: 131
 # File: ../../tribes/barbarians/farm/help.lua, line: 45
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 40
 msgid "Farmer"
 msgstr "Agricultor"
-
 #
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 17
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 17
 msgid "Fell trees in the surrounding area and process them into trunks."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 82
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 44
 # File: ../../tribes/barbarians/conf, line: 82
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 44
 msgid "Felling Axe"
 msgstr "Machado de Lenhador"
-
 #
+# File: ../../tribes/barbarians/lumberjack/conf, line: 1
 # File: ../../tribes/barbarians/lumberjack/conf, line: 1
 msgid "Fells trees."
 msgstr "Abate as árvores."
-
 #
+# File: ../../tribes/barbarians/conf, line: 132
+# File: ../../tribes/barbarians/fernery/help.lua, line: 42
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 42
 # File: ../../tribes/barbarians/conf, line: 132
 # File: ../../tribes/barbarians/fernery/help.lua, line: 42
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 42
 msgid "Ferner"
 msgstr "Agricultor do linho"
-
 #
+# File: ../../tribes/barbarians/conf, line: 192
 # File: ../../tribes/barbarians/conf, line: 192
 msgid "Fernery"
 msgstr "Quinta do Colmo"
-
 #
+# File: ../../tribes/barbarians/conf, line: 47
 # File: ../../tribes/barbarians/conf, line: 47
 msgid "Field harvested"
 msgstr "Campo ceifado"
-
 #
+# File: ../../tribes/barbarians/conf, line: 43
 # File: ../../tribes/barbarians/conf, line: 43
 msgid "Field medium"
 msgstr "Campo médio"
-
 #
+# File: ../../tribes/barbarians/conf, line: 46
 # File: ../../tribes/barbarians/conf, line: 46
 msgid "Field ripe"
 msgstr "Campo maduro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 44
 # File: ../../tribes/barbarians/conf, line: 44
 msgid "Field small"
 msgstr "Campo pequeno"
-
 #
+# File: ../../tribes/barbarians/conf, line: 45
 # File: ../../tribes/barbarians/conf, line: 45
 msgid "Field tiny"
 msgstr "Campo muito pequeno"
-
 #
+# File: ../../tribes/barbarians/conf, line: 83
 # File: ../../tribes/barbarians/conf, line: 83
 msgid "Fire Tongs"
 msgstr "Pinças de fogo"
-
 #
+# File: ../../tribes/barbarians/fire_tongs/conf, line: 1
 # File: ../../tribes/barbarians/fire_tongs/conf, line: 1
 msgid ""
 "Fire tongs are tools of the smelter, who works in the smelting works. "
 "Produced in the metal works (but ceases to be produced by the building if it "
 "is enhanced to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 29
+# File: ../../tribes/barbarians/conf, line: 84
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 26
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 35
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 29
 # File: ../../tribes/barbarians/conf, line: 84
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 26
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 35
 msgid "Fish"
 msgstr "Peixe"
-
 #
+# File: ../../tribes/barbarians/conf, line: 133
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 44
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 49
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 31
 # File: ../../tribes/barbarians/conf, line: 133
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 44
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 49
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 31
 msgid "Fisher"
 msgstr "Pescador"
-
 #
+# File: ../../tribes/barbarians/conf, line: 185
 # File: ../../tribes/barbarians/conf, line: 185
 msgid "Fisher's Hut"
 msgstr "Cabana do pescador"
-
 #
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 17
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 17
 msgid "Fishes on the coast near the hut."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 85
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 45
 # File: ../../tribes/barbarians/conf, line: 85
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 45
 msgid "Fishing Rod"
 msgstr "Cana de pesca"
-
 #
+# File: ../../tribes/barbarians/fishing_rod/conf, line: 1
 # File: ../../tribes/barbarians/fishing_rod/conf, line: 1
 msgid ""
 "Fishing rods are needed by barbarian fishers for fishing. It is one of the "
 "basic tools produced in a metalwork shop (but ceases to be produced by the "
 "building if it is enhanced to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 171
+# File: ../../tribes/barbarians/conf, line: 225
 # File: ../../tribes/barbarians/conf, line: 171
 # File: ../../tribes/barbarians/conf, line: 225
 msgid "Fortress"
 msgstr "Fortaleza"
-
 #
+# File: ../../tribes/barbarians/conf, line: 134
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 38
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 43
 # File: ../../tribes/barbarians/conf, line: 134
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 38
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 43
 msgid "Gamekeeper"
 msgstr "Couteiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 187
 # File: ../../tribes/barbarians/conf, line: 187
 msgid "Gamekeeper's Hut"
 msgstr "Coutada"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 15
+# File: ../../tribes/barbarians/bakery/help.lua, line: 15
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 15
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 15
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 15
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 15
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 15
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 15
+# File: ../../tribes/barbarians/farm/help.lua, line: 15
+# File: ../../tribes/barbarians/fernery/help.lua, line: 15
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 15
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 15
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 15
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 15
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 15
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 15
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 15
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 15
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 15
+# File: ../../tribes/barbarians/oremine/help.lua, line: 15
+# File: ../../tribes/barbarians/quarry/help.lua, line: 15
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 16
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 15
+# File: ../../tribes/barbarians/warmill/help.lua, line: 15
+# File: ../../tribes/barbarians/well/help.lua, line: 15
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 15
 # File: ../../tribes/barbarians/bakery/help.lua, line: 15
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 15
@@ -1243,19 +1701,25 @@ msgstr "Coutada"
 # File: ../../tribes/barbarians/well/help.lua, line: 15
 msgid "General"
 msgstr "Geral"
-
 #
+# File: ../../tribes/barbarians/conf, line: 135
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 33
 # File: ../../tribes/barbarians/conf, line: 135
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 33
 msgid "Geologist"
 msgstr "Geólogo"
-
 #
+# File: ../../tribes/barbarians/fisher/conf, line: 1
 # File: ../../tribes/barbarians/fisher/conf, line: 1
 msgid "Gets fish out of the sea."
 msgstr "Pesca junto aos lagos e ao mar."
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 35
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 41
+# File: ../../tribes/barbarians/conf, line: 86
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 41
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 47
+# File: ../../tribes/barbarians/warmill/help.lua, line: 25
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 35
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 41
 # File: ../../tribes/barbarians/conf, line: 86
@@ -1264,15 +1728,32 @@ msgstr "Pesca junto aos lagos e ao mar."
 # File: ../../tribes/barbarians/warmill/help.lua, line: 25
 msgid "Gold"
 msgstr "Ouro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 218
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 34
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/conf, line: 218
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 34
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 16
 msgid "Gold Mine"
 msgstr "Mina de ouro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 87
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 28
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 30
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 16
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 27
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 29
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 56
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 16
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 18
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 29
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 31
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 52
 # File: ../../tribes/barbarians/conf, line: 87
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 16
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 18
@@ -1291,8 +1772,8 @@ msgstr "Mina de ouro"
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 52
 msgid "Gold Ore"
 msgstr "Minério de Ouro"
-
 #
+# File: ../../tribes/barbarians/gold/conf, line: 1
 # File: ../../tribes/barbarians/gold/conf, line: 1
 msgid ""
 "Gold is the most valuable of all metals; only very important things are "
@@ -1300,22 +1781,37 @@ msgid ""
 "used as a precious building material and to produce different axes (in the "
 "war mill) and different armours (in the helmsmithy)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/goldstone/conf, line: 5
 # File: ../../tribes/barbarians/goldstone/conf, line: 5
 msgid ""
 "Gold ore is mined in a goldmine. Smelted in a smelting works it becomes "
 "gold, which is used as a precious building material and to produce weapons "
 "and armours."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 209
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 16
 # File: ../../tribes/barbarians/conf, line: 209
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 16
 msgid "Granite Mine"
 msgstr "Mina de granito"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 38
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 44
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 50
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 38
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 44
+# File: ../../tribes/barbarians/conf, line: 88
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 30
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 54
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 51
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 57
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 44
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 50
+# File: ../../tribes/barbarians/warmill/help.lua, line: 40
+# File: ../../tribes/barbarians/warmill/help.lua, line: 46
+# File: ../../tribes/barbarians/warmill/help.lua, line: 52
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 38
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 44
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 50
@@ -1333,64 +1829,74 @@ msgstr "Mina de granito"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 52
 msgid "Grout"
 msgstr "Argamassa"
-
 #
+# File: ../../tribes/barbarians/ferner/conf, line: 1
 # File: ../../tribes/barbarians/ferner/conf, line: 1
 msgid "Grows thatch reed."
 msgstr "Cultiva colmo"
-
 #
+# File: ../../tribes/barbarians/conf, line: 162
 # File: ../../tribes/barbarians/conf, line: 162
 msgid "Guardhall"
 msgstr "Guarda"
-
 #
+# File: ../../tribes/barbarians/conf, line: 163
 # File: ../../tribes/barbarians/conf, line: 163
 msgid "Guardhouse"
 msgstr "Casa da Guarda"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 57
+# File: ../../tribes/barbarians/conf, line: 89
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 64
+# File: ../../tribes/barbarians/warmill/help.lua, line: 60
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 57
 # File: ../../tribes/barbarians/conf, line: 89
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 64
 # File: ../../tribes/barbarians/warmill/help.lua, line: 60
 msgid "Hammer"
 msgstr "Martelo"
-
 #
+# File: ../../tribes/barbarians/fernery/conf, line: 17
 # File: ../../tribes/barbarians/fernery/conf, line: 17
 msgid "Harvest reed"
 msgstr "Colheira de colmo"
-
 #
 # File: ../../tribes/barbarians/farm/conf, line: 19
+# File: ../../tribes/barbarians/farm/conf, line: 18
 msgid "Harvest wheat"
 msgstr "Colheita de trigo"
-
 #
+# File: ../../tribes/barbarians/conf, line: 176
+# File: ../../tribes/barbarians/conf, line: 177
 # File: ../../tribes/barbarians/conf, line: 176
 # File: ../../tribes/barbarians/conf, line: 177
 msgid "Headquarters"
 msgstr "Quartel-general"
-
 #
+# File: ../../tribes/barbarians/conf, line: 233
+# File: ../../tribes/barbarians/scripting/sc00_headquarters_medium.lua, line: 10
 # File: ../../tribes/barbarians/conf, line: 233
 # File: ../../tribes/barbarians/scripting/sc00_headquarters_medium.lua, line: 10
 msgid "Headquarters medium"
 msgstr "Quartel-general médio"
-
 #
+# File: ../../tribes/barbarians/conf, line: 90
 # File: ../../tribes/barbarians/conf, line: 90
 msgid "Helmet"
 msgstr "Elmo"
-
 #
+# File: ../../tribes/barbarians/conf, line: 136
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 34
 # File: ../../tribes/barbarians/conf, line: 136
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 34
 msgid "Helmsmith"
 msgstr "Armador de Elmos"
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 33
+# File: ../../tribes/barbarians/conf, line: 208
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 32
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 31
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 32
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 33
 # File: ../../tribes/barbarians/conf, line: 208
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 32
@@ -1398,80 +1904,91 @@ msgstr "Armador de Elmos"
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 32
 msgid "Helmsmithy"
 msgstr "Loja do Armador de Elmos"
-
 #
+# File: ../../tribes/barbarians/ox/conf, line: 1
 # File: ../../tribes/barbarians/ox/conf, line: 1
 msgid "Helps to carry items at heavily used roads."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 164
 # File: ../../tribes/barbarians/conf, line: 164
 msgid "High Tower"
 msgstr "Torre elevada"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 msgid "Hitpoints"
 msgstr "Pontos de vida"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 30
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 30
 msgid "Hitpoints Training:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/kitchen_tools/conf, line: 1
 # File: ../../tribes/barbarians/kitchen_tools/conf, line: 1
 msgid ""
 "How can one create a meal, snack or ration, if there are no kitchen tools? "
 "Be sure to have a metalworks to produce this basic tool (but ceases to be "
 "produced by the building if it is enhanced to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 17
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 17
 msgid "Hunt animals to produce meat."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 137
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 46
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 51
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 36
 # File: ../../tribes/barbarians/conf, line: 137
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 46
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 51
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 36
 msgid "Hunter"
 msgstr "Caçador"
-
 #
+# File: ../../tribes/barbarians/conf, line: 186
 # File: ../../tribes/barbarians/conf, line: 186
 msgid "Hunter's Hut"
 msgstr "Cabana do caçador"
-
 #
+# File: ../../tribes/barbarians/conf, line: 91
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 47
 # File: ../../tribes/barbarians/conf, line: 91
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 47
 msgid "Hunting Spear"
 msgstr "Lança de caça"
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 55
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 55
 msgid ""
 "If all needed wares are delivered in time, a %s can train %s for one soldier "
 "from 0 to the highest level in %s on average."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
 msgid ""
 "If all needed wares are delivered in time, a %s can train one new soldier in "
 "%s and %s to the final level in %s on average."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 55
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 48
 # File: ../../tribes/barbarians/bakery/help.lua, line: 55
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 48
 msgid ""
 "If all needed wares are delivered in time, this building can produce %s in "
 "%s on average."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 63
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 54
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 70
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 53
+# File: ../../tribes/barbarians/warmill/help.lua, line: 65
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 63
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 54
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 70
@@ -1481,8 +1998,17 @@ msgid ""
 "If all needed wares are delivered in time, this building can produce %s in "
 "about %s on average."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 59
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 60
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 56
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 52
+# File: ../../tribes/barbarians/oremine/help.lua, line: 52
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 56
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 59
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 55
@@ -1496,7 +2022,33 @@ msgstr ""
 msgid ""
 "If the food supply is steady, this mine can produce %s in %s on average."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 23
+# File: ../../tribes/barbarians/bakery/help.lua, line: 22
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 22
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 24
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 24
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 24
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 24
+# File: ../../tribes/barbarians/farm/help.lua, line: 22
+# File: ../../tribes/barbarians/fernery/help.lua, line: 22
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 24
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 22
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 24
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 24
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 24
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 22
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 24
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 24
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 22
+# File: ../../tribes/barbarians/oremine/help.lua, line: 24
+# File: ../../tribes/barbarians/quarry/help.lua, line: 24
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 24
+# File: ../../tribes/barbarians/warmill/help.lua, line: 23
+# File: ../../tribes/barbarians/well/help.lua, line: 22
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 23
 # File: ../../tribes/barbarians/bakery/help.lua, line: 22
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 22
@@ -1525,8 +2077,12 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 22
 msgid "Incoming:"
 msgstr "Rendimento:"
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 28
+# File: ../../tribes/barbarians/conf, line: 197
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 30
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 30
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 27
 # File: ../../tribes/barbarians/bakery/help.lua, line: 28
 # File: ../../tribes/barbarians/conf, line: 197
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 30
@@ -1534,29 +2090,48 @@ msgstr "Rendimento:"
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 27
 msgid "Inn"
 msgstr "Hospedaria"
-
 #
+# File: ../../tribes/barbarians/conf, line: 138
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 37
 # File: ../../tribes/barbarians/conf, line: 138
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 37
 msgid "Innkeeper"
 msgstr "Estalajadeiro"
-
 #
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 13
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 13
 msgid ""
 "Inscription on the threshold of the now ruined Olde Forge at Harradsheim, "
 "the eldest known smithy."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 24
+# File: ../../tribes/barbarians/conf, line: 92
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 25
+# File: ../../tribes/barbarians/warmill/help.lua, line: 24
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 24
 # File: ../../tribes/barbarians/conf, line: 92
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 25
 # File: ../../tribes/barbarians/warmill/help.lua, line: 24
 msgid "Iron"
 msgstr "Ferro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 93
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 18
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 28
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 30
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 16
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 18
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 27
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 29
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 56
+# File: ../../tribes/barbarians/oremine/help.lua, line: 16
+# File: ../../tribes/barbarians/oremine/help.lua, line: 18
+# File: ../../tribes/barbarians/oremine/help.lua, line: 29
+# File: ../../tribes/barbarians/oremine/help.lua, line: 31
+# File: ../../tribes/barbarians/oremine/help.lua, line: 52
 # File: ../../tribes/barbarians/conf, line: 93
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 18
@@ -1575,55 +2150,65 @@ msgstr "Ferro"
 # File: ../../tribes/barbarians/oremine/help.lua, line: 52
 msgid "Iron Ore"
 msgstr "Minério de ferro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 215
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 34
+# File: ../../tribes/barbarians/oremine/help.lua, line: 16
 # File: ../../tribes/barbarians/conf, line: 215
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 34
 # File: ../../tribes/barbarians/oremine/help.lua, line: 16
 msgid "Iron Ore Mine"
 msgstr "Mina de minério de ferro"
-
 #
+# File: ../../tribes/barbarians/iron/conf, line: 1
 # File: ../../tribes/barbarians/iron/conf, line: 1
 msgid ""
 "Iron is obtained out of iron ores in the smelting works. It is used to "
 "produce weapons and tools in the metalwork shop, axefactory, war mill and in "
 "the helmsmithy."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/ironore/conf, line: 1
 # File: ../../tribes/barbarians/ironore/conf, line: 1
 msgid ""
 "Iron ores are mined in iron mines. They deliver iron when smelted in a "
 "smelting works."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 17
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 17
 msgid "It can make Axes, Sharp Axes and Broad Axes."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 18
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 18
 msgid ""
 "It can make Bread Paddles, Felling Axes, Fire Tongs, Fishing Rods, Hammers, "
 "Hunting Spears, Kitchen Tools, Picks, Scythes and Shovels."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 16
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 16
 msgid "It can not be upgraded."
 msgstr "Não pode ser melhorado."
-
 #
+# File: ../../tribes/barbarians/conf, line: 94
 # File: ../../tribes/barbarians/conf, line: 94
 msgid "Kitchen Tools"
 msgstr "Utensílios de cozinha"
-
+#
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 13
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 13
 msgid "Krumta, carpenter of Chat'Karuth"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 35
+# File: ../../tribes/barbarians/conf, line: 191
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 34
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 33
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 31
+# File: ../../tribes/barbarians/quarry/help.lua, line: 28
+# File: ../../tribes/barbarians/well/help.lua, line: 29
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 35
 # File: ../../tribes/barbarians/conf, line: 191
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 34
@@ -1633,13 +2218,42 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 29
 msgid "Lime Kiln"
 msgstr "Forno de cal"
-
 #
+# File: ../../tribes/barbarians/conf, line: 139
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 49
 # File: ../../tribes/barbarians/conf, line: 139
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 49
 msgid "Lime-Burner"
 msgstr "Queimador de cal"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 10
+# File: ../../tribes/barbarians/bakery/help.lua, line: 10
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 10
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 10
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 10
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 10
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 10
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 10
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 10
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 10
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 10
+# File: ../../tribes/barbarians/farm/help.lua, line: 10
+# File: ../../tribes/barbarians/fernery/help.lua, line: 10
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 10
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 10
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 10
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 10
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 10
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 10
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 10
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 10
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 10
+# File: ../../tribes/barbarians/oremine/help.lua, line: 10
+# File: ../../tribes/barbarians/quarry/help.lua, line: 10
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 10
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 10
+# File: ../../tribes/barbarians/warmill/help.lua, line: 10
+# File: ../../tribes/barbarians/well/help.lua, line: 10
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 10
 # File: ../../tribes/barbarians/bakery/help.lua, line: 10
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 10
@@ -1670,25 +2284,31 @@ msgstr "Queimador de cal"
 # File: ../../tribes/barbarians/well/help.lua, line: 10
 msgid "Lore"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 140
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 43
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 29
 # File: ../../tribes/barbarians/conf, line: 140
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 43
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 29
 msgid "Lumberjack"
 msgstr "Lenhador"
-
 #
+# File: ../../tribes/barbarians/conf, line: 183
 # File: ../../tribes/barbarians/conf, line: 183
 msgid "Lumberjack's Hut"
 msgstr "Cabana do lenhador"
-
 #
+# File: ../../tribes/barbarians/conf, line: 95
 # File: ../../tribes/barbarians/conf, line: 95
 msgid "Mask"
 msgstr "Máscara"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 60
+# File: ../../tribes/barbarians/conf, line: 123
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 67
+# File: ../../tribes/barbarians/warmill/help.lua, line: 58
+# File: ../../tribes/barbarians/warmill/help.lua, line: 62
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 60
 # File: ../../tribes/barbarians/conf, line: 123
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 67
@@ -1696,14 +2316,28 @@ msgstr "Máscara"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 62
 msgid "Master Blacksmith"
 msgstr "Mestre Ferreiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 125
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 50
 # File: ../../tribes/barbarians/conf, line: 125
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 50
 msgid "Master Brewer"
 msgstr "Mestre Cervejeiro"
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/conf, line: 129
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 57
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 48
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 53
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 49
+# File: ../../tribes/barbarians/oremine/help.lua, line: 49
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 53
 # File: ../../tribes/barbarians/conf, line: 129
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 56
@@ -1720,24 +2354,30 @@ msgstr "Mestre Cervejeiro"
 # File: ../../tribes/barbarians/oremine/help.lua, line: 49
 msgid "Master Miner"
 msgstr "Mestre Mineiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 96
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 25
 # File: ../../tribes/barbarians/conf, line: 96
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 26
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 25
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 25
 msgid "Meal"
 msgstr "Refeição"
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 29
+# File: ../../tribes/barbarians/conf, line: 97
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 26
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 35
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 29
 # File: ../../tribes/barbarians/conf, line: 97
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 26
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 35
 msgid "Meat"
 msgstr "Carne"
-
 #
+# File: ../../tribes/barbarians/meat/conf, line: 1
 # File: ../../tribes/barbarians/meat/conf, line: 1
 msgid ""
 "Meat contains a lot of energy. It is produced by the hunters and used in the "
@@ -1745,7 +2385,14 @@ msgid ""
 "miners. It is also consumed in the training sites (trainingscamp and battle "
 "arena)."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 32
+# File: ../../tribes/barbarians/bakery/help.lua, line: 34
+# File: ../../tribes/barbarians/fernery/help.lua, line: 30
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 35
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 45
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 31
+# File: ../../tribes/barbarians/warmill/help.lua, line: 34
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 32
 # File: ../../tribes/barbarians/bakery/help.lua, line: 34
 # File: ../../tribes/barbarians/fernery/help.lua, line: 30
@@ -1755,21 +2402,35 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 34
 msgid "Medium plot"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 33
+# File: ../../tribes/barbarians/conf, line: 204
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 29
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 33
 # File: ../../tribes/barbarians/conf, line: 204
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 29
 msgid "Metalwork Shop"
 msgstr "Loja do Ferreiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 195
+# File: ../../tribes/barbarians/farm/help.lua, line: 26
+# File: ../../tribes/barbarians/well/help.lua, line: 26
 # File: ../../tribes/barbarians/conf, line: 195
 # File: ../../tribes/barbarians/farm/help.lua, line: 26
 # File: ../../tribes/barbarians/well/help.lua, line: 26
 msgid "Micro Brewery"
 msgstr "Pequena cervejeira"
-
+#
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 38
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 37
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 33
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 33
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 36
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 32
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 32
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 34
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 34
+# File: ../../tribes/barbarians/oremine/help.lua, line: 34
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 38
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 37
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 33
@@ -1782,8 +2443,29 @@ msgstr "Pequena cervejeira"
 # File: ../../tribes/barbarians/oremine/help.lua, line: 34
 msgid "Mine plot"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 50
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/conf, line: 141
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 49
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 52
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 54
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 57
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 53
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 50
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 53
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 46
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 49
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 46
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 49
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 38
+# File: ../../tribes/barbarians/oremine/help.lua, line: 46
+# File: ../../tribes/barbarians/oremine/help.lua, line: 49
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 50
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 53
 # File: ../../tribes/barbarians/conf, line: 141
@@ -1808,13 +2490,13 @@ msgstr ""
 # File: ../../tribes/barbarians/oremine/help.lua, line: 49
 msgid "Miner"
 msgstr "Mineiro"
-
 #
+# File: ../../tribes/barbarians/scripting/sc01_citadel_village.lua, line: 94
 # File: ../../tribes/barbarians/scripting/sc01_citadel_village.lua, line: 94
 msgid "Not enough space"
 msgstr "Espaço insuficiente"
-
 #
+# File: ../../tribes/barbarians/strongbeer/conf, line: 1
 # File: ../../tribes/barbarians/strongbeer/conf, line: 1
 msgid ""
 "Only this beer is acceptable for the warriors in a battle arena. Some say, "
@@ -1822,7 +2504,33 @@ msgid ""
 "soldier's evade level from 0 to 1 to 2. Strong beer is also used in big inns "
 "to prepare meals."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 27
+# File: ../../tribes/barbarians/bakery/help.lua, line: 25
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 25
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 29
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 28
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 27
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 27
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 27
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 26
+# File: ../../tribes/barbarians/farm/help.lua, line: 23
+# File: ../../tribes/barbarians/fernery/help.lua, line: 23
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 25
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 23
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 28
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 28
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 25
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 29
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 25
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 27
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 25
+# File: ../../tribes/barbarians/oremine/help.lua, line: 28
+# File: ../../tribes/barbarians/quarry/help.lua, line: 25
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 25
+# File: ../../tribes/barbarians/warmill/help.lua, line: 28
+# File: ../../tribes/barbarians/well/help.lua, line: 23
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 27
 # File: ../../tribes/barbarians/bakery/help.lua, line: 25
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 25
@@ -1851,20 +2559,49 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 23
 msgid "Outgoing:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 172
 # File: ../../tribes/barbarians/conf, line: 172
 msgid "Outpost"
 msgstr "Posto Avançado"
-
 #
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 26
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 48
+# File: ../../tribes/barbarians/conf, line: 116
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 26
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 48
 # File: ../../tribes/barbarians/conf, line: 116
 msgid "Ox"
 msgstr "Boi"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 63
+# File: ../../tribes/barbarians/bakery/help.lua, line: 55
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 55
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 48
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 59
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 60
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 56
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 56
+# File: ../../tribes/barbarians/farm/help.lua, line: 50
+# File: ../../tribes/barbarians/fernery/help.lua, line: 47
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 49
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 43
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 52
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 52
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 51
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 54
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 48
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 70
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 53
+# File: ../../tribes/barbarians/oremine/help.lua, line: 52
+# File: ../../tribes/barbarians/quarry/help.lua, line: 46
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 43
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
+# File: ../../tribes/barbarians/warmill/help.lua, line: 65
+# File: ../../tribes/barbarians/well/help.lua, line: 47
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 63
 # File: ../../tribes/barbarians/bakery/help.lua, line: 55
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 55
@@ -1895,8 +2632,19 @@ msgstr "Boi"
 # File: ../../tribes/barbarians/well/help.lua, line: 47
 msgid "Performance:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 51
+# File: ../../tribes/barbarians/conf, line: 98
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 54
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 50
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 51
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 51
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 47
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 47
+# File: ../../tribes/barbarians/oremine/help.lua, line: 47
+# File: ../../tribes/barbarians/quarry/help.lua, line: 42
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 51
 # File: ../../tribes/barbarians/conf, line: 98
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 54
@@ -1911,8 +2659,12 @@ msgstr ""
 # File: ../../tribes/barbarians/quarry/help.lua, line: 42
 msgid "Pick"
 msgstr "Picareta"
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 26
+# File: ../../tribes/barbarians/bakery/help.lua, line: 55
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 27
+# File: ../../tribes/barbarians/conf, line: 99
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 34
 # File: ../../tribes/barbarians/bakery/help.lua, line: 26
 # File: ../../tribes/barbarians/bakery/help.lua, line: 55
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 27
@@ -1920,175 +2672,212 @@ msgstr "Picareta"
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 34
 msgid "Pitta Bread"
 msgstr "Pão pita"
-
 #
+# File: ../../tribes/barbarians/fernery/conf, line: 15
 # File: ../../tribes/barbarians/fernery/conf, line: 15
 msgid "Plant reed"
 msgstr "Plantar colmo"
-
 #
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 17
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 17
 msgid "Plant trees in the surrounding area."
 msgstr ""
-
 #
 # File: ../../tribes/barbarians/farm/conf, line: 17
+# File: ../../tribes/barbarians/farm/conf, line: 16
 msgid "Plant wheat"
 msgstr "Plantar trigo"
-
 #
 # File: ../../tribes/barbarians/farmer/conf, line: 2
+# File: ../../tribes/barbarians/farmer/conf, line: 1
 msgid "Plants fields."
 msgstr "Cultivar os campos."
-
 #
+# File: ../../tribes/barbarians/ranger/conf, line: 1
 # File: ../../tribes/barbarians/ranger/conf, line: 1
 msgid "Plants trees."
 msgstr "Planta árvores."
-
+#
+# File: ../../tribes/barbarians/conf, line: 179
 # File: ../../tribes/barbarians/conf, line: 179
 msgid "Port"
 msgstr "Porto"
-
 #
 # File: ../../tribes/barbarians/axefactory/conf, line: 29
 # File: ../../tribes/barbarians/warmill/conf, line: 33
+# File: ../../tribes/barbarians/axefactory/conf, line: 27
+# File: ../../tribes/barbarians/warmill/conf, line: 31
 msgid "Produce axe"
 msgstr "Produz machados"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 34
+# File: ../../tribes/barbarians/metalworks/conf, line: 33
 msgid "Produce bakingtray"
 msgstr "Produz pá de forno"
-
 #
 # File: ../../tribes/barbarians/warmill/conf, line: 37
+# File: ../../tribes/barbarians/warmill/conf, line: 35
 msgid "Produce battleaxe"
 msgstr "Produz machados de guerra"
-
 #
 # File: ../../tribes/barbarians/axefactory/conf, line: 31
 # File: ../../tribes/barbarians/warmill/conf, line: 35
+# File: ../../tribes/barbarians/axefactory/conf, line: 29
+# File: ../../tribes/barbarians/warmill/conf, line: 33
 msgid "Produce broadaxe"
 msgstr "Produz machados largos"
-
 #
 # File: ../../tribes/barbarians/warmill/conf, line: 36
+# File: ../../tribes/barbarians/warmill/conf, line: 34
 msgid "Produce bronzeaxe"
 msgstr "Produz machados de bronze"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 33
+# File: ../../tribes/barbarians/metalworks/conf, line: 32
 msgid "Produce felling axe"
 msgstr "Produz Machado de Lenhador"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 35
+# File: ../../tribes/barbarians/metalworks/conf, line: 34
 msgid "Produce fire tongs"
 msgstr "Produz pinças de fogo"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 36
+# File: ../../tribes/barbarians/metalworks/conf, line: 35
 msgid "Produce fishing rod"
 msgstr "Produz canas de pesca"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 37
+# File: ../../tribes/barbarians/metalworks/conf, line: 36
 msgid "Produce hammer"
 msgstr "Produz martelos"
-
 #
+# File: ../../tribes/barbarians/helmsmithy/conf, line: 25
 # File: ../../tribes/barbarians/helmsmithy/conf, line: 25
 msgid "Produce helm"
 msgstr "Produz elmos"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 42
+# File: ../../tribes/barbarians/metalworks/conf, line: 41
 msgid "Produce hunting spear"
 msgstr "Produz lança de caça"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 38
+# File: ../../tribes/barbarians/metalworks/conf, line: 37
 msgid "Produce kitchen tools"
 msgstr "Produz utensilios de cozinha"
-
 #
+# File: ../../tribes/barbarians/helmsmithy/conf, line: 26
 # File: ../../tribes/barbarians/helmsmithy/conf, line: 26
 msgid "Produce mask"
 msgstr "Produz máscara"
-
 #
+# File: ../../tribes/barbarians/big_inn/conf, line: 26
 # File: ../../tribes/barbarians/big_inn/conf, line: 26
 msgid "Produce meal"
 msgstr "Produz refeição"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 39
+# File: ../../tribes/barbarians/metalworks/conf, line: 38
 msgid "Produce pick"
 msgstr "Produz picareta"
-
 #
+# File: ../../tribes/barbarians/big_inn/conf, line: 24
+# File: ../../tribes/barbarians/inn/conf, line: 23
+# File: ../../tribes/barbarians/tavern/conf, line: 23
 # File: ../../tribes/barbarians/big_inn/conf, line: 24
 # File: ../../tribes/barbarians/inn/conf, line: 23
 # File: ../../tribes/barbarians/tavern/conf, line: 23
 msgid "Produce ration"
 msgstr "Produz ração"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 40
+# File: ../../tribes/barbarians/metalworks/conf, line: 39
 msgid "Produce scythe"
 msgstr "Produz foice"
-
 #
 # File: ../../tribes/barbarians/axefactory/conf, line: 30
 # File: ../../tribes/barbarians/warmill/conf, line: 34
+# File: ../../tribes/barbarians/axefactory/conf, line: 28
+# File: ../../tribes/barbarians/warmill/conf, line: 32
 msgid "Produce sharpaxe"
 msgstr "Produz machado afiado"
-
 #
 # File: ../../tribes/barbarians/metalworks/conf, line: 41
+# File: ../../tribes/barbarians/metalworks/conf, line: 40
 msgid "Produce shovel"
 msgstr "Produz pá"
-
 #
+# File: ../../tribes/barbarians/big_inn/conf, line: 25
+# File: ../../tribes/barbarians/inn/conf, line: 24
 # File: ../../tribes/barbarians/big_inn/conf, line: 25
 # File: ../../tribes/barbarians/inn/conf, line: 24
 msgid "Produce snack"
 msgstr "Produce lanche"
-
 #
+# File: ../../tribes/barbarians/helmsmithy/conf, line: 27
 # File: ../../tribes/barbarians/helmsmithy/conf, line: 27
 msgid "Produce warhelmet"
 msgstr "Produz elmo de guerra"
-
 #
 # File: ../../tribes/barbarians/warmill/conf, line: 38
+# File: ../../tribes/barbarians/warmill/conf, line: 36
 msgid "Produce warriorsaxe"
 msgstr "Produz machado de guerreiro"
-
 #
+# File: ../../tribes/barbarians/weaver/conf, line: 1
 # File: ../../tribes/barbarians/weaver/conf, line: 1
 msgid "Produces cloth for ships and soldiers."
 msgstr "Produz tecido para barcos e guerreiros"
-
 #
+# File: ../../tribes/barbarians/innkeeper/conf, line: 1
 # File: ../../tribes/barbarians/innkeeper/conf, line: 1
 msgid "Produces food for miners."
 msgstr "Produz comida para mineiros"
-
 #
+# File: ../../tribes/barbarians/brewer/conf, line: 1
+# File: ../../tribes/barbarians/master-brewer/conf, line: 1
 # File: ../../tribes/barbarians/brewer/conf, line: 1
 # File: ../../tribes/barbarians/master-brewer/conf, line: 1
 msgid "Produces the finest ales to keep warriors strong and happy in training."
 msgstr ""
 "Produs a melhor cerveja para manter os guerreiros fortes e felizes no treino."
-
 #
+# File: ../../tribes/barbarians/blacksmith/conf, line: 1
+# File: ../../tribes/barbarians/master-blacksmith/conf, line: 1
 # File: ../../tribes/barbarians/blacksmith/conf, line: 1
 # File: ../../tribes/barbarians/master-blacksmith/conf, line: 1
 msgid "Produces weapons for soldiers and tools for workers."
 msgstr "Produz armas para os guerreiros e ferramentas para os trabalhadores."
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 62
+# File: ../../tribes/barbarians/bakery/help.lua, line: 54
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 54
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 47
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 58
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 54
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 54
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 59
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 55
+# File: ../../tribes/barbarians/farm/help.lua, line: 49
+# File: ../../tribes/barbarians/fernery/help.lua, line: 46
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 48
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 42
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 51
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 51
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 50
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 53
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 47
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 69
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 52
+# File: ../../tribes/barbarians/oremine/help.lua, line: 51
+# File: ../../tribes/barbarians/quarry/help.lua, line: 45
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 42
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 60
+# File: ../../tribes/barbarians/warmill/help.lua, line: 64
+# File: ../../tribes/barbarians/well/help.lua, line: 46
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 62
 # File: ../../tribes/barbarians/bakery/help.lua, line: 54
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 54
@@ -2119,13 +2908,44 @@ msgstr "Produz armas para os guerreiros e ferramentas para os trabalhadores."
 # File: ../../tribes/barbarians/well/help.lua, line: 46
 msgid "Production"
 msgstr "Produção"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 27
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 29
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 32
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 27
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 29
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 32
 msgid "Provided by the "
 msgstr "Disponibilizado por"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 16
+# File: ../../tribes/barbarians/bakery/help.lua, line: 16
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 16
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 16
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 17
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 18
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 17
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 17
+# File: ../../tribes/barbarians/farm/help.lua, line: 16
+# File: ../../tribes/barbarians/fernery/help.lua, line: 16
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 16
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 16
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 17
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 17
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 16
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 16
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 16
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 16
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 16
+# File: ../../tribes/barbarians/oremine/help.lua, line: 17
+# File: ../../tribes/barbarians/quarry/help.lua, line: 16
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 17
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 16
+# File: ../../tribes/barbarians/warmill/help.lua, line: 16
+# File: ../../tribes/barbarians/well/help.lua, line: 16
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 16
 # File: ../../tribes/barbarians/bakery/help.lua, line: 16
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 16
@@ -2156,39 +2976,57 @@ msgstr "Disponibilizado por"
 # File: ../../tribes/barbarians/well/help.lua, line: 16
 msgid "Purpose:"
 msgstr "Propósito:"
-
 #
+# File: ../../tribes/barbarians/conf, line: 182
 # File: ../../tribes/barbarians/conf, line: 182
 msgid "Quarry"
 msgstr "Pedreira"
-
+#
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 13
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 13
+# File: ../../tribes/barbarians/oremine/help.lua, line: 13
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 13
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 13
 # File: ../../tribes/barbarians/oremine/help.lua, line: 13
 msgid "Quote from an anonymous miner."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 13
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 13
 msgid ""
 "Ragnald the Child's answer to the question, what he's doing in the dirt. His "
 "\"new stone\" now is an important building material."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 142
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 41
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 14
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 38
 # File: ../../tribes/barbarians/conf, line: 142
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 41
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 14
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 38
 msgid "Ranger"
 msgstr "Silvicultor"
-
 #
+# File: ../../tribes/barbarians/conf, line: 184
 # File: ../../tribes/barbarians/conf, line: 184
 msgid "Ranger's Hut"
 msgstr "Cabana do Silvicultor"
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 26
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 27
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 28
+# File: ../../tribes/barbarians/conf, line: 100
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 25
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 26
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 27
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 25
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 26
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 27
+# File: ../../tribes/barbarians/oremine/help.lua, line: 25
+# File: ../../tribes/barbarians/oremine/help.lua, line: 26
+# File: ../../tribes/barbarians/oremine/help.lua, line: 27
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 26
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 27
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 28
@@ -2204,8 +3042,68 @@ msgstr "Cabana do Silvicultor"
 # File: ../../tribes/barbarians/oremine/help.lua, line: 27
 msgid "Ration"
 msgstr "Ração"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 37
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 43
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 49
+# File: ../../tribes/barbarians/bakery/help.lua, line: 38
+# File: ../../tribes/barbarians/bakery/help.lua, line: 43
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 37
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 43
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 33
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 37
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 41
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 44
+# File: ../../tribes/barbarians/conf, line: 101
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 40
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 43
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 46
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 36
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 39
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 42
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 36
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 39
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 42
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 39
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 42
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 46
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 35
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 38
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 42
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 35
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 38
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 42
+# File: ../../tribes/barbarians/farm/help.lua, line: 35
+# File: ../../tribes/barbarians/farm/help.lua, line: 39
+# File: ../../tribes/barbarians/fernery/help.lua, line: 33
+# File: ../../tribes/barbarians/fernery/help.lua, line: 36
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 29
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 32
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 37
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 40
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 16
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 18
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 29
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 37
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 40
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 52
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 37
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 40
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 39
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 43
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 50
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 56
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 35
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 40
+# File: ../../tribes/barbarians/oremine/help.lua, line: 37
+# File: ../../tribes/barbarians/oremine/help.lua, line: 40
+# File: ../../tribes/barbarians/quarry/help.lua, line: 17
+# File: ../../tribes/barbarians/quarry/help.lua, line: 26
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 43
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 49
+# File: ../../tribes/barbarians/warmill/help.lua, line: 39
+# File: ../../tribes/barbarians/warmill/help.lua, line: 45
+# File: ../../tribes/barbarians/warmill/help.lua, line: 51
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 37
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 43
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 49
@@ -2269,180 +3167,198 @@ msgstr "Ração"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 51
 msgid "Raw Stone"
 msgstr "Pedra bruta"
-
 #
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 24
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 24
 msgid "Raw Stone from the Granite Mine or Quarry"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/raw_stone/conf, line: 1
 # File: ../../tribes/barbarians/raw_stone/conf, line: 1
 msgid ""
 "Raw Stones are a basic building material of the barbarians. It is produced "
 "in quarries and granite mines."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/grout/conf, line: 1
 # File: ../../tribes/barbarians/grout/conf, line: 1
 msgid ""
 "Raw stone can be processed into grout which provides a solid, non burning "
 "building material. Grout is produced in a lime kiln."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 48
 # File: ../../tribes/barbarians/conf, line: 48
 msgid "Reed medium"
 msgstr "Colmo médio"
-
 #
+# File: ../../tribes/barbarians/conf, line: 51
 # File: ../../tribes/barbarians/conf, line: 51
 msgid "Reed ripe"
 msgstr "Colmo maduro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 49
 # File: ../../tribes/barbarians/conf, line: 49
 msgid "Reed small"
 msgstr "Colmo pequeno"
-
 #
+# File: ../../tribes/barbarians/conf, line: 50
 # File: ../../tribes/barbarians/conf, line: 50
 msgid "Reed tiny"
 msgstr "Colmo muito pequeno"
-
 #
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 16
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 16
 msgid "Releases animals into the wild to steady the meat production."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 52
 # File: ../../tribes/barbarians/conf, line: 52
 msgid "Resource indicator coal little"
 msgstr "Indicador de recursos pouco carvão"
-
 #
+# File: ../../tribes/barbarians/conf, line: 53
 # File: ../../tribes/barbarians/conf, line: 53
 msgid "Resource indicator coal much"
 msgstr "Indicador de recursos muito carvão"
-
 #
+# File: ../../tribes/barbarians/conf, line: 54
 # File: ../../tribes/barbarians/conf, line: 54
 msgid "Resource indicator gold little"
 msgstr "Indicador de recursos pouco ouro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 55
 # File: ../../tribes/barbarians/conf, line: 55
 msgid "Resource indicator gold much"
 msgstr "Indicador de recursos muito ouro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 56
 # File: ../../tribes/barbarians/conf, line: 56
 msgid "Resource indicator granite little"
 msgstr "Indicador de recursos pouco granito"
-
 #
+# File: ../../tribes/barbarians/conf, line: 57
 # File: ../../tribes/barbarians/conf, line: 57
 msgid "Resource indicator granite much"
 msgstr "Indicador de recursos muito granito"
-
 #
+# File: ../../tribes/barbarians/conf, line: 58
 # File: ../../tribes/barbarians/conf, line: 58
 msgid "Resource indicator iron little"
 msgstr "Indicador de recursos pouco ferro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 59
 # File: ../../tribes/barbarians/conf, line: 59
 msgid "Resource indicator iron much"
 msgstr "Indicador de recursos muito ferro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 60
 # File: ../../tribes/barbarians/conf, line: 60
 msgid "Resource indicator no resource"
 msgstr "Indicador de recursos sem recursos"
-
 #
+# File: ../../tribes/barbarians/conf, line: 61
 # File: ../../tribes/barbarians/conf, line: 61
 msgid "Resource indicator water"
 msgstr "Indicador de recursos água"
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 13
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 13
 msgid "Said to originate from Neidhardt, the famous trainer."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 148
 # File: ../../tribes/barbarians/conf, line: 148
 msgid "Scout"
 msgstr "Explorador"
-
 #
+# File: ../../tribes/barbarians/conf, line: 189
 # File: ../../tribes/barbarians/conf, line: 189
 msgid "Scout's Hut"
 msgstr "Cabana do explorador"
-
 #
+# File: ../../tribes/barbarians/scout/conf, line: 1
 # File: ../../tribes/barbarians/scout/conf, line: 1
 msgid "Scouts like Scotty the scout scout unscouted area in a scouty fashion."
 msgstr "O explorador explora áreas inexploradas a sua volta."
-
 #
+# File: ../../tribes/barbarians/conf, line: 102
+# File: ../../tribes/barbarians/farm/help.lua, line: 46
 # File: ../../tribes/barbarians/conf, line: 102
 # File: ../../tribes/barbarians/farm/help.lua, line: 46
 msgid "Scythe"
 msgstr "Foice"
-
+#
+# File: ../../tribes/barbarians/farm/help.lua, line: 16
 # File: ../../tribes/barbarians/farm/help.lua, line: 16
 msgid "Seed and harvest wheat."
 msgstr "Semeia e colhe trigo."
-
 #
+# File: ../../tribes/barbarians/conf, line: 167
+# File: ../../tribes/barbarians/conf, line: 222
 # File: ../../tribes/barbarians/conf, line: 167
 # File: ../../tribes/barbarians/conf, line: 222
 msgid "Sentry"
 msgstr "Sentinela"
-
 #
+# File: ../../tribes/barbarians/conf, line: 103
 # File: ../../tribes/barbarians/conf, line: 103
 msgid "Sharp Axe"
 msgstr "Machado afiado"
-
+#
+# File: ../../tribes/barbarians/conf, line: 152
 # File: ../../tribes/barbarians/conf, line: 152
 msgid "Ship"
 msgstr "Navio"
-
+#
+# File: ../../tribes/barbarians/conf, line: 62
 # File: ../../tribes/barbarians/conf, line: 62
 msgid "Ship construction site"
 msgstr "Construção de navios"
-
+#
+# File: ../../tribes/barbarians/conf, line: 143
 # File: ../../tribes/barbarians/conf, line: 143
 msgid "Shipwright"
 msgstr "Construtor naval"
-
+#
+# File: ../../tribes/barbarians/conf, line: 201
 # File: ../../tribes/barbarians/conf, line: 201
 msgid "Shipyard"
 msgstr "Estaleiro Naval"
-
 #
+# File: ../../tribes/barbarians/conf, line: 104
+# File: ../../tribes/barbarians/fernery/help.lua, line: 43
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 39
 # File: ../../tribes/barbarians/conf, line: 104
 # File: ../../tribes/barbarians/fernery/help.lua, line: 43
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 39
 msgid "Shovel"
 msgstr "Pá"
-
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 28
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 36
+# File: ../../tribes/barbarians/battlearena/conf, line: 29
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 37
 msgid "Sleep"
 msgstr "Hibernação"
-
+#
+# File: ../../tribes/barbarians/fernery/help.lua, line: 13
 # File: ../../tribes/barbarians/fernery/help.lua, line: 13
 msgid "Slogan of the Guild of Ferners"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 165
 # File: ../../tribes/barbarians/conf, line: 165
 msgid "Small Tower"
 msgstr "Pequena torre"
-
+#
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 26
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 33
+# File: ../../tribes/barbarians/quarry/help.lua, line: 31
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 28
+# File: ../../tribes/barbarians/well/help.lua, line: 32
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 34
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 26
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 34
@@ -2453,24 +3369,40 @@ msgstr "Pequena torre"
 #, fuzzy
 msgid "Small plot"
 msgstr "Pequena torre"
-
 #
+# File: ../../tribes/barbarians/smelting_works/conf, line: 25
 # File: ../../tribes/barbarians/smelting_works/conf, line: 25
 msgid "Smelt gold"
 msgstr "Fundir ouro"
-
 #
+# File: ../../tribes/barbarians/smelting_works/conf, line: 24
 # File: ../../tribes/barbarians/smelting_works/conf, line: 24
 msgid "Smelt iron"
 msgstr "Fundir ferro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 144
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 30
 # File: ../../tribes/barbarians/conf, line: 144
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 30
 msgid "Smelter"
 msgstr "Fundidor"
-
 #
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 34
+# File: ../../tribes/barbarians/conf, line: 200
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 33
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 29
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 30
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 29
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 30
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 32
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 28
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 29
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 28
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 29
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 30
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 31
+# File: ../../tribes/barbarians/oremine/help.lua, line: 30
+# File: ../../tribes/barbarians/oremine/help.lua, line: 31
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 34
 # File: ../../tribes/barbarians/conf, line: 200
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 33
@@ -2489,18 +3421,24 @@ msgstr "Fundidor"
 # File: ../../tribes/barbarians/oremine/help.lua, line: 31
 msgid "Smelting Works"
 msgstr "Fundição"
-
 #
+# File: ../../tribes/barbarians/helmsmith/conf, line: 1
 # File: ../../tribes/barbarians/helmsmith/conf, line: 1
 msgid "Smelts helmets for soldiers."
 msgstr "Forja elmos para guerreiros."
-
 #
+# File: ../../tribes/barbarians/smelter/conf, line: 1
 # File: ../../tribes/barbarians/smelter/conf, line: 1
 msgid "Smelts iron."
 msgstr "Funde ferro."
-
 #
+# File: ../../tribes/barbarians/conf, line: 105
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 27
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 25
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 26
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 25
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 26
 # File: ../../tribes/barbarians/conf, line: 105
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 26
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 27
@@ -2510,15 +3448,17 @@ msgstr "Funde ferro."
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 26
 msgid "Snack"
 msgstr "Lanche"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 28
+# File: ../../tribes/barbarians/conf, line: 119
+# File: ../../tribes/barbarians/warmill/help.lua, line: 29
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 28
 # File: ../../tribes/barbarians/conf, line: 119
 # File: ../../tribes/barbarians/warmill/help.lua, line: 29
 msgid "Soldier"
 msgstr "Guerreiro"
-
 #
+# File: ../../tribes/barbarians/scripting/sc01_citadel_village.lua, line: 95
 # File: ../../tribes/barbarians/scripting/sc01_citadel_village.lua, line: 95
 msgid ""
 "Some of your starting buildings didn't have enough room and \n"
@@ -2528,26 +3468,53 @@ msgstr ""
 "Alguns dos teus edifícios iniciais não foram construídos por não haver\n"
 "espaço suficiente para os construir, por isso estás em desvantagem.\n"
 "Re-iniciar o mapa para poderes começar em melhores condições."
-
 #
+# File: ../../tribes/barbarians/well/help.lua, line: 13
 # File: ../../tribes/barbarians/well/help.lua, line: 13
 msgid ""
 "Song written by Sigurd the Bard<br> when the first rain fell after the Great "
 "Drought in the 21st year of Chat'Karuth' reign."
 msgstr ""
-
+#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 13
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 13
 # File: ../../tribes/barbarians/farm/help.lua, line: 13
-msgid "Source needed"
-msgstr ""
-
-#
+# File: ../../tribes/barbarians/bakery/help.lua, line: 13
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 13
+# File: ../../tribes/barbarians/farm/help.lua, line: 13
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 13
 # File: ../../tribes/barbarians/quarry/help.lua, line: 13
-msgid "Source needed."
+msgid "Source needed"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 32
+# File: ../../tribes/barbarians/bakery/help.lua, line: 34
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 32
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 29
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 38
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 37
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 33
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 33
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 36
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 32
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 32
+# File: ../../tribes/barbarians/farm/help.lua, line: 31
+# File: ../../tribes/barbarians/fernery/help.lua, line: 30
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 26
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 34
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 34
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 35
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 33
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 45
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 31
+# File: ../../tribes/barbarians/oremine/help.lua, line: 34
+# File: ../../tribes/barbarians/quarry/help.lua, line: 31
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 28
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 38
+# File: ../../tribes/barbarians/warmill/help.lua, line: 34
+# File: ../../tribes/barbarians/well/help.lua, line: 32
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 32
 # File: ../../tribes/barbarians/bakery/help.lua, line: 34
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 32
@@ -2578,46 +3545,69 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 32
 msgid "Space required:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 145
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 39
+# File: ../../tribes/barbarians/quarry/help.lua, line: 41
+# File: ../../tribes/barbarians/quarry/help.lua, line: 46
 # File: ../../tribes/barbarians/conf, line: 145
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 39
 # File: ../../tribes/barbarians/quarry/help.lua, line: 41
 # File: ../../tribes/barbarians/quarry/help.lua, line: 46
 msgid "Stonemason"
 msgstr "Pedreiro"
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 28
+# File: ../../tribes/barbarians/conf, line: 106
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 28
 # File: ../../tribes/barbarians/conf, line: 106
 msgid "Strong Beer"
 msgstr "Cerveja forte"
-
 #
+# File: ../../tribes/barbarians/conf, line: 223
 # File: ../../tribes/barbarians/conf, line: 223
 msgid "Stronghold"
 msgstr "Forte"
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 27
+# File: ../../tribes/barbarians/conf, line: 198
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 29
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 29
 # File: ../../tribes/barbarians/bakery/help.lua, line: 27
 # File: ../../tribes/barbarians/conf, line: 198
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 29
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 29
 msgid "Tavern"
 msgstr "Taverna"
-
+#
 # File: ../../tribes/barbarians/bakery/help.lua, line: 12
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 12
 # File: ../../tribes/barbarians/farm/help.lua, line: 12
+# File: ../../tribes/barbarians/bakery/help.lua, line: 12
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 12
+# File: ../../tribes/barbarians/farm/help.lua, line: 12
+# File: ../../tribes/barbarians/quarry/help.lua, line: 12
 msgid "Text needed"
 msgstr ""
-
 #
-# File: ../../tribes/barbarians/quarry/help.lua, line: 12
-msgid "Text needed."
-msgstr ""
-
-#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 36
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 42
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 48
+# File: ../../tribes/barbarians/bakery/help.lua, line: 39
+# File: ../../tribes/barbarians/bakery/help.lua, line: 44
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 36
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 42
+# File: ../../tribes/barbarians/conf, line: 107
+# File: ../../tribes/barbarians/fernery/help.lua, line: 24
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 49
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 55
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 36
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 41
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 42
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 48
+# File: ../../tribes/barbarians/warmill/help.lua, line: 38
+# File: ../../tribes/barbarians/warmill/help.lua, line: 44
+# File: ../../tribes/barbarians/warmill/help.lua, line: 50
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 36
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 42
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 48
@@ -2638,23 +3628,26 @@ msgstr ""
 # File: ../../tribes/barbarians/warmill/help.lua, line: 50
 msgid "Thatch Reed"
 msgstr "Colmo"
-
 #
+# File: ../../tribes/barbarians/thatchreed/conf, line: 1
 # File: ../../tribes/barbarians/thatchreed/conf, line: 1
 msgid ""
 "Thatch reed is produced in a fernery and used to make the roofs of buildings "
 "waterproof."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 49
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 43
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 51
+# File: ../../tribes/barbarians/quarry/help.lua, line: 46
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 49
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 43
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 51
 # File: ../../tribes/barbarians/quarry/help.lua, line: 46
 msgid "The %s pauses %s before going to work again."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axe/conf, line: 1
 # File: ../../tribes/barbarians/axe/conf, line: 1
 msgid ""
 "The Axe is a basic weapon for the barbarians. All young soldiers are "
@@ -2662,170 +3655,194 @@ msgid ""
 msgstr ""
 "O Machado é a arma básica dos Bárbaros. Todos os jovens soldados estão "
 "equipados com um."
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 8
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 8
 msgid "The Barbarian Axefactory"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 16
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 16
 msgid ""
 "The Barbarian Axefactory is the intermediate production site in a series of "
 "three buildings. It is an upgrade from the Metalwork Shop but doesn't "
 "require additional qualification for the worker."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/bakery/help.lua, line: 8
 # File: ../../tribes/barbarians/bakery/help.lua, line: 8
 msgid "The Barbarian Bakery"
 msgstr "A padaria dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 8
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 8
 msgid "The Barbarian Battle Arena"
 msgstr "A arena de combate dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 8
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 8
 msgid "The Barbarian Cattle Farm"
 msgstr "A criação de Bois dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 8
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 8
 msgid "The Barbarian Coal Mine"
 msgstr "A mina de carvão dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 8
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 8
 msgid "The Barbarian Deep Coal Mine"
 msgstr "A mina de carvão muito profunda dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 8
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 8
 msgid "The Barbarian Deep Gold Mine"
 msgstr "A mina de ouro muito profunda dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 8
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 8
 msgid "The Barbarian Deep Iron Ore Mine"
 msgstr "A mina de ferro muito profunda dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 8
 # File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 8
 msgid "The Barbarian Deeper Coal Mine"
 msgstr "A mina de carvão profunda dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 8
 # File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 8
 msgid "The Barbarian Deeper Gold Mine"
 msgstr "A mina de ouro profunda dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 8
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 8
 msgid "The Barbarian Deeper Iron Ore Mine"
 msgstr "A mina de ferro profunda dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/farm/help.lua, line: 8
 # File: ../../tribes/barbarians/farm/help.lua, line: 8
 msgid "The Barbarian Farm"
 msgstr "A quinta dos bárbaros"
-
 #
+# File: ../../tribes/barbarians/fernery/help.lua, line: 8
 # File: ../../tribes/barbarians/fernery/help.lua, line: 8
 msgid "The Barbarian Fernery"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 8
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 8
 msgid "The Barbarian Fisher's Hut"
 msgstr "A cabana do pescador bárbaro"
-
+#
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 8
 # File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 8
 msgid "The Barbarian Gamekeeper's Hut"
 msgstr "A coutada dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 8
 # File: ../../tribes/barbarians/goldmine/help.lua, line: 8
 msgid "The Barbarian Gold Mine"
 msgstr "A mina de ouro dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 8
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 8
 msgid "The Barbarian Granite Mine"
 msgstr "A mina de granito dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 8
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 8
 msgid "The Barbarian Hunter's Hut"
 msgstr "A cabana do caçador bárbaro"
-
+#
+# File: ../../tribes/barbarians/oremine/help.lua, line: 8
 # File: ../../tribes/barbarians/oremine/help.lua, line: 8
 msgid "The Barbarian Iron Ore Mine"
 msgstr "A mina de ferro dos bárbaros"
-
 #
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 8
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 8
 msgid "The Barbarian Limekiln"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 8
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 8
 msgid "The Barbarian Lumberjack's Hut"
 msgstr "A cabana do lenhador bárbaro"
-
+#
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 8
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 8
 msgid "The Barbarian Metalwork Shop"
 msgstr "A loja do Ferreiro bárbaro"
-
 #
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 16
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 16
 msgid ""
 "The Barbarian Metalwork Shop is the basic production site in a series of "
 "three buildings and creates all the tools that Barbarians need. The others "
 "are for weapons."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 8
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 8
 msgid "The Barbarian Micro Brewery"
 msgstr "A pequena cervejeira dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/quarry/help.lua, line: 8
 # File: ../../tribes/barbarians/quarry/help.lua, line: 8
 msgid "The Barbarian Quarry"
 msgstr "A pedreira dos bárbaros"
-
+#
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 8
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 8
 msgid "The Barbarian Ranger's Hut"
 msgstr "A cabana do Silvicultor bárbaro"
-
+#
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 8
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 8
 msgid "The Barbarian Trainingscamp"
 msgstr "O campo de treino bárbaro"
-
 #
+# File: ../../tribes/barbarians/warmill/help.lua, line: 8
 # File: ../../tribes/barbarians/warmill/help.lua, line: 8
 msgid "The Barbarian War Mill"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/warmill/help.lua, line: 16
 # File: ../../tribes/barbarians/warmill/help.lua, line: 16
 msgid ""
 "The Barbarian War Mill is their most advanced production site for weapons. "
 "As such it needs to be upgraded from an Axefactory."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/well/help.lua, line: 8
 # File: ../../tribes/barbarians/well/help.lua, line: 8
 msgid "The Barbarian Well"
 msgstr "O poço bárbaro"
-
 #
+# File: ../../tribes/barbarians/well/help.lua, line: 47
 # File: ../../tribes/barbarians/well/help.lua, line: 47
 msgid "The Carrier needs %s to get one bucket full of water."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fernery/help.lua, line: 16
 # File: ../../tribes/barbarians/fernery/help.lua, line: 16
 msgid ""
 "The Fernery cultivates reed that serves two different purposes for the "
 "Barbarian tribe.<br>It is the traditional material for roofing, and it is "
 "woven into the extremely durable cloth that they use for their ship's sails."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fernery/help.lua, line: 26
 # File: ../../tribes/barbarians/fernery/help.lua, line: 26
 msgid "The Fernery's output will only go to construction sites that need it."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 23
 # File: ../../tribes/barbarians/fishers_hut/help.lua, line: 23
 msgid "The Fisher's Hut needs water full of fish in the vicinity."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/gamekeeper/conf, line: 1
 # File: ../../tribes/barbarians/gamekeeper/conf, line: 1
 msgid ""
 "The Gamekeeper makes sure that the natural population of animals never drops "
@@ -2833,76 +3850,76 @@ msgid ""
 msgstr ""
 "O Tratador da Caça mantém a população de animais num nível considerado "
 "natural."
-
 #
+# File: ../../tribes/barbarians/hunter/conf, line: 1
 # File: ../../tribes/barbarians/hunter/conf, line: 1
 msgid "The Hunter brings good meat to the colonists."
 msgstr "O caçador traz carne para os colonos."
-
 #
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 23
 # File: ../../tribes/barbarians/hunters_hut/help.lua, line: 23
 msgid "The Hunter's Hut needs animals in the vicinity to hunt."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 16
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 16
 msgid ""
 "The Limekiln processes Raw Stones to make \"Grout\", a substance that "
 "solidifies and so reinforces masonry."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 32
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 32
 msgid ""
 "The Limekiln's output will only go to construction sites that need it. Those "
 "are predominantly houses that work with fire, and some military sites."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 48
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 48
 msgid ""
 "The Lumberjack needs %s to fell a tree, not counting the time he needs to "
 "reach the destination and go home again."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 23
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 23
 msgid "The Lumberjack's Hut needs trees in the immediate vicinity to fell."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 16
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 16
 msgid ""
 "The Micro Brewery produces Beer of the lower grade. This beer is a vital "
 "component of the Snacks that Inns and Big Inns prepare for Miners in Deep "
 "Mines."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/quarry/help.lua, line: 23
 # File: ../../tribes/barbarians/quarry/help.lua, line: 23
 msgid "The Quarry needs stones in the vicinity."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 43
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 43
 msgid ""
 "The Ranger needs %s to plant a tree, not counting the time he needs to reach "
 "the destination and go home again."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 23
 # File: ../../tribes/barbarians/rangers_hut/help.lua, line: 23
 msgid ""
 "The Ranger's Hut needs free space in the immediate vicinity to plant the "
 "trees."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 4
 # File: ../../tribes/barbarians/conf, line: 4
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
-
 #
+# File: ../../tribes/barbarians/pittabread/conf, line: 1
 # File: ../../tribes/barbarians/pittabread/conf, line: 1
 msgid ""
 "The barbarian bakers are best in making this flat and tasty pitta bread. It "
@@ -2910,8 +3927,8 @@ msgid ""
 "used in the taverns, inns and big inns to prepare rations, snacks and meals. "
 "It is also consumed in trainingssites (trainingscamp and battle arena)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/bakingtray/conf, line: 1
 # File: ../../tribes/barbarians/bakingtray/conf, line: 1
 msgid ""
 "The bread paddle is a tool of the baker and each baker needs his own. It is "
@@ -2919,32 +3936,32 @@ msgid ""
 "produced by the building if the metal works is enhanced to an axefactory and "
 "war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/broadaxe/conf, line: 1
 # File: ../../tribes/barbarians/broadaxe/conf, line: 1
 msgid ""
 "The broad axe is produced in the axefactory and the war mill. It is used in "
 "the trainingscamp - together with food- to train warriors with a fundamental "
 "fighting knowledge (from attack level 1 to attack level 2)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/bronzeaxe/conf, line: 1
 # File: ../../tribes/barbarians/bronzeaxe/conf, line: 1
 msgid ""
 "The bronze axe is considered a hard to handle weapon. Only skilled warriors "
 "can use this. It is produced in the war mill and used in the trainingscamp "
 "(trains -together with food - from attack level 2 to level 3)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/felling_axe/conf, line: 1
 # File: ../../tribes/barbarians/felling_axe/conf, line: 1
 msgid ""
 "The felling axe is the tool of the lumberjack to take down trees. It is "
 "produced in the metalwork shop (but ceases to be produced by the building if "
 "it is enhanced to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/coal/conf, line: 1
 # File: ../../tribes/barbarians/coal/conf, line: 1
 msgid ""
 "The fires of the barbarians are usually fed with coal. It is produced in "
@@ -2952,8 +3969,8 @@ msgid ""
 "several buildings: lime kiln, smelting works, axefactory, war mill, "
 "helmsmithy."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/hammer/conf, line: 1
 # File: ../../tribes/barbarians/hammer/conf, line: 1
 msgid ""
 "The hammer is an essential tool. It is needed by the geologist, the builder, "
@@ -2961,8 +3978,28 @@ msgid ""
 "It is one of the basic tools produced at the metalwork shop, (but ceases to "
 "be produced by the building if it is enhanced to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/barrier/help.lua, line: 8
+# File: ../../tribes/barbarians/big_inn/help.lua, line: 8
+# File: ../../tribes/barbarians/brewery/help.lua, line: 8
+# File: ../../tribes/barbarians/burners_house/help.lua, line: 8
+# File: ../../tribes/barbarians/citadel/help.lua, line: 8
+# File: ../../tribes/barbarians/donjon/help.lua, line: 8
+# File: ../../tribes/barbarians/fortress/help.lua, line: 8
+# File: ../../tribes/barbarians/hardener/help.lua, line: 8
+# File: ../../tribes/barbarians/headquarters/help.lua, line: 8
+# File: ../../tribes/barbarians/headquarters_interim/help.lua, line: 8
+# File: ../../tribes/barbarians/helmsmithy/help.lua, line: 8
+# File: ../../tribes/barbarians/inn/help.lua, line: 8
+# File: ../../tribes/barbarians/port/help.lua, line: 8
+# File: ../../tribes/barbarians/scouts_hut/help.lua, line: 8
+# File: ../../tribes/barbarians/sentry/help.lua, line: 8
+# File: ../../tribes/barbarians/shipyard/help.lua, line: 8
+# File: ../../tribes/barbarians/smelting_works/help.lua, line: 8
+# File: ../../tribes/barbarians/stronghold/help.lua, line: 8
+# File: ../../tribes/barbarians/tavern/help.lua, line: 8
+# File: ../../tribes/barbarians/warehouse/help.lua, line: 8
+# File: ../../tribes/barbarians/weaving-mill/help.lua, line: 8
 # File: ../../tribes/barbarians/barrier/help.lua, line: 8
 # File: ../../tribes/barbarians/big_inn/help.lua, line: 8
 # File: ../../tribes/barbarians/brewery/help.lua, line: 8
@@ -2986,29 +4023,29 @@ msgstr ""
 # File: ../../tribes/barbarians/weaving-mill/help.lua, line: 8
 msgid "The help text of this building is under construction."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 6
 # File: ../../tribes/barbarians/conf, line: 6
 msgid "The mighty tribes of the east-lands!"
 msgstr "As poderosas tribos das terras de Este, lá onde o sol nasce !"
-
 #
+# File: ../../tribes/barbarians/scythe/conf, line: 1
 # File: ../../tribes/barbarians/scythe/conf, line: 1
 msgid ""
 "The scythe is the tool of the farmers. It is produced in the metalwork shop "
 "(but ceases to be produced by the building if it is enhanced to an "
 "axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/shovel/conf, line: 1
 # File: ../../tribes/barbarians/shovel/conf, line: 1
 msgid ""
 "The shovel is needed for proper handling of plants. Therefore the ferner and "
 "the ranger use it. Produced at the metalwork shop (but ceases to be produced "
 "by the building if it is enhanced to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/warriorsaxe/conf, line: 1
 # File: ../../tribes/barbarians/warriorsaxe/conf, line: 1
 msgid ""
 "The warriors axe is the most dangerous of all Barbarian weapons. Only a few "
@@ -3016,15 +4053,15 @@ msgid ""
 "produced in a war mill and used -together with food - in a trainingscamp to "
 "train soldiers from attack level 4 to level 5."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/blackwood/conf, line: 1
 # File: ../../tribes/barbarians/blackwood/conf, line: 1
 msgid ""
 "This fire-hardened wood is as hard as iron and it is used for several "
 "buildings. It is produced out of trunks in the wood hardener."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battleaxe/conf, line: 1
 # File: ../../tribes/barbarians/battleaxe/conf, line: 1
 msgid ""
 "This is a dangerous weapon the barbarians are able to produce. It is "
@@ -3032,16 +4069,16 @@ msgid ""
 "weapon. It is used (together with food) in the trainingscamp to train "
 "soldiers from attack level 3 to 4."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/mask/conf, line: 1
 # File: ../../tribes/barbarians/mask/conf, line: 1
 msgid ""
 "This is the most enhanced Barbarian armour. It is produced in the helmsmithy "
 "and used in the trainingscamp - together with food - to train soldiers from "
 "healthpoints level 2 to healthpoints level 3."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 13
 # File: ../../tribes/barbarians/granitemine/help.lua, line: 13
 msgid ""
 "This phrase was the reply Rimbert the miner – later known as Rimbert the "
@@ -3049,16 +4086,16 @@ msgid ""
 "Stonford in the year of the great flood. <br> The same man had all the 244 "
 "granite blocks ready only a week later, that still fortify the city's levee."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/pick/conf, line: 1
 # File: ../../tribes/barbarians/pick/conf, line: 1
 msgid ""
 "This pick is used by the stonemasons and the miners. It is produced in the "
 "metalwork shop (but ceases to be produced by the building if it is enhanced "
 "to an axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/hunting_spear/conf, line: 1
 # File: ../../tribes/barbarians/hunting_spear/conf, line: 1
 msgid ""
 "This spear is light enough to be thrown, but heavy enough to kill any animal "
@@ -3066,21 +4103,30 @@ msgid ""
 "(but ceases to be produced by the building if it is enhanced to an "
 "axefactory and war mill)."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 166
+# File: ../../tribes/barbarians/conf, line: 173
 # File: ../../tribes/barbarians/conf, line: 166
 # File: ../../tribes/barbarians/conf, line: 173
 msgid "Tower"
 msgstr "Torre"
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 50
+# File: ../../tribes/barbarians/conf, line: 146
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 56
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 50
 # File: ../../tribes/barbarians/conf, line: 146
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 56
 msgid "Trainer"
 msgstr "Treinador"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 29
+# File: ../../tribes/barbarians/bakery/help.lua, line: 31
+# File: ../../tribes/barbarians/conf, line: 230
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 28
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 28
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 61
+# File: ../../tribes/barbarians/warmill/help.lua, line: 31
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 29
 # File: ../../tribes/barbarians/bakery/help.lua, line: 31
 # File: ../../tribes/barbarians/conf, line: 230
@@ -3090,25 +4136,91 @@ msgstr "Treinador"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 31
 msgid "Trainingscamp"
 msgstr "Campo de treino"
-
 #
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 16
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 16
 msgid ""
 "Trains soldiers in Attack up to level 4, and in Hitpoints up to level 2."
 "<br>Equips the soldiers with all necessary weapons and armour parts."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 16
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 16
 msgid "Trains soldiers in Evade up to level 2."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/trainer/conf, line: 1
 # File: ../../tribes/barbarians/trainer/conf, line: 1
 msgid "Trains the soldiers."
 msgstr "Treina os guerreiros."
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 39
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 45
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 51
+# File: ../../tribes/barbarians/bakery/help.lua, line: 40
+# File: ../../tribes/barbarians/bakery/help.lua, line: 45
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 39
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 45
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 34
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 38
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 42
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 45
+# File: ../../tribes/barbarians/conf, line: 108
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 41
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 44
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 47
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 37
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 40
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 43
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 37
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 40
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 43
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 40
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 43
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 47
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 36
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 39
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 43
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 36
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 39
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 43
+# File: ../../tribes/barbarians/farm/help.lua, line: 36
+# File: ../../tribes/barbarians/farm/help.lua, line: 40
+# File: ../../tribes/barbarians/fernery/help.lua, line: 34
+# File: ../../tribes/barbarians/fernery/help.lua, line: 37
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 37
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 39
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 30
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 33
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 38
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 41
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 38
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 41
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 38
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 41
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 40
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 44
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 26
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 36
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 38
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 26
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 52
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 58
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 37
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 42
+# File: ../../tribes/barbarians/oremine/help.lua, line: 38
+# File: ../../tribes/barbarians/oremine/help.lua, line: 41
+# File: ../../tribes/barbarians/quarry/help.lua, line: 34
+# File: ../../tribes/barbarians/quarry/help.lua, line: 36
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 31
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 33
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 45
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 51
+# File: ../../tribes/barbarians/warmill/help.lua, line: 41
+# File: ../../tribes/barbarians/warmill/help.lua, line: 47
+# File: ../../tribes/barbarians/warmill/help.lua, line: 53
+# File: ../../tribes/barbarians/well/help.lua, line: 35
+# File: ../../tribes/barbarians/well/help.lua, line: 37
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 39
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 45
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 51
@@ -3178,8 +4290,8 @@ msgstr "Treina os guerreiros."
 # File: ../../tribes/barbarians/well/help.lua, line: 37
 msgid "Trunk"
 msgstr "Tronco"
-
 #
+# File: ../../tribes/barbarians/trunk/conf, line: 1
 # File: ../../tribes/barbarians/trunk/conf, line: 1
 msgid ""
 "Trunks are a principal building material of the barbarians. The trees are "
@@ -3188,13 +4300,20 @@ msgid ""
 "burner's house in the production of coal. The wood hardener refines trunks "
 "by hardening them in the fire which gives blackwood."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 34
+# File: ../../tribes/barbarians/warmill/help.lua, line: 36
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 34
 # File: ../../tribes/barbarians/warmill/help.lua, line: 36
 msgid "Upgrade Cost:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 39
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 35
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 35
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 38
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 34
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 34
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 39
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 35
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 35
@@ -3203,145 +4322,173 @@ msgstr ""
 # File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 34
 msgid "Upgrade cost:"
 msgstr ""
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 37
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 38
 msgid "Upgrade soldier attack 0"
 msgstr "Treinar guerreiro ataque 0"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 38
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 39
 msgid ""
 "Upgrade soldier attack 0 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro ataque 0 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 39
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 40
 msgid "Upgrade soldier attack 1"
 msgstr "Treinar guerreiro ataque 1"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 40
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 41
 msgid ""
 "Upgrade soldier attack 1 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro ataque 1 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 41
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 42
 msgid "Upgrade soldier attack 2"
 msgstr "Treinar guerreiro ataque 2"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 42
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 43
 msgid ""
 "Upgrade soldier attack 2 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro ataque 2 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 43
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 44
 msgid "Upgrade soldier attack 3"
 msgstr "Treinar guerreiro ataque 3"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 44
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 45
 msgid ""
 "Upgrade soldier attack 3 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro ataque 3 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 45
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 46
 msgid "Upgrade soldier attack 4"
 msgstr "Treinar guerreiro ataque 4"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 46
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 47
 msgid ""
 "Upgrade soldier attack 4 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro ataque 4 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 29
+# File: ../../tribes/barbarians/battlearena/conf, line: 30
 msgid "Upgrade soldier evade 0"
 msgstr "Treinar guerreiro defesa 0"
-
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 30
+# File: ../../tribes/barbarians/battlearena/conf, line: 31
 msgid ""
 "Upgrade soldier evade 0 (only for compatibility with old savegames (build13))"
 msgstr ""
 "Treinar guerreiro defesa 0 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 31
+# File: ../../tribes/barbarians/battlearena/conf, line: 32
 msgid "Upgrade soldier evade 1"
 msgstr "Treinar guerreiro defesa 1"
-
 #
 # File: ../../tribes/barbarians/battlearena/conf, line: 32
+# File: ../../tribes/barbarians/battlearena/conf, line: 33
 msgid ""
 "Upgrade soldier evade 1 (only for compatibility with old savegames (build13))"
 msgstr ""
 "Treinar guerreiro defesa 1 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 47
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 48
 msgid "Upgrade soldier hitpoints 0"
 msgstr "Treinar guerreiro resistência 0"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 48
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 49
 msgid ""
 "Upgrade soldier hitpoints 0 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro resistência 0 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 49
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 50
 msgid "Upgrade soldier hitpoints 1"
 msgstr "Treinar guerreiro resistência 1"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 50
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 51
 msgid ""
 "Upgrade soldier hitpoints 1 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro resistência 1 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 51
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 52
 msgid "Upgrade soldier hitpoints 2"
 msgstr "Treinar guerreiro resistência 2"
-
 #
 # File: ../../tribes/barbarians/trainingscamp/conf, line: 52
+# File: ../../tribes/barbarians/trainingscamp/conf, line: 53
 msgid ""
 "Upgrade soldier hitpoints 2 (only for compatibility with old savegames "
 "(build13))"
 msgstr ""
 "Treinar guerreiro resistência 2 (só usado para compatibilidade com jogos "
 "guardados por versões mais antigas (build13))"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 52
+# File: ../../tribes/barbarians/bakery/help.lua, line: 46
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 46
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 39
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 46
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 44
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 44
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 44
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 44
+# File: ../../tribes/barbarians/farm/help.lua, line: 41
+# File: ../../tribes/barbarians/fernery/help.lua, line: 38
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 40
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 42
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 42
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 42
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 45
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 39
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 59
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 43
+# File: ../../tribes/barbarians/oremine/help.lua, line: 42
+# File: ../../tribes/barbarians/quarry/help.lua, line: 37
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 52
+# File: ../../tribes/barbarians/warmill/help.lua, line: 54
+# File: ../../tribes/barbarians/well/help.lua, line: 38
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 52
 # File: ../../tribes/barbarians/bakery/help.lua, line: 46
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 46
@@ -3372,8 +4519,35 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 38
 msgid "Upgradeable to:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 33
+# File: ../../tribes/barbarians/bakery/help.lua, line: 35
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 33
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 30
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 39
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 38
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 34
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 34
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 37
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 33
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 33
+# File: ../../tribes/barbarians/farm/help.lua, line: 32
+# File: ../../tribes/barbarians/fernery/help.lua, line: 31
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 35
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 27
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 35
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 35
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 35
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 36
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 34
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 46
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 32
+# File: ../../tribes/barbarians/oremine/help.lua, line: 35
+# File: ../../tribes/barbarians/quarry/help.lua, line: 32
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 29
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 39
+# File: ../../tribes/barbarians/warmill/help.lua, line: 35
+# File: ../../tribes/barbarians/well/help.lua, line: 33
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 33
 # File: ../../tribes/barbarians/bakery/help.lua, line: 35
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 33
@@ -3404,7 +4578,35 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 33
 msgid "Upgraded from:"
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 20
+# File: ../../tribes/barbarians/bakery/help.lua, line: 19
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 21
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 19
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 22
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 22
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 21
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 21
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 22
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 21
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 21
+# File: ../../tribes/barbarians/farm/help.lua, line: 19
+# File: ../../tribes/barbarians/fernery/help.lua, line: 19
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 20
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 19
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 21
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 21
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 20
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 19
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 20
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 21
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 19
+# File: ../../tribes/barbarians/oremine/help.lua, line: 21
+# File: ../../tribes/barbarians/quarry/help.lua, line: 20
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 20
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 20
+# File: ../../tribes/barbarians/warmill/help.lua, line: 20
+# File: ../../tribes/barbarians/well/help.lua, line: 19
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 20
 # File: ../../tribes/barbarians/bakery/help.lua, line: 19
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 21
@@ -3435,13 +4637,18 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 19
 msgid "Vision range:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 109
 # File: ../../tribes/barbarians/conf, line: 109
 msgid "War Helmet"
 msgstr "Elmo de guerra"
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 52
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 32
+# File: ../../tribes/barbarians/conf, line: 202
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 31
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 30
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 29
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 52
 # File: ../../tribes/barbarians/coalmine/help.lua, line: 32
 # File: ../../tribes/barbarians/conf, line: 202
@@ -3450,94 +4657,103 @@ msgstr "Elmo de guerra"
 # File: ../../tribes/barbarians/trainingscamp/help.lua, line: 29
 msgid "War Mill"
 msgstr "Fábrica de guerra"
-
 #
+# File: ../../tribes/barbarians/conf, line: 178
 # File: ../../tribes/barbarians/conf, line: 178
 msgid "Warehouse"
 msgstr "Armazém"
-
 #
+# File: ../../tribes/barbarians/conf, line: 110
 # File: ../../tribes/barbarians/conf, line: 110
 msgid "Warriors Axe"
 msgstr "Machado de guerreiro"
-
 #
+# File: ../../tribes/barbarians/conf, line: 111
+# File: ../../tribes/barbarians/well/help.lua, line: 24
 # File: ../../tribes/barbarians/conf, line: 111
 # File: ../../tribes/barbarians/well/help.lua, line: 24
 msgid "Water"
 msgstr "Água"
-
+#
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 27
 # File: ../../tribes/barbarians/lime_kiln/help.lua, line: 27
 msgid "Water from a Well"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/bakery/help.lua, line: 24
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 24
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 23
 # File: ../../tribes/barbarians/bakery/help.lua, line: 24
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 24
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 23
 msgid "Water from the Well"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/water/conf, line: 1
 # File: ../../tribes/barbarians/water/conf, line: 1
 msgid ""
 "Water is the essence for life! It is used in the bakery, the micro brewery "
 "and the brewery. Also the lime kiln and the cattle farm need to be supplied "
 "with water."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 147
 # File: ../../tribes/barbarians/conf, line: 147
 msgid "Weaver"
 msgstr "Tecelão"
-
 #
+# File: ../../tribes/barbarians/conf, line: 206
+# File: ../../tribes/barbarians/fernery/help.lua, line: 27
 # File: ../../tribes/barbarians/conf, line: 206
 # File: ../../tribes/barbarians/fernery/help.lua, line: 27
 msgid "Weaving-Mill"
 msgstr "Tecelagem"
-
 #
+# File: ../../tribes/barbarians/conf, line: 188
 # File: ../../tribes/barbarians/conf, line: 188
 msgid "Well"
 msgstr "Poço"
-
 #
+# File: ../../tribes/barbarians/conf, line: 112
+# File: ../../tribes/barbarians/farm/help.lua, line: 24
 # File: ../../tribes/barbarians/conf, line: 112
 # File: ../../tribes/barbarians/farm/help.lua, line: 24
 msgid "Wheat"
 msgstr "Trigo"
-
+#
+# File: ../../tribes/barbarians/bakery/help.lua, line: 23
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 23
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 24
 # File: ../../tribes/barbarians/bakery/help.lua, line: 23
 # File: ../../tribes/barbarians/cattlefarm/help.lua, line: 23
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 24
 msgid "Wheat from the Farm"
 msgstr "Trigo das quintas"
-
 #
+# File: ../../tribes/barbarians/wheat/conf, line: 1
 # File: ../../tribes/barbarians/wheat/conf, line: 1
 msgid ""
 "Wheat is essential for surviving. It is produced in farms and consumed by "
 "bakeries, micro breweries and breweries. Also Cattle farms need to be "
 "supplied with wheat."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 13
 # File: ../../tribes/barbarians/micro-brewery/help.lua, line: 13
 msgid "Widespread toast among Miners"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/conf, line: 66
 # File: ../../tribes/barbarians/conf, line: 66
 msgid "Wildboar"
 msgstr "Javali"
-
 #
+# File: ../../tribes/barbarians/conf, line: 190
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 30
 # File: ../../tribes/barbarians/conf, line: 190
 # File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 30
 msgid "Wood Hardener"
 msgstr "Endurecedor de madeira"
-
 #
 # File: ../../tribes/barbarians/axefactory/conf, line: 32
 # File: ../../tribes/barbarians/bakery/conf, line: 21
@@ -3576,9 +4792,66 @@ msgstr "Endurecedor de madeira"
 # File: ../../tribes/barbarians/warmill/conf, line: 39
 # File: ../../tribes/barbarians/weaving-mill/conf, line: 19
 # File: ../../tribes/barbarians/well/conf, line: 14
+# File: ../../tribes/barbarians/axefactory/conf, line: 30
+# File: ../../tribes/barbarians/bakery/conf, line: 21
+# File: ../../tribes/barbarians/big_inn/conf, line: 27
+# File: ../../tribes/barbarians/brewery/conf, line: 20
+# File: ../../tribes/barbarians/burners_house/conf, line: 19
+# File: ../../tribes/barbarians/cattlefarm/conf, line: 21
+# File: ../../tribes/barbarians/coalmine/conf, line: 20
+# File: ../../tribes/barbarians/deep_coalmine/conf, line: 23
+# File: ../../tribes/barbarians/deep_goldmine/conf, line: 23
+# File: ../../tribes/barbarians/deep_oremine/conf, line: 23
+# File: ../../tribes/barbarians/deeper_coalmine/conf, line: 22
+# File: ../../tribes/barbarians/deeper_goldmine/conf, line: 22
+# File: ../../tribes/barbarians/deeper_oremine/conf, line: 22
+# File: ../../tribes/barbarians/farm/conf, line: 20
+# File: ../../tribes/barbarians/fernery/conf, line: 19
+# File: ../../tribes/barbarians/fishers_hut/conf, line: 15
+# File: ../../tribes/barbarians/gamekeepers_hut/conf, line: 15
+# File: ../../tribes/barbarians/goldmine/conf, line: 21
+# File: ../../tribes/barbarians/granitemine/conf, line: 18
+# File: ../../tribes/barbarians/hardener/conf, line: 18
+# File: ../../tribes/barbarians/helmsmithy/conf, line: 28
+# File: ../../tribes/barbarians/hunters_hut/conf, line: 15
+# File: ../../tribes/barbarians/inn/conf, line: 25
+# File: ../../tribes/barbarians/lime_kiln/conf, line: 18
+# File: ../../tribes/barbarians/lumberjacks_hut/conf, line: 15
+# File: ../../tribes/barbarians/metalworks/conf, line: 42
+# File: ../../tribes/barbarians/micro-brewery/conf, line: 22
+# File: ../../tribes/barbarians/oremine/conf, line: 21
+# File: ../../tribes/barbarians/quarry/conf, line: 15
+# File: ../../tribes/barbarians/rangers_hut/conf, line: 14
+# File: ../../tribes/barbarians/scouts_hut/conf, line: 17
+# File: ../../tribes/barbarians/shipyard/conf, line: 22
+# File: ../../tribes/barbarians/smelting_works/conf, line: 26
+# File: ../../tribes/barbarians/tavern/conf, line: 24
+# File: ../../tribes/barbarians/warmill/conf, line: 37
+# File: ../../tribes/barbarians/weaving-mill/conf, line: 19
+# File: ../../tribes/barbarians/well/conf, line: 14
 msgid "Work"
 msgstr "Trabalho"
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 57
+# File: ../../tribes/barbarians/bakery/help.lua, line: 51
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 51
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 44
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 51
+# File: ../../tribes/barbarians/farm/help.lua, line: 46
+# File: ../../tribes/barbarians/fernery/help.lua, line: 43
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 45
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 39
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 47
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 47
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 47
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 50
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 44
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 64
+# File: ../../tribes/barbarians/oremine/help.lua, line: 47
+# File: ../../tribes/barbarians/quarry/help.lua, line: 42
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 39
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 57
+# File: ../../tribes/barbarians/well/help.lua, line: 43
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 57
 # File: ../../tribes/barbarians/bakery/help.lua, line: 51
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 51
@@ -3601,8 +4874,35 @@ msgstr "Trabalho"
 # File: ../../tribes/barbarians/well/help.lua, line: 43
 msgid "Worker uses:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 54
+# File: ../../tribes/barbarians/bakery/help.lua, line: 48
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 48
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 41
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 48
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 46
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 46
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 46
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 46
+# File: ../../tribes/barbarians/farm/help.lua, line: 43
+# File: ../../tribes/barbarians/fernery/help.lua, line: 40
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 42
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 36
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 44
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 44
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 44
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 47
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 41
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 61
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 45
+# File: ../../tribes/barbarians/oremine/help.lua, line: 44
+# File: ../../tribes/barbarians/quarry/help.lua, line: 39
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 36
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 54
+# File: ../../tribes/barbarians/warmill/help.lua, line: 56
+# File: ../../tribes/barbarians/well/help.lua, line: 40
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 54
 # File: ../../tribes/barbarians/bakery/help.lua, line: 48
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 48
@@ -3633,8 +4933,15 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 40
 msgid "Workers"
 msgstr "Trabalhadores"
-
 #
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 54
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 50
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 50
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 55
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 51
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 51
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 48
+# File: ../../tribes/barbarians/warmill/help.lua, line: 60
 # File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 54
 # File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 50
 # File: ../../tribes/barbarians/deep_oremine/help.lua, line: 50
@@ -3645,8 +4952,35 @@ msgstr "Trabalhadores"
 # File: ../../tribes/barbarians/warmill/help.lua, line: 60
 msgid "Workers use:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 18
+# File: ../../tribes/barbarians/bakery/help.lua, line: 17
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 19
+# File: ../../tribes/barbarians/cattlefarm/help.lua, line: 17
+# File: ../../tribes/barbarians/coalmine/help.lua, line: 20
+# File: ../../tribes/barbarians/deep_coalmine/help.lua, line: 20
+# File: ../../tribes/barbarians/deep_goldmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deep_oremine/help.lua, line: 19
+# File: ../../tribes/barbarians/deeper_coalmine/help.lua, line: 20
+# File: ../../tribes/barbarians/deeper_goldmine/help.lua, line: 19
+# File: ../../tribes/barbarians/deeper_oremine/help.lua, line: 19
+# File: ../../tribes/barbarians/farm/help.lua, line: 17
+# File: ../../tribes/barbarians/fernery/help.lua, line: 17
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 18
+# File: ../../tribes/barbarians/gamekeepers_hut/help.lua, line: 17
+# File: ../../tribes/barbarians/goldmine/help.lua, line: 19
+# File: ../../tribes/barbarians/granitemine/help.lua, line: 19
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 18
+# File: ../../tribes/barbarians/lime_kiln/help.lua, line: 17
+# File: ../../tribes/barbarians/lumberjacks_hut/help.lua, line: 18
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 19
+# File: ../../tribes/barbarians/micro-brewery/help.lua, line: 17
+# File: ../../tribes/barbarians/oremine/help.lua, line: 19
+# File: ../../tribes/barbarians/quarry/help.lua, line: 18
+# File: ../../tribes/barbarians/rangers_hut/help.lua, line: 18
+# File: ../../tribes/barbarians/trainingscamp/help.lua, line: 18
+# File: ../../tribes/barbarians/warmill/help.lua, line: 18
+# File: ../../tribes/barbarians/well/help.lua, line: 17
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 18
 # File: ../../tribes/barbarians/bakery/help.lua, line: 17
 # File: ../../tribes/barbarians/battlearena/help.lua, line: 19
@@ -3677,25 +5011,28 @@ msgstr ""
 # File: ../../tribes/barbarians/well/help.lua, line: 17
 msgid "Working radius:"
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/builder/conf, line: 1
 # File: ../../tribes/barbarians/builder/conf, line: 1
 msgid "Works at construction sites to raise a new building."
 msgstr "Trabalha nas obras para erguer os novos edifícios."
-
 #
+# File: ../../tribes/barbarians/shipwright/conf, line: 1
 # File: ../../tribes/barbarians/shipwright/conf, line: 1
 msgid "Works at the shipyard and constructs new ships."
 msgstr ""
-
 #
+# File: ../../tribes/barbarians/chief-miner/conf, line: 1
+# File: ../../tribes/barbarians/master-miner/conf, line: 1
+# File: ../../tribes/barbarians/miner/conf, line: 1
 # File: ../../tribes/barbarians/chief-miner/conf, line: 1
 # File: ../../tribes/barbarians/master-miner/conf, line: 1
 # File: ../../tribes/barbarians/miner/conf, line: 1
 msgid "Works deep in the mines to obtain coal, iron or gold."
 msgstr ""
 "Trabalha na profundeza das minas para extrair o carvão, o ferro ou o ouro."
-
+#
+# File: ../../tribes/barbarians/sharpaxe/conf, line: 1
 # File: ../../tribes/barbarians/sharpaxe/conf, line: 1
 msgid ""
 "Young warriors are proud to learn to fight with this powerful weapon. It is "
@@ -3703,13 +5040,17 @@ msgid ""
 "and war mills. In trainingscamps, it is used - together with food- to train "
 "soldiers from attack level 0 to level 1."
 msgstr ""
-
+#
+# File: ../../tribes/barbarians/axefactory/help.lua, line: 63
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 70
+# File: ../../tribes/barbarians/warmill/help.lua, line: 65
 # File: ../../tribes/barbarians/axefactory/help.lua, line: 63
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 70
 # File: ../../tribes/barbarians/warmill/help.lua, line: 65
 msgid "each item"
 msgstr "cada item"
-
+#
+# File: ../../tribes/barbarians/metalworks/help.lua, line: 46
 # File: ../../tribes/barbarians/metalworks/help.lua, line: 46
 msgid "n/a"
 msgstr "n/a"

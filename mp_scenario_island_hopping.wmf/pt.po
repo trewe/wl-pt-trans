@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Widelands svnVERSION\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
-"POT-Creation-Date: 2012-03-26 08:30+0000\n"
-"PO-Revision-Date: 2013-05-16 10:47+0100\n"
+"POT-Creation-Date: 2013-06-23 17:28+0000\n"
+"PO-Revision-Date: 2013-06-27 14:19+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: LANGUAGE <widelands-public@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
@@ -15,20 +15,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/init.lua:101
-#: Hopping.wmf/scripting/multiplayer_init.lua:101
-msgid "%i %s<br>"
-msgstr "%i %s<br>"
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/multiplayer_init.lua, line: 101
+msgid "%i %s<br>\n"
+msgstr "%i %s<br>\n"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:51
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 51
 msgid "%s has been King of the Hill since %s!"
 msgstr "%s fora o Rei da Montanha deste %s!"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:52
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 52
 msgid "%s has won the game. Congratulations!"
 msgstr "%s venceu a partida. Parabéns!"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:46
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 46
 msgid ""
 "%s is now King of the Hill and will win the game in 20 minutes, if nobody "
 "takes over the hill until than."
@@ -36,78 +46,124 @@ msgstr ""
 "%s é agora o rei da montanha e irá venver a partida em 20 minutos, se "
 "ninguém o desaloja da montanha até então."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:49
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 49
 msgid "%s lost control of the hill."
 msgstr "%s perdeu o controlo da colina."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:38
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 38
 msgid "%s was the first to reach the Island number %i."
 msgstr "%s fora o primeiro a chegar a ilha número %i."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:41
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 41
 msgid "%s was the fourth to reach the Island number %i."
 msgstr "%s fora o quarto a chegar a ilha número %i."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:39
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 39
 msgid "%s was the second to reach the Island number %i."
 msgstr "%s fora o segundo a chegar a ilha número %i."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:40
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 40
 msgid "%s was the third to reach the Island number %i."
 msgstr "%s fora o terceiro a chegar a ilha número %i."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/first_island.lua:74
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/first_island.lua, line: 74
 msgid "10 minutes"
 msgstr "10 minutos"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/first_island.lua:78
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/first_island.lua, line: 78
 msgid "15 minutes"
 msgstr "15 minutos"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:25
-#: Hopping.wmf/scripting/texts.lua:30
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 25
+# File: Hopping.wmf/scripting/texts.lua, line: 30
 msgid "1st to finish"
 msgstr "1º a terminar"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:26
-#: Hopping.wmf/scripting/texts.lua:31
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 26
+# File: Hopping.wmf/scripting/texts.lua, line: 31
 msgid "2nd to finish"
 msgstr "2º a terminar"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:27
-#: Hopping.wmf/scripting/texts.lua:32
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 27
+# File: Hopping.wmf/scripting/texts.lua, line: 32
 msgid "3rd to finish"
 msgstr "3º a terminar"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:28
-#: Hopping.wmf/scripting/texts.lua:33
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 28
+# File: Hopping.wmf/scripting/texts.lua, line: 33
 msgid "4th to finish"
 msgstr "4º  a terminar"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/first_island.lua:70
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/first_island.lua, line: 70
 msgid "5 minutes"
 msgstr "5 minutos"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:23
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 23
 msgid "Finish rewards"
 msgstr "Recompensa por terminar"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:24
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 24
 msgid "First Island"
 msgstr "Primeira Ilha"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/init.lua:94
-#: Hopping.wmf/scripting/multiplayer_init.lua:94
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/multiplayer_init.lua, line: 94
 msgid "Game Status"
 msgstr "Estado do Jogo"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:13
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 13
 msgid ""
 "If you finish a castle at the target area on the second island, you will "
 "get\n"
 "a third headquarters on the third island. You must build and hold a castle "
 "at\n"
-"the center of the third island for 20 minutes to win the game"
+"the center of the third island for 20 minutes to win the game."
 msgstr ""
 "Quando terminares a construção de um castelo na área alvejada na segunda "
 "ilha, terás\n"
@@ -115,10 +171,12 @@ msgstr ""
 "no centro desta\n"
 "e defender-o por 20 minutos para vencer o jogo."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:8
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 8
 msgid ""
 "Island Hopping is a traditional tournament in the Atlantean culture. The\n"
-"rules of the game are simple: You start with a headquarters one one island.\n"
+"rules of the game are simple: You start with a headquarters on one island.\n"
 "When you finish a castle at the end of the first island, you are granted a\n"
 "second headquarters on a second island which will contain all wares from "
 "your\n"
@@ -133,15 +191,24 @@ msgstr ""
 "da tua\n"
 "economia anterior."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:6
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 6
 msgid "Rules"
 msgstr "Regras"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:29
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 29
 msgid "Second Island"
 msgstr "Segunda Ilha"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:19
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 19
 msgid ""
 "The clue is that the first island only offers stones and wood, the second\n"
 "only meadows and resources. The economies you leave behind will continue to\n"
@@ -152,15 +219,24 @@ msgstr ""
 "fornecer-te de recursos, mas só beneficias deles quando chegares a próxima "
 "ilha."
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:43
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 43
 msgid "The reward for this feat amounts to<br><br>%s"
 msgstr "A recompensa para estes feitos gloriosos para<br><br>%s"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:5
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 5
 msgid "Welcome to Island Hopping"
 msgstr "Bem-vindo as Ilhas Saltitantes"
 
-#: ../../maps/MP Scenarios/Island Hopping.wmf/scripting/texts.lua:16
+#
+# File: ../../maps/MP, line: -1
+# File: Scenarios/Island, line: -1
+# File: Hopping.wmf/scripting/texts.lua, line: 16
 msgid ""
 "Whenever you finish an island, you get bonus wares depending how many "
 "players\n"
