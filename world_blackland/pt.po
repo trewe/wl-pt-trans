@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
-"POT-Creation-Date: 2013-06-23 17:28+0000\n"
+"POT-Creation-Date: 2013-09-15 17:41+0000\n"
 "PO-Revision-Date: 2012-12-15 23:56+0100\n"
 "Last-Translator: trewe <sjr456@yahoo.fr>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
@@ -13,6 +13,15 @@ msgstr ""
 "X-Launchpad-Export-Date: 2011-03-20 04:39+0000\n"
 "X-Generator: Launchpad (build 12559)\n"
 #
+# File: ../../worlds/blackland/terrainconf, line: 7
+msgid "Ashes"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 77
+msgid "Ashes2"
+msgstr ""
+#
+# File: ../../worlds/blackland/conf, line: 45
 # File: ../../worlds/blackland/conf, line: 45
 # File: ../../worlds/blackland/conf, line: 45
 msgid "Aspen"
@@ -20,9 +29,11 @@ msgstr "Álamo alpino"
 #
 # File: ../../worlds/blackland/conf, line: 46
 # File: ../../worlds/blackland/conf, line: 46
+# File: ../../worlds/blackland/conf, line: 46
 msgid "Aspen medium"
 msgstr "Álamo alpino médio"
 #
+# File: ../../worlds/blackland/conf, line: 47
 # File: ../../worlds/blackland/conf, line: 47
 # File: ../../worlds/blackland/conf, line: 47
 msgid "Aspen small"
@@ -30,9 +41,15 @@ msgstr "Álamo alpino pequeno"
 #
 # File: ../../worlds/blackland/conf, line: 48
 # File: ../../worlds/blackland/conf, line: 48
+# File: ../../worlds/blackland/conf, line: 48
 msgid "Aspen tiny"
 msgstr "Álamo alpino pequenino"
 #
+# File: ../../worlds/blackland/terrainconf, line: 29
+msgid "Beach"
+msgstr ""
+#
+# File: ../../worlds/blackland/conf, line: 65
 # File: ../../worlds/blackland/conf, line: 65
 # File: ../../worlds/blackland/conf, line: 65
 msgid "Beech"
@@ -40,9 +57,11 @@ msgstr "Faia"
 #
 # File: ../../worlds/blackland/conf, line: 66
 # File: ../../worlds/blackland/conf, line: 66
+# File: ../../worlds/blackland/conf, line: 66
 msgid "Beech medium"
 msgstr "Faia média"
 #
+# File: ../../worlds/blackland/conf, line: 67
 # File: ../../worlds/blackland/conf, line: 67
 # File: ../../worlds/blackland/conf, line: 67
 msgid "Beech small"
@@ -50,9 +69,11 @@ msgstr "Faia pequena"
 #
 # File: ../../worlds/blackland/conf, line: 68
 # File: ../../worlds/blackland/conf, line: 68
+# File: ../../worlds/blackland/conf, line: 68
 msgid "Beech tiny"
 msgstr "Faia pequenin1"
 #
+# File: ../../worlds/blackland/conf, line: 61
 # File: ../../worlds/blackland/conf, line: 61
 # File: ../../worlds/blackland/conf, line: 61
 msgid "Birch"
@@ -60,9 +81,11 @@ msgstr "Bétula"
 #
 # File: ../../worlds/blackland/conf, line: 62
 # File: ../../worlds/blackland/conf, line: 62
+# File: ../../worlds/blackland/conf, line: 62
 msgid "Birch medium"
 msgstr "Bétula média"
 #
+# File: ../../worlds/blackland/conf, line: 63
 # File: ../../worlds/blackland/conf, line: 63
 # File: ../../worlds/blackland/conf, line: 63
 msgid "Birch small"
@@ -70,9 +93,11 @@ msgstr "Bétula pequena"
 #
 # File: ../../worlds/blackland/conf, line: 64
 # File: ../../worlds/blackland/conf, line: 64
+# File: ../../worlds/blackland/conf, line: 64
 msgid "Birch tiny"
 msgstr "Bétula pequenina"
 #
+# File: ../../worlds/blackland/conf, line: 3
 # File: ../../worlds/blackland/conf, line: 3
 # File: ../../worlds/blackland/conf, line: 3
 msgid "Blackland"
@@ -80,9 +105,15 @@ msgstr "Terra escura"
 #
 # File: ../../worlds/blackland/conf, line: 79
 # File: ../../worlds/blackland/conf, line: 79
+# File: ../../worlds/blackland/conf, line: 79
 msgid "Bunny"
 msgstr "Coelho"
 #
+# File: ../../worlds/blackland/conf, line: 7
+# File: ../../worlds/blackland/conf, line: 8
+# File: ../../worlds/blackland/conf, line: 9
+# File: ../../worlds/blackland/conf, line: 10
+# File: ../../worlds/blackland/conf, line: 11
 # File: ../../worlds/blackland/conf, line: 7
 # File: ../../worlds/blackland/conf, line: 8
 # File: ../../worlds/blackland/conf, line: 9
@@ -100,9 +131,12 @@ msgstr "Arbusto"
 # File: ../../worlds/blackland/conf, line: 13
 # File: ../../worlds/blackland/conf, line: 12
 # File: ../../worlds/blackland/conf, line: 13
+# File: ../../worlds/blackland/conf, line: 12
+# File: ../../worlds/blackland/conf, line: 13
 msgid "Cactus"
 msgstr "Cacto"
 #
+# File: ../../worlds/blackland/resconf, line: 4
 # File: ../../worlds/blackland/resconf, line: 4
 # File: ../../worlds/blackland/resconf, line: 4
 msgid "Coal"
@@ -116,9 +150,14 @@ msgstr "Carvão"
 # File: ../../worlds/blackland/conf, line: 15
 # File: ../../worlds/blackland/conf, line: 16
 # File: ../../worlds/blackland/conf, line: 17
+# File: ../../worlds/blackland/conf, line: 14
+# File: ../../worlds/blackland/conf, line: 15
+# File: ../../worlds/blackland/conf, line: 16
+# File: ../../worlds/blackland/conf, line: 17
 msgid "Dead Tree"
 msgstr "Árvore Morta"
 #
+# File: ../../worlds/blackland/conf, line: 80
 # File: ../../worlds/blackland/conf, line: 80
 # File: ../../worlds/blackland/conf, line: 80
 msgid "Deer"
@@ -126,9 +165,11 @@ msgstr "Veado"
 #
 # File: ../../worlds/blackland/conf, line: 81
 # File: ../../worlds/blackland/conf, line: 81
+# File: ../../worlds/blackland/conf, line: 81
 msgid "Duck"
 msgstr "Pato"
 #
+# File: ../../worlds/blackland/resconf, line: 41
 # File: ../../worlds/blackland/resconf, line: 41
 # File: ../../worlds/blackland/resconf, line: 41
 msgid "Fish"
@@ -136,14 +177,17 @@ msgstr "Peixe"
 #
 # File: ../../worlds/blackland/conf, line: 82
 # File: ../../worlds/blackland/conf, line: 82
+# File: ../../worlds/blackland/conf, line: 82
 msgid "Fox"
 msgstr "Raposa"
 #
 # File: ../../worlds/blackland/resconf, line: 12
 # File: ../../worlds/blackland/resconf, line: 12
+# File: ../../worlds/blackland/resconf, line: 12
 msgid "Gold"
 msgstr "Ouro"
 #
+# File: ../../worlds/blackland/resconf, line: 28
 # File: ../../worlds/blackland/resconf, line: 28
 # File: ../../worlds/blackland/resconf, line: 28
 msgid "Granite"
@@ -155,9 +199,33 @@ msgstr "Granito"
 # File: ../../worlds/blackland/conf, line: 18
 # File: ../../worlds/blackland/conf, line: 19
 # File: ../../worlds/blackland/conf, line: 20
+# File: ../../worlds/blackland/conf, line: 18
+# File: ../../worlds/blackland/conf, line: 19
+# File: ../../worlds/blackland/conf, line: 20
 msgid "Grass"
 msgstr "Relva"
 #
+# File: ../../worlds/blackland/terrainconf, line: 94
+msgid "Hard lava"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 41
+msgid "Hardground1"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 47
+msgid "Hardground2"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 53
+msgid "Hardground3"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 83
+msgid "Hardground4"
+msgstr ""
+#
+# File: ../../worlds/blackland/resconf, line: 20
 # File: ../../worlds/blackland/resconf, line: 20
 # File: ../../worlds/blackland/resconf, line: 20
 msgid "Iron"
@@ -165,9 +233,11 @@ msgstr "Ferro"
 #
 # File: ../../worlds/blackland/conf, line: 69
 # File: ../../worlds/blackland/conf, line: 69
+# File: ../../worlds/blackland/conf, line: 69
 msgid "Larch"
 msgstr "Cedro"
 #
+# File: ../../worlds/blackland/conf, line: 70
 # File: ../../worlds/blackland/conf, line: 70
 # File: ../../worlds/blackland/conf, line: 70
 msgid "Larch medium"
@@ -175,14 +245,29 @@ msgstr "Cedro médio"
 #
 # File: ../../worlds/blackland/conf, line: 71
 # File: ../../worlds/blackland/conf, line: 71
+# File: ../../worlds/blackland/conf, line: 71
 msgid "Larch small"
 msgstr "Cedro pequeno"
 #
 # File: ../../worlds/blackland/conf, line: 72
 # File: ../../worlds/blackland/conf, line: 72
+# File: ../../worlds/blackland/conf, line: 72
 msgid "Larch tiny"
 msgstr "Cedro pequenino"
 #
+# File: ../../worlds/blackland/terrainconf, line: 89
+msgid "Lava"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 19
+msgid "Lava stone1"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 24
+msgid "Lava stone2"
+msgstr ""
+#
+# File: ../../worlds/blackland/conf, line: 57
 # File: ../../worlds/blackland/conf, line: 57
 # File: ../../worlds/blackland/conf, line: 57
 msgid "Maple"
@@ -190,9 +275,11 @@ msgstr "Ácer"
 #
 # File: ../../worlds/blackland/conf, line: 58
 # File: ../../worlds/blackland/conf, line: 58
+# File: ../../worlds/blackland/conf, line: 58
 msgid "Maple medium"
 msgstr "Ácer médio"
 #
+# File: ../../worlds/blackland/conf, line: 59
 # File: ../../worlds/blackland/conf, line: 59
 # File: ../../worlds/blackland/conf, line: 59
 msgid "Maple small"
@@ -200,9 +287,28 @@ msgstr "Ácer pequeno"
 #
 # File: ../../worlds/blackland/conf, line: 60
 # File: ../../worlds/blackland/conf, line: 60
+# File: ../../worlds/blackland/conf, line: 60
 msgid "Maple tiny"
 msgstr "Ácer pequenino"
 #
+# File: ../../worlds/blackland/terrainconf, line: 13
+msgid "Mountain1"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 59
+msgid "Mountain2"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 65
+msgid "Mountain3"
+msgstr ""
+#
+# File: ../../worlds/blackland/terrainconf, line: 71
+msgid "Mountain4"
+msgstr ""
+#
+# File: ../../worlds/blackland/conf, line: 21
+# File: ../../worlds/blackland/conf, line: 22
 # File: ../../worlds/blackland/conf, line: 21
 # File: ../../worlds/blackland/conf, line: 22
 # File: ../../worlds/blackland/conf, line: 21
@@ -212,9 +318,11 @@ msgstr "Cogumelos"
 #
 # File: ../../worlds/blackland/conf, line: 49
 # File: ../../worlds/blackland/conf, line: 49
+# File: ../../worlds/blackland/conf, line: 49
 msgid "Oak"
 msgstr "Carvalho"
 #
+# File: ../../worlds/blackland/conf, line: 50
 # File: ../../worlds/blackland/conf, line: 50
 # File: ../../worlds/blackland/conf, line: 50
 msgid "Oak medium"
@@ -222,9 +330,11 @@ msgstr "Carvalho Médio"
 #
 # File: ../../worlds/blackland/conf, line: 51
 # File: ../../worlds/blackland/conf, line: 51
+# File: ../../worlds/blackland/conf, line: 51
 msgid "Oak small"
 msgstr "Carvalho Pequeno"
 #
+# File: ../../worlds/blackland/conf, line: 52
 # File: ../../worlds/blackland/conf, line: 52
 # File: ../../worlds/blackland/conf, line: 52
 msgid "Oak tiny"
@@ -242,9 +352,16 @@ msgstr "Carvalho pequenino"
 # File: ../../worlds/blackland/conf, line: 26
 # File: ../../worlds/blackland/conf, line: 27
 # File: ../../worlds/blackland/conf, line: 28
+# File: ../../worlds/blackland/conf, line: 23
+# File: ../../worlds/blackland/conf, line: 24
+# File: ../../worlds/blackland/conf, line: 25
+# File: ../../worlds/blackland/conf, line: 26
+# File: ../../worlds/blackland/conf, line: 27
+# File: ../../worlds/blackland/conf, line: 28
 msgid "Pebble"
 msgstr "Seixo"
 #
+# File: ../../worlds/blackland/conf, line: 83
 # File: ../../worlds/blackland/conf, line: 83
 # File: ../../worlds/blackland/conf, line: 83
 msgid "Reindeer"
@@ -252,9 +369,11 @@ msgstr "Rena"
 #
 # File: ../../worlds/blackland/conf, line: 73
 # File: ../../worlds/blackland/conf, line: 73
+# File: ../../worlds/blackland/conf, line: 73
 msgid "Rowan"
 msgstr "Sorva"
 #
+# File: ../../worlds/blackland/conf, line: 74
 # File: ../../worlds/blackland/conf, line: 74
 # File: ../../worlds/blackland/conf, line: 74
 msgid "Rowan medium"
@@ -262,14 +381,17 @@ msgstr "Sorva média"
 #
 # File: ../../worlds/blackland/conf, line: 75
 # File: ../../worlds/blackland/conf, line: 75
+# File: ../../worlds/blackland/conf, line: 75
 msgid "Rowan small"
 msgstr "Sorva pequena"
 #
 # File: ../../worlds/blackland/conf, line: 76
 # File: ../../worlds/blackland/conf, line: 76
+# File: ../../worlds/blackland/conf, line: 76
 msgid "Rowan tiny"
 msgstr "Sorva pequenina"
 #
+# File: ../../worlds/blackland/conf, line: 84
 # File: ../../worlds/blackland/conf, line: 84
 # File: ../../worlds/blackland/conf, line: 84
 msgid "Sheep"
@@ -281,9 +403,13 @@ msgstr "Ovelha"
 # File: ../../worlds/blackland/conf, line: 29
 # File: ../../worlds/blackland/conf, line: 30
 # File: ../../worlds/blackland/conf, line: 31
+# File: ../../worlds/blackland/conf, line: 29
+# File: ../../worlds/blackland/conf, line: 30
+# File: ../../worlds/blackland/conf, line: 31
 msgid "Skeleton"
 msgstr "Esqueleto"
 #
+# File: ../../worlds/blackland/conf, line: 53
 # File: ../../worlds/blackland/conf, line: 53
 # File: ../../worlds/blackland/conf, line: 53
 msgid "Spruce"
@@ -291,9 +417,11 @@ msgstr "Pinheiro Nórdico"
 #
 # File: ../../worlds/blackland/conf, line: 54
 # File: ../../worlds/blackland/conf, line: 54
+# File: ../../worlds/blackland/conf, line: 54
 msgid "Spruce medium"
 msgstr "Pinheiro Nórdico médio"
 #
+# File: ../../worlds/blackland/conf, line: 55
 # File: ../../worlds/blackland/conf, line: 55
 # File: ../../worlds/blackland/conf, line: 55
 msgid "Spruce small"
@@ -301,9 +429,17 @@ msgstr "Pinheiro Nórdico pequeno"
 #
 # File: ../../worlds/blackland/conf, line: 56
 # File: ../../worlds/blackland/conf, line: 56
+# File: ../../worlds/blackland/conf, line: 56
 msgid "Spruce tiny"
 msgstr "Pinheiro Nórdico pequenino"
 #
+# File: ../../worlds/blackland/conf, line: 32
+# File: ../../worlds/blackland/conf, line: 33
+# File: ../../worlds/blackland/conf, line: 34
+# File: ../../worlds/blackland/conf, line: 35
+# File: ../../worlds/blackland/conf, line: 36
+# File: ../../worlds/blackland/conf, line: 37
+# File: ../../worlds/blackland/conf, line: 38
 # File: ../../worlds/blackland/conf, line: 32
 # File: ../../worlds/blackland/conf, line: 33
 # File: ../../worlds/blackland/conf, line: 34
@@ -333,9 +469,16 @@ msgstr "Obeliscos"
 # File: ../../worlds/blackland/conf, line: 42
 # File: ../../worlds/blackland/conf, line: 43
 # File: ../../worlds/blackland/conf, line: 44
+# File: ../../worlds/blackland/conf, line: 39
+# File: ../../worlds/blackland/conf, line: 40
+# File: ../../worlds/blackland/conf, line: 41
+# File: ../../worlds/blackland/conf, line: 42
+# File: ../../worlds/blackland/conf, line: 43
+# File: ../../worlds/blackland/conf, line: 44
 msgid "Stones"
 msgstr "Pedras"
 #
+# File: ../../worlds/blackland/conf, line: 2
 # File: ../../worlds/blackland/conf, line: 2
 # File: ../../worlds/blackland/conf, line: 2
 msgid "The Widelands Development Team"
@@ -343,10 +486,13 @@ msgstr "A equipa de desenvolvimento de Widelands"
 #
 # File: ../../worlds/blackland/conf, line: 4
 # File: ../../worlds/blackland/conf, line: 4
+# File: ../../worlds/blackland/conf, line: 4
 msgid "These are the grey, horrible and dangerous blacklands"
 msgstr "Estas são as cinzentas, terríveis e perigosas terras escuras."
 #
 # File: ../../worlds/blackland/resconf, line: 36
 # File: ../../worlds/blackland/resconf, line: 36
+# File: ../../worlds/blackland/resconf, line: 36
+# File: ../../worlds/blackland/terrainconf, line: 34
 msgid "Water"
 msgstr "Água"
