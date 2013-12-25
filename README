@@ -1,32 +1,28 @@
 
-European Portuguese translation files for « Widelands »
-
+Portuguese translation files for « Widelands »
 
 Statistics:
 
- » map_plateau.wmf/pt.po -    25/  0/25    (100%)  -0
- » maps/pt.po            -    98/  0/98    (100%)  -0
- » mp_scenario_island_hopping.wmf/pt.po -    28/  0/28    (100%)  -0
- » mp_scenario_smugglers.wmf/pt.po -    13/  0/13    (100%)  -0
- » mp_scenario_together_we_re_strong.wmf/pt.po -     7/  0/7     (100%)  -0
- » scenario_atl01.wmf/pt.po -   102/  0/107   ( 95%)  -5
- » scenario_emp01.wmf/pt.po -    45/  0/45    (100%)  -0
- » scenario_emp02.wmf/pt.po -    56/  0/56    (100%)  -0
- » scenario_t01.wmf/pt.po -    49/  0/49    (100%)  -0
- » scenario_t02.wmf/pt.po -    92/  0/92    (100%)  -0
- » scenario_t03.wmf/pt.po -    86/  0/86    (100%)  -0
- » scenario_tutorial01.wmf/pt.po -   165/  0/165   (100%)  -0
- » texts/pt.po           -   188/  0/188   (100%)  -0
- » tribe_atlanteans/pt.po -   286/  0/286   (100%)  -0
- » tribe_barbarians/pt.po -   291/  2/449   ( 64%)  -158
- » tribe_empire/pt.po    -   295/  2/295   (100%)  -0
- » widelands/pt.po       -   982/  1/997   ( 98%)  -15
- » win_conditions/pt.po  -    43/  0/43    (100%)  -0
- » world_blackland/pt.po -    57/  0/57    (100%)  -0
- » world_desert/pt.po    -    42/  0/42    (100%)  -0
- » world_greenland/pt.po -    66/  0/66    (100%)  -0
- » world_winterland/pt.po -    64/  0/64    (100%)  -0
- » Total                 -  3080/  5/3258  (94%)  -178
-
-
- © wl-pt-trans
+ * PT                                       —   3135/    2/  3349 (  93%) -212
+ » world_blackland                          —     72/    0/    72 ( 100%) -0
+ » win_conditions                           —     43/    0/    43 ( 100%) -0
+ » tribe_empire                             —    295/    0/   295 ( 100%) -0
+ » tribe_atlanteans                         —    286/    0/   286 ( 100%) -0
+ » scenario_tutorial01                      —    165/    0/   165 ( 100%) -0
+ » scenario_t03                             —     86/    0/    86 ( 100%) -0
+ » scenario_t02                             —     92/    0/    92 ( 100%) -0
+ » scenario_t01                             —     49/    0/    49 ( 100%) -0
+ » scenario_emp02                           —     56/    0/    56 ( 100%) -0
+ » scenario_emp01                           —     45/    0/    45 ( 100%) -0
+ » scenario_atl01                           —    107/    0/   107 ( 100%) -0
+ » mp_scenario_together_we_re_strong        —      7/    0/     7 ( 100%) -0
+ » mp_scenario_smugglers                    —     15/    0/    15 ( 100%) -0
+ » mp_scenario_island_hopping               —     28/    0/    28 ( 100%) -0
+ » map_plateau                              —     25/    0/    25 ( 100%) -0
+ » widelands                                —   1007/    1/  1025 (  98%) -17
+ » world_winterland                         —     77/    0/    79 (  97%) -2
+ » world_desert                             —     54/    0/    57 (  94%) -3
+ » world_greenland                          —     76/    0/    81 (  93%) -5
+ » maps                                     —    112/    0/   127 (  88%) -15
+ » texts                                    —    139/    0/   160 (  86%) -21
+ » tribe_barbarians                         —    299/    1/   449 (  66%) -149
