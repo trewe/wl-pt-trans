@@ -1,552 +1,323 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: widelands\n"
+"Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2013-09-15 17:41+0000\n"
-"PO-Revision-Date: 2012-12-17 13:19+0100\n"
-"Last-Translator: trewe <sjr456@yahoo.fr>\n"
+"PO-Revision-Date: 2013-12-25 21:12+0100\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-03-20 04:40+0000\n"
-"X-Generator: Launchpad (build 12559)\n"
+"X-Generator: Poedit 1.5.4\n"
+
 #
-# File: ../../worlds/greenland/conf, line: 58
-# File: ../../worlds/greenland/conf, line: 58
-# File: ../../worlds/greenland/conf, line: 58
 msgid "Alder"
 msgstr "Amieiro"
+
 #
-# File: ../../worlds/greenland/conf, line: 59
-# File: ../../worlds/greenland/conf, line: 59
-# File: ../../worlds/greenland/conf, line: 59
 msgid "Alder medium"
 msgstr "Amieiro médio"
+
 #
-# File: ../../worlds/greenland/conf, line: 60
-# File: ../../worlds/greenland/conf, line: 60
-# File: ../../worlds/greenland/conf, line: 60
 msgid "Alder small"
 msgstr "Amieiro pequeno"
+
 #
-# File: ../../worlds/greenland/conf, line: 61
-# File: ../../worlds/greenland/conf, line: 61
-# File: ../../worlds/greenland/conf, line: 61
 msgid "Alder tiny"
 msgstr "Amieiro minúsculo"
+
 #
-# File: ../../worlds/greenland/conf, line: 46
-# File: ../../worlds/greenland/conf, line: 46
-# File: ../../worlds/greenland/conf, line: 46
 msgid "Aspen"
 msgstr "Álamo alpino"
+
 #
-# File: ../../worlds/greenland/conf, line: 47
-# File: ../../worlds/greenland/conf, line: 47
-# File: ../../worlds/greenland/conf, line: 47
 msgid "Aspen medium"
 msgstr "Álamo alpino médio"
+
 #
-# File: ../../worlds/greenland/conf, line: 48
-# File: ../../worlds/greenland/conf, line: 48
-# File: ../../worlds/greenland/conf, line: 48
 msgid "Aspen small"
 msgstr "Álamo alpino pequeno"
+
 #
-# File: ../../worlds/greenland/conf, line: 49
-# File: ../../worlds/greenland/conf, line: 49
-# File: ../../worlds/greenland/conf, line: 49
 msgid "Aspen tiny"
 msgstr "Álamo alpino minúsculo"
+
 #
-# File: ../../worlds/greenland/conf, line: 80
-# File: ../../worlds/greenland/conf, line: 80
-# File: ../../worlds/greenland/conf, line: 80
 msgid "Badger"
 msgstr "Texugo"
-#
-# File: ../../worlds/greenland/terrainconf, line: 79
+
 msgid "Barren steppe"
-msgstr ""
-#
-# File: ../../worlds/greenland/terrainconf, line: 31
+msgstr "Estepe árida"
+
 msgid "Beach"
-msgstr ""
+msgstr "Praia"
+
 #
-# File: ../../worlds/greenland/conf, line: 66
-# File: ../../worlds/greenland/conf, line: 66
-# File: ../../worlds/greenland/conf, line: 66
 msgid "Beech"
 msgstr "Faia"
+
 #
-# File: ../../worlds/greenland/conf, line: 67
-# File: ../../worlds/greenland/conf, line: 67
-# File: ../../worlds/greenland/conf, line: 67
 msgid "Beech medium"
 msgstr "Faia média"
+
 #
-# File: ../../worlds/greenland/conf, line: 68
-# File: ../../worlds/greenland/conf, line: 68
-# File: ../../worlds/greenland/conf, line: 68
 msgid "Beech small"
 msgstr "Faia pequena"
+
 #
-# File: ../../worlds/greenland/conf, line: 69
-# File: ../../worlds/greenland/conf, line: 69
-# File: ../../worlds/greenland/conf, line: 69
 msgid "Beech tiny"
 msgstr "Faia minúscula"
+
 #
-# File: ../../worlds/greenland/conf, line: 62
-# File: ../../worlds/greenland/conf, line: 62
-# File: ../../worlds/greenland/conf, line: 62
 msgid "Birch"
 msgstr "Bétula"
+
 #
-# File: ../../worlds/greenland/conf, line: 63
-# File: ../../worlds/greenland/conf, line: 63
-# File: ../../worlds/greenland/conf, line: 63
 msgid "Birch medium"
 msgstr "Bétula média"
+
 #
-# File: ../../worlds/greenland/conf, line: 64
-# File: ../../worlds/greenland/conf, line: 64
-# File: ../../worlds/greenland/conf, line: 64
 msgid "Birch small"
 msgstr "Bétula pequena"
+
 #
-# File: ../../worlds/greenland/conf, line: 65
-# File: ../../worlds/greenland/conf, line: 65
-# File: ../../worlds/greenland/conf, line: 65
 msgid "Birch tiny"
 msgstr "Bétula anã"
+
 #
-# File: ../../worlds/greenland/conf, line: 81
-# File: ../../worlds/greenland/conf, line: 81
-# File: ../../worlds/greenland/conf, line: 81
 msgid "Brownbear"
 msgstr "Urso pardo"
+
 #
-# File: ../../worlds/greenland/conf, line: 82
-# File: ../../worlds/greenland/conf, line: 82
-# File: ../../worlds/greenland/conf, line: 82
 msgid "Bunny"
 msgstr "Coelho"
+
 #
-# File: ../../worlds/greenland/conf, line: 7
-# File: ../../worlds/greenland/conf, line: 8
-# File: ../../worlds/greenland/conf, line: 9
-# File: ../../worlds/greenland/conf, line: 10
-# File: ../../worlds/greenland/conf, line: 11
-# File: ../../worlds/greenland/conf, line: 7
-# File: ../../worlds/greenland/conf, line: 8
-# File: ../../worlds/greenland/conf, line: 9
-# File: ../../worlds/greenland/conf, line: 10
-# File: ../../worlds/greenland/conf, line: 11
-# File: ../../worlds/greenland/conf, line: 7
-# File: ../../worlds/greenland/conf, line: 8
-# File: ../../worlds/greenland/conf, line: 9
-# File: ../../worlds/greenland/conf, line: 10
-# File: ../../worlds/greenland/conf, line: 11
 msgid "Bush"
 msgstr "Arbusto"
+
 #
-# File: ../../worlds/greenland/conf, line: 12
-# File: ../../worlds/greenland/conf, line: 13
-# File: ../../worlds/greenland/conf, line: 12
-# File: ../../worlds/greenland/conf, line: 13
-# File: ../../worlds/greenland/conf, line: 12
-# File: ../../worlds/greenland/conf, line: 13
 msgid "Cactus"
 msgstr "Cacto"
+
 #
-# File: ../../worlds/greenland/conf, line: 83
-# File: ../../worlds/greenland/conf, line: 83
-# File: ../../worlds/greenland/conf, line: 83
 msgid "Chamois"
 msgstr "Capricórnio"
+
 #
-# File: ../../worlds/greenland/resconf, line: 4
-# File: ../../worlds/greenland/resconf, line: 4
-# File: ../../worlds/greenland/resconf, line: 4
 msgid "Coal"
 msgstr "Carvão"
+
 #
-# File: ../../worlds/greenland/conf, line: 14
-# File: ../../worlds/greenland/conf, line: 15
-# File: ../../worlds/greenland/conf, line: 16
-# File: ../../worlds/greenland/conf, line: 17
-# File: ../../worlds/greenland/conf, line: 14
-# File: ../../worlds/greenland/conf, line: 15
-# File: ../../worlds/greenland/conf, line: 16
-# File: ../../worlds/greenland/conf, line: 17
-# File: ../../worlds/greenland/conf, line: 14
-# File: ../../worlds/greenland/conf, line: 15
-# File: ../../worlds/greenland/conf, line: 16
-# File: ../../worlds/greenland/conf, line: 17
 msgid "Dead Tree"
 msgstr "Árvore Morta"
+
 #
-# File: ../../worlds/greenland/conf, line: 84
-# File: ../../worlds/greenland/conf, line: 84
-# File: ../../worlds/greenland/conf, line: 84
 msgid "Deer"
 msgstr "Veado"
+
 #
-# File: ../../worlds/greenland/conf, line: 85
-# File: ../../worlds/greenland/conf, line: 85
-# File: ../../worlds/greenland/conf, line: 85
 msgid "Duck"
 msgstr "Pato"
+
 #
-# File: ../../worlds/greenland/conf, line: 86
-# File: ../../worlds/greenland/conf, line: 86
-# File: ../../worlds/greenland/conf, line: 86
 msgid "Elk"
 msgstr "Alce"
+
 #
-# File: ../../worlds/greenland/conf, line: 18
-# File: ../../worlds/greenland/conf, line: 18
-# File: ../../worlds/greenland/conf, line: 18
 msgid "Fallen Tree"
 msgstr "Árvore Caída"
+
 #
-# File: ../../worlds/greenland/resconf, line: 41
-# File: ../../worlds/greenland/resconf, line: 41
-# File: ../../worlds/greenland/resconf, line: 41
 msgid "Fish"
 msgstr "Peixe"
+
 #
-# File: ../../worlds/greenland/conf, line: 87
-# File: ../../worlds/greenland/conf, line: 87
-# File: ../../worlds/greenland/conf, line: 87
 msgid "Fox"
 msgstr "Raposa"
+
 #
-# File: ../../worlds/greenland/resconf, line: 12
-# File: ../../worlds/greenland/resconf, line: 12
-# File: ../../worlds/greenland/resconf, line: 12
 msgid "Gold"
 msgstr "Ouro"
+
 #
-# File: ../../worlds/greenland/resconf, line: 28
-# File: ../../worlds/greenland/resconf, line: 28
-# File: ../../worlds/greenland/resconf, line: 28
 msgid "Granite"
 msgstr "Granito"
+
 #
-# File: ../../worlds/greenland/conf, line: 19
-# File: ../../worlds/greenland/conf, line: 20
-# File: ../../worlds/greenland/conf, line: 21
-# File: ../../worlds/greenland/conf, line: 19
-# File: ../../worlds/greenland/conf, line: 20
-# File: ../../worlds/greenland/conf, line: 21
-# File: ../../worlds/greenland/conf, line: 19
-# File: ../../worlds/greenland/conf, line: 20
-# File: ../../worlds/greenland/conf, line: 21
 msgid "Grass"
 msgstr "Relva"
+
 #
-# File: ../../worlds/greenland/conf, line: 3
-# File: ../../worlds/greenland/conf, line: 3
-# File: ../../worlds/greenland/conf, line: 3
 msgid "Greenland"
 msgstr "Prado"
+
 #
-# File: ../../worlds/greenland/resconf, line: 20
-# File: ../../worlds/greenland/resconf, line: 20
-# File: ../../worlds/greenland/resconf, line: 20
 msgid "Iron"
 msgstr "Ferro"
+
 #
-# File: ../../worlds/greenland/conf, line: 70
-# File: ../../worlds/greenland/conf, line: 70
-# File: ../../worlds/greenland/conf, line: 70
 msgid "Larch"
 msgstr "Cedro"
+
 #
-# File: ../../worlds/greenland/conf, line: 71
-# File: ../../worlds/greenland/conf, line: 71
-# File: ../../worlds/greenland/conf, line: 71
 msgid "Larch medium"
 msgstr "Cedro médio"
+
 #
-# File: ../../worlds/greenland/conf, line: 72
-# File: ../../worlds/greenland/conf, line: 72
-# File: ../../worlds/greenland/conf, line: 72
 msgid "Larch small"
 msgstr "Cedro pequeno"
+
 #
-# File: ../../worlds/greenland/conf, line: 73
-# File: ../../worlds/greenland/conf, line: 73
-# File: ../../worlds/greenland/conf, line: 73
 msgid "Larch tiny"
 msgstr "Cedro anão"
-#
-# File: ../../worlds/greenland/terrainconf, line: 91
+
 msgid "Lava"
-msgstr ""
+msgstr "Lava"
+
 #
-# File: ../../worlds/greenland/conf, line: 88
-# File: ../../worlds/greenland/conf, line: 88
-# File: ../../worlds/greenland/conf, line: 88
 msgid "Lynx"
 msgstr "Lince"
+
 #
-# File: ../../worlds/greenland/conf, line: 89
-# File: ../../worlds/greenland/conf, line: 89
-# File: ../../worlds/greenland/conf, line: 89
 msgid "Marten"
 msgstr "Marta"
-#
-# File: ../../worlds/greenland/terrainconf, line: 43
+
 msgid "Meadow1"
 msgstr ""
+
 #
-# File: ../../worlds/greenland/terrainconf, line: 49
 msgid "Meadow2"
 msgstr ""
+
 #
-# File: ../../worlds/greenland/terrainconf, line: 55
 msgid "Meadow3"
 msgstr ""
+
 #
-# File: ../../worlds/greenland/terrainconf, line: 85
 msgid "Meadow4"
 msgstr ""
+
 #
-# File: ../../worlds/greenland/terrainconf, line: 96
 msgid "Mountain meadow"
 msgstr ""
-#
-# File: ../../worlds/greenland/terrainconf, line: 13
+
 msgid "Mountain1"
-msgstr ""
-#
-# File: ../../worlds/greenland/terrainconf, line: 61
+msgstr "Montanhas1"
+
 msgid "Mountain2"
-msgstr ""
-#
-# File: ../../worlds/greenland/terrainconf, line: 67
+msgstr "Montanhas2"
+
 msgid "Mountain3"
-msgstr ""
-#
-# File: ../../worlds/greenland/terrainconf, line: 73
+msgstr "Montanhas3"
+
 msgid "Mountain4"
-msgstr ""
+msgstr "Montanhas4"
+
 #
-# File: ../../worlds/greenland/conf, line: 22
-# File: ../../worlds/greenland/conf, line: 23
-# File: ../../worlds/greenland/conf, line: 22
-# File: ../../worlds/greenland/conf, line: 23
-# File: ../../worlds/greenland/conf, line: 22
-# File: ../../worlds/greenland/conf, line: 23
 msgid "Mushroom"
 msgstr "Cogumelos"
+
 #
-# File: ../../worlds/greenland/conf, line: 50
-# File: ../../worlds/greenland/conf, line: 50
-# File: ../../worlds/greenland/conf, line: 50
 msgid "Oak"
 msgstr "Carvalho"
+
 #
-# File: ../../worlds/greenland/conf, line: 51
-# File: ../../worlds/greenland/conf, line: 51
-# File: ../../worlds/greenland/conf, line: 51
 msgid "Oak medium"
 msgstr "Carvalho Médio"
+
 #
-# File: ../../worlds/greenland/conf, line: 52
-# File: ../../worlds/greenland/conf, line: 52
-# File: ../../worlds/greenland/conf, line: 52
 msgid "Oak small"
 msgstr "Carvalho Pequeno"
+
 #
-# File: ../../worlds/greenland/conf, line: 53
-# File: ../../worlds/greenland/conf, line: 53
-# File: ../../worlds/greenland/conf, line: 53
 msgid "Oak tiny"
 msgstr "Carvalho minúsculo"
+
 #
-# File: ../../worlds/greenland/conf, line: 24
-# File: ../../worlds/greenland/conf, line: 25
-# File: ../../worlds/greenland/conf, line: 26
-# File: ../../worlds/greenland/conf, line: 27
-# File: ../../worlds/greenland/conf, line: 28
-# File: ../../worlds/greenland/conf, line: 29
-# File: ../../worlds/greenland/conf, line: 24
-# File: ../../worlds/greenland/conf, line: 25
-# File: ../../worlds/greenland/conf, line: 26
-# File: ../../worlds/greenland/conf, line: 27
-# File: ../../worlds/greenland/conf, line: 28
-# File: ../../worlds/greenland/conf, line: 29
-# File: ../../worlds/greenland/conf, line: 24
-# File: ../../worlds/greenland/conf, line: 25
-# File: ../../worlds/greenland/conf, line: 26
-# File: ../../worlds/greenland/conf, line: 27
-# File: ../../worlds/greenland/conf, line: 28
-# File: ../../worlds/greenland/conf, line: 29
 msgid "Pebble"
 msgstr "Seixo"
+
 #
-# File: ../../worlds/greenland/conf, line: 90
-# File: ../../worlds/greenland/conf, line: 90
-# File: ../../worlds/greenland/conf, line: 90
 msgid "Reindeer"
 msgstr "Rena"
+
 #
-# File: ../../worlds/greenland/conf, line: 74
-# File: ../../worlds/greenland/conf, line: 74
-# File: ../../worlds/greenland/conf, line: 74
 msgid "Rowan"
 msgstr "Sorva"
+
 #
-# File: ../../worlds/greenland/conf, line: 75
-# File: ../../worlds/greenland/conf, line: 75
-# File: ../../worlds/greenland/conf, line: 75
 msgid "Rowan medium"
 msgstr "Sorva média"
+
 #
-# File: ../../worlds/greenland/conf, line: 76
-# File: ../../worlds/greenland/conf, line: 76
-# File: ../../worlds/greenland/conf, line: 76
 msgid "Rowan small"
 msgstr "Sorva pequena"
+
 #
-# File: ../../worlds/greenland/conf, line: 77
-# File: ../../worlds/greenland/conf, line: 77
-# File: ../../worlds/greenland/conf, line: 77
 msgid "Rowan tiny"
 msgstr "Sorva minúscula"
+
 #
-# File: ../../worlds/greenland/conf, line: 91
-# File: ../../worlds/greenland/conf, line: 91
-# File: ../../worlds/greenland/conf, line: 91
 msgid "Sheep"
 msgstr "Ovelha"
+
 #
-# File: ../../worlds/greenland/conf, line: 30
-# File: ../../worlds/greenland/conf, line: 31
-# File: ../../worlds/greenland/conf, line: 32
-# File: ../../worlds/greenland/conf, line: 30
-# File: ../../worlds/greenland/conf, line: 31
-# File: ../../worlds/greenland/conf, line: 32
-# File: ../../worlds/greenland/conf, line: 30
-# File: ../../worlds/greenland/conf, line: 31
-# File: ../../worlds/greenland/conf, line: 32
 msgid "Skeleton"
 msgstr "Esqueleto"
-#
-# File: ../../worlds/greenland/terrainconf, line: 19
+
 msgid "Snow"
-msgstr ""
+msgstr "Neve"
+
 #
-# File: ../../worlds/greenland/conf, line: 54
-# File: ../../worlds/greenland/conf, line: 54
-# File: ../../worlds/greenland/conf, line: 54
 msgid "Spruce"
 msgstr "Pinheiro"
+
 #
-# File: ../../worlds/greenland/conf, line: 55
-# File: ../../worlds/greenland/conf, line: 55
-# File: ../../worlds/greenland/conf, line: 55
 msgid "Spruce medium"
 msgstr "Pinheiro médio"
+
 #
-# File: ../../worlds/greenland/conf, line: 56
-# File: ../../worlds/greenland/conf, line: 56
-# File: ../../worlds/greenland/conf, line: 56
 msgid "Spruce small"
 msgstr "Pinheiro pequeno"
+
 #
-# File: ../../worlds/greenland/conf, line: 57
-# File: ../../worlds/greenland/conf, line: 57
-# File: ../../worlds/greenland/conf, line: 57
 msgid "Spruce tiny"
 msgstr "Pinheiro anão"
+
 #
-# File: ../../worlds/greenland/conf, line: 33
-# File: ../../worlds/greenland/conf, line: 34
-# File: ../../worlds/greenland/conf, line: 35
-# File: ../../worlds/greenland/conf, line: 36
-# File: ../../worlds/greenland/conf, line: 37
-# File: ../../worlds/greenland/conf, line: 38
-# File: ../../worlds/greenland/conf, line: 39
-# File: ../../worlds/greenland/conf, line: 33
-# File: ../../worlds/greenland/conf, line: 34
-# File: ../../worlds/greenland/conf, line: 35
-# File: ../../worlds/greenland/conf, line: 36
-# File: ../../worlds/greenland/conf, line: 37
-# File: ../../worlds/greenland/conf, line: 38
-# File: ../../worlds/greenland/conf, line: 39
-# File: ../../worlds/greenland/conf, line: 33
-# File: ../../worlds/greenland/conf, line: 34
-# File: ../../worlds/greenland/conf, line: 35
-# File: ../../worlds/greenland/conf, line: 36
-# File: ../../worlds/greenland/conf, line: 37
-# File: ../../worlds/greenland/conf, line: 38
-# File: ../../worlds/greenland/conf, line: 39
 msgid "Standing Stones"
 msgstr "Obeliscos"
-#
-# File: ../../worlds/greenland/terrainconf, line: 7
+
 msgid "Steppe"
-msgstr ""
+msgstr "Estepe"
+
 #
-# File: ../../worlds/greenland/conf, line: 40
-# File: ../../worlds/greenland/conf, line: 41
-# File: ../../worlds/greenland/conf, line: 42
-# File: ../../worlds/greenland/conf, line: 43
-# File: ../../worlds/greenland/conf, line: 44
-# File: ../../worlds/greenland/conf, line: 45
-# File: ../../worlds/greenland/conf, line: 40
-# File: ../../worlds/greenland/conf, line: 41
-# File: ../../worlds/greenland/conf, line: 42
-# File: ../../worlds/greenland/conf, line: 43
-# File: ../../worlds/greenland/conf, line: 44
-# File: ../../worlds/greenland/conf, line: 45
-# File: ../../worlds/greenland/conf, line: 40
-# File: ../../worlds/greenland/conf, line: 41
-# File: ../../worlds/greenland/conf, line: 42
-# File: ../../worlds/greenland/conf, line: 43
-# File: ../../worlds/greenland/conf, line: 44
-# File: ../../worlds/greenland/conf, line: 45
 msgid "Stones"
 msgstr "Pedras"
-#
-# File: ../../worlds/greenland/terrainconf, line: 24
+
 msgid "Swamp"
-msgstr ""
+msgstr "Pântano"
+
 #
-# File: ../../worlds/greenland/conf, line: 2
-# File: ../../worlds/greenland/conf, line: 2
-# File: ../../worlds/greenland/conf, line: 2
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
+
 #
-# File: ../../worlds/greenland/conf, line: 4
-# File: ../../worlds/greenland/conf, line: 4
-# File: ../../worlds/greenland/conf, line: 4
 msgid "These are the beauty and bountiful countries of the barbarians"
 msgstr "Estas são as belas e abundantes terras dos bárbaros"
+
 #
-# File: ../../worlds/greenland/resconf, line: 36
-# File: ../../worlds/greenland/resconf, line: 36
-# File: ../../worlds/greenland/resconf, line: 36
-# File: ../../worlds/greenland/terrainconf, line: 36
 msgid "Water"
 msgstr "Água"
+
 #
-# File: ../../worlds/greenland/conf, line: 92
-# File: ../../worlds/greenland/conf, line: 92
-# File: ../../worlds/greenland/conf, line: 92
 msgid "Wisent"
 msgstr "Bisonte"
+
 #
-# File: ../../worlds/greenland/conf, line: 93
-# File: ../../worlds/greenland/conf, line: 93
-# File: ../../worlds/greenland/conf, line: 93
 msgid "Wolf"
 msgstr "Lobo"

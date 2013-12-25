@@ -1,480 +1,280 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: widelands\n"
+
+"Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2013-09-15 17:41+0000\n"
-"PO-Revision-Date: 2012-12-15 23:56+0100\n"
-"Last-Translator: trewe <sjr456@yahoo.fr>\n"
+"PO-Revision-Date: 2013-12-25 20:52+0100\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2011-03-20 04:40+0000\n"
-"X-Generator: Launchpad (build 12559)\n"
-#
-# File: ../../worlds/desert/terrainconf, line: 35
+"X-Generator: Poedit 1.5.4\n"
+
 msgid "Beach"
-msgstr ""
+msgstr "Praia"
+
+
 #
-# File: ../../worlds/desert/conf, line: 71
-# File: ../../worlds/desert/conf, line: 71
-# File: ../../worlds/desert/conf, line: 71
 msgid "Beech"
 msgstr "Faia"
+
+
 #
-# File: ../../worlds/desert/conf, line: 72
-# File: ../../worlds/desert/conf, line: 72
-# File: ../../worlds/desert/conf, line: 72
 msgid "Beech medium"
 msgstr "Faia média"
+
+
 #
-# File: ../../worlds/desert/conf, line: 73
-# File: ../../worlds/desert/conf, line: 73
-# File: ../../worlds/desert/conf, line: 73
 msgid "Beech small"
 msgstr "Faia pequena"
+
+
 #
-# File: ../../worlds/desert/conf, line: 74
-# File: ../../worlds/desert/conf, line: 74
-# File: ../../worlds/desert/conf, line: 74
 msgid "Beech tiny"
 msgstr "Faia minúscula"
+
+
 #
-# File: ../../worlds/desert/conf, line: 85
-# File: ../../worlds/desert/conf, line: 85
-# File: ../../worlds/desert/conf, line: 85
 msgid "Bunny"
 msgstr "Coelho"
+
+
 #
-# File: ../../worlds/desert/conf, line: 7
-# File: ../../worlds/desert/conf, line: 8
-# File: ../../worlds/desert/conf, line: 9
-# File: ../../worlds/desert/conf, line: 7
-# File: ../../worlds/desert/conf, line: 8
-# File: ../../worlds/desert/conf, line: 9
-# File: ../../worlds/desert/conf, line: 7
-# File: ../../worlds/desert/conf, line: 8
-# File: ../../worlds/desert/conf, line: 9
 msgid "Bush"
 msgstr "Arbusto"
+
+
 #
-# File: ../../worlds/desert/conf, line: 10
-# File: ../../worlds/desert/conf, line: 11
-# File: ../../worlds/desert/conf, line: 12
-# File: ../../worlds/desert/conf, line: 13
-# File: ../../worlds/desert/conf, line: 10
-# File: ../../worlds/desert/conf, line: 11
-# File: ../../worlds/desert/conf, line: 12
-# File: ../../worlds/desert/conf, line: 13
-# File: ../../worlds/desert/conf, line: 10
-# File: ../../worlds/desert/conf, line: 11
-# File: ../../worlds/desert/conf, line: 12
-# File: ../../worlds/desert/conf, line: 13
 msgid "Cactus"
 msgstr "Cacto"
+
+
 #
-# File: ../../worlds/desert/resconf, line: 4
-# File: ../../worlds/desert/resconf, line: 4
-# File: ../../worlds/desert/resconf, line: 4
 msgid "Coal"
 msgstr "Carvão"
+
+
 #
-# File: ../../worlds/desert/conf, line: 14
-# File: ../../worlds/desert/conf, line: 15
-# File: ../../worlds/desert/conf, line: 16
-# File: ../../worlds/desert/conf, line: 17
-# File: ../../worlds/desert/conf, line: 14
-# File: ../../worlds/desert/conf, line: 15
-# File: ../../worlds/desert/conf, line: 16
-# File: ../../worlds/desert/conf, line: 17
-# File: ../../worlds/desert/conf, line: 14
-# File: ../../worlds/desert/conf, line: 15
-# File: ../../worlds/desert/conf, line: 16
-# File: ../../worlds/desert/conf, line: 17
 msgid "Dead Tree"
 msgstr "Árvore Morta"
+
+
 #
-# File: ../../worlds/desert/conf, line: 86
-# File: ../../worlds/desert/conf, line: 86
-# File: ../../worlds/desert/conf, line: 86
 msgid "Deer"
 msgstr "Veado"
+
+
 #
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/conf, line: 3
 msgid "Desert"
 msgstr "Deserto"
-#
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/terrainconf, line: 8
-#, fuzzy
+
+
 msgid "Desert1"
-msgstr "Deserto"
-#
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/terrainconf, line: 13
-#, fuzzy
+msgstr "Deserto1"
+
+
 msgid "Desert2"
-msgstr "Deserto"
-#
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/terrainconf, line: 18
-#, fuzzy
+msgstr "Deserto2"
+
+
 msgid "Desert3"
-msgstr "Deserto"
-#
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/conf, line: 3
-# File: ../../worlds/desert/terrainconf, line: 23
-#, fuzzy
+msgstr "Deserto3"
+
+
 msgid "Desert4"
-msgstr "Deserto"
-#
-# File: ../../worlds/desert/terrainconf, line: 29
+msgstr "Deserto4"
+
+
 msgid "Dry soil"
-msgstr ""
+msgstr "Terra Seca"
+
+
 #
-# File: ../../worlds/desert/conf, line: 87
-# File: ../../worlds/desert/conf, line: 87
-# File: ../../worlds/desert/conf, line: 87
 msgid "Duck"
 msgstr "Pato"
+
+
 #
-# File: ../../worlds/desert/resconf, line: 41
-# File: ../../worlds/desert/resconf, line: 41
-# File: ../../worlds/desert/resconf, line: 41
 msgid "Fish"
 msgstr "Peixe"
+
+
 #
-# File: ../../worlds/desert/conf, line: 88
-# File: ../../worlds/desert/conf, line: 88
-# File: ../../worlds/desert/conf, line: 88
 msgid "Fox"
 msgstr "Raposa"
+
+
 #
-# File: ../../worlds/desert/resconf, line: 12
-# File: ../../worlds/desert/resconf, line: 12
-# File: ../../worlds/desert/resconf, line: 12
 msgid "Gold"
 msgstr "Ouro"
+
+
 #
-# File: ../../worlds/desert/resconf, line: 28
-# File: ../../worlds/desert/resconf, line: 28
-# File: ../../worlds/desert/resconf, line: 28
 msgid "Granite"
 msgstr "Granito"
+
+
 #
-# File: ../../worlds/desert/conf, line: 18
-# File: ../../worlds/desert/conf, line: 19
-# File: ../../worlds/desert/conf, line: 20
-# File: ../../worlds/desert/conf, line: 18
-# File: ../../worlds/desert/conf, line: 19
-# File: ../../worlds/desert/conf, line: 20
-# File: ../../worlds/desert/conf, line: 18
-# File: ../../worlds/desert/conf, line: 19
-# File: ../../worlds/desert/conf, line: 20
 msgid "Grass"
 msgstr "Relva"
-#
-# File: ../../worlds/desert/terrainconf, line: 57
+
+
 msgid "High mountain meadow"
 msgstr ""
+
+
 #
-# File: ../../worlds/desert/resconf, line: 20
-# File: ../../worlds/desert/resconf, line: 20
-# File: ../../worlds/desert/resconf, line: 20
 msgid "Iron"
 msgstr "Ferro"
+
+
 #
-# File: ../../worlds/desert/conf, line: 75
-# File: ../../worlds/desert/conf, line: 75
-# File: ../../worlds/desert/conf, line: 75
 msgid "Larch"
 msgstr "Cedro"
+
+
 #
-# File: ../../worlds/desert/conf, line: 76
-# File: ../../worlds/desert/conf, line: 76
-# File: ../../worlds/desert/conf, line: 76
 msgid "Larch medium"
 msgstr "Cedro médio"
+
+
 #
-# File: ../../worlds/desert/conf, line: 77
-# File: ../../worlds/desert/conf, line: 77
-# File: ../../worlds/desert/conf, line: 77
 msgid "Larch small"
 msgstr "Cedro pequeno"
+
+
 #
-# File: ../../worlds/desert/conf, line: 78
-# File: ../../worlds/desert/conf, line: 78
-# File: ../../worlds/desert/conf, line: 78
 msgid "Larch tiny"
 msgstr "Cedro anão"
-#
-# File: ../../worlds/desert/terrainconf, line: 96
+
+
 msgid "Lava"
-msgstr ""
-#
-# File: ../../worlds/desert/terrainconf, line: 46
+msgstr "Lava"
+
+
 msgid "Meadow"
 msgstr ""
-#
-# File: ../../worlds/desert/terrainconf, line: 52
+
+
 msgid "Mountain meadow"
 msgstr ""
-#
-# File: ../../worlds/desert/terrainconf, line: 62
+
+
 msgid "Mountain1"
-msgstr ""
-#
-# File: ../../worlds/desert/terrainconf, line: 68
+msgstr "Montanhas1"
+
+
 msgid "Mountain2"
-msgstr ""
-#
-# File: ../../worlds/desert/terrainconf, line: 74
+msgstr "Montanhas2"
+
+
 msgid "Mountain3"
-msgstr ""
-#
-# File: ../../worlds/desert/terrainconf, line: 80
+msgstr "Montanhas3"
+
+
 msgid "Mountain4"
-msgstr ""
+msgstr "Montanhas4"
+
+
 #
-# File: ../../worlds/desert/conf, line: 21
-# File: ../../worlds/desert/conf, line: 22
-# File: ../../worlds/desert/conf, line: 21
-# File: ../../worlds/desert/conf, line: 22
-# File: ../../worlds/desert/conf, line: 21
-# File: ../../worlds/desert/conf, line: 22
 msgid "Mushroom"
 msgstr "Cogumelos"
+
+
 #
-# File: ../../worlds/desert/conf, line: 51
-# File: ../../worlds/desert/conf, line: 55
-# File: ../../worlds/desert/conf, line: 59
-# File: ../../worlds/desert/conf, line: 63
-# File: ../../worlds/desert/conf, line: 67
-# File: ../../worlds/desert/conf, line: 51
-# File: ../../worlds/desert/conf, line: 55
-# File: ../../worlds/desert/conf, line: 59
-# File: ../../worlds/desert/conf, line: 63
-# File: ../../worlds/desert/conf, line: 67
-# File: ../../worlds/desert/conf, line: 51
-# File: ../../worlds/desert/conf, line: 55
-# File: ../../worlds/desert/conf, line: 59
-# File: ../../worlds/desert/conf, line: 63
-# File: ../../worlds/desert/conf, line: 67
 msgid "Palm"
 msgstr "Palmeira"
+
+
 #
-# File: ../../worlds/desert/conf, line: 52
-# File: ../../worlds/desert/conf, line: 56
-# File: ../../worlds/desert/conf, line: 60
-# File: ../../worlds/desert/conf, line: 64
-# File: ../../worlds/desert/conf, line: 68
-# File: ../../worlds/desert/conf, line: 52
-# File: ../../worlds/desert/conf, line: 56
-# File: ../../worlds/desert/conf, line: 60
-# File: ../../worlds/desert/conf, line: 64
-# File: ../../worlds/desert/conf, line: 68
-# File: ../../worlds/desert/conf, line: 52
-# File: ../../worlds/desert/conf, line: 56
-# File: ../../worlds/desert/conf, line: 60
-# File: ../../worlds/desert/conf, line: 64
-# File: ../../worlds/desert/conf, line: 68
 msgid "Palm medium"
 msgstr "Palmeira média"
+
+
 #
-# File: ../../worlds/desert/conf, line: 53
-# File: ../../worlds/desert/conf, line: 57
-# File: ../../worlds/desert/conf, line: 61
-# File: ../../worlds/desert/conf, line: 65
-# File: ../../worlds/desert/conf, line: 69
-# File: ../../worlds/desert/conf, line: 53
-# File: ../../worlds/desert/conf, line: 57
-# File: ../../worlds/desert/conf, line: 61
-# File: ../../worlds/desert/conf, line: 65
-# File: ../../worlds/desert/conf, line: 69
-# File: ../../worlds/desert/conf, line: 53
-# File: ../../worlds/desert/conf, line: 57
-# File: ../../worlds/desert/conf, line: 61
-# File: ../../worlds/desert/conf, line: 65
-# File: ../../worlds/desert/conf, line: 69
 msgid "Palm small"
 msgstr "Pequena palmeira"
+
+
 #
-# File: ../../worlds/desert/conf, line: 54
-# File: ../../worlds/desert/conf, line: 58
-# File: ../../worlds/desert/conf, line: 62
-# File: ../../worlds/desert/conf, line: 66
-# File: ../../worlds/desert/conf, line: 70
-# File: ../../worlds/desert/conf, line: 54
-# File: ../../worlds/desert/conf, line: 58
-# File: ../../worlds/desert/conf, line: 62
-# File: ../../worlds/desert/conf, line: 66
-# File: ../../worlds/desert/conf, line: 70
-# File: ../../worlds/desert/conf, line: 54
-# File: ../../worlds/desert/conf, line: 58
-# File: ../../worlds/desert/conf, line: 62
-# File: ../../worlds/desert/conf, line: 66
-# File: ../../worlds/desert/conf, line: 70
 msgid "Palm tiny"
 msgstr "Palmeira anã"
+
+
 #
-# File: ../../worlds/desert/conf, line: 23
-# File: ../../worlds/desert/conf, line: 24
-# File: ../../worlds/desert/conf, line: 25
-# File: ../../worlds/desert/conf, line: 26
-# File: ../../worlds/desert/conf, line: 27
-# File: ../../worlds/desert/conf, line: 28
-# File: ../../worlds/desert/conf, line: 23
-# File: ../../worlds/desert/conf, line: 24
-# File: ../../worlds/desert/conf, line: 25
-# File: ../../worlds/desert/conf, line: 26
-# File: ../../worlds/desert/conf, line: 27
-# File: ../../worlds/desert/conf, line: 28
-# File: ../../worlds/desert/conf, line: 23
-# File: ../../worlds/desert/conf, line: 24
-# File: ../../worlds/desert/conf, line: 25
-# File: ../../worlds/desert/conf, line: 26
-# File: ../../worlds/desert/conf, line: 27
-# File: ../../worlds/desert/conf, line: 28
 msgid "Pebble"
 msgstr "Seixo"
+
+
 #
-# File: ../../worlds/desert/conf, line: 79
-# File: ../../worlds/desert/conf, line: 79
-# File: ../../worlds/desert/conf, line: 79
 msgid "Rowan"
 msgstr "Sorva"
+
+
 #
-# File: ../../worlds/desert/conf, line: 80
-# File: ../../worlds/desert/conf, line: 80
-# File: ../../worlds/desert/conf, line: 80
 msgid "Rowan medium"
 msgstr "Sorva média"
+
+
 #
-# File: ../../worlds/desert/conf, line: 81
-# File: ../../worlds/desert/conf, line: 81
-# File: ../../worlds/desert/conf, line: 81
 msgid "Rowan small"
 msgstr "Sorva pequena"
+
+
 #
-# File: ../../worlds/desert/conf, line: 82
-# File: ../../worlds/desert/conf, line: 82
-# File: ../../worlds/desert/conf, line: 82
 msgid "Rowan tiny"
 msgstr "Sorva minúscula"
+
+
 #
-# File: ../../worlds/desert/conf, line: 89
-# File: ../../worlds/desert/conf, line: 89
-# File: ../../worlds/desert/conf, line: 89
 msgid "Sheep"
 msgstr "Ovelha"
+
+
 #
-# File: ../../worlds/desert/conf, line: 37
-# File: ../../worlds/desert/conf, line: 37
-# File: ../../worlds/desert/conf, line: 37
 msgid "Shell"
 msgstr "Concha"
+
+
 #
-# File: ../../worlds/desert/conf, line: 34
-# File: ../../worlds/desert/conf, line: 35
-# File: ../../worlds/desert/conf, line: 36
-# File: ../../worlds/desert/conf, line: 34
-# File: ../../worlds/desert/conf, line: 35
-# File: ../../worlds/desert/conf, line: 36
-# File: ../../worlds/desert/conf, line: 34
-# File: ../../worlds/desert/conf, line: 35
-# File: ../../worlds/desert/conf, line: 36
 msgid "Skeleton"
 msgstr "Esqueleto"
+
+
 #
-# File: ../../worlds/desert/conf, line: 38
-# File: ../../worlds/desert/conf, line: 39
-# File: ../../worlds/desert/conf, line: 40
-# File: ../../worlds/desert/conf, line: 41
-# File: ../../worlds/desert/conf, line: 42
-# File: ../../worlds/desert/conf, line: 43
-# File: ../../worlds/desert/conf, line: 44
-# File: ../../worlds/desert/conf, line: 38
-# File: ../../worlds/desert/conf, line: 39
-# File: ../../worlds/desert/conf, line: 40
-# File: ../../worlds/desert/conf, line: 41
-# File: ../../worlds/desert/conf, line: 42
-# File: ../../worlds/desert/conf, line: 43
-# File: ../../worlds/desert/conf, line: 44
-# File: ../../worlds/desert/conf, line: 38
-# File: ../../worlds/desert/conf, line: 39
-# File: ../../worlds/desert/conf, line: 40
-# File: ../../worlds/desert/conf, line: 41
-# File: ../../worlds/desert/conf, line: 42
-# File: ../../worlds/desert/conf, line: 43
-# File: ../../worlds/desert/conf, line: 44
 msgid "Standing Stones"
 msgstr "Obeliscos"
-#
-# File: ../../worlds/desert/terrainconf, line: 40
+
+
 msgid "Steppe"
-msgstr ""
+msgstr "Estepe"
+
+
 #
-# File: ../../worlds/desert/conf, line: 45
-# File: ../../worlds/desert/conf, line: 46
-# File: ../../worlds/desert/conf, line: 47
-# File: ../../worlds/desert/conf, line: 48
-# File: ../../worlds/desert/conf, line: 49
-# File: ../../worlds/desert/conf, line: 50
-# File: ../../worlds/desert/conf, line: 45
-# File: ../../worlds/desert/conf, line: 46
-# File: ../../worlds/desert/conf, line: 47
-# File: ../../worlds/desert/conf, line: 48
-# File: ../../worlds/desert/conf, line: 49
-# File: ../../worlds/desert/conf, line: 50
-# File: ../../worlds/desert/conf, line: 45
-# File: ../../worlds/desert/conf, line: 46
-# File: ../../worlds/desert/conf, line: 47
-# File: ../../worlds/desert/conf, line: 48
-# File: ../../worlds/desert/conf, line: 49
-# File: ../../worlds/desert/conf, line: 50
 msgid "Stones"
 msgstr "Pedras"
+
+
 #
-# File: ../../worlds/desert/conf, line: 2
-# File: ../../worlds/desert/conf, line: 2
-# File: ../../worlds/desert/conf, line: 2
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
+
+
 #
-# File: ../../worlds/desert/conf, line: 4
-# File: ../../worlds/desert/conf, line: 4
-# File: ../../worlds/desert/conf, line: 4
 msgid "This is the wide and sandy country of the bedouins"
 msgstr "Este é o país vasto e arenoso dos beduínos"
+
+
 #
-# File: ../../worlds/desert/resconf, line: 36
-# File: ../../worlds/desert/resconf, line: 36
-# File: ../../worlds/desert/resconf, line: 36
-# File: ../../worlds/desert/terrainconf, line: 89
 msgid "Water"
 msgstr "Água"
+
+
 #
-# File: ../../worlds/desert/conf, line: 29
-# File: ../../worlds/desert/conf, line: 30
-# File: ../../worlds/desert/conf, line: 31
-# File: ../../worlds/desert/conf, line: 32
-# File: ../../worlds/desert/conf, line: 33
-# File: ../../worlds/desert/conf, line: 29
-# File: ../../worlds/desert/conf, line: 30
-# File: ../../worlds/desert/conf, line: 31
-# File: ../../worlds/desert/conf, line: 32
-# File: ../../worlds/desert/conf, line: 33
-# File: ../../worlds/desert/conf, line: 29
-# File: ../../worlds/desert/conf, line: 30
-# File: ../../worlds/desert/conf, line: 31
-# File: ../../worlds/desert/conf, line: 32
-# File: ../../worlds/desert/conf, line: 33
 msgid "ruins"
 msgstr "ruínas"
+
