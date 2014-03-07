@@ -1,283 +1,229 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Widelands\n"
+"Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
-"POT-Creation-Date: 2013-09-15 17:41+0000\n"
-"PO-Revision-Date: 2013-12-25 21:11+0100\n"
-"Last-Translator: trewe <sjrs456@yandex.com>\n"
+"POT-Creation-Date: 2014-03-06 21:20+0000\n"
+"PO-Revision-Date: 2013-06-27 16:58+0000\n"
+"Last-Translator: trewe <Unknown>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-03-20 04:39+0000\n"
-"X-Generator: Poedit 1.5.4\n"
-
-msgid "Ashes"
-msgstr "Cinzas"
-
-msgid "Ashes2"
-msgstr "Cinzas2"
-
+"X-Launchpad-Export-Date: 2014-03-06 05:37+0000\n"
+"X-Generator: Launchpad (build 16948)\n"
 #
-msgid "Aspen"
-msgstr "Álamo alpino"
-
-#
-msgid "Aspen medium"
-msgstr "Álamo alpino médio"
-
-#
-msgid "Aspen small"
-msgstr "Álamo alpino pequeno"
-
-#
-msgid "Aspen tiny"
-msgstr "Álamo alpino pequenino"
-
-msgid "Beach"
-msgstr "Praia"
-
-#
-msgid "Beech"
-msgstr "Faia"
-
-#
-msgid "Beech medium"
-msgstr "Faia média"
-
-#
-msgid "Beech small"
-msgstr "Faia pequena"
-
-#
-msgid "Beech tiny"
-msgstr "Faia pequenin1"
-
-#
-msgid "Birch"
-msgstr "Bétula"
-
-#
-msgid "Birch medium"
-msgstr "Bétula média"
-
-#
-msgid "Birch small"
-msgstr "Bétula pequena"
-
-#
-msgid "Birch tiny"
-msgstr "Bétula pequenina"
-
+# File: ../../worlds/blackland/conf, line: 2
+# File: ../../worlds/blackland/conf, line: 2
+msgid "The Widelands Development Team"
+msgstr "A equipa de desenvolvimento de Widelands"
 #
 msgid "Blackland"
 msgstr "Terra escura"
-
-#
-msgid "Bunny"
-msgstr "Coelho"
-
-#
-msgid "Bush"
-msgstr "Arbusto"
-
-#
-msgid "Cactus"
-msgstr "Cacto"
-
-#
-msgid "Coal"
-msgstr "Carvão"
-
-#
-msgid "Dead Tree"
-msgstr "Árvore Morta"
-
-#
-msgid "Deer"
-msgstr "Veado"
-
-#
-msgid "Duck"
-msgstr "Pato"
-
-#
-msgid "Fish"
-msgstr "Peixe"
-
-#
-msgid "Fox"
-msgstr "Raposa"
-
-#
-msgid "Gold"
-msgstr "Ouro"
-
-#
-msgid "Granite"
-msgstr "Granito"
-
-#
-msgid "Grass"
-msgstr "Relva"
-
-msgid "Hard lava"
-msgstr "Lava arrefecida"
-
-msgid "Hardground1"
-msgstr "Terra firme 1"
-
-msgid "Hardground2"
-msgstr "Terra firme 2"
-
-msgid "Hardground3"
-msgstr "Terra firme 3"
-
-msgid "Hardground4"
-msgstr "Terra firme 4"
-
-#
-msgid "Iron"
-msgstr "Ferro"
-
-#
-msgid "Larch"
-msgstr "Cedro"
-
-#
-msgid "Larch medium"
-msgstr "Cedro médio"
-
-#
-msgid "Larch small"
-msgstr "Cedro pequeno"
-
-#
-msgid "Larch tiny"
-msgstr "Cedro pequenino"
-
-msgid "Lava"
-msgstr "Lava"
-
-msgid "Lava stone1"
-msgstr "Pedra vulcânica 1"
-
-msgid "Lava stone2"
-msgstr "Pedra vulcânica 2"
-
-#
-msgid "Maple"
-msgstr "Ácer"
-
-#
-msgid "Maple medium"
-msgstr "Ácer médio"
-
-#
-msgid "Maple small"
-msgstr "Ácer pequeno"
-
-#
-msgid "Maple tiny"
-msgstr "Ácer pequenino"
-
-msgid "Mountain1"
-msgstr "Montanhas1"
-
-msgid "Mountain2"
-msgstr "Montanhas2"
-
-msgid "Mountain3"
-msgstr "Montanhas3"
-
-msgid "Mountain4"
-msgstr "Montanhas4"
-
-#
-msgid "Mushroom"
-msgstr "Cogumelos"
-
-#
-msgid "Oak"
-msgstr "Carvalho"
-
-#
-msgid "Oak medium"
-msgstr "Carvalho Médio"
-
-#
-msgid "Oak small"
-msgstr "Carvalho Pequeno"
-
-#
-msgid "Oak tiny"
-msgstr "Carvalho pequenino"
-
-#
-msgid "Pebble"
-msgstr "Seixo"
-
-#
-msgid "Reindeer"
-msgstr "Rena"
-
-#
-msgid "Rowan"
-msgstr "Sorva"
-
-#
-msgid "Rowan medium"
-msgstr "Sorva média"
-
-#
-msgid "Rowan small"
-msgstr "Sorva pequena"
-
-#
-msgid "Rowan tiny"
-msgstr "Sorva pequenina"
-
-#
-msgid "Sheep"
-msgstr "Ovelha"
-
-#
-msgid "Skeleton"
-msgstr "Esqueleto"
-
-#
-msgid "Spruce"
-msgstr "Pinheiro Nórdico"
-
-#
-msgid "Spruce medium"
-msgstr "Pinheiro Nórdico médio"
-
-#
-msgid "Spruce small"
-msgstr "Pinheiro Nórdico pequeno"
-
-#
-msgid "Spruce tiny"
-msgstr "Pinheiro Nórdico pequenino"
-
-#
-msgid "Standing Stones"
-msgstr "Obeliscos"
-
-#
-msgid "Stones"
-msgstr "Pedras"
-
-#
-msgid "The Widelands Development Team"
-msgstr "A equipa de desenvolvimento de Widelands"
-
 #
 msgid "These are the grey, horrible and dangerous blacklands"
 msgstr "Estas são as cinzentas, terríveis e perigosas terras escuras."
-
+#
+msgid "Bush"
+msgstr "Arbusto"
+#
+msgid "Cactus"
+msgstr "Cacto"
+#
+msgid "Dead Tree"
+msgstr "Árvore Morta"
+#
+msgid "Grass"
+msgstr "Relva"
+#
+msgid "Mushroom"
+msgstr "Cogumelos"
+#
+msgid "Pebble"
+msgstr "Seixo"
+#
+msgid "Skeleton"
+msgstr "Esqueleto"
+#
+msgid "Standing Stones"
+msgstr "Obeliscos"
+#
+msgid "Stones"
+msgstr "Pedras"
+#
+msgid "Aspen"
+msgstr "Álamo alpino"
+#
+msgid "Aspen (medium)"
+msgstr ""
+#
+msgid "Aspen (small)"
+msgstr ""
+#
+msgid "Aspen (tiny)"
+msgstr ""
+#
+msgid "Oak"
+msgstr "Carvalho"
+#
+msgid "Oak (medium)"
+msgstr ""
+#
+msgid "Oak (small)"
+msgstr ""
+#
+msgid "Oak (tiny)"
+msgstr ""
+#
+msgid "Spruce"
+msgstr "Pinheiro Nórdico"
+#
+msgid "Spruce (medium)"
+msgstr ""
+#
+msgid "Spruce (small)"
+msgstr ""
+#
+msgid "Spruce (tiny)"
+msgstr ""
+#
+msgid "Maple"
+msgstr "Ácer"
+#
+msgid "Maple (medium)"
+msgstr ""
+#
+msgid "Maple (small)"
+msgstr ""
+#
+msgid "Maple (tiny)"
+msgstr ""
+#
+msgid "Birch"
+msgstr "Bétula"
+#
+msgid "Birch (medium)"
+msgstr ""
+#
+msgid "Birch (small)"
+msgstr ""
+#
+msgid "Birch (tiny)"
+msgstr ""
+#
+msgid "Beech"
+msgstr "Faia"
+#
+msgid "Beech (medium)"
+msgstr ""
+#
+msgid "Beech (small)"
+msgstr ""
+#
+msgid "Beech (tiny)"
+msgstr ""
+#
+msgid "Larch"
+msgstr "Cedro"
+#
+msgid "Larch (medium)"
+msgstr ""
+#
+msgid "Larch (small)"
+msgstr ""
+#
+msgid "Larch (tiny)"
+msgstr ""
+#
+msgid "Rowan"
+msgstr "Sorva"
+#
+msgid "Rowan (medium)"
+msgstr ""
+#
+msgid "Rowan (small)"
+msgstr ""
+#
+msgid "Rowan (tiny)"
+msgstr ""
+#
+msgid "Bunny"
+msgstr "Coelho"
+#
+msgid "Deer"
+msgstr "Veado"
+#
+msgid "Duck"
+msgstr "Pato"
+#
+msgid "Fox"
+msgstr "Raposa"
+#
+msgid "Reindeer"
+msgstr "Rena"
+#
+msgid "Sheep"
+msgstr "Ovelha"
+#
+msgid "Coal"
+msgstr "Carvão"
+#
+msgid "Gold"
+msgstr "Ouro"
+#
+msgid "Iron"
+msgstr "Ferro"
+#
+msgid "Granite"
+msgstr "Granito"
 #
 msgid "Water"
 msgstr "Água"
+#
+msgid "Fish"
+msgstr "Peixe"
+#
+msgid "Ashes"
+msgstr "Cinzas"
+#
+msgid "Mountain 1"
+msgstr ""
+#
+msgid "Lava Rocks 1"
+msgstr ""
+#
+msgid "Lava Rocks 2"
+msgstr ""
+#
+msgid "Beach"
+msgstr "Praia"
+#
+msgid "Hard Ground 1"
+msgstr ""
+#
+msgid "Hard Ground 2"
+msgstr ""
+#
+msgid "Hard Ground 3"
+msgstr ""
+#
+msgid "Mountain 2"
+msgstr ""
+#
+msgid "Mountain 3"
+msgstr ""
+#
+msgid "Mountain 4"
+msgstr ""
+#
+msgid "Ashes 2"
+msgstr ""
+#
+msgid "Hard Ground 4"
+msgstr ""
+#
+msgid "Lava"
+msgstr "Lava"
+#
+msgid "Igneous Rocks"
+msgstr ""

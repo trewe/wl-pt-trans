@@ -1,278 +1,25 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Widelands\n"
+"Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
-"POT-Creation-Date: 2013-09-15 17:41+0000\n"
-"PO-Revision-Date: 2013-12-25 21:13+0100\n"
-"Last-Translator: trewe <sjrs456@yandex.com>\n"
+"POT-Creation-Date: 2014-03-06 21:20+0000\n"
+"PO-Revision-Date: 2013-06-27 16:58+0000\n"
+"Last-Translator: trewe <Unknown>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2011-03-20 04:40+0000\n"
-"X-Generator: Poedit 1.5.4\n"
-
-msgid "Aspen"
-msgstr "Álamo alpino"
-
+"X-Launchpad-Export-Date: 2014-03-06 05:38+0000\n"
+"X-Generator: Launchpad (build 16948)\n"
 #
-msgid "Aspen medium"
-msgstr "Álamo alpino médio"
-
-#
-msgid "Aspen small"
-msgstr "Álamo alpino pequeno"
-
-#
-msgid "Aspen tiny"
-msgstr "Álamo alpino minúsculo"
-
-#
-msgid "Badger"
-msgstr "Texugo"
-
-msgid "Beach"
-msgstr "Praia"
-
-#
-msgid "Beech"
-msgstr "Faia"
-
-#
-msgid "Beech medium"
-msgstr "Faia média"
-
-#
-msgid "Beech small"
-msgstr "Faia pequena"
-
-#
-msgid "Beech tiny"
-msgstr "Faia minúscula"
-
-#
-msgid "Birch"
-msgstr "Bétula"
-
-#
-msgid "Birch medium"
-msgstr "Bétula média"
-
-#
-msgid "Birch small"
-msgstr "Bétula pequena"
-
-#
-msgid "Birch tiny"
-msgstr "Bétula anã"
-
-#
-msgid "Bunny"
-msgstr "Coelho"
-
-#
-msgid "Bush"
-msgstr "Arbusto"
-
-#
-msgid "Coal"
-msgstr "Carvão"
-
-#
-msgid "Dead Tree"
-msgstr "Árvore Morta"
-
-#
-msgid "Deer"
-msgstr "Veado"
-
-#
-msgid "Duck"
-msgstr "Pato"
-
-#
-msgid "Elk"
-msgstr "Alce"
-
-#
-msgid "Fish"
-msgstr "Peixe"
-
-#
-msgid "Fox"
-msgstr "Raposa"
-
-#
-msgid "Gold"
-msgstr "Ouro"
-
-#
-msgid "Granite"
-msgstr "Granito"
-
-#
-msgid "Grass"
-msgstr "Relva"
-
-msgid "Ice"
-msgstr "Gelo"
-
-msgid "Ice flows"
-msgstr "Glaciar"
-
-msgid "Ice flows2"
-msgstr "Glaciar2"
-
-#
-msgid "Iron"
-msgstr "Ferro"
-
-#
-msgid "Larch"
-msgstr "Cedro"
-
-#
-msgid "Larch medium"
-msgstr "Cedro médio"
-
-#
-msgid "Larch small"
-msgstr "Cedro pequeno"
-
-#
-msgid "Larch tiny"
-msgstr "Cedro anão"
-
-msgid "Lava"
-msgstr "Lava"
-
-#
-msgid "Lynx"
-msgstr "Lince"
-
-#
-msgid "Maple"
-msgstr "Ácer"
-
-#
-msgid "Maple medium"
-msgstr "Ácer médio"
-
-#
-msgid "Maple small"
-msgstr "Ácer pequeno"
-
-#
-msgid "Maple tiny"
-msgstr "Ácer anão"
-
-#
-msgid "Marten"
-msgstr "Marta"
-
-msgid "Mountain1"
-msgstr "Montanhas1"
-
-msgid "Mountain2"
-msgstr "Montanhas2"
-
-msgid "Mountain3"
-msgstr "Montanhas3"
-
-msgid "Mountain4"
-msgstr "Montanhas4"
-
-#
-msgid "Mushroom"
-msgstr "Cogumelos"
-
-#
-msgid "Oak"
-msgstr "Carvalho"
-
-#
-msgid "Oak medium"
-msgstr "Carvalho Médio"
-
-#
-msgid "Oak small"
-msgstr "Carvalho Pequeno"
-
-#
-msgid "Oak tiny"
-msgstr "Carvalho minúsculo"
-
-#
-msgid "Pebble"
-msgstr "Seixo"
-
-#
-msgid "Reindeer"
-msgstr "Rena"
-
-#
-msgid "Rowan"
-msgstr "Sorva"
-
-#
-msgid "Rowan medium"
-msgstr "Sorva média"
-
-#
-msgid "Rowan small"
-msgstr "Sorva pequena"
-
-#
-msgid "Rowan tiny"
-msgstr "Sorva minúscula"
-
-#
-msgid "Sheep"
-msgstr "Ovelha"
-
-#
-msgid "Skeleton"
-msgstr "Esqueleto"
-
-msgid "Snow"
-msgstr "Neve"
-
-#
-msgid "Snowman"
-msgstr "Boneco de neve"
-
-#
-msgid "Spruce"
-msgstr "Pinheiro Nórdico"
-
-#
-msgid "Spruce medium"
-msgstr "Pinheiro Nórdico médio"
-
-#
-msgid "Spruce small"
-msgstr "Pinheiro Nórdico pequeno"
-
-#
-msgid "Spruce tiny"
-msgstr "Pinheiro Nórdico anão"
-
-#
-msgid "Standing Stones"
-msgstr "Obeliscos"
-
-#
-msgid "Stones"
-msgstr "Pedras"
-
-msgid "Taiga"
-msgstr ""
-
-#
+# File: ../../worlds/winterland/conf, line: 2
+# File: ../../worlds/winterland/conf, line: 2
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
-
+#
+msgid "Winterland"
+msgstr "Terras do Inverno"
 #
 msgid ""
 "These are the white, wide and frosty winterlands, in which the Northmen "
@@ -280,35 +27,228 @@ msgid ""
 msgstr ""
 "Estas são as brancas, vastas e gélidas terras do inverno, nas quais os "
 "Nórdicos habitam."
-
+#
+msgid "Bush"
+msgstr "Arbusto"
+#
+msgid "Dead Tree"
+msgstr "Árvore Morta"
+#
+msgid "Grass"
+msgstr "Relva"
+#
+msgid "Mushroom"
+msgstr "Cogumelos"
+#
+msgid "Pebble"
+msgstr "Seixo"
+#
+msgid "Skeleton"
+msgstr "Esqueleto"
+#
+msgid "Snowman"
+msgstr "Boneco de neve"
+#
+msgid "Standing Stones"
+msgstr "Obeliscos"
+#
+msgid "Stones"
+msgstr "Pedras"
 #
 msgid "Track"
 msgstr "Trilho"
-
-msgid "Tundra"
-msgstr "Tundra"
-
-msgid "Tundra taiga"
+#
+msgid "Aspen"
+msgstr "Álamo alpino"
+#
+msgid "Aspen (medium)"
 msgstr ""
-
-msgid "Tundra2"
-msgstr "Tundra2"
-
-msgid "Tundra3"
-msgstr "Tundra3"
-
 #
-msgid "Water"
-msgstr "Água"
-
+msgid "Aspen (small)"
+msgstr ""
 #
-msgid "Winterland"
-msgstr "Terras do Inverno"
-
+msgid "Aspen (tiny)"
+msgstr ""
+#
+msgid "Oak"
+msgstr "Carvalho"
+#
+msgid "Oak (medium)"
+msgstr ""
+#
+msgid "Oak (small)"
+msgstr ""
+#
+msgid "Oak (tiny)"
+msgstr ""
+#
+msgid "Spruce"
+msgstr "Pinheiro Nórdico"
+#
+msgid "Spruce (medium)"
+msgstr ""
+#
+msgid "Spruce (small)"
+msgstr ""
+#
+msgid "Spruce (tiny)"
+msgstr ""
+#
+msgid "Maple"
+msgstr "Ácer"
+#
+msgid "Maple (medium)"
+msgstr ""
+#
+msgid "Maple (small)"
+msgstr ""
+#
+msgid "Maple (tiny)"
+msgstr ""
+#
+msgid "Birch"
+msgstr "Bétula"
+#
+msgid "Birch (medium)"
+msgstr ""
+#
+msgid "Birch (small)"
+msgstr ""
+#
+msgid "Birch (tiny)"
+msgstr ""
+#
+msgid "Beech"
+msgstr "Faia"
+#
+msgid "Beech (medium)"
+msgstr ""
+#
+msgid "Beech (small)"
+msgstr ""
+#
+msgid "Beech (tiny)"
+msgstr ""
+#
+msgid "Larch"
+msgstr "Cedro"
+#
+msgid "Larch (medium)"
+msgstr ""
+#
+msgid "Larch (small)"
+msgstr ""
+#
+msgid "Larch (tiny)"
+msgstr ""
+#
+msgid "Rowan"
+msgstr "Sorva"
+#
+msgid "Rowan (medium)"
+msgstr ""
+#
+msgid "Rowan (small)"
+msgstr ""
+#
+msgid "Rowan (tiny)"
+msgstr ""
+#
+msgid "Badger"
+msgstr "Texugo"
+#
+msgid "Bunny"
+msgstr "Coelho"
+#
+msgid "Deer"
+msgstr "Veado"
+#
+msgid "Duck"
+msgstr "Pato"
+#
+msgid "Elk"
+msgstr "Alce"
+#
+msgid "Fox"
+msgstr "Raposa"
+#
+msgid "Lynx"
+msgstr "Lince"
+#
+msgid "Marten"
+msgstr "Marta"
+#
+msgid "Reindeer"
+msgstr "Rena"
+#
+msgid "Sheep"
+msgstr "Ovelha"
 #
 msgid "Wisent"
 msgstr "Bisonte"
-
 #
 msgid "Wolf"
 msgstr "Lobo"
+#
+msgid "Coal"
+msgstr "Carvão"
+#
+msgid "Gold"
+msgstr "Ouro"
+#
+msgid "Iron"
+msgstr "Ferro"
+#
+msgid "Granite"
+msgstr "Granito"
+#
+msgid "Water"
+msgstr "Água"
+#
+msgid "Fish"
+msgstr "Peixe"
+#
+msgid "Tundra"
+msgstr "Tundra"
+#
+msgid "Mountain 1"
+msgstr ""
+#
+msgid "Ice Floes"
+msgstr ""
+#
+msgid "Ice Floes 2"
+msgstr ""
+#
+msgid "Ice"
+msgstr "Gelo"
+#
+msgid "Tundra Taiga"
+msgstr ""
+#
+msgid "Tundra 2"
+msgstr ""
+#
+msgid "Tundra 3"
+msgstr ""
+#
+msgid "Mountain 2"
+msgstr ""
+#
+msgid "Mountain 3"
+msgstr ""
+#
+msgid "Mountain 4"
+msgstr ""
+#
+msgid "Beach"
+msgstr "Praia"
+#
+msgid "Taiga"
+msgstr ""
+#
+msgid "Lava"
+msgstr "Lava"
+#
+msgid "Snow"
+msgstr "Neve"
