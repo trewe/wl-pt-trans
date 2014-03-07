@@ -1,7 +1,6 @@
 # Widelands PATH/TO/FILE.PO
 # Copyright (C) 2005-2012 Widelands Development Team
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: Widelands svnVERSION\n"
@@ -17,86 +16,76 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:39+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Smugglers.wmf/scripting/multiplayer_init.lua, line: 48
+
 msgid "Game Status"
 msgstr "Estado do Jogo"
-#
+
 msgid "Wares Smuggled"
 msgstr ""
-#
+
 msgid "%i point"
 msgid_plural "%i points"
 msgstr[0] ""
 msgstr[1] ""
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Smugglers.wmf/scripting/texts.lua, line: 5
+
 msgid "Smugglers"
 msgstr "Contrabandistas"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Smugglers.wmf/scripting/texts.lua, line: 6
+
 msgid "Rules"
 msgstr "Regras"
-#
+
 msgid ""
 "Smugglers is a fun map for 4 players. You and your partner start diagonally "
 "from each other on a point symmetric island. There are plenty of smuggling "
 "tunnels on this island, each consisting of a receiving and a sending end. "
 msgstr ""
-#
+
 msgid ""
 "To establish a smuggling route, you need to build a warehouse on a sending/"
 "receiving spot while your team mate has to build one on the corresponding "
 "receiving/sending spot. A ware is then transported every 10 seconds. "
 msgstr ""
-#
+
 msgid ""
 "For harder to defend smuggling routes, you get 2 or 3 points per ware "
 "smuggled. The first team to collect %s wins."
 msgstr ""
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Smugglers.wmf/scripting/texts.lua, line: 16
+
 msgid "A sending spot"
 msgstr "Um local de envio"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Smugglers.wmf/scripting/texts.lua, line: 17
+
 msgid "A receiving spot"
 msgstr "Um local de recepção"
-#
+
 msgid ""
 "Remember that the map has rotational symmetry. For example, when you have "
 "found a spot to the top-left of your headquarters, the corresponding spot "
 "will be to the bottom-right of the headquarters of your team mate."
 msgstr ""
-#
+
 msgid ""
 "You can see the number of wares traded at any time in the general statistics "
 "menu. Good luck!"
 msgstr ""
-#
+
 msgid ""
 "A new smuggling route from %1$s to %2$s has been established! Every ware "
 "they smuggle there is worth %3$s."
 msgstr ""
-#
+
 msgid ""
 "Your team has established a new smuggling route. You have the sending "
 "warehouse. Every ware smuggled here is worth %s."
 msgstr ""
-#
+
 msgid ""
 "Your team has established a new smuggling route. You have the receiving "
 "warehouse. Every ware smuggled here is worth %s."
 msgstr ""
-#
+
 msgid "The smuggling route worth %1$s from %2$s to %3$s has been broken!"
 msgstr ""
-#
+
 msgid ""
 "Game over! %1$s and %2$s have won the game! %3$s and %4$s only managed to "
 "collect %5$s."

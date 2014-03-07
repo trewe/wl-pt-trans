@@ -12,42 +12,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:38+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
+
 msgid "Capture the Ancient Castle"
 msgstr ""
-#
+
 msgid "Defeat Lanissa and capture the ancient castle."
 msgstr ""
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 31
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 31
+
 msgid "Defeat Erwyn"
 msgstr "Derrota o Chefe Erwyn"
-#
+
 msgid ""
 "Defeat Erwyn. He commands the strongest opposing military force left on this "
 "island."
 msgstr ""
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 38
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 38
+
 msgid "Defeat Jomo"
 msgstr "Derrota o Chefe Jomo"
-#
+
 msgid "Defeat Jomo. He will take care of the soldiers’ food supply."
 msgstr ""
-#
+
 msgid "New Objectives"
 msgstr "Novos Objectivos"
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 69
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 69
+
 msgid "First Briefing"
 msgstr "Primeiras Instruções"
-#
+
 msgid "The Forbidden Island"
 msgstr ""
-#
+
 msgid ""
 "Finally! We have just taken our first step towards victory! Last night, we "
 "landed on the forbidden island and defeated the few guards that were "
@@ -55,39 +49,35 @@ msgid ""
 "the other warlords has detected us so far, so we should keep quiet and build "
 "up our infrastructure. Soon we will be strong enough to raid their positions."
 msgstr ""
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 82
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 98
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 82
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 98
+
 msgid "Second Briefing"
 msgstr "Segunda Informação"
-#
+
 msgid "An Ancient Castle"
 msgstr ""
-#
+
 msgid ""
 "By the Gods! One of our scouts has discovered a mighty castle at the center "
 "of the old plateau. The castle must be quite old and seems to have been "
 "built in a foreign style. It’s quite obvious that this is not barbarian "
 "craft."
 msgstr ""
-#
+
 msgid ""
 "Let’s hope that Lanissa – the warlord holding sway over that castle – has "
 "not discovered our movements yet. Perhaps we have a chance of conquering "
 "that mighty building without a bigger fight! However, it is essential that "
 "we capture it. It will be the key to our reign over this island!"
 msgstr ""
-#
+
 msgid "Ancient Castle Captured"
 msgstr ""
-#
+
 msgid ""
 "Wonderful! Our troops have finally defeated Lanissa and her soldiers. The "
 "ancient castle is ours!"
 msgstr ""
-#
+
 msgid ""
 "It is amazing how far one can see from the highest tower of the castle. We "
 "can watch the whole island. So now I wonder why Lanissa did not see us and "
@@ -99,45 +89,37 @@ msgid ""
 "infrastructures guarded by Jomo – a younger warlord – and we should take "
 "care of those infrastructures so we can take our cut of the food supply."
 msgstr ""
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 116
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 126
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 116
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 126
+
 msgid "Another Briefing"
 msgstr "Outras Instruções"
-#
+
 msgid "Erwyn Defeated"
 msgstr ""
-#
+
 msgid ""
 "Great! Erwyn gave up when he saw his last buildings burning down. That’s one "
 "less strong warlord on this island!"
 msgstr ""
-#
+
 msgid "Jomo Defeated"
 msgstr ""
-#
+
 msgid ""
 "Great! Jomo gave up when he saw his last buildings burning down. That’s one "
 "less warlord on this island!"
 msgstr ""
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 136
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 136
+
 msgid "Last Briefing"
 msgstr "Ultima Informação"
-#
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 140
-# File: ../../maps/Plateau.wmf/scripting/texts.lua, line: 140
+
 msgid "Victory!"
 msgstr "Vitória!"
-#
+
 msgid ""
 "Finally! The island is completely ours. Now we just have to defend it better "
 "than the warlords did."
 msgstr ""
-#
+
 msgid ""
 "Congratulations! You have mastered this scenario. You may play on if you "
 "like!"

@@ -13,66 +13,62 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:28+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
-# File: ../../campaigns/atl01.wmf/scripting/init.lua, line: 75
-# File: ../../campaigns/atl01.wmf/scripting/init.lua, line: 75
+
 msgid "Building lost!"
 msgstr "Este Edifício foi destruído!"
-#
-# File: ../../campaigns/atl01.wmf/scripting/init.lua, line: 77
-# File: ../../campaigns/atl01.wmf/scripting/init.lua, line: 77
+
 msgid "We lost a %s to the ocean!"
 msgstr "Perdemos um(a) %s para o mar!"
-#
+
 msgid "Ensure the supply of building wares"
 msgstr ""
-#
+
 msgid "Supply Building Wares"
 msgstr ""
-#
+
 msgid "Supply basic building material for your economy:"
 msgstr ""
-#
+
 msgid "Build a quarry"
 msgstr "Construir uma Pedreira"
-#
+
 msgid "Build two woodcutter’s houses"
 msgstr ""
-#
+
 msgid "Build two forester’s houses"
 msgstr ""
-#
+
 msgid "Build a sawmill"
 msgstr ""
-#
+
 msgid "Expand your territory and explore"
 msgstr ""
-#
+
 msgid "Expand and Explore"
 msgstr "Expande-te e Explora"
-#
+
 msgid ""
 "The island is huge and as long as we are not sure that we are alone here, we "
 "cannot relax. Explore and conquer it, this is the only way to protect us "
 "from threats on the island and from Atlantis."
 msgstr ""
-#
+
 msgid "Build military sites to expand your territory"
 msgstr ""
-#
+
 msgid "Establish a solid food production"
 msgstr "Estabelece um circuito sólido para a produção de comida"
-#
+
 msgid "Food Production"
 msgstr ""
-#
+
 msgid ""
 "Food is very important for mines and military training areas. Establish a "
 "well working food environment by building at least one farm, one blackroot "
 "farm and a mill. The two kinds of flour together with water from a well will "
 "be baked into bread in a bakery, so build a bakery and a well, too."
 msgstr ""
-#
+
 msgid ""
 "The other two important food wares are smoked fish and smoked meat. Raw meat "
 "is delivered from a hunter. A fisher gets the fish out of the sea while a "
@@ -81,39 +77,39 @@ msgid ""
 "breeder won’t be able to breed new ones. The smoking happens in a smokery, "
 "you will need at least two of those."
 msgstr ""
-#
+
 msgid "Build a farm and a blackroot farm"
 msgstr ""
-#
+
 msgid "Build a mill to make flour and blackroot flour"
 msgstr ""
-#
+
 msgid "Build a well"
 msgstr ""
-#
+
 msgid "Build a bakery to bake bread from flour, blackroot flour and water"
 msgstr ""
-#
+
 msgid "Build a hunter’s house to get raw meat"
 msgstr ""
-#
+
 msgid "Build a fisher’s house close to water to get raw fish"
 msgstr ""
-#
+
 msgid ""
 "Build a fish breeder’s house close to the fisher to make sure the fish do "
 "not die out"
 msgstr ""
-#
+
 msgid "Build two smokeries to smoke raw meat and fish"
 msgstr ""
-#
+
 msgid "Build a spider farm and a weaving mill"
 msgstr ""
-#
+
 msgid "Spidercloth Production"
 msgstr ""
-#
+
 msgid ""
 "The weavers produce spidercloth and tabards in the weaving-mill. Spidercloth "
 "is needed for the construction of some buildings and clothing, while tabards "
@@ -121,107 +117,105 @@ msgid ""
 "spideryarn as raw material. Spideryarn is produced by the spider farm, while "
 "gold yarn is produced by the gold weaver out of gold."
 msgstr ""
-#
+
 msgid "Build a weaving-mill"
 msgstr ""
-#
+
 msgid "Build a spider farm"
 msgstr ""
-#
+
 msgid "Build a goldweaver"
 msgstr ""
-#
+
 msgid "Build industry and mines"
 msgstr "Constrói a industria e as minas"
-#
+
 msgid "Industry and Mines"
 msgstr ""
-#
+
 msgid ""
 "Iron ore, gold ore and coal are mined in the respective mines. The crystal "
 "mine will dig for crystal, quartz and diamond – all of them are precious "
 "materials and very rarely found. It will produce a lot of stone while "
 "searching for them."
 msgstr ""
-#
+
 msgid ""
 "The ores have to be smelted at a smelting works before they can be used. The "
 "refined materials are then used in the weapon smithy, the armor smithy and "
 "the toolsmithy."
 msgstr ""
-#
+
 msgid ""
 "Build a mine of each type. Make sure to send geologists to the mountain "
 "first."
 msgstr ""
-#
+
 msgid "Build a smelting works"
 msgstr "Construir a Fundição"
-#
+
 msgid "Build an armor smithy and a weapon smithy"
 msgstr ""
-#
+
 msgid "Build a toolsmithy"
 msgstr ""
-#
+
 msgid "Build training buildings for soldiers"
 msgstr ""
-#
+
 msgid "Soldier Training Buildings"
 msgstr ""
-#
+
 msgid ""
 "Like all other tribes, the Atlanteans are also able to train soldiers: the "
 "dungeon trains attack – the major attribute of the Atlanteans – and the "
 "labyrinth trains evasion, health and defense. The items produced by the "
 "industry are used to train better soldiers in the two training buildings."
 msgstr ""
-#
+
 msgid "Build a dungeon and a labyrinth"
 msgstr ""
-#
+
 msgid "Build a warehouse and a horsefarm"
 msgstr "Constrói um Armazém e um Criação de cavalos"
-#
+
 msgid "Warehouse and Horsefarm"
 msgstr ""
-#
+
 msgid ""
 "As your road network gets longer and more complicated, you should employ "
 "horses to help out your carriers. Horses are bred at horse farms using water "
 "and corn. A warehouse will also help to ensure that your transportation "
 "system does not collapse."
 msgstr ""
-#
+
 msgid "Build a warehouse"
 msgstr "Construir um Armazém"
-#
+
 msgid "Build a horse farm"
 msgstr ""
-#
-# File: ../../campaigns/atl01.wmf/scripting/texts.lua, line: 140
-# File: ../../campaigns/atl01.wmf/scripting/texts.lua, line: 140
+
 msgid "Build 3 ships to escape from the island"
 msgstr "Constrói 3 navios para escapares desta ilha"
-#
+
 msgid "Escape From the Island"
 msgstr ""
-#
+
 msgid ""
 "There is a lake at the top of the island. Build three ships in these waters "
 "and you might be able to rescue your people before the island is swallowed "
 "completely by the ocean."
 msgstr ""
-#
+
 msgid "Build a shipyard close to the lake to start building ships"
 msgstr ""
-#
+
 msgid "Proud to the Death"
 msgstr ""
-#
+
 msgid "Favored by the God"
 msgstr ""
-#
+
 msgid ""
 "On the hidden and lost island of Atlantis, a proud tribe settled since the "
 "world was very young. Ruled by the bloodline of King Ajanthul – the first "
@@ -229,7 +223,7 @@ msgid ""
 "the wise clerics, who provided the link to Lutas – they prospered and became "
 "civilized."
 msgstr ""
-#
+
 msgid ""
 "This story is taking place during the reign of King Askandor, the 43rd "
 "successor of King Ajanthul. He had been a good king, ruling Atlantis with "
@@ -238,20 +232,20 @@ msgid ""
 "against it. Some said that endless life was only for the gods and that to "
 "seek for it was forbidden."
 msgstr ""
-#
+
 msgid "Disgraced Before the God"
 msgstr ""
-#
+
 msgid "The God’s Punishment"
 msgstr ""
-#
+
 msgid ""
 "But all seemed well. Only the horses seemed to feel something was wrong. "
 "During the nights, they went crazy and were full of fear. It was not long "
 "before the horse breeder Xydra figured out what was wrong with them: the sea "
 "level in front of their stable was rising with ever increasing speed."
 msgstr ""
-#
+
 msgid ""
 "The clerics retreated into meditation and the reason for the rising water "
 "was soon to be found: the god Lutas had lost faith in the Atlanteans because "
@@ -259,20 +253,20 @@ msgid ""
 "granted to King Ajanthul and his children. And so, he called them back below "
 "the sea again."
 msgstr ""
-#
+
 msgid "Uproar and Confusion"
 msgstr ""
-#
+
 msgid "Emerging Chaos..."
 msgstr ""
-#
+
 msgid ""
 "Guilt-ridden, the king committed suicide. Without a monarch, the people "
 "turned to the clerics, but they had no substantial help to offer. Most "
 "accepted their fate while others tried to change the god’s mind by offering "
 "animals in his temple. But to no avail..."
 msgstr ""
-#
+
 msgid ""
 "Jundlina, the late king’s daughter and the highest priestess of the god was "
 "the most determined cleric. As countless offerings didn’t change the "
@@ -280,7 +274,7 @@ msgid ""
 "personal value was needed. So she offered him her most beloved: her husband, "
 "the father of her only child."
 msgstr ""
-#
+
 msgid ""
 "But not even this changed the mind of the god. The water kept on rising. "
 "Nearly driven insane by guilt, pain and anger, Jundlina became a heretic: "
@@ -290,18 +284,18 @@ msgid ""
 "over Atlantis. This small group started praying to Satul, the fire god and "
 "the worst enemy of Lutas."
 msgstr ""
-#
+
 msgid ""
 "Leaving the dying Atlantis and their past behind, they started on a quest to "
 "find a place sheltered by the fire and protected from the sea."
 msgstr ""
-#
+
 msgid "The Princess’ Memoir"
 msgstr ""
-#
+
 msgid "Jundlina Writes Down Her Memories"
 msgstr ""
-#
+
 msgid ""
 "We left Atlantis and sailed east. We entered the forbidden sea on the sixth "
 "day without noticing any pursuers from Atlantis and without Lutas having "
@@ -309,7 +303,7 @@ msgid ""
 "island which seems to have one of these fire spitting mountains on it. I "
 "deemed this a sign from the fire god and we landed on its shore."
 msgstr ""
-#
+
 msgid ""
 "We spent the last week building two watchtowers on the mountains close to "
 "our landing area; and, of course, a hall for us all. We have very talented "
@@ -318,30 +312,30 @@ msgid ""
 "will warn us if a ship from Atlantis follows us and if the island is "
 "inhabited, we will see attackers a long time before they arrive."
 msgstr ""
-#
+
 msgid ""
 "We have established ourselves on this island. The next step is now to make "
 "it a home. I reckon we need to establish a sustainable economy and to "
 "explore our surroundings. I called for specialists and will follow their "
 "advice."
 msgstr ""
-#
+
 msgid "Loftomor and Sidolus Arrive"
 msgstr ""
-#
+
 msgid "Jundlina"
 msgstr "Jundlina"
-#
+
 msgid ""
 "May Satul warm you both. Loftomor, you have been the island’s most renowned "
 "architect. Sidolus, you are a seasoned warrior and strategist. I have called "
 "you before me to seek your counsel: what needs to be done to make this our "
 "new home?"
 msgstr ""
-#
+
 msgid "Loftomor Speaks"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you, Jundlina! The most important things for building a "
 "settlement are the building materials. There are some trees here, so we "
@@ -351,36 +345,36 @@ msgid ""
 "stone, but there is plenty to the north-east of here; we just need to build "
 "a quarry, and my stonemasons will go to work promptly."
 msgstr ""
-#
+
 msgid "Sidolus Speaks"
 msgstr ""
-#
+
 msgid "May Satul warm you, Jundlina! I agree with what Loftomor proposes. "
 msgstr ""
-#
+
 msgid "Jundlina is Satisfied"
 msgstr ""
-#
+
 msgid "Jundlina’s Memoirs"
 msgstr ""
-#
+
 msgid ""
 "Our building infrastructure is finished and I spent some days making sure "
 "that everybody is working well together. Now, there are other pressing "
 "matters. I called Colionder, my personal cook, before me to get his help "
 "with sorting some things out."
 msgstr ""
-#
+
 msgid "Colionder Arrives"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you, Jundlina. Can I be of any service to you or the god?"
 msgstr ""
-#
+
 msgid "Jundlina Replies"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you too, Colionder. Yes, I wondered if there is a way that we "
 "could centralize our food production. We lose a lot of productivity because "
@@ -388,17 +382,17 @@ msgid ""
 "responsibilities, it would be better for us all. I want your thoughts on "
 "this."
 msgstr ""
-#
+
 msgid "Colionder is in Thought"
 msgstr ""
-#
+
 msgid ""
 "Ahh, but I think this is impossible to change. The preparing and eating of "
 "food is something deeply ingrained in us Atlanteans – it is a ceremony that "
 "we just need for our well-being. So I guess we cannot take this away from "
 "the individuals completely."
 msgstr ""
-#
+
 msgid ""
 "But we might find a compromise in between: for me, making bread is a "
 "troublesome task. Grinding the blackroot and corn to flour and then baking "
@@ -406,7 +400,7 @@ msgid ""
 "helpful here. I for one would love to just have fresh bread delivered to my "
 "house every day."
 msgstr ""
-#
+
 msgid ""
 "Oooh and even more important: the smoking of fish and meat to cleanse them "
 "and improve their taste is terrible. My house is full of smoke and stinks "
@@ -415,26 +409,24 @@ msgid ""
 "be accepted by the people and would reduce the cooking time without taking "
 "away the ritual."
 msgstr ""
-#
+
 msgid "Jundlina Agrees"
 msgstr ""
-#
-# File: ../../campaigns/atl01.wmf/scripting/texts.lua, line: 326
-# File: ../../campaigns/atl01.wmf/scripting/texts.lua, line: 326
+
 msgid "Your words sound wise to me, Colionder. So be it then."
 msgstr "As tuas palavras falam sabiamente, Colionder. Que assim seja."
-#
+
 msgid "Jundlina is Reviewing the Reports"
 msgstr ""
-#
+
 msgid ""
 "Seems like our food production is finished and everybody is working together "
 "nicely. It is really starting to feel like home here."
 msgstr ""
-#
+
 msgid "A Man Comes to Jundlina"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you, Jundlina. My Name is Opol, and I am the highest weaver "
 "of the guild abandoning Atlantis and Lutas with you. I come with sad news "
@@ -443,38 +435,38 @@ msgid ""
 "building of a weaving-mill and a spider farm? The spiders deliver the finest "
 "silk and we will produce the finest spidercloth from it."
 msgstr ""
-#
+
 msgid ""
 "We offer to also produce the tabards for young soldiers and the golden "
 "tabards for officers for you in exchange. You will need them for sure as "
 "soon as you want to recruit new soldiers."
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you too, Opol. I wanted to delay production of spidercloth, "
 "but I understand your urgency. Your suggestion sounds fair to me, I will "
 "build your weaving-mill and spider farm. I will also build a goldweaver so "
 "that the golden tabards you make will not be golden by name alone."
 msgstr ""
-#
+
 msgid "Opol Seeks Out Jundlina"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you, Jundlina! The weaving-mill, goldweaver and spider farm "
 "buildings are complete and are starting their work at this very moment. The "
 "weavers’ guild is very grateful for your support and we will stand by our "
 "word and deliver the first tabard very soon."
 msgstr ""
-#
+
 msgid ""
 "This is good news indeed, Opol. Our economy is developing very well. Go back "
 "to your work now, Opol, and may Satul warm you and all your guild members!"
 msgstr ""
-#
+
 msgid "Sidolus Seeks Out Jundlina"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you, Jundlina. Have you considered mining for resources in "
 "the mountains around us? We are running short of quartz, crystal and "
@@ -484,31 +476,31 @@ msgid ""
 "need smelters, a weapon smithy, an armor smithy and a toolsmithy. And maybe "
 "even more."
 msgstr ""
-#
+
 msgid "Jundlina Nods"
 msgstr ""
-#
+
 msgid ""
 "I have considered this, Sidolus. I think, it is about time. We will make "
 "this a priority for now. You shall get your industry and soon!"
 msgstr ""
-#
+
 msgid "Jundlina Summons Sidolus"
 msgstr ""
-#
+
 msgid "Jundlina is Angry"
 msgstr ""
-#
+
 msgid ""
 "What is this I hear, Sidolus? I received words about your soldiers "
 "misbehaving and bullying the common folk. What is this nonsense all about? "
 "They are servants for the common good and must not misuse their powers. This "
 "is inexcusable! Explain this, if you will!"
 msgstr ""
-#
+
 msgid "Sidolus Seems Contrite"
 msgstr ""
-#
+
 msgid ""
 "I agree with you and I have punished the troublemakers severely. But it is "
 "very difficult to keep my men quiet: they are bored and have nothing to do. "
@@ -517,17 +509,17 @@ msgid ""
 "and a labyrinth for them. I have the plans ready, but I guess they won’t "
 "come cheap."
 msgstr ""
-#
+
 msgid ""
 "I do not fear the cost and labor as long as it keeps your people at bay. You "
 "shall get your buildings. But note that I will not tolerate any rogue "
 "soldier; if similar things happen again, I will make you responsible for "
 "them. Dismissed."
 msgstr ""
-#
+
 msgid "Jundlina Received a Letter"
 msgstr ""
-#
+
 msgid ""
 "I received an invitation from Sidolus. The first day of training in the "
 "newly finished labyrinth will be tomorrow. The dungeon is done as well and "
@@ -535,28 +527,28 @@ msgid ""
 "interested in how our soldiers are trained, and I wonder if the additional "
 "workload will keep them from bullying the civil population."
 msgstr ""
-#
+
 msgid "Jundlina Considers the Economy"
 msgstr ""
-#
+
 msgid ""
 "People are complaining about crowded streets and slow transportation. We "
 "need to help out our carriers on the roads. I have decided to build a horse "
 "farm so that the horses can help with the heavy wares."
 msgstr ""
-#
+
 msgid ""
 "Another way to take load from our roads is to build warehouses. We have "
 "claimed the mountain now, it seems a good idea to have a warehouse on the "
 "plateau to avoid having to transport everything up and down the slopes."
 msgstr ""
-#
+
 msgid "A Dangerous Discovery"
 msgstr ""
-#
+
 msgid "Jundlina is in Thought"
 msgstr ""
-#
+
 msgid ""
 "We found an old building, destroyed and burned by flames. I am very worried "
 "about this discovery. The building is not of any kind I’ve ever seen. It is "
@@ -565,26 +557,26 @@ msgid ""
 "enduring: the wood used for it seemed to have been burned in a strange way "
 "before it was used as building material – it is hard as stone."
 msgstr ""
-#
+
 msgid ""
 "The implications frighten me. Are there others on this island? Where are "
 "they then? They work with fire, are they praying to Satul too? Are they "
 "friends or foe? And why is the building burned down? Has this island seen "
 "war? Is a war being waged on it right now?"
 msgstr ""
-#
+
 msgid ""
 "We must improve our military capabilities. If there are foes on the island, "
 "we have to be prepared when we meet them. We should also enforce the "
 "fortification of our borders."
 msgstr ""
-#
+
 msgid "Another Building"
 msgstr ""
-#
+
 msgid "Jundlina is Worried"
 msgstr ""
-#
+
 msgid ""
 "We found one more building of this strange making. We have yet to see any of "
 "its builders. But obviously there has been a community on this island before "
@@ -592,10 +584,10 @@ msgid ""
 "with my generals. I will not allow that a potential enemy will find us "
 "unprepared."
 msgstr ""
-#
+
 msgid "One More Building"
 msgstr ""
-#
+
 msgid ""
 "And yet another of these buildings. We know now that the tribe that built "
 "them once had complete control over the island. But I am no longer so scared "
@@ -604,58 +596,58 @@ msgid ""
 "not let our guard down as we continue to explore this beautiful island. But "
 "without obvious dangers, I am feeling very much at home here already."
 msgstr ""
-#
+
 msgid "The Water is Rising!"
 msgstr ""
-#
+
 msgid ""
 "May Satul save us! Lutas is still trying to get to us. A scout informed me "
 "that the ocean is rising quickly. We have to reach higher ground and "
 "evacuate everybody and as much wares as we can from the headquarters up the "
 "mountains. How can we escape?"
 msgstr ""
-#
+
 msgid "A Young Man Approaches"
 msgstr ""
-#
+
 msgid ""
 "May Satul warm you, Jundlina. My name is Ostur and I construct ships. I have "
 "invented a new kind of ship: smaller than those we are used to, but much "
 "sturdier. If we build them correctly, I am confident that we can sail a much "
 "longer distance with them and maybe escape from Lutas’ influence."
 msgstr ""
-#
+
 msgid ""
 "Ostur, we have no time. The water rises too fast, and if we build the ships "
 "on the shore they will vanish in the sea before they can float. I fear we "
 "are doomed!"
 msgstr ""
-#
+
 msgid "Ostur Seems Confident"
 msgstr ""
-#
+
 msgid ""
 "A friend of mine explored the island on his own and he told me of a big lake "
 "at the top of the mountain. I suggest we build the ships in this lake and "
 "wait until the island drowns beneath us. Then we can sail away. It is a bold "
 "plan, but I think it could work."
 msgstr ""
-#
+
 msgid ""
 "Your red hair is a signal from the fire god. I will trust you and support "
 "your plan. Our survival lies in your hands now, Ostur."
 msgstr ""
-#
+
 msgid ""
 "Swift now, we need a house for Ostur next to the lake, and we need planks, "
 "logs and spidercloth for the construction there. Forget about everything "
 "else, we need those wares on top of the mountain before our warehouses are "
 "all swallowed by the sea."
 msgstr ""
-#
+
 msgid "Jundlina is Relieved"
 msgstr ""
-#
+
 msgid ""
 "Praise Satul! Ostur, the young ship builder did it. We have three ships – "
 "never have I seen sturdier ones – with enough room to carry all of us and "
@@ -665,18 +657,18 @@ msgid ""
 "long journey, but we will find the land of Satul in the end. This is what I "
 "promised my people. And myself."
 msgstr ""
-#
+
 msgid "Congratulations"
 msgstr "Parabéns"
-#
+
 msgid ""
 "You have won this mission. Continue with the next one or keep playing for as "
 "long as you like."
 msgstr ""
-#
+
 msgid "“%s”"
 msgstr ""
-#
+
 msgid "New Objective"
 msgid_plural "New Objectives"
 msgstr[0] ""

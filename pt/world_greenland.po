@@ -12,247 +12,243 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:38+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
-# File: ../../worlds/greenland/conf, line: 2
-# File: ../../worlds/greenland/conf, line: 2
+
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
-#
+
 msgid "Greenland"
 msgstr "Prado"
-#
+
 msgid "These are the beautiful and bountiful countries of the barbarians"
 msgstr ""
-#
+
 msgid "Bush"
 msgstr "Arbusto"
-#
+
 msgid "Cactus"
 msgstr "Cacto"
-#
+
 msgid "Dead Tree"
 msgstr "Árvore Morta"
-#
+
 msgid "Fallen Tree"
 msgstr "Árvore Caída"
-#
+
 msgid "Grass"
 msgstr "Relva"
-#
+
 msgid "Mushroom"
 msgstr "Cogumelos"
-#
+
 msgid "Pebble"
 msgstr "Seixo"
-#
+
 msgid "Skeleton"
 msgstr "Esqueleto"
-#
+
 msgid "Standing Stones"
 msgstr "Obeliscos"
-#
+
 msgid "Stones"
 msgstr "Pedras"
-#
+
 msgid "Aspen"
 msgstr "Álamo alpino"
-#
+
 msgid "Aspen (medium)"
 msgstr ""
-#
+
 msgid "Aspen (small)"
 msgstr ""
-#
+
 msgid "Aspen (tiny)"
 msgstr ""
-#
+
 msgid "Oak"
 msgstr "Carvalho"
-#
+
 msgid "Oak (medium)"
 msgstr ""
-#
+
 msgid "Oak (small)"
 msgstr ""
-#
+
 msgid "Oak (tiny)"
 msgstr ""
-#
+
 msgid "Spruce"
 msgstr "Pinheiro"
-#
+
 msgid "Spruce (medium)"
 msgstr ""
-#
+
 msgid "Spruce (small)"
 msgstr ""
-#
+
 msgid "Spruce (tiny)"
 msgstr ""
-#
+
 msgid "Alder"
 msgstr "Amieiro"
-#
+
 msgid "Alder (medium)"
 msgstr ""
-#
+
 msgid "Alder (small)"
 msgstr ""
-#
+
 msgid "Alder (tiny)"
 msgstr ""
-#
+
 msgid "Birch"
 msgstr "Bétula"
-#
+
 msgid "Birch (medium)"
 msgstr ""
-#
+
 msgid "Birch (small)"
 msgstr ""
-#
+
 msgid "Birch (tiny)"
 msgstr ""
-#
+
 msgid "Beech"
 msgstr "Faia"
-#
+
 msgid "Beech (medium)"
 msgstr ""
-#
+
 msgid "Beech (small)"
 msgstr ""
-#
+
 msgid "Beech (tiny)"
 msgstr ""
-#
+
 msgid "Larch"
 msgstr "Cedro"
-#
+
 msgid "Larch (medium)"
 msgstr ""
-#
+
 msgid "Larch (small)"
 msgstr ""
-#
+
 msgid "Larch (tiny)"
 msgstr ""
-#
+
 msgid "Rowan"
 msgstr "Sorva"
-#
+
 msgid "Rowan (medium)"
 msgstr ""
-#
+
 msgid "Rowan (small)"
 msgstr ""
-#
+
 msgid "Rowan (tiny)"
 msgstr ""
-#
+
 msgid "Badger"
 msgstr "Texugo"
-#
+
 msgid "Brown Bear"
 msgstr ""
-#
+
 msgid "Bunny"
 msgstr "Coelho"
-#
-# File: ../../worlds/greenland/conf, line: 83
-# File: ../../worlds/greenland/conf, line: 83
+
 msgid "Chamois"
 msgstr "Capricórnio"
-#
+
 msgid "Deer"
 msgstr "Veado"
-#
+
 msgid "Duck"
 msgstr "Pato"
-#
+
 msgid "Elk"
 msgstr "Alce"
-#
+
 msgid "Fox"
 msgstr "Raposa"
-#
+
 msgid "Lynx"
 msgstr "Lince"
-#
+
 msgid "Marten"
 msgstr "Marta"
-#
+
 msgid "Reindeer"
 msgstr "Rena"
-#
+
 msgid "Sheep"
 msgstr "Ovelha"
-#
+
 msgid "Wisent"
 msgstr "Bisonte"
-#
+
 msgid "Wolf"
 msgstr "Lobo"
-#
+
 msgid "Coal"
 msgstr "Carvão"
-#
+
 msgid "Gold"
 msgstr "Ouro"
-#
+
 msgid "Iron"
 msgstr "Ferro"
-#
+
 msgid "Granite"
 msgstr "Granito"
-#
+
 msgid "Water"
 msgstr "Água"
-#
+
 msgid "Fish"
 msgstr "Peixe"
-#
+
 msgid "Steppe"
 msgstr "Estepe"
-#
+
 msgid "Mountain 1"
 msgstr ""
-#
+
 msgid "Snow"
 msgstr "Neve"
-#
+
 msgid "Swamp"
 msgstr "Pântano"
-#
+
 msgid "Beach"
 msgstr "Praia"
-#
+
 msgid "Meadow 1"
 msgstr ""
-#
+
 msgid "Meadow 2"
 msgstr ""
-#
+
 msgid "Meadow 3"
 msgstr ""
-#
+
 msgid "Mountain 2"
 msgstr ""
-#
+
 msgid "Mountain 3"
 msgstr ""
-#
+
 msgid "Mountain 4"
 msgstr ""
-#
+
 msgid "Barren Steppe"
 msgstr ""
-#
+
 msgid "Meadow 4"
 msgstr ""
-#
+
 msgid "Lava"
 msgstr "Lava"
-#
+
 msgid "Mountain Meadow"
 msgstr ""

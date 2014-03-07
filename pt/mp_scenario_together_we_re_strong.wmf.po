@@ -1,7 +1,6 @@
 # Widelands PATH/TO/FILE.PO
 # Copyright (C) 2005-2012 Widelands Development Team
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: Widelands svnVERSION\n"
@@ -16,47 +15,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2013-09-02 04:41+0000\n"
 "X-Generator: Launchpad (build 16750)\n"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Together, line: -1
-# File: we're, line: -1
-# File: strong.wmf/scripting/multiplayer_init.lua, line: 224
+
 msgid "Congratulations!"
 msgstr "Parabéns!"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Together, line: -1
-# File: we're, line: -1
-# File: strong.wmf/scripting/multiplayer_init.lua, line: 212
+
 msgid "The player who defeats the other player wins the game"
 msgstr "Quem vencer ao seu adversário vencerá a partida"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Together, line: -1
-# File: we're, line: -1
-# File: strong.wmf/scripting/multiplayer_init.lua, line: 212
+
 msgid "Together we're strong"
 msgstr "Trabalho em Equipa"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Together, line: -1
-# File: we're, line: -1
-# File: strong.wmf/scripting/multiplayer_init.lua, line: 219
+
 msgid "You are defeated!"
 msgstr "Foste derrotado!"
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Together, line: -1
-# File: we're, line: -1
-# File: strong.wmf/scripting/multiplayer_init.lua, line: 220
+
 msgid ""
 "You have nothing to command left. If you want, you may continue as spectator."
 msgstr ""
 "Já não tens nada para comandar. Se quiseres, podes continuar como espectador."
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Together, line: -1
-# File: we're, line: -1
-# File: strong.wmf/scripting/multiplayer_init.lua, line: 224
+
 msgid "You have won this game!"
 msgstr "Venceste o jogo!"

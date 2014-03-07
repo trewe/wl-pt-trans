@@ -12,173 +12,171 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:37+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
-# File: ../../worlds/desert/conf, line: 2
-# File: ../../worlds/desert/conf, line: 2
+
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
-#
+
 msgid "Desert"
 msgstr "Deserto"
-#
+
 msgid "This is the wide and sandy country of the bedouins"
 msgstr "Este é o país vasto e arenoso dos beduínos"
-#
+
 msgid "Bush"
 msgstr "Arbusto"
-#
+
 msgid "Cactus"
 msgstr "Cacto"
-#
+
 msgid "Dead Tree"
 msgstr "Árvore Morta"
-#
+
 msgid "Grass"
 msgstr "Relva"
-#
+
 msgid "Mushroom"
 msgstr "Cogumelos"
-#
+
 msgid "Pebble"
 msgstr "Seixo"
-#
+
 msgid "Ruins"
 msgstr ""
-#
+
 msgid "Skeleton"
 msgstr "Esqueleto"
-#
+
 msgid "Shell"
 msgstr "Concha"
-#
+
 msgid "Standing Stones"
 msgstr "Obeliscos"
-#
+
 msgid "Stones"
 msgstr "Pedras"
-#
+
 msgid "Palm"
 msgstr "Palmeira"
-#
+
 msgid "Palm (medium)"
 msgstr ""
-#
+
 msgid "Palm (small)"
 msgstr ""
-#
+
 msgid "Palm (tiny)"
 msgstr ""
-#
+
 msgid "Beech"
 msgstr "Faia"
-#
+
 msgid "Beech (medium)"
 msgstr ""
-#
+
 msgid "Beech (small)"
 msgstr ""
-#
+
 msgid "Beech (tiny)"
 msgstr ""
-#
+
 msgid "Larch"
 msgstr "Cedro"
-#
+
 msgid "Larch (medium)"
 msgstr ""
-#
+
 msgid "Larch (small)"
 msgstr ""
-#
+
 msgid "Larch (tiny)"
 msgstr ""
-#
+
 msgid "Rowan"
 msgstr "Sorva"
-#
+
 msgid "Rowan (medium)"
 msgstr ""
-#
+
 msgid "Rowan (small)"
 msgstr ""
-#
+
 msgid "Rowan (tiny)"
 msgstr ""
-#
+
 msgid "Bunny"
 msgstr "Coelho"
-#
+
 msgid "Deer"
 msgstr "Veado"
-#
+
 msgid "Duck"
 msgstr "Pato"
-#
+
 msgid "Fox"
 msgstr "Raposa"
-#
+
 msgid "Sheep"
 msgstr "Ovelha"
-#
+
 msgid "Coal"
 msgstr "Carvão"
-#
+
 msgid "Gold"
 msgstr "Ouro"
-#
+
 msgid "Iron"
 msgstr "Ferro"
-#
+
 msgid "Granite"
 msgstr "Granito"
-#
+
 msgid "Water"
 msgstr "Água"
-#
+
 msgid "Fish"
 msgstr "Peixe"
-#
+
 msgid "Desert 1"
 msgstr ""
-#
+
 msgid "Desert 2"
 msgstr ""
-#
+
 msgid "Desert 3"
 msgstr ""
-#
+
 msgid "Desert 4"
 msgstr ""
-#
+
 msgid "Dry Soil"
 msgstr ""
-#
+
 msgid "Beach"
 msgstr "Praia"
-#
+
 msgid "Steppe"
 msgstr "Estepe"
-#
+
 msgid "Meadow"
 msgstr ""
-#
+
 msgid "Mountain Meadow"
 msgstr ""
-#
+
 msgid "High Mountain Meadow"
 msgstr ""
-#
+
 msgid "Mountain 1"
 msgstr ""
-#
+
 msgid "Mountain 2"
 msgstr ""
-#
+
 msgid "Mountain 3"
 msgstr ""
-#
+
 msgid "Mountain 4"
 msgstr ""
-#
+
 msgid "Lava"
 msgstr "Lava"

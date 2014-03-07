@@ -12,218 +12,216 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:37+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
-# File: ../../worlds/blackland/conf, line: 2
-# File: ../../worlds/blackland/conf, line: 2
+
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
-#
+
 msgid "Blackland"
 msgstr "Terra escura"
-#
+
 msgid "These are the grey, horrible and dangerous blacklands"
 msgstr "Estas são as cinzentas, terríveis e perigosas terras escuras."
-#
+
 msgid "Bush"
 msgstr "Arbusto"
-#
+
 msgid "Cactus"
 msgstr "Cacto"
-#
+
 msgid "Dead Tree"
 msgstr "Árvore Morta"
-#
+
 msgid "Grass"
 msgstr "Relva"
-#
+
 msgid "Mushroom"
 msgstr "Cogumelos"
-#
+
 msgid "Pebble"
 msgstr "Seixo"
-#
+
 msgid "Skeleton"
 msgstr "Esqueleto"
-#
+
 msgid "Standing Stones"
 msgstr "Obeliscos"
-#
+
 msgid "Stones"
 msgstr "Pedras"
-#
+
 msgid "Aspen"
 msgstr "Álamo alpino"
-#
+
 msgid "Aspen (medium)"
 msgstr ""
-#
+
 msgid "Aspen (small)"
 msgstr ""
-#
+
 msgid "Aspen (tiny)"
 msgstr ""
-#
+
 msgid "Oak"
 msgstr "Carvalho"
-#
+
 msgid "Oak (medium)"
 msgstr ""
-#
+
 msgid "Oak (small)"
 msgstr ""
-#
+
 msgid "Oak (tiny)"
 msgstr ""
-#
+
 msgid "Spruce"
 msgstr "Pinheiro Nórdico"
-#
+
 msgid "Spruce (medium)"
 msgstr ""
-#
+
 msgid "Spruce (small)"
 msgstr ""
-#
+
 msgid "Spruce (tiny)"
 msgstr ""
-#
+
 msgid "Maple"
 msgstr "Ácer"
-#
+
 msgid "Maple (medium)"
 msgstr ""
-#
+
 msgid "Maple (small)"
 msgstr ""
-#
+
 msgid "Maple (tiny)"
 msgstr ""
-#
+
 msgid "Birch"
 msgstr "Bétula"
-#
+
 msgid "Birch (medium)"
 msgstr ""
-#
+
 msgid "Birch (small)"
 msgstr ""
-#
+
 msgid "Birch (tiny)"
 msgstr ""
-#
+
 msgid "Beech"
 msgstr "Faia"
-#
+
 msgid "Beech (medium)"
 msgstr ""
-#
+
 msgid "Beech (small)"
 msgstr ""
-#
+
 msgid "Beech (tiny)"
 msgstr ""
-#
+
 msgid "Larch"
 msgstr "Cedro"
-#
+
 msgid "Larch (medium)"
 msgstr ""
-#
+
 msgid "Larch (small)"
 msgstr ""
-#
+
 msgid "Larch (tiny)"
 msgstr ""
-#
+
 msgid "Rowan"
 msgstr "Sorva"
-#
+
 msgid "Rowan (medium)"
 msgstr ""
-#
+
 msgid "Rowan (small)"
 msgstr ""
-#
+
 msgid "Rowan (tiny)"
 msgstr ""
-#
+
 msgid "Bunny"
 msgstr "Coelho"
-#
+
 msgid "Deer"
 msgstr "Veado"
-#
+
 msgid "Duck"
 msgstr "Pato"
-#
+
 msgid "Fox"
 msgstr "Raposa"
-#
+
 msgid "Reindeer"
 msgstr "Rena"
-#
+
 msgid "Sheep"
 msgstr "Ovelha"
-#
+
 msgid "Coal"
 msgstr "Carvão"
-#
+
 msgid "Gold"
 msgstr "Ouro"
-#
+
 msgid "Iron"
 msgstr "Ferro"
-#
+
 msgid "Granite"
 msgstr "Granito"
-#
+
 msgid "Water"
 msgstr "Água"
-#
+
 msgid "Fish"
 msgstr "Peixe"
-#
+
 msgid "Ashes"
 msgstr "Cinzas"
-#
+
 msgid "Mountain 1"
 msgstr ""
-#
+
 msgid "Lava Rocks 1"
 msgstr ""
-#
+
 msgid "Lava Rocks 2"
 msgstr ""
-#
+
 msgid "Beach"
 msgstr "Praia"
-#
+
 msgid "Hard Ground 1"
 msgstr ""
-#
+
 msgid "Hard Ground 2"
 msgstr ""
-#
+
 msgid "Hard Ground 3"
 msgstr ""
-#
+
 msgid "Mountain 2"
 msgstr ""
-#
+
 msgid "Mountain 3"
 msgstr ""
-#
+
 msgid "Mountain 4"
 msgstr ""
-#
+
 msgid "Ashes 2"
 msgstr ""
-#
+
 msgid "Hard Ground 4"
 msgstr ""
-#
+
 msgid "Lava"
 msgstr "Lava"
-#
+
 msgid "Igneous Rocks"
 msgstr ""

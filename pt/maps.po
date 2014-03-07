@@ -12,23 +12,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:28+0000\n"
 "X-Generator: Launchpad (build 16948)\n"
-#
+
 msgid "01 – From Nemesis to Genesis"
 msgstr ""
-#
+
 msgid ""
 "After landing on a mysterious island close to Atlantis, the remaining "
 "Atlanteans struggle to make a new home for themselves."
 msgstr ""
 "Depois de amararem numa ilha misteriosa perto da Atlântida, o que resta do "
 "povo Atlântica luta para tornar o novo lugar a sua nova casa."
-#
+
 msgid "Barbarians – The Second Empire"
 msgstr ""
-#
+
 msgid "Easy. Introduces the Barbarians"
 msgstr "Fácil. Introduz os Bárbaros"
-#
+
 msgid ""
 "When Chat’Karuth died, he was an old man, father to three strong and "
 "ambitious sons, and warlord to an army that could match any enemy willing to "
@@ -44,13 +44,13 @@ msgid ""
 "to reunite his ambitious brothers and force the tribes to march once again "
 "under a common banner."
 msgstr ""
-#
+
 msgid "Empire – The Months of Exile"
 msgstr ""
-#
+
 msgid "Easy. Introduces the Empire"
 msgstr "Fácil. Introduz o Império"
-#
+
 msgid ""
 "Six months ago, Lutius – a young general of the Empire – was sent with 150 "
 "soldiers to the frontier beyond the northern forests where Barbarian tribes "
@@ -63,13 +63,13 @@ msgid ""
 "completely scattered. Only with his bare life he and a handful of his "
 "soldiers survived."
 msgstr ""
-#
+
 msgid "Atlanteans – The Run for the Fire"
 msgstr ""
-#
+
 msgid "Challenging. Introduces the Atlanteans"
 msgstr "Desafiador. Introduz os Atlântas."
-#
+
 msgid ""
 "When their God lost faith in the Atlanteans and drowned their island, one "
 "woman’s struggle for justice and a second chance for her people would become "
@@ -77,28 +77,28 @@ msgid ""
 "a new part of the World, Jundlina became the most powerful human of her "
 "time, but at a high cost: her humanity and soul."
 msgstr ""
-#
+
 msgid "01 – Eyes in the Dark"
 msgstr ""
-#
+
 msgid "02 – A Place to Call Home"
 msgstr ""
-#
+
 msgid "03 – This Land is Our Land"
 msgstr ""
-#
+
 msgid "01 – The Strands of Malac’ Mor"
 msgstr ""
-#
+
 msgid "02 – An Outpost for Exile"
 msgstr ""
-#
+
 msgid "Not yet implemented"
 msgstr "Ainda não implementado"
-#
+
 msgid "Sorry, this map is not yet implemented."
 msgstr ""
-#
+
 msgid ""
 "After losing an important battle against the barbarians which lead to the "
 "loss of a big part of the Empire’s territory, Lutius leaves Fremil to start "
@@ -106,73 +106,73 @@ msgid ""
 "destroys it. Only with a lot of luck he manages to beach his damaged ship on "
 "an unknown desert strand and save his people. For now."
 msgstr ""
-#
+
 msgid ""
 "Finally the ship was repaired, so Lutius and his people returned to the "
 "quest to find a good place for a new beginning. Only a few days later, they "
 "land on a green, Mediterranean island, looking like paradise. Overjoyed, "
 "they set out to explore this new living space."
 msgstr ""
-#
+
 msgid ""
 "In this tutorial, the basic gameplay and control as well as basic production "
 "buildings of the Barbarians are introduced."
 msgstr ""
-#
+
 msgid ""
 "In this scenario, the higher production buildings including mining and "
 "military expansions will be introduced."
 msgstr ""
-#
+
 msgid ""
 "This tutorial explains the handling of military and training site buildings "
 "and will introduce fighting."
 msgstr ""
 "Este tutorial explica a gestão e treino militar e ainda fazer a introdução "
 "às batalhas."
-#
+
 msgid "Tutorial 1"
 msgstr ""
-#
+
 msgid ""
 "Basic Tutorial – a map based on Winterwind’s tutorial 1 for the Barbarians"
 msgstr ""
-#
+
 msgid "Atoll"
 msgstr "O Atol"
-#
+
 msgid "Who will be the real king of the big atoll?"
 msgstr ""
-#
+
 msgid "Suggested Teams: (blue, yellow) vs. (red, green)"
 msgstr ""
-#
+
 msgid "Calvisson"
 msgstr ""
-#
+
 msgid ""
 "It’s a pleasure to settle in the beauty of this fissured countryside. But "
 "the ways to encompass these large territories are long and meandering, so it "
 "is easy to err into the land of the foreign clans."
 msgstr ""
-#
+
 msgid ""
 "Suggested Teams: blue vs. red | yellow vs. green | (blue, yellow) vs. (red, "
 "green) | (blue, green) vs. (red, yellow)"
 msgstr ""
-#
+
 msgid "Checkmate"
 msgstr "Xeque-mate"
-#
+
 msgid ""
 "Whether just one of nature’s strangest features or the creation of a mad "
 "(and game-hungry) god, this weird battleground awaits two opponents for "
 "another confrontation."
 msgstr ""
-#
+
 msgid "Comet Island"
 msgstr "A Ilha do cometa"
-#
+
 msgid ""
 "A few miles in front of Gerion Coast lies a small unnamed island. Until now, "
 "you have not seen any reason to sail there, but yesterday a big fireball "
@@ -180,10 +180,10 @@ msgid ""
 "Gods? You believe it is and you hope that your tribe will find the treasure "
 "of this island before other tribes will follow."
 msgstr ""
-#
+
 msgid "Crater"
 msgstr "A Cratera"
-#
+
 msgid ""
 "Long after a meteor crashed into a couple of mountains, life blossoms in the "
 "crater. Two tribes are now fighting for the rich resources."
@@ -191,100 +191,96 @@ msgstr ""
 "Muito tempo depois de um meteorito ter caído nas montanhas, a vida floresce "
 "na cratera. Duas tribos estão agora em luta pelos seus ricos recursos "
 "naturais."
-#
+
 msgid "Crossing the Horizon"
 msgstr ""
-#
+
 msgid "Man your ship and sail to the horizon."
 msgstr ""
-#
+
 msgid "Suggested Teams: all ok"
 msgstr "Equipas recomendadas: livre."
-#
+
 msgid "Desert Tournament"
 msgstr "Torneio no Deserto"
-#
+
 msgid ""
 "Four tribes struggle with their nearest neighbor to be the first to reach "
 "the mountain of gold that promises riches beyond belief. But can the two "
 "remaining ones share the resources wisely?"
 msgstr ""
-#
+
 msgid "Suggested Teams: (blue, red) vs. (yellow, green)"
 msgstr ""
-#
+
 msgid "Dry Riverbed"
 msgstr "O leito seco do rio"
-#
+
 msgid ""
 "It has been a long time since the last raindrop touched these grounds. Small "
 "wonder that there is not much water left in this dry riverbed. Everyone "
 "knows: soon there will be a war. A war about the last of the remaining water."
 msgstr ""
-#
+
 msgid "Elven Forests"
 msgstr "A Floresta dos Duendes"
-#
+
 msgid ""
 "The breath-taking beauty of these emerald lands has lured many tribes into "
 "an attempt to take them for themselves."
 msgstr ""
-#
+
 msgid ""
 "Suggested Teams: (blue, red) vs. (yellow, green) | (blue, yellow) vs. (red, "
 "green)"
 msgstr ""
-#
+
 msgid "Fellowships"
 msgstr ""
-#
+
 msgid ""
 "Coal is hard to find – learn to make it efficiently. Starting positions are "
 "similar, so the map should be fair. There is plenty of gold near the "
 "starting point – Do you see it?"
 msgstr ""
-#
+
 msgid ""
 "This map is best suited for two or three human players, with game speed "
 "somewhat above the normal value. The AI performed badly at the time of "
 "writing (2013)."
 msgstr ""
-#
+
 msgid "Finnish Lakes"
 msgstr "Lagos Finlandeses"
-#
+
 msgid ""
 "These are the beautiful Finnish lands of lakes, rivers, ancient forests and "
 "mountains. It is up to you to find a way through these lands."
 msgstr ""
-#
+
 msgid "Firegames"
 msgstr "Jogos de fogo"
-#
+
 msgid ""
 "Is this a test by the Gods or an evil plan by someone else, that you and "
 "your tribe woke up on this island among fire and lava? Until now it seems as "
 "if you are alone, but no-one knows what might happen if you met an opposing "
 "tribe?"
 msgstr ""
-#
+
 msgid "Four Castles"
 msgstr "Quatro castelos"
-#
-# File: ../../maps/Four, line: -1
-# File: Castles.wmf/elemental, line: 9
-# File: ../../maps/Four, line: -1
-# File: Castles.wmf/elemental, line: 9
+
 msgid ""
 "Well protected in their mighty fortresses, four power-hungry warlords are "
 "completing their schemes to dominate these lands..."
 msgstr ""
 "Bem protegidos nas suas fortalezas, quatro Senhores-da-guerra, sedentos de "
 "poder, estão a completar os seus planos para dominar estas terras..."
-#
+
 msgid "Four Mountains"
 msgstr "Quatro montanhas"
-#
+
 msgid ""
 "Each tribe is surrounded by four mighty mountains. Who will first conquer "
 "them and claim the resources for his own tribe? Hint I: Water can be found "
@@ -296,48 +292,40 @@ msgstr ""
 "Dica 1: a água pode ser encontrada ao longo do rio. Dica 2: os bonecos de "
 "neve assinalam outros locais com água. Dica 3: Cada montanha tem apenas um "
 "recurso mineral."
-#
+
 msgid ""
 "Suggested Teams: (blue, red) vs. (yellow, green) | (blue, green) vs. (red, "
 "yellow)"
 msgstr ""
-#
+
 msgid "Glacier Lake"
 msgstr "Lago glaciar"
-#
+
 msgid ""
 "A long time your tribe dwelt on this beautiful and lonely glacier lake. No "
 "one disturbed you and the resources were enough for your whole tribe, but a "
 "few months ago another tribe came over the mountains and settled down. And "
 "you are sure that there is only enough space for one tribe."
 msgstr ""
-#
+
 msgid "Golden Peninsula"
 msgstr "Península dourada"
-#
+
 msgid "Two empires race for the treasures of a legendary peninsula..."
 msgstr "Dois impérios lutam pelos tesouros de uma península lendária..."
-#
+
 msgid "Ice wars"
 msgstr "Guerras Gélidas"
-#
+
 msgid "Autumn follows winter. Some things are frozen, but not the war."
 msgstr ""
-#
-# File: ../../maps/Sun, line: -1
-# File: of, line: -1
-# File: fire.wmf/elemental, line: 12
-# File: ../../maps/Sun, line: -1
-# File: of, line: -1
-# File: fire.wmf/elemental, line: 12
+
 msgid "Start positions are clockwise"
 msgstr "As posições iniciais são colocadas no sentido do relógio"
-#
+
 msgid "Impact"
 msgstr "Impacto"
-#
-# File: ../../maps/Impact.wmf/elemental, line: 9
-# File: ../../maps/Impact.wmf/elemental, line: 9
+
 msgid ""
 "After an impact of an asteroid and the following harsh winter, three isles "
 "are connected by ice and stone, setting an end to the peaceful coexistence "
@@ -346,41 +334,37 @@ msgstr ""
 "Depois do impacto de um asteróide e o agreste inverno que se seguira, as "
 "três ilhas ficaram ligadas por gelo e rocha, pondo fim a coexistência "
 "pacífica das três tribos que habitam as ilhas."
-#
+
 msgid "Islands at War"
 msgstr ""
-#
+
 msgid ""
 "For centuries, you’ve lived peacefully side by side with the other tribe on "
 "the neighboring island. This peace seems to come to an end now – your "
 "neighbor has begun to expand."
 msgstr ""
-#
+
 msgid "Kings and Queens"
 msgstr "Reis e Rainhas"
-#
+
 msgid ""
 "An old legend tells that these seven kingdoms, that have flourished for ages "
 "in prosperity, will someday collapse into a devastating war. Has your latest "
 "betrayal been one too many, and will the prophecy come true?"
 msgstr ""
-#
+
 msgid "Lake of Tranquility"
 msgstr "Lago da tranquilidade"
-#
+
 msgid ""
 "This lake, deep in the most ancient forests, has long been known for its "
 "beauty and idyllic peace. However, its sanctity has been disturbed now, as "
 "two hostile tribes have arrived at its shores..."
 msgstr ""
-#
-# File: ../../maps/Last, line: -1
-# File: Bastion.wmf/elemental, line: 9
-# File: ../../maps/Last, line: -1
-# File: Bastion.wmf/elemental, line: 9
+
 msgid "Last Bastion"
 msgstr "A última bastião"
-#
+
 msgid ""
 "The whimsical Gods didn’t answer our prayers. Instead, the increasing "
 "sunlight heated up the Earth thousandfold and melted glaciers and people "
@@ -393,69 +377,61 @@ msgid ""
 "space is also a hard and small place to live. Don’t forget to take care of "
 "your timber supplies, you’ll need them."
 msgstr ""
-#
+
 msgid "Long, long way"
 msgstr "Uma longa, longa, marcha"
-#
+
 msgid ""
 ">Where dat? A thousand miles from here.< [Porgy and Bess] You have to go a "
 "long, long way to conquer all the islands. Good luck!"
 msgstr ""
-#
+
 msgid ""
 "Suggested Teams: blue vs. red | yellow vs. green | (blue, yellow) vs. (red, "
 "green) | (blue, yellow, black) vs. (red, green, orange) | (blue, yellow, "
 "black, purple) vs. (red, green, orange, white)"
 msgstr ""
-#
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Island, line: -1
-# File: Hopping.wmf/elemental, line: 7
-# File: ../../maps/MP, line: -1
-# File: Scenarios/Island, line: -1
-# File: Hopping.wmf/elemental, line: 7
+
 msgid "Island Hopping"
 msgstr "Ilhas Saltitantes"
-#
+
 msgid ""
 "A special tournament in Atlantean culture is the so-called ‘Island Hopping’, "
 "where two or more groups try to reach the center island as fast as possible, "
 "to be the first erecting a castle on the top of the central mountain."
 msgstr ""
-#
+
 msgid ""
 "Your well established smuggling routes suddenly got busy: Two other tribes "
 "have appeared and now a rivalry among smugglers has started: Which team will "
 "be the first to smuggle a certain number of wares? Teams are: Blue + Red vs. "
 "Yellow + Green."
 msgstr ""
-#
+
 msgid "Mystical Maze"
 msgstr "Labirinto místico"
-#
+
 msgid ""
 "There are two big questions in the air: Who created this unbelievably big "
 "maze, and what can be found inside?"
 msgstr ""
-#
+
 msgid "The Green Plateau"
 msgstr "O Planalto Verdejante"
-#
+
 msgid ""
 "You are standing on an island, crowned by mighty mountains which keep a "
 "wonderful and mighty treasure in their middle – The Green Plateau, which is "
 "hard to conquer but easy to lose. So, if you want it, be aware of the other "
 "clans."
 msgstr ""
-#
+
 msgid "Suggested Teams: blue vs. yellow"
 msgstr ""
-#
+
 msgid "Rendez-Vous"
 msgstr "O Encontro"
-#
-# File: ../../maps/Rendez-Vous.wmf/elemental, line: 9
-# File: ../../maps/Rendez-Vous.wmf/elemental, line: 9
+
 msgid ""
 "Only a small hill in the centre of the map connects these four competing "
 "tribes. Lead your army right away to this hill and build a giant stronghold "
@@ -468,10 +444,10 @@ msgstr ""
 "ergue nela uma fortaleza gigantesca como símbolo da tua superioridade! Dica: "
 "só há espaço para uma fortaleza. A água pode ser encontrado em qualquer "
 "lado, portanto não precisas de enviar geólogos."
-#
+
 msgid "River Explorers"
 msgstr "Exploradores Navais"
-#
+
 msgid ""
 "Each player has a different obstacle to expansion, and there’s always more "
 "than one way to overcome it. While the AI can be defeated here without "
@@ -479,57 +455,47 @@ msgid ""
 "priority – expeditions are universally useful and are often the fastest way "
 "to gold deposits."
 msgstr ""
-#
+
 msgid "Riverlands"
 msgstr "Entre-rios"
-#
+
 msgid ""
 "A mystical land, full of different landscapes, which are all crossed by a "
 "handful of big rivers."
 msgstr ""
 "Uma terra mística, cheia de diferentes paisagens, cortada por uma série de "
 "grandes rios."
-#
+
 msgid "The Ancient Sun of Fire"
 msgstr ""
-#
+
 msgid ""
 "For hundreds of years, this island was kept as a sanctuary of the Gods. No "
 "human ever ventured to set a foot on it. But now that a tribe had finally "
 "been barefaced enough to settle on the coast of that island, a lot of others "
 "followed in its wake."
 msgstr ""
-#
+
 msgid "Swamp Island"
 msgstr "A Ilha pantanosa"
-#
+
 msgid ""
 "It smells like swamp, it looks like swamp and it is a swamp. But it is the "
 "place you were born and where you’ve lived your whole life. If you don’t "
 "want to lose it, defend it!"
 msgstr ""
-#
-# File: ../../maps/Swamp, line: -1
-# File: Monks.wmf/elemental, line: 7
-# File: ../../maps/Swamp, line: -1
-# File: Monks.wmf/elemental, line: 7
+
 msgid "Swamp Monks"
 msgstr "Monges do Pântano"
-#
+
 msgid ""
 "It is said that the old war monks, living in the even older swamps, are the "
 "key to control over the whole island."
 msgstr ""
-#
-# File: ../../maps/The, line: -1
-# File: Far, line: -1
-# File: North.wmf/elemental, line: 9
-# File: ../../maps/The, line: -1
-# File: Far, line: -1
-# File: North.wmf/elemental, line: 9
+
 msgid "The Far North"
 msgstr "O Extremo Norte"
-#
+
 msgid ""
 "Some say that impenetrable lands to the far north scared away even the most "
 "courageous settlers and the bravest of the brave warriors. Big and old "
@@ -555,40 +521,34 @@ msgstr ""
 "desaparecimento. As pessoas agora dizem que já nada bloqueia o caminho para "
 "as riquezas. Mas muitos irão morrer esventrados pelos lobos, engolidos pelos "
 "pântanos ... cercados por tribos hostis."
-#
+
 msgid "The Nile"
 msgstr "O Nilo"
-#
+
 msgid ""
 "The river has always provided food and communication. This time, eight "
 "empires will fight for control over this land."
 msgstr ""
-#
+
 msgid ""
 "Suggested Teams: blue vs. red | yellow vs. green | (blue, yellow) vs. (red, "
 "green) | (green, orange, white) vs. (yellow, black, purple) | (blue, orange, "
 "green) vs. (red, yellow, black) | (blue, green, orange, white) vs. (red, "
 "yellow, black, purple)"
 msgstr ""
-#
-# File: ../../maps/The, line: -1
-# File: Oasis, line: -1
-# File: Triangle.wmf/elemental, line: 7
-# File: ../../maps/The, line: -1
-# File: Oasis, line: -1
-# File: Triangle.wmf/elemental, line: 7
+
 msgid "The Oasis Triangle"
 msgstr "O Triângulo da Oásis"
-#
+
 msgid ""
 "There is something mystical like a gray atmosphere around these three oases, "
 "which no one has found out about yet. Perhaps you will be the one, but be "
 "aware of the others who are searching too!"
 msgstr ""
-#
+
 msgid "The Thaw"
 msgstr "O Degelo"
-#
+
 msgid ""
 "Another thaw set in. Three tribes were sheltering form severe winter among "
 "majestic mountains. At the time of the solstice they listened to the oracle "
@@ -596,10 +556,10 @@ msgid ""
 "the ancient altar, build there a splendid castle and gain the goodwill and "
 "respect of the Gods."
 msgstr ""
-#
+
 msgid "The Big Lake"
 msgstr ""
-#
+
 msgid ""
 "This island once appeared out of the deepest depths of the sea. In those "
 "days, fire rose out of the salty seawater and brought ash, stones and soil "
@@ -608,26 +568,26 @@ msgid ""
 "Nowadays only this ring is left from that mighty fire mountain. Do you think "
 "that it is big enough for more than one tribe?"
 msgstr ""
-#
+
 msgid "The Long Way"
 msgstr ""
-#
+
 msgid ""
 "Another strange test by the Gods. To reach the other side, there seems to be "
 "no other way but to occupy the land of your enemies."
 msgstr ""
-#
+
 msgid "The Pass Through the Mountains"
 msgstr ""
-#
+
 msgid ""
 "In this mountainous area two princes have settled. Now they are expanding "
 "their territories, unaware of the fact that they are not alone!"
 msgstr ""
-#
+
 msgid "Three Warriors"
 msgstr "Três guerreiros"
-#
+
 msgid ""
 "Mighty mountains divide this land into three fertile valleys. But a path "
 "connects the valleys and thus a fight seems inescapable! Hint: Water can be "
@@ -636,10 +596,10 @@ msgstr ""
 "Montanhas imponentes dividem esta terra em três vales férteis. Mas apenas um "
 "caminho liga os vales e isso quer dizer a a batalha por ele é inevitável! "
 "Dica: a água pode ser encontrada à volta dos lagos."
-#
+
 msgid "Together We’re Strong"
 msgstr ""
-#
+
 msgid ""
 "The four mighty harbors of the Craw Islands have been trading their goods "
 "among each other for ages. All of them needed resources that they could not "
@@ -651,25 +611,25 @@ msgid ""
 "seems only a matter of time before the first fights between the harbors will "
 "shatter the peaceful life that has lasted for so long..."
 msgstr ""
-#
+
 msgid "Trident of Fire"
 msgstr "Tridente do Fogo"
-#
+
 msgid ""
 "In the vicinity of three major volcanoes, six lovely islands are inviting "
 "settlers to start a new life. Deserts and a quickly growing forest wait to "
 "be discovered. But only by becoming a naval power will your tribe be able to "
 "explore enough resources to compete with its opponents."
 msgstr ""
-#
+
 msgid ""
 "Suggested teams: red vs. green | (blue, yellow) vs. (green, orange) | (blue, "
 "black) vs. (green, red) | (blue, black, yellow) vs. (green, red, orange)"
 msgstr ""
-#
+
 msgid "Twin Lagoons"
 msgstr "Lagoas Gémeas"
-#
+
 msgid ""
 "When the wind swelled up and the first dunes were formed on these abandoned "
 "twin lagoons, nobody could have expected that two tribes that are "
@@ -678,14 +638,10 @@ msgid ""
 "well-known reason. Defend your transport lines or use ships to bypass the "
 "opponent. Then remove all enemy activity."
 msgstr ""
-#
+
 msgid "Twinkling Waves"
 msgstr "Ondas cintilantes"
-#
-# File: ../../maps/Twinkling, line: -1
-# File: Waves.wmf/elemental, line: 11
-# File: ../../maps/Twinkling, line: -1
-# File: Waves.wmf/elemental, line: 11
+
 msgid ""
 "Many beautiful, green islands await the ones brave enough to pass the "
 "thousand waves, twinkling in the sun."
@@ -693,35 +649,35 @@ msgstr ""
 "Existem aqui várias maravilhosas e verdejantes ilhas que esperam por quem "
 "tenha a coragem suficiente para enfrentar as enormes ondas que cintilam sob "
 "o sol e dificultam a passagem."
-#
+
 msgid "Two Frontiers"
 msgstr "Duas fronteiras"
-#
+
 msgid "A multiplayer battle map on a small circle-shaped island."
 msgstr ""
-#
+
 msgid "Volcanic Winter"
 msgstr "Inverno Vulcânico"
-#
+
 msgid ""
 "In the middle of summer, a series of volcanic eruptions drew the winter in. "
 "Suddenly, the sun seemed to be gone and the only light and heat sources left "
 "were those that enforced this dramatic change. Continents, oceans and seas "
 "are frozen now, only the volcanic islands seem to be left as habitable land."
 msgstr ""
-#
+
 msgid "War of the Valleys"
 msgstr "A Guerra pelos Vales"
-#
+
 msgid ""
 "It is said that even the sun and moon must find their way between the spires "
 "of these mountains. HINT: Monoliths mark ore-spots. Don’t bother sending "
 "geologists anywhere else."
 msgstr ""
-#
+
 msgid "Wisent Valley"
 msgstr "Vale dos bisontes"
-#
+
 msgid ""
 "It seems as if this magical valley has been inhabited by wisents since the "
 "beginning of days. When your tribe came to this place, you were sure that it "
