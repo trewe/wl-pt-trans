@@ -3,26 +3,26 @@ Portuguese translation files for « Widelands »
 
 Statistics:
 
- » PT                            	  —   1774/    3/  3560 ( 49%) -1805
+ » PT                            	  —   1860/    3/  3560 ( 52%) -1719
  * mp_scenario_together_we_re_strong.wmf  —      7/    0/     7 (100%) -0
+ * world_desert                  	  —     53/    0/    57 ( 92%) -5
+ * world_winterland              	  —     71/    0/    79 ( 89%) -9
  * widelands                    	  —    604/    0/   827 ( 73%) -224
+ * maps                        		  —     96/    0/   135 ( 71%) -40
  * texts                        	  —    113/    0/   160 ( 70%) -48
  * tribe_atlanteans             	  —    211/    0/   348 ( 60%) -138
- * world_winterland             	  —     45/    0/    79 ( 56%) -35
- * world_desert                 	  —     32/    0/    57 ( 56%) -26
+ * world_greenland              	  —     46/    0/    81 ( 56%) -36
  * tribe_empire                 	  —    203/    0/   360 ( 56%) -158
- * world_greenland              	  —     45/    0/    81 ( 55%) -37
  * world_blackland              	  —     36/    0/    72 ( 50%) -37
  * win_conditions               	  —     24/    0/    53 ( 45%) -30
- * maps                         	  —     58/    0/   135 ( 42%) -78
  * tribe_barbarians             	  —    203/    0/   507 ( 40%) -305
  * mp_scenario_island_hopping.wmf	  —     15/    0/    45 ( 33%) -31
- * map_plateau.wmf               	  —      9/    0/    27 ( 33%) -19
- * scenario_t02.wmf              	  —     39/    0/   121 ( 32%) -83
- * mp_scenario_smugglers.wmf     	  —      6/    0/    19 ( 31%) -14
- * scenario_emp01.wmf            	  —     19/    0/    75 ( 25%) -57
- * scenario_emp02.wmf            	  —     21/    0/    89 ( 23%) -69
- * scenario_t01.wmf              	  —     14/    0/    71 ( 19%) -58
- * scenario_tutorial01.wmf       	  —     41/    3/   195 ( 19%) -153
- * scenario_t03.wmf              	  —     15/    0/    90 ( 16%) -76
- * scenario_atl01.wmf            	  —     14/    0/   142 (  9%) -129
+ * map_plateau.wmf              	  —      9/    0/    27 ( 33%) -19
+ * scenario_t02.wmf             	  —     39/    0/   121 ( 32%) -83
+ * mp_scenario_smugglers.wmf    	  —      6/    0/    19 ( 31%) -14
+ * scenario_emp01.wmf           	  —     19/    0/    75 ( 25%) -57
+ * scenario_emp02.wmf           	  —     21/    0/    89 ( 23%) -69
+ * scenario_t01.wmf             	  —     14/    0/    71 ( 19%) -58
+ * scenario_tutorial01.wmf      	  —     41/    3/   195 ( 19%) -153
+ * scenario_t03.wmf             	  —     15/    0/    90 ( 16%) -76
+ * scenario_atl01.wmf           	  —     14/    0/   142 (  9%) -129

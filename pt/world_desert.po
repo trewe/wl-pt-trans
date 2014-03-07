@@ -5,15 +5,15 @@ msgstr ""
 "Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2013-06-27 16:58+0000\n"
-"Last-Translator: trewe <Unknown>\n"
+"PO-Revision-Date: 2014-03-07 22:36+0100\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:37+0000\n"
-"X-Generator: Launchpad (build 16948)\n"
+"X-Generator: Poedit 1.5.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "The Widelands Development Team"
@@ -44,7 +44,7 @@ msgid "Pebble"
 msgstr "Seixo"
 
 msgid "Ruins"
-msgstr ""
+msgstr "Ruínas"
 
 msgid "Skeleton"
 msgstr "Esqueleto"
@@ -62,49 +62,49 @@ msgid "Palm"
 msgstr "Palmeira"
 
 msgid "Palm (medium)"
-msgstr ""
+msgstr "Palmeira média"
 
 msgid "Palm (small)"
-msgstr ""
+msgstr "Pequena palmeira"
 
 msgid "Palm (tiny)"
-msgstr ""
+msgstr "Palmeira anã"
 
 msgid "Beech"
 msgstr "Faia"
 
 msgid "Beech (medium)"
-msgstr ""
+msgstr "Faia média"
 
 msgid "Beech (small)"
-msgstr ""
+msgstr "Faia pequena"
 
 msgid "Beech (tiny)"
-msgstr ""
+msgstr "Faia anã"
 
 msgid "Larch"
 msgstr "Cedro"
 
 msgid "Larch (medium)"
-msgstr ""
+msgstr "Cedro médio"
 
 msgid "Larch (small)"
-msgstr ""
+msgstr "Cedro pequeno"
 
 msgid "Larch (tiny)"
-msgstr ""
+msgstr "Cedro anão"
 
 msgid "Rowan"
 msgstr "Sorva"
 
 msgid "Rowan (medium)"
-msgstr ""
+msgstr "Sorva média"
 
 msgid "Rowan (small)"
-msgstr ""
+msgstr "Sorva pequena"
 
 msgid "Rowan (tiny)"
-msgstr ""
+msgstr "Sorva anã"
 
 msgid "Bunny"
 msgstr "Coelho"
@@ -140,16 +140,16 @@ msgid "Fish"
 msgstr "Peixe"
 
 msgid "Desert 1"
-msgstr ""
+msgstr "Deserto 1"
 
 msgid "Desert 2"
-msgstr ""
+msgstr "Deserto 2"
 
 msgid "Desert 3"
-msgstr ""
+msgstr "Deserto 3"
 
 msgid "Desert 4"
-msgstr ""
+msgstr "Deserto 4"
 
 msgid "Dry Soil"
 msgstr ""
@@ -170,16 +170,16 @@ msgid "High Mountain Meadow"
 msgstr ""
 
 msgid "Mountain 1"
-msgstr ""
+msgstr "Montanha 1"
 
 msgid "Mountain 2"
-msgstr ""
+msgstr "Montanha 2"
 
 msgid "Mountain 3"
-msgstr ""
+msgstr "Montanha 3"
 
 msgid "Mountain 4"
-msgstr ""
+msgstr "Montanha 4"
 
 msgid "Lava"
 msgstr "Lava"
