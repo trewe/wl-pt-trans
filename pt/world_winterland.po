@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2014-03-07 22:35+0100\n"
+"PO-Revision-Date: 2014-03-08 13:54+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt_PT\n"
@@ -216,10 +216,10 @@ msgid "Mountain 1"
 msgstr "Montanha 1"
 
 msgid "Ice Floes"
-msgstr ""
+msgstr "Glaciar"
 
 msgid "Ice Floes 2"
-msgstr ""
+msgstr "Glaciar 2"
 
 msgid "Ice"
 msgstr "Gelo"
@@ -228,19 +228,19 @@ msgid "Tundra Taiga"
 msgstr ""
 
 msgid "Tundra 2"
-msgstr ""
+msgstr "Tundra 2"
 
 msgid "Tundra 3"
-msgstr ""
+msgstr "Tundra 3"
 
 msgid "Mountain 2"
-msgstr ""
+msgstr "Montanha 2"
 
 msgid "Mountain 3"
-msgstr ""
+msgstr "Montanha 3"
 
 msgid "Mountain 4"
-msgstr ""
+msgstr "Montanha 4"
 
 msgid "Beach"
 msgstr "Praia"

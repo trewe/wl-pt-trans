@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2013-06-28 10:11+0000\n"
-"Last-Translator: trewe <Unknown>\n"
+"PO-Revision-Date: 2014-03-08 14:45+0100\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:38+0000\n"
-"X-Generator: Launchpad (build 16948)\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "Nice And Easy Does It All the Time"
 msgstr ""
@@ -34,7 +34,7 @@ msgstr ""
 "que eu já não tão rápido como dantes, e deixares-me continuar a explicação."
 
 msgid "Welcome to the Widelands Tutorial!"
-msgstr ""
+msgstr "Bem-vindo(a) ao tutorial do Widelands!"
 
 msgid "Welcome to Widelands!"
 msgstr "Bem-vindo(a) às Widelands!"
@@ -47,9 +47,10 @@ msgstr ""
 
 msgid "Dismiss this box by left-clicking on the button below."
 msgstr ""
+"Podes fechar esta caixa ao clicar com o botão esquerdo no botão abaixo."
 
 msgid "Diving In"
-msgstr ""
+msgstr "Mão à obra !"
 
 msgid "Let’s dive right in!"
 msgstr ""
@@ -60,6 +61,10 @@ msgid ""
 "weaknesses, but the general gameplay is the same for all. We will play the "
 "barbarians for now."
 msgstr ""
+"Existem três tribos diferentes nas Widelands: Os Bárbaros, o Império e os "
+"Atlântas. Cada tribo tem diferentes economias, pontos fracos e pontos "
+"fortes, mas de forma geral o modo de jogar é o mesmo.Por agora jogamos com "
+"os Bárbaros."
 
 msgid ""
 "You will usually start the game with one headquarters. This is the big "
@@ -227,7 +232,7 @@ msgid "Move your view with the cursor keys"
 msgstr "Move o ecrã de jogo com as teclas de direcção do cursor"
 
 msgid "Moving Your View"
-msgstr ""
+msgstr "Movendo a visão do ecrã de jogo"
 
 msgid ""
 "Moving your view is essential to get a complete overview of your whole "
@@ -258,13 +263,13 @@ msgid "Move your view with the mouse"
 msgstr "Move o ecrã de jogo com o rato"
 
 msgid "Onward to the Quarry"
-msgstr ""
+msgstr "Vamos lá à pedreira"
 
 msgid "Great. Now about that quarry..."
 msgstr "Muito bem ! Agora acerca da Pedreira ..."
 
 msgid "How to Build a Quarry"
-msgstr ""
+msgstr "Como construir uma pedreira"
 
 msgid ""
 "Build a quarry next to those stones here. Remember how I did it earlier?"
@@ -316,7 +321,7 @@ msgid "Build a quarry next to the stones"
 msgstr "Constrói uma Pedreira perto dos rochedos"
 
 msgid "Build a Quarry"
-msgstr ""
+msgstr "Construir uma Pedreira"
 
 msgid ""
 "There are some stones to the west of your headquarters. Build a quarry right "
@@ -335,7 +340,7 @@ msgid ""
 msgstr ""
 
 msgid "Road Building"
-msgstr ""
+msgstr "Construção de estradas"
 
 msgid ""
 "Excellent! Directly after placing the building, you have been switched into "
@@ -416,7 +421,7 @@ msgid ""
 msgstr ""
 
 msgid "Census and Statistics"
-msgstr ""
+msgstr "Censos e Estatísticas"
 
 msgid ""
 "While we wait, I’ll quickly show you another useful feature. All "
@@ -443,7 +448,7 @@ msgid "Now we know what’s going on. Let’s wait for this quarry to finish."
 msgstr ""
 
 msgid "Introducing Messages"
-msgstr ""
+msgstr "Introdução às Mensagens"
 
 msgid "Messages"
 msgstr "Mensagens"
@@ -499,7 +504,7 @@ msgid ""
 msgstr ""
 
 msgid "Closing Windows"
-msgstr ""
+msgstr "Fechando janelas"
 
 msgid ""
 "Excellent. By the way: closing windows in Widelands is as easy as right-"
@@ -516,7 +521,7 @@ msgid "Close the messages window"
 msgstr "Fechar a janela de mensagens"
 
 msgid "Close the Messages Window"
-msgstr ""
+msgstr "Fechar a janela de mensagens"
 
 msgid ""
 "All windows in Widelands can be closed by right-clicking into them. Some "
@@ -535,7 +540,7 @@ msgid ""
 msgstr ""
 
 msgid "Message Arrived!"
-msgstr ""
+msgstr "Chegou uma mensagem!"
 
 msgid ""
 "A message has been sent to you. See how the button at the bottom of the "
@@ -547,7 +552,7 @@ msgid "To do that, click on the quarry and select the destroy button."
 msgstr ""
 
 msgid "Expanding Your Territory!"
-msgstr ""
+msgstr "Expandindo o teu território !"
 
 msgid ""
 "There is one more thing I’d like to teach you now: Expanding your territory. "
@@ -606,7 +611,7 @@ msgid ""
 msgstr ""
 
 msgid "Searching for Resources"
-msgstr ""
+msgstr "À procura de recursos"
 
 msgid ""
 "Okay, now we own some of the area on this mountain. Mountains are very "
@@ -622,7 +627,7 @@ msgid ""
 msgstr ""
 
 msgid "Waiting for the Geologist"
-msgstr ""
+msgstr "Esperando pelo geólogo"
 
 msgid ""
 "The geologist will arrive at the flag shortly and start investigating the "
@@ -809,10 +814,10 @@ msgid ""
 msgstr ""
 
 msgid "Enhance This Fortress"
-msgstr ""
+msgstr "Melhora esta fortaleza"
 
 msgid "Enhancing Buildings"
-msgstr ""
+msgstr "Melhorando edifícios"
 
 msgid ""
 "I will create an enemy for you soon, but first let’s make sure you are "
@@ -842,7 +847,7 @@ msgid "Enhance your fortress to a citadel"
 msgstr "Transforma a tua fortaleza numa Cidadela"
 
 msgid "Enhance Your Fortress"
-msgstr ""
+msgstr "Melhora a tua fortaleza"
 
 msgid "Enhance your fortress to a mighty citadel."
 msgstr ""
@@ -858,7 +863,7 @@ msgid "Defeat your enemy"
 msgstr "Derrota o teu inimigo"
 
 msgid "Defeat the Enemy"
-msgstr ""
+msgstr "Derrotar o inimigo"
 
 msgid ""
 "I have created a sparring partner for you: It is an empire tribe close to "
@@ -878,7 +883,7 @@ msgid "Defeat the enemy tribe"
 msgstr "Derrotar a tribo inimiga"
 
 msgid "Defeat Your Enemy"
-msgstr ""
+msgstr "Derrota o teu inimigo"
 
 msgid "Defeat the nearby enemy."
 msgstr ""
@@ -927,5 +932,5 @@ msgstr ""
 
 msgid "New Objective"
 msgid_plural "New Objectives"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Novo Objectivo"
+msgstr[1] "Novos Objectivos"

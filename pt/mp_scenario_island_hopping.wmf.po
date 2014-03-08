@@ -1,14 +1,13 @@
 # European Portuguese translations for Widelands
 # Copyright (C) the Widelands development team
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2013-06-28 13:28+0000\n"
-"Last-Translator: trewe <Unknown>\n"
+"PO-Revision-Date: 2014-03-08 14:31+0100\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: LANGUAGE <widelands-public@lists.sourceforge.net>\n"
 "Language: pt_PT\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Launchpad-Export-Date: 2014-03-06 05:39+0000\n"
-"X-Generator: Launchpad (build 16948)\n"
+"X-Generator: Poedit 1.5.4\n"
 
 msgid "5 minutes"
 msgstr "5 minutos"
@@ -86,18 +85,28 @@ msgid ""
 "headquarters on a second island, which will contain all wares from your "
 "first headquarters."
 msgstr ""
+"As ilhas saltitantes é um jogo tradicional na cultura Atlanta. As regras são "
+"simples: começas com um quartel-general numa ilha e quando terminares a "
+"construção de um castelo no extremo desta, recebes um novo quartel-general "
+"na segunda ilha contendo todas as mercadorias da primeira economia."
 
 msgid ""
 "If you finish a castle in the target area on the second island, you will get "
 "a third headquarters on the third island. You must build a castle at the "
 "center of the third island and hold it for 20 minutes to win the game."
 msgstr ""
+"E quando terminares a construção de um castelo na segunda ilha, saltas para "
+"a terceira ilha. Nesta última terás de construir um castelo no centro e "
+"controlar por 20 minutos para venceres a partida."
 
 msgid ""
 "Whenever you finish an island, you will get bonus wares, depending on how "
 "many players have finished the island before you. The earlier you finish, "
 "the fewer wares you will get. See below for the details."
 msgstr ""
+"Sempre quando terminares uma ilha, receberás um bónus em mercadorias "
+"dependendo de quantos jogadores terminaram antes de ti. O mais cedo "
+"terminares, menos mercadorias recebes, conforme indicado abaixo."
 
 msgid ""
 "The clue is that the first island only provides stones and wood, the second "
@@ -107,10 +116,10 @@ msgid ""
 msgstr ""
 
 msgid "Finally, be careful not to waste your quartz and diamonds."
-msgstr ""
+msgstr "Por último, tenha cuidado não desperdiçares o teu quartzo e diamantes."
 
 msgid "Finish Rewards"
-msgstr ""
+msgstr "Recompensas por Terminar"
 
 msgid "First Island"
 msgstr "Primeira Ilha"
@@ -131,30 +140,32 @@ msgid "Second Island"
 msgstr "Segunda Ilha"
 
 msgid "%1$s was the first to reach Island number %2$i."
-msgstr ""
+msgstr "%1$s fora o primeiro a chegar a ilha número %2$i."
 
 msgid "%1$s was the second to reach Island number %2$i."
-msgstr ""
+msgstr "%1$s fora o segundo a chegar a ilha número %2$i."
 
 msgid "%1$s was the third to reach Island number %2$i."
-msgstr ""
+msgstr "%1$s fora o terceiro a chegar a ilha número %2$i."
 
 msgid "%1$s was the fourth to reach Island number %2$i."
-msgstr ""
+msgstr "%1$s fora o quarto a chegar a ilha número %2$i."
 
 msgid "The reward for this feat amounts to:"
-msgstr ""
+msgstr "A recompensa para estes feitos gloriosos é dada à:"
 
 msgid ""
 "%s is now King of the Hill and will win the game in 20 minutes, if nobody "
 "takes over the hill before then."
 msgstr ""
+"%s é agora o rei da montanha e irá vencer a partida em 20 minutos, se "
+"ninguém o desaloja até então."
 
 msgid "%s lost control of the hill."
 msgstr "%s perdeu o controlo da colina."
 
 msgid "%1$s has been King of the Hill for %2$s!"
-msgstr ""
+msgstr "%1$s é o Rei da Montanha desde %2$s!"
 
 msgid "%s has won the game. Congratulations!"
 msgstr "%s venceu a partida. Parabéns!"
