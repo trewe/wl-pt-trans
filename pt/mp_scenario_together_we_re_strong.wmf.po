@@ -1,10 +1,6 @@
 # European Portuguese Translation for Widelands
 # Copyright (©) the Widelands Development Team
 # trewe <sjrs456@yahoo.fr>, 2014
-# Widelands PATH/TO/FILE.PO
-# Copyright (C) 2005-2012 Widelands Development Team
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Widelands svnVERSION\n"
