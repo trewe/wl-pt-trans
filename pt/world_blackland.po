@@ -1,20 +1,19 @@
-# European Portuguese translations for Widelands
-# Copyright (C) the Widelands development team
+# European Portuguese Translation for Widelands
+# Copyright (©) the Widelands Development Team
+# trewe <sjrs456@yahoo.fr>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Widelands\n"
+"Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
-"POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2014-03-08 13:56+0100\n"
+"POT-Creation-Date: 2014-03-30 14:10+0000\n"
+"PO-Revision-Date: 2014-05-18 15:43-0000\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
-"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-06 05:37+0000\n"
-"X-Generator: Poedit 1.5.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n !=1)\n"
 
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
@@ -52,101 +51,101 @@ msgstr "Obeliscos"
 msgid "Stones"
 msgstr "Pedras"
 
-msgid "Aspen"
-msgstr "Álamo alpino"
+msgid "Aspen (Old)"
+msgstr ""
 
-msgid "Aspen (medium)"
-msgstr "Álamo alpino médio"
+msgid "Aspen (Mature)"
+msgstr ""
 
-msgid "Aspen (small)"
-msgstr "Álamo alpino pequeno"
+msgid "Aspen (Pole)"
+msgstr ""
 
-msgid "Aspen (tiny)"
-msgstr "Álamo alpino anão"
+msgid "Aspen (Sapling)"
+msgstr ""
 
-msgid "Oak"
-msgstr "Carvalho"
+msgid "Oak (Old)"
+msgstr "Carvalho (Antigo)"
 
-msgid "Oak (medium)"
-msgstr "Carvalho Médio"
+msgid "Oak (Mature)"
+msgstr "Carvalho (crescido)"
 
-msgid "Oak (small)"
-msgstr "Carvalho Pequeno"
+msgid "Oak (Pole)"
+msgstr "Carvalho (jovem)"
 
-msgid "Oak (tiny)"
-msgstr "Carvalho anão"
+msgid "Oak (Sapling)"
+msgstr "Carvalho (rebento)"
 
-msgid "Spruce"
-msgstr "Pinheiro Nórdico"
+msgid "Spruce (Old)"
+msgstr ""
 
-msgid "Spruce (medium)"
-msgstr "Pinheiro Nórdico médio"
+msgid "Spruce (Mature)"
+msgstr ""
 
-msgid "Spruce (small)"
-msgstr "Pinheiro Nórdico pequeno"
+msgid "Spruce (Pole)"
+msgstr ""
 
-msgid "Spruce (tiny)"
-msgstr "Pinheiro Nórdico anão"
+msgid "Spruce (Sapling)"
+msgstr ""
 
-msgid "Maple"
-msgstr "Ácer"
+msgid "Maple (Old)"
+msgstr ""
 
-msgid "Maple (medium)"
-msgstr "Ácer médio"
+msgid "Maple (Mature)"
+msgstr ""
 
-msgid "Maple (small)"
-msgstr "Ácer pequeno"
+msgid "Maple (Pole)"
+msgstr ""
 
-msgid "Maple (tiny)"
-msgstr "Ácer anão"
+msgid "Maple (Sapling)"
+msgstr ""
 
-msgid "Birch"
-msgstr "Bétula"
+msgid "Birch (Old)"
+msgstr ""
 
-msgid "Birch (medium)"
-msgstr "Bétula média"
+msgid "Birch (Mature)"
+msgstr ""
 
-msgid "Birch (small)"
-msgstr "Bétula pequena"
+msgid "Birch (Pole)"
+msgstr ""
 
-msgid "Birch (tiny)"
-msgstr "Bétula anã"
+msgid "Birch (Sapling)"
+msgstr ""
 
-msgid "Beech"
-msgstr "Faia"
+msgid "Beech (Old)"
+msgstr "Faia (antiga)"
 
-msgid "Beech (medium)"
-msgstr "Faia média"
+msgid "Beech (Mature)"
+msgstr "Faia (crescida)"
 
-msgid "Beech (small)"
-msgstr "Faia pequena"
+msgid "Beech (Pole)"
+msgstr "Faia (jovem)"
 
-msgid "Beech (tiny)"
-msgstr "Faia anã"
+msgid "Beech (Sapling)"
+msgstr "Faia (rebento)"
 
-msgid "Larch"
-msgstr "Cedro"
+msgid "Larch (Old)"
+msgstr ""
 
-msgid "Larch (medium)"
-msgstr "Cedro médio"
+msgid "Larch (Mature)"
+msgstr ""
 
-msgid "Larch (small)"
-msgstr "Cedro pequeno"
+msgid "Larch (Pole)"
+msgstr ""
 
-msgid "Larch (tiny)"
-msgstr "Cedro anão"
+msgid "Larch (Sapling)"
+msgstr ""
 
-msgid "Rowan"
-msgstr "Sorva"
+msgid "Rowan (Old)"
+msgstr ""
 
-msgid "Rowan (medium)"
-msgstr "Sorva média"
+msgid "Rowan (Mature)"
+msgstr ""
 
-msgid "Rowan (small)"
-msgstr "Sorva pequena"
+msgid "Rowan (Pole)"
+msgstr ""
 
-msgid "Rowan (tiny)"
-msgstr "Sorva anã"
+msgid "Rowan (Sapling)"
+msgstr ""
 
 msgid "Bunny"
 msgstr "Coelho"

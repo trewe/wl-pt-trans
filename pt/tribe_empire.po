@@ -1,187 +1,178 @@
-# European Portuguese translations for Widelands
-# Copyright (C) the Widelands development team
+# European Portuguese Translation for Widelands
+# Copyright (©) the Widelands Development Team
+# trewe <sjrs456@yahoo.fr>, 2014
+# GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
-"Project-Id-Version: Widelands\n"
+"Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
-"POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2013-06-28 10:14+0000\n"
-"Last-Translator: trewe <Unknown>\n"
-"Language-Team: Portuguese <pt@li.org>\n"
-"Language: pt_PT\n"
+"POT-Creation-Date: 2014-03-30 14:10+0000\n"
+"PO-Revision-Date: 2014-03-11 10:09+0000\n"
+"Last-Translator: GunChleoc <Unknown>\n"
+"Language-Team: Widelands fixxer upper\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-03-06 05:33+0000\n"
-"X-Generator: Launchpad (build 16948)\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n !=1)\n"
 
-msgid "Your Barracks discovered an aggressor."
+msgid "Sleep"
+msgstr "Hibernar"
+
+msgid "Your barracks discovered an aggressor."
 msgstr ""
 
-msgid "Your Barracks is under attack."
+msgid "Your barracks is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Barracks"
+msgid "The enemy defeated your soldiers at the barracks."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Barracks"
+msgid "Your soldiers defeated the enemy at the barracks."
 msgstr ""
 
-msgid "Your Barrier discovered an aggressor."
+msgid "Your barrier discovered an aggressor."
 msgstr ""
 
-msgid "Your Barrier is under attack."
+msgid "Your barrier is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Barrier"
+msgid "The enemy defeated your soldiers at the barrier."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Barrier"
+msgid "Your soldiers defeated the enemy at the barrier."
 msgstr ""
 
-msgid "Your Castle discovered an aggressor."
+msgid "Your castle discovered an aggressor."
 msgstr ""
 
-msgid "Your Castle is under attack."
+msgid "Your castle is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Castle"
+msgid "The enemy defeated your soldiers at the castle."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Castle"
+msgid "Your soldiers defeated the enemy at the castle."
 msgstr ""
 
-msgid "Your Citadel discovered an aggressor."
+msgid "Your citadel discovered an aggressor."
 msgstr ""
 
-msgid "Your Citadel is under attack."
+msgid "Your citadel is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Citadel"
+msgid "The enemy defeated your soldiers at the citadel."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Citadel"
+msgid "Your soldiers defeated the enemy at the citadel."
 msgstr ""
 
-msgid "Your Donjon discovered an aggressor."
+msgid "Your donjon discovered an aggressor."
 msgstr ""
 
-msgid "Your Donjon is under attack."
+msgid "Your donjon is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Donjon"
+msgid "The enemy defeated your soldiers at the donjon."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Donjon"
+msgid "Your soldiers defeated the enemy at the donjon."
 msgstr ""
 
-msgid "Your Fortress discovered an aggressor."
+msgid "Your fortress discovered an aggressor."
 msgstr ""
 
-msgid "Your Fortress is under attack."
+msgid "Your fortress is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Fortress"
+msgid "The enemy defeated your soldiers at the fortress."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Fortress"
+msgid "Your soldiers defeated the enemy at the fortress."
 msgstr ""
 
-msgid "Your Guardhall discovered an aggressor."
+msgid "Your guardhall discovered an aggressor."
 msgstr ""
 
-msgid "Your Guardhall is under attack."
+msgid "Your guardhall is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Guardhall"
+msgid "The enemy defeated your soldiers at the guardhall."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Guardhall"
+msgid "Your soldiers defeated the enemy at the guardhall."
 msgstr ""
 
-msgid "Your Guardhouse discovered an aggressor."
+msgid "Your guardhouse discovered an aggressor."
 msgstr ""
 
-msgid "Your Guardhouse is under attack."
+msgid "Your guardhouse is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Guardhouse"
+msgid "The enemy defeated your soldiers at the guardhouse."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Guardhouse"
+msgid "Your soldiers defeated the enemy at the guardhouse."
 msgstr ""
 
-msgid "Your High Tower discovered an aggressor."
+msgid "Your high tower discovered an aggressor."
 msgstr ""
 
-msgid "Your High Tower is under attack."
+msgid "Your high tower is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the High Tower"
+msgid "The enemy defeated your soldiers at the high tower."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the High Tower"
+msgid "Your soldiers defeated the enemy at the high tower."
 msgstr ""
 
-msgid "Your Outpost discovered an aggressor."
+msgid "Your outpost discovered an aggressor."
 msgstr ""
 
-msgid "Your Outpost is under attack."
+msgid "Your outpost is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Outpost"
+msgid "The enemy defeated your soldiers at the outpost."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Outpost"
+msgid "Your soldiers defeated the enemy at the outpost."
 msgstr ""
 
-msgid "Your Sentry discovered an aggressor."
+msgid "Your sentry discovered an aggressor."
 msgstr ""
 
-msgid "Your Sentry is under attack."
+msgid "Your sentry is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Sentry"
+msgid "The enemy defeated your soldiers at the sentry."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Sentry"
+msgid "Your soldiers defeated the enemy at the sentry."
 msgstr ""
 
-msgid "Your Small Tower discovered an aggressor."
+msgid "Your small tower discovered an aggressor."
 msgstr ""
 
-msgid "Your Small Tower is under attack."
+msgid "Your small tower is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Small Tower"
+msgid "The enemy defeated your soldiers at the small tower."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Small Tower"
+msgid "Your soldiers defeated the enemy at the small tower."
 msgstr ""
 
-msgid "Your Stronghold discovered an aggressor."
+msgid "Your tower discovered an aggressor."
 msgstr ""
 
-msgid "Your Stronghold is under attack."
+msgid "Your tower is under attack."
 msgstr ""
 
-msgid "The enemy defeated your soldiers at the Stronghold"
+msgid "The enemy defeated your soldiers at the tower."
 msgstr ""
 
-msgid "Your soldiers defeated the enemy at the Stronghold"
-msgstr ""
-
-msgid "Your Tower discovered an aggressor."
-msgstr ""
-
-msgid "Your Tower is under attack."
-msgstr ""
-
-msgid "The enemy defeated your soldiers at the Tower"
-msgstr ""
-
-msgid "Your soldiers defeated the enemy at the Tower"
+msgid "Your soldiers defeated the enemy at the tower."
 msgstr ""
 
 msgid ""
@@ -189,18 +180,12 @@ msgid ""
 "smithy and used in a training camp – together with food – to train soldiers "
 "from attack level 1 to level 2."
 msgstr ""
+"Esta é uma lança avançada, com uma ponta de aço. É produzida pelo ferreiro "
+"de armas e usada no campo de treino - junto com alimentos - para melhorar o "
+"ataque dos soldados do nível 1 para o nível 2."
 
-msgid "Sleep"
-msgstr "Hibernar"
-
-msgid "Upgrade soldier evade 0"
-msgstr "Treinar soldado evasão 0"
-
-msgid ""
-"Upgrade soldier evade 0 (only for compatibility with old savegames (build13))"
+msgid "Upgrade soldier evade from level 0 to level 1"
 msgstr ""
-"Treinar soldado evasão 0 (só usado para compatibilidade com jogos guardados "
-"em versões antigas (build13))"
 
 msgid ""
 "Basic armor for Empire soldiers. It is produced in the armor smithy and used "
@@ -209,38 +194,33 @@ msgid ""
 msgstr ""
 
 msgid "Produces armor for the soldiers."
-msgstr ""
+msgstr "Produz armaduras para os soldados."
 
 msgid "Produce helm"
 msgstr "Produz Elmo"
 
 msgid "Produce armor"
-msgstr ""
+msgstr "Produz Armadura"
 
 msgid "Produce chain armor"
-msgstr ""
+msgstr "Produz Cota de malha"
 
 msgid "Produce plate armor"
-msgstr ""
+msgstr "Produz Armadura de chapa"
 
 msgid "Work"
 msgstr "a produção"
 
 msgid "The ax is the tool for the lumberjack. It is produced by the toolsmith."
-msgstr ""
+msgstr "O machado é a ferramenta do Lenhador. É produzido no Ferramenteiro."
 
 msgid "Bakes bread for workers."
 msgstr "Coze o pão para os trabalhadores."
 
-msgid ""
-"The bread paddle is the tool of the baker, each baker needs one. It is "
-"produced by the toolsmith."
+msgid "Your soldiers have occupied your barracks."
 msgstr ""
 
-msgid "Your soldiers have occupied your Barracks"
-msgstr ""
-
-msgid "Your soldiers have occupied your Barrier"
+msgid "Your soldiers have occupied your barrier."
 msgstr ""
 
 msgid ""
@@ -260,6 +240,14 @@ msgid ""
 "is used in taverns and inns to prepare rations and meals. Bread is also "
 "consumed at the training sites (arena, colosseum, training camp)."
 msgstr ""
+"Os padeiros do Império produzem deliciosos pães com farinha e água. Os pães "
+"são utilizados em tavernas e hospedarias para preparar rações e refeições. "
+"Também são consumidos em locais de treino (arena, coliseu e campo de treino)."
+
+msgid ""
+"The bread paddle is the tool of the baker, each baker needs one. It is "
+"produced by the toolsmith."
+msgstr ""
 
 msgid "Produces beer or wine."
 msgstr "Produz Cerveja ou Vinho."
@@ -276,7 +264,7 @@ msgstr "Trabalha na Serração"
 msgid "Carries items along your roads."
 msgstr "Carrega as mercadorias pelas tuas estradas."
 
-msgid "Your soldiers have occupied your Castle"
+msgid "Your soldiers have occupied your castle."
 msgstr ""
 
 msgid ""
@@ -289,21 +277,20 @@ msgid ""
 "Cloth is needed to build several buildings. It is also consumed in the armor "
 "smithy."
 msgstr ""
+"Pano é necessário para construir vários edifícios. Também é consumido na "
+"forja de armaduras."
 
 msgid ""
 "The fires of the Empire smelting works, armor smithies and weapon smithies "
 "are usually fed with coal. It is mined in coal mines or produced by a "
 "charcoal burner out of logs."
 msgstr ""
+"As fogueiras das fundições Imperiais, ferreiros de armaduras e de armas são "
+"usualmente alimentadas com carvão, que é escavado das minas de carvão ou "
+"produzido ao queimar troncos de árvores nas carvoarias."
 
-msgid "Upgrade soldier evade 1"
-msgstr "Treinar soldado evasão 1"
-
-msgid ""
-"Upgrade soldier evade 1 (only for compatibility with old savegames (build13))"
+msgid "Upgrade soldier evade from level 1 to level 2"
 msgstr ""
-"Treinar soldado evasão 1 (só usado para compatibilidade com jogos guardados "
-"em versões antigas (build13))"
 
 msgid "The Widelands Development Team"
 msgstr "A equipa de desenvolvimento de Widelands"
@@ -312,79 +299,79 @@ msgid "Empire"
 msgstr "Império"
 
 msgid "This is the culture of the Roman Empire."
-msgstr ""
+msgstr "Esta é a cultura do Império romano."
 
 msgid "Ashes"
 msgstr "Cinzas"
 
 msgid "Field (medium)"
-msgstr ""
+msgstr "Campo médio"
 
 msgid "Field (small)"
-msgstr ""
+msgstr "Campo pequeno"
 
 msgid "Field (tiny)"
-msgstr ""
+msgstr "Campo muito pequeno"
 
 msgid "Field (ripe)"
-msgstr ""
+msgstr "Campo maduro"
 
 msgid "Field (harvested)"
-msgstr ""
+msgstr "Campo colhido"
 
 msgid "Destroyed Building"
-msgstr ""
+msgstr "Edifício destruído"
 
 msgid "Resource indicator: Coal (little)"
-msgstr ""
+msgstr "Indicador de recursos pouco carvão"
 
 msgid "Resource indicator: Coal (much)"
-msgstr ""
+msgstr "Indicador de recursos muito carvão"
 
 msgid "Resource indicator: Gold (little)"
-msgstr ""
+msgstr "Indicador de recursos pouco ouro"
 
 msgid "Resource indicator: Gold (much)"
-msgstr ""
+msgstr "Indicador de recursos muito ouro"
 
 msgid "Resource indicator: Granite (little)"
-msgstr ""
+msgstr "Indicador de recursos pouco granito"
 
 msgid "Resource indicator: Granite (much)"
-msgstr ""
+msgstr "Indicador de recursos muito granito"
 
 msgid "Resource indicator: Iron (little)"
-msgstr ""
+msgstr "Indicador de recursos pouco ferro"
 
 msgid "Resource indicator: Iron (much)"
-msgstr ""
+msgstr "Indicador de recursos muito ferro"
 
 msgid "Resource indicator: No resource"
-msgstr ""
+msgstr "Indicador de recursos sem recursos"
 
 msgid "Resource indicator: Water"
-msgstr ""
+msgstr "Indicador de recursos água"
 
 msgid "Vine (medium)"
-msgstr ""
+msgstr "Vinha média"
 
 msgid "Vine (small)"
-msgstr ""
+msgstr "Vinha pequena"
 
 msgid "Vine (tiny)"
 msgstr ""
 
 msgid "Vine (ripe)"
-msgstr ""
+msgstr "Vinha madura"
 
 msgid "Ship Construction Site"
-msgstr ""
+msgstr "Construção de navios"
 
 msgid "Advanced Lance"
 msgstr "Lança Avançada"
 
 msgid "Armor"
-msgstr ""
+msgstr "Armadura"
 
 msgid "Ax"
 msgstr ""
@@ -402,7 +389,7 @@ msgid "Bread"
 msgstr "Pão"
 
 msgid "Chain Armor"
-msgstr ""
+msgstr "Cota de malha"
 
 msgid "Cloth"
 msgstr "Tecido"
@@ -471,7 +458,7 @@ msgid "Pick"
 msgstr "Picareta"
 
 msgid "Plate Armor"
-msgstr ""
+msgstr "Armadura de chapa"
 
 msgid "Ration"
 msgstr "Ração"
@@ -522,7 +509,7 @@ msgid "Soldier"
 msgstr "Soldado"
 
 msgid "Armorsmith"
-msgstr ""
+msgstr "Armador"
 
 msgid "Baker"
 msgstr "Padeiro"
@@ -647,14 +634,11 @@ msgstr "Fortaleza"
 msgid "Sentry"
 msgstr "Sentinela"
 
-msgid "Stronghold"
-msgstr "Forte"
-
 msgid "Headquarters"
 msgstr "Quartel-general"
 
 msgid "Headquarters Shipwreck"
-msgstr ""
+msgstr "Quartel-general naufrágio"
 
 msgid "Warehouse"
 msgstr "Armazém"
@@ -666,25 +650,25 @@ msgid "Quarry"
 msgstr "Pedreira"
 
 msgid "Lumberjack’s House"
-msgstr ""
+msgstr "Casa do Lenhador"
 
 msgid "Forester’s House"
-msgstr ""
+msgstr "Casa do Silvicultor"
 
 msgid "Fisher’s House"
-msgstr ""
+msgstr "Casa de Pescador"
 
 msgid "Hunter’s House"
-msgstr ""
+msgstr "Cabana do caçador"
 
 msgid "Well"
 msgstr "Poço"
 
 msgid "Scout’s House"
-msgstr ""
+msgstr "Cabana do Explorador"
 
 msgid "Stonemason’s House"
-msgstr ""
+msgstr "Casa do Escultor"
 
 msgid "Sawmill"
 msgstr "Serração"
@@ -723,13 +707,13 @@ msgid "Toolsmithy"
 msgstr "Loja do Ferramenteiro"
 
 msgid "Armor Smithy"
-msgstr ""
+msgstr "Loja do Armador"
 
 msgid "Donkey Farm"
-msgstr ""
+msgstr "Criação de Burros"
 
 msgid "Sheep Farm"
-msgstr ""
+msgstr "Ovinocultura"
 
 msgid "Weaving Mill"
 msgstr "Tecelagem"
@@ -780,15 +764,17 @@ msgid "Arena"
 msgstr "Arena"
 
 msgid "Training Camp"
-msgstr ""
+msgstr "Campo de treinos"
 
 msgid "Headquarters Medium"
-msgstr ""
+msgstr "Quartel-general médio"
 
 msgid "Castle Village"
-msgstr ""
+msgstr "Praça fortificada"
 
-msgid "Helps to carry items along busy roads."
+msgid ""
+"Donkeys help to carry items along busy roads. They are reared in a donkey "
+"farm."
 msgstr ""
 
 msgid "Breeds cute and helpful donkeys"
@@ -814,6 +800,9 @@ msgid ""
 "Besides bread and meat, fish is also a foodstuff for the Empire. Fish are "
 "used in taverns, inns and training sites (arena, colosseum, training camp)."
 msgstr ""
+"Além de pão e carne, peixe também é um alimento no Império. Peixes são "
+"utilizados nas tavernas, hospedarias e locais de treino (arena, coliseu e "
+"campo de treino)."
 
 msgid "Catches fish in the sea."
 msgstr ""
@@ -834,7 +823,7 @@ msgstr ""
 msgid "Plants trees."
 msgstr "Planta árvores"
 
-msgid "Your soldiers have occupied your Fortress"
+msgid "Your soldiers have occupied your fortress."
 msgstr ""
 
 msgid "Discovers resources for mining."
@@ -845,26 +834,40 @@ msgid ""
 "with it. It is produced in the smelting works out of gold ore and processed "
 "in the armor smithy and the weapon smithy."
 msgstr ""
+"O ouro é o mais valioso de todos os metais; armaduras e armas são revestidas "
+"com ele. É produzido na fundição através do minério de ouro e processado no "
+"ferreiro de armadura e ferreiro de armas."
 
-msgid "Gold Ore is mined in goldmines and processed at the smelting works."
+msgid ""
+"Gold ore is mined in a goldmine. Smelted in a smelting works, it turns into "
+"gold which is used as a precious building material and to produce weapons "
+"and armor."
 msgstr ""
 
 msgid ""
 "These grapes are the base for a tasty wine. They are harvested in a vineyard "
 "and processed in a winery."
 msgstr ""
+"Estas uvas são a base para um bom vinho. São colhidas nos vinhedos e "
+"processadas na vinícola."
 
 msgid ""
 "The hammer is an essential tool. It is needed by the geologist, the builder, "
 "the armor and the weapon smith. Make sure you always have some in reserve! "
 "It is produced by the toolsmith."
 msgstr ""
+"O martelo é uma ferramenta essencial. É necessária para o geólogo, "
+"construtor e para os ferreiros de armas e armaduras. Garanta que sempre haja "
+"alguns de reserva! É produzido pelo ferreiro."
 
 msgid ""
 "This is a strong lance with a steel-tip and a little blade. It is produced "
 "in the weapon smithy and used in the training camp – together with food – "
 "train soldiers from attack level 2 to level 3."
 msgstr ""
+"Esta é uma lança forte com ponta de aço e uma pequena lâmina. É produzida "
+"pelo ferreiro de armas e usada no campo de treino - junto com alimentos - "
+"para melhorar o ataque dos soldados do nível 2 para o nível 3."
 
 msgid ""
 "The helmet is the basic defense of a warrior. It is produced in an armor "
@@ -880,6 +883,8 @@ msgid ""
 "This spear is light enough to be thrown, but heavy enough to kill any animal "
 "in one blow. It is only used by hunters."
 msgstr ""
+"Esta lança é leve o suficiente para ser lançada, mas forte o bastante para "
+"matar qualquer animal com um só golpe. É somente usada pelos Caçadores."
 
 msgid "Produce ration"
 msgstr "Produz ração"
@@ -894,11 +899,15 @@ msgid ""
 "Weapons, armor and tools are made of iron. It is extracted from iron ore in "
 "the smelting works."
 msgstr ""
+"Armas, armaduras e ferramentas são fabricadas com ferro, que é obtido ao "
+"fundir minério nas fundições."
 
 msgid ""
 "Iron ore needs to be smelted in the smelting works to yield iron. Iron ore "
 "is produced in iron mines."
 msgstr ""
+"O minério de ferro é retirado nas minas de ferro e precisa de ser derretido "
+"na fundição para poder ser utilizado."
 
 msgid ""
 "How can one create a ration or meal if there are no kitchen tools? They are "
@@ -912,6 +921,18 @@ msgid ""
 "a training camp – together with food – to train soldiers from attack level 0 "
 "to attack level 1."
 msgstr ""
+"Esta lança possui uma ponta de ferro. É produzida pelo ferreiro de armas e "
+"usada no campo de treino - junto com alimentos - para melhorar o ataque dos "
+"soldados do nível 0 para o nível 1."
+
+msgid ""
+"Logs are an important building material for the Empire. The lumberjacks fell "
+"the trees; foresters care for the supply of trees. Logs are also used by the "
+"charcoal burner, the toolsmithy and the sawmill."
+msgstr ""
+"Troncos de árvore são um material de construção importante no Império. Os "
+"lenhadores cortam as árvores e os florestais fazem a reposição. Os troncos "
+"são utilizadas na carvoaria, ferraria e serraria."
 
 msgid "Fells trees."
 msgstr "Abate árvores"
@@ -921,28 +942,24 @@ msgid ""
 "in a quarry. Marble is used as building material and gets chiselled into "
 "marble columns in the stonemason’s house."
 msgstr ""
+"Mármore é uma pedra linda, obtida nas montanhas ou produzida nas pedreiras. "
+"A mármore é utilizado como material de construção e é transformado em "
+"colunas de mármore na marmorearia."
 
 msgid ""
 "Marble columns represent the high culture of the Empire, so they are needed "
 "for nearly every larger building. They are produced out of marble at a "
 "stonemason’s house."
 msgstr ""
+"As colunas de mármore representam a cultura elevada do Império, de modo que "
+"são necessárias em praticamente todas as grandes construções. São feitas de "
+"mármore na marmorearia."
 
 msgid "Mine marble"
 msgstr "Mina de mármore"
 
-msgid "Mine marble (only for compatibility with old savegames (build13))"
-msgstr ""
-"Mina de mármore (só usado para compatibilidade com antigos jogos guardados "
-"(build13))"
-
 msgid "Mine stone"
 msgstr "Mina de Pedra"
-
-msgid "Mine stone (only for compatibility with old savegames (build13))"
-msgstr ""
-"Mina de pedra (só usado para compatibilidade com antigos jogos guardados "
-"(build13))"
 
 msgid "Works deep in the mines to obtain coal, iron or gold."
 msgstr "Trabalha nas profundezas das minas para obter carvão, ferro ou ouro."
@@ -960,11 +977,15 @@ msgid ""
 "colosseum, training camp). There are two sources of meat: pork from "
 "piggeries and the meat of wild game hunted by the hunters."
 msgstr ""
+"Carne contem muita energia. É utilizada em hospedarias e tavernas para "
+"preparar comida para os mineiros e é consumida nos locais de treino (arena, "
+"coliseu e campo de treino). Existem duas fontes de carne: porco das criações "
+"e a carne da caçada dos caçadores."
 
 msgid "Mills the wheat to produce flour."
 msgstr "Mói o trigo para produzir farinha."
 
-msgid "Your soldiers have occupied your Outpost"
+msgid "Your soldiers have occupied your outpost."
 msgstr ""
 
 msgid ""
@@ -997,7 +1018,7 @@ msgstr "Esta serra é usada pelo serrador. É produzida no Ferramenteiro."
 
 msgid ""
 "Scouts like Scotty the scout scouting unscouted areas in a scouty fashion."
-msgstr ""
+msgstr "O explorador explora áreas inexploradas explorando-as."
 
 msgid "Headquarters medium"
 msgstr "Quartel-general médio"
@@ -1009,15 +1030,15 @@ msgid "Not enough space"
 msgstr "Espaço insuficiente"
 
 msgid ""
-"Some of your starting buildings didn’t have enough room and \n"
-"weren’t built. You are at a disadvantage with this; consider restarting \n"
-"this map with a fair starting condition."
+"Some of your starting buildings didn’t have enough room and weren’t built. "
+"You are at a disadvantage with this; consider restarting this map with a "
+"fair starting condition."
 msgstr ""
 
 msgid "The Scythe is the tool of the farmer. It is produced by the toolsmith."
-msgstr ""
+msgstr "A foice é a ferramenta dos agricultores. É produzida no Ferramenteiro."
 
-msgid "Your soldiers have occupied your Sentry"
+msgid "Your soldiers have occupied your sentry."
 msgstr ""
 
 msgid "Keeping sheep."
@@ -1053,9 +1074,11 @@ msgid ""
 "Stones are a basic building material of the Empire. They are produced in "
 "quarries and marble mines."
 msgstr ""
+"Pedras são materiais de construção básicos no Império. São produzidos em "
+"pedreiras e minas de mármore."
 
 msgid "Cuts raw pieces of granite and marble out of rocks."
-msgstr ""
+msgstr "Extrai pedaços brutos de granito e mármore dos rochedos."
 
 msgid "Produces tools for the workers."
 msgstr "Produz ferramentas para os trabalhadores."
@@ -1094,90 +1117,36 @@ msgid "Produce saw"
 msgstr "Produz Serra"
 
 msgid "Produce ax"
-msgstr ""
+msgstr "Produz Machado"
 
-msgid "Your soldiers have occupied your Tower"
+msgid "Your soldiers have occupied your tower."
 msgstr ""
 
 msgid "Trains the soldiers."
 msgstr "Dá a instrução aos soldados na recruta."
 
-msgid "Upgrade soldier attack 0"
-msgstr "Treinar soldado ataque 0"
-
-msgid ""
-"Upgrade soldier attack 0 (only for compatibility with old savegames "
-"(build13))"
-msgstr ""
-"Treinar soldado ataque 0 (só usado para compatibilidade com jogos guardados "
-"em versões antigas (build13))"
-
-msgid "Upgrade soldier attack 1"
-msgstr "Treinar soldado ataque 1"
-
-msgid ""
-"Upgrade soldier attack 1 (only for compatibility with old savegames "
-"(build13))"
-msgstr ""
-"Treinar soldado ataque 1 (só usado para compatibilidade com jogos guardados "
-"em versões antigas (build13))"
-
-msgid "Upgrade soldier attack 2"
-msgstr "Treinar soldado ataque 2"
-
-msgid ""
-"Upgrade soldier attack 2 (only for compatibility with old savegames "
-"(build13))"
-msgstr ""
-"Treinar soldado ataque 2 (só usado para compatibilidade com jogos guardados "
-"em versões antigas (build13))"
-
-msgid "Upgrade soldier attack 3"
-msgstr "Treinar soldado ataque 3"
-
-msgid ""
-"Upgrade soldier attack 3 (only for compatibility with old savegames "
-"(build13))"
-msgstr ""
-"Treinar soldado ataque 3 (só usado para compatibilidade com jogos guardados "
-"em versões antigas (build13))"
-
-msgid "Upgrade soldier health 0"
+msgid "Upgrade soldier attack from level 0 to level 1"
 msgstr ""
 
-msgid ""
-"Upgrade soldier health 0 (only for compatibility with old savegames "
-"(build13))"
+msgid "Upgrade soldier attack from level 1 to level 2"
 msgstr ""
 
-msgid "Upgrade soldier health 1"
+msgid "Upgrade soldier attack from level 2 to level 3"
 msgstr ""
 
-msgid ""
-"Upgrade soldier health 1 (only for compatibility with old savegames "
-"(build13))"
+msgid "Upgrade soldier attack from level 3 to level 4"
 msgstr ""
 
-msgid "Upgrade soldier health 2"
+msgid "Upgrade soldier health from level 0 to level 1"
 msgstr ""
 
-msgid ""
-"Upgrade soldier health 2 (only for compatibility with old savegames "
-"(build13))"
+msgid "Upgrade soldier health from level 1 to level 2"
 msgstr ""
 
-msgid "Upgrade soldier health 3"
+msgid "Upgrade soldier health from level 2 to level 3"
 msgstr ""
 
-msgid ""
-"Upgrade soldier health 3 (only for compatibility with old savegames "
-"(build13))"
-msgstr ""
-
-msgid ""
-"Logs are an important building material for the Empire. The lumberjacks fell "
-"the trees; foresters care for the supply of trees. Logs are also used by the "
-"charcoal burner, the toolsmithy and the sawmill."
+msgid "Upgrade soldier health from level 3 to level 4"
 msgstr ""
 
 msgid "Grows vine."
@@ -1194,12 +1163,17 @@ msgid ""
 "warriors. It is used in the training camp – together with food – to train "
 "soldiers from attack level 3 to level 4."
 msgstr ""
+"Esta é a melhor e mais afiada arma que o ferreiro de armas do Império forje "
+"para os teus soldados. É usada no campo de treino - junto com alimentos - "
+"para melhorar o ataque dos soldados do nível 3 para o nível 4."
 
 msgid ""
 "Water is the essence of life! It is used in the bakery and the brewery. The "
 "donkey farm, the sheep farm and the piggery also need to be supplied with "
 "water."
 msgstr ""
+"Água é a essência da vida! É utilizada na padaria e na cervejaria. As "
+"criações de burros, ovelhas e porcos também necessitam de água."
 
 msgid "Produces weapons for the soldiers."
 msgstr "Produz armamento para os soldados."
@@ -1227,22 +1201,32 @@ msgid ""
 "and breweries. Donkey farms, sheep farms and piggeries also need to be "
 "supplied with wheat."
 msgstr ""
+"Trigo é essencial para a sobrevivência. É produzido nas quintas e utilizadas "
+"nos moinhos e cervejarias. Criações de burros, ovelhas e porcos também "
+"necessitam de trigo."
 
 msgid ""
 "This tasty wine is drunk by the miners working the marble and gold mines. It "
 "is produced in a winery."
 msgstr ""
+"Este delicioso vinho é consumido nas minas de mármore e ouro. É produzido na "
+"vinícola."
 
 msgid ""
 "Wood is a basic building material of the Empire. It is also used by the "
 "weapon smithy."
 msgstr ""
+"Madeira é um material de construção básico do Império. Também é utilizado "
+"pelo ferreiro de armas."
 
 msgid ""
 "This wooden lance is the basic weapon in the Empire military system. It is "
 "produced in the weapon smithy. In combination with a helmet, it is the "
 "equipment to fit out young soldiers."
 msgstr ""
+"Esta lança de madeira é a arma básica do sistema militar do Império. É "
+"produzida pelo ferreiro de armas. Junto com o elmo é o equipamento dos "
+"jovens soldados."
 
 msgid "Wool is the hair of sheep. Weaving mills use it to make cloth."
 msgstr ""

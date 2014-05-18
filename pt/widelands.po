@@ -1,20 +1,22 @@
-# European Portuguese translations for Widelands
-# Copyright (C) the Widelands development team
+# European Portuguese Translation for Widelands
+# Copyright (©) the Widelands Development Team
+# trewe <sjrs456@yahoo.fr>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Widelands\n"
+"Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
-"POT-Creation-Date: 2014-03-06 22:20+0100\n"
-"PO-Revision-Date: 2014-03-01 00:42+0000\n"
-"Last-Translator: daniel reis <danielreis40@yahoo.com.br>\n"
+"POT-Creation-Date: 2014-03-30 16:10+0200\n"
+"PO-Revision-Date: 2014-03-11 01:29+0000\n"
+"Last-Translator: Flávio J. Saraiva <flaviojs2005@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
-"Language: pt_PT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Launchpad-Export-Date: 2014-03-06 05:36+0000\n"
-"X-Generator: Launchpad (build 16948)\n"
+"Plural-Forms: nplurals=2; plural=(n !=1)\n"
+"Language: pt_PT\n"
+
+msgid "Build"
+msgstr "Construir"
 
 msgid "Aggressive"
 msgstr "Agressivo"
@@ -28,6 +30,10 @@ msgstr "Defensivo"
 msgid "None"
 msgstr "Nenhum"
 
+#, c-format
+msgid "Loading tribe: %s"
+msgstr "Carregando tribo: %s"
+
 msgid "Menu"
 msgstr "Menu"
 
@@ -35,13 +41,13 @@ msgid "Tools"
 msgstr "Ferramentas"
 
 msgid "Tool Size"
-msgstr ""
+msgstr "Tamanho da Ferramenta"
 
 msgid "Minimap"
 msgstr "Mini-mapa"
 
 msgid "Show Building Spaces (on/off)"
-msgstr ""
+msgstr "Mostrar espaços de construção (ligar/desligar)"
 
 msgid "Players"
 msgstr "Jogadores"
@@ -63,10 +69,6 @@ msgstr ""
 "Widelands não conseguiu carregar o ficheiro “%s”. O formato parece ser "
 "incompatível."
 
-#, c-format
-msgid "Loading tribe: %s"
-msgstr "Carregando tribo: %s"
-
 msgid "Creating players"
 msgstr "Criando jogadores"
 
@@ -77,42 +79,38 @@ msgid "Loading graphics..."
 msgstr "Carregando gráficos..."
 
 msgid "Unsaved Map"
-msgstr ""
+msgstr "Mapa Não Gravado"
 
-msgid "The Map has not been saved, do you really want to quit?"
-msgstr ""
+msgid "The map has not been saved, do you really want to quit?"
+msgstr "O Mapa não foi guardado, queres sair mesmo assim?"
 
 msgid "No Name"
-msgstr "Sem nome"
+msgstr "Sem Nome"
 
 msgid "Unknown"
 msgstr "Desconhecido"
 
 msgid "Field Information"
-msgstr "Informação sobre o campo"
+msgstr "Informação da Célula"
 
 msgid "Node:"
-msgstr ""
+msgstr "Nó:"
 
 #, c-format
 msgid "Coordinates: (%1$i, %2$i)"
-msgstr ""
-
-#, c-format
-msgid "Height: %u"
-msgstr "Altura: %u"
+msgstr "Coordenadas: (%1$i, %2$i)"
 
 #. * TRANSLATORS: This is part of a list, e.g. Caps: medium flag walk
 msgid " small"
-msgstr ""
+msgstr " pequeno"
 
 #. * TRANSLATORS: This is part of a list, e.g. Caps: medium flag walk
 msgid " medium"
-msgstr ""
+msgstr " médio"
 
 #. * TRANSLATORS: This is part of a list, e.g. Caps: medium flag walk
 msgid " big"
-msgstr ""
+msgstr " grande"
 
 #. * TRANSLATORS: This is part of a list, e.g. Caps: medium flag walk
 msgid " flag"
@@ -124,7 +122,7 @@ msgstr " mina"
 
 #. * TRANSLATORS: This is part of a list, e.g. Caps: big flag port walk
 msgid " port"
-msgstr " porta"
+msgstr " porto"
 
 #. * TRANSLATORS: This is part of a list, e.g. Caps: medium flag walk
 msgid " walk"
@@ -136,94 +134,94 @@ msgstr " nadar"
 
 #, c-format
 msgid "Caps:%s"
-msgstr ""
+msgstr "Capacidades:%s"
 
 #, c-format
 msgid "Owned by %i"
-msgstr ""
+msgstr "Pertence a %i"
 
 msgid "Has base immovable"
-msgstr ""
+msgstr "Tem base imóvel"
 
 msgid "No base immovable"
-msgstr ""
+msgstr "Sem base imóvel"
 
 msgid "Has bobs"
-msgstr ""
+msgstr "Tem objetos bob"
 
 msgid "No bobs"
-msgstr ""
+msgstr "Sem objetos bob"
 
 msgid "Terrain:"
-msgstr ""
+msgstr "Terreno:"
 
 #, c-format
 msgid "Name: %s"
-msgstr ""
+msgstr "Nome: %s"
 
 #, c-format
 msgid "Texture Number: %i"
-msgstr ""
+msgstr "Número da Textura: %i"
 
 msgid "Resources:"
 msgstr "Recursos:"
 
 #, c-format
 msgid "Resource name: %s"
-msgstr ""
+msgstr "Nome do recurso: %s"
 
 #, c-format
 msgid "Resource amount: %i"
-msgstr ""
+msgstr "Quantidade do recurso: %i"
 
 msgid "No resources"
-msgstr ""
+msgstr "Sem recursos"
 
 msgid "Map:"
-msgstr ""
+msgstr "Mapa:"
 
 #, c-format
 msgid "Size: %1$ix%2$i"
-msgstr ""
+msgstr "Tamanho: %1$ix%2$i"
 
 #, c-format
 msgid "Players: %i"
-msgstr ""
+msgstr "Jogadores: %i"
 
 #, c-format
 msgid "Author: %s"
-msgstr ""
+msgstr "Autor: %s"
 
 #, c-format
 msgid "Descr: %s"
-msgstr ""
+msgstr "Descrição: %s"
 
 msgid "World:"
 msgstr "Mundo:"
 
 msgid "Main Menu"
-msgstr "Menu principal"
+msgstr "Menu Principal"
 
 msgid "New Map"
-msgstr "Novo mapa"
+msgstr "Novo Mapa"
 
 msgid "New Random Map"
-msgstr "Novo Mapa aleatório"
+msgstr "Novo Mapa Aleatório"
 
 msgid "Load Map"
-msgstr "Carregar um mapa"
+msgstr "Carregar Mapa"
 
 msgid "Save Map"
 msgstr "Guardar Mapa"
 
 msgid "Map Options"
-msgstr "Opções de mapa"
+msgstr "Opções do Mapa"
 
 msgid "View Readme"
 msgstr "Leia-me"
 
 msgid "Exit Editor"
-msgstr "Sair do editor"
+msgstr "Sair do Editor"
 
 msgid "Name:"
 msgstr "Nome:"
@@ -238,22 +236,23 @@ msgid "Players:"
 msgstr "Jogadores:"
 
 msgid "Descr:"
-msgstr "Descr:"
+msgstr "Descrição:"
 
 msgid "OK"
-msgstr "OK"
+msgstr "Aceitar"
 
 msgid "Cancel"
 msgstr "Cancelar"
 
+#. * TRANSLATORS: Parent directory
 msgid "parent"
 msgstr "pai"
 
 msgid "Map Name:"
-msgstr "Nome do mapa:"
+msgstr "Nome do Mapa:"
 
 msgid "Nr Players:"
-msgstr "Nº de jogadores:"
+msgstr "Número de Jogadores:"
 
 msgid "Set origin"
 msgstr "Definir origem"
@@ -268,6 +267,10 @@ msgstr ""
 #, c-format
 msgid "Width: %u"
 msgstr "Largura: %u"
+
+#, c-format
+msgid "Height: %u"
+msgstr "Altura: %u"
 
 msgid "Create Map"
 msgstr "Criar Mapa"
@@ -295,13 +298,13 @@ msgid "Island mode:"
 msgstr "Modo Ilha:"
 
 msgid "Low"
-msgstr "Baixo"
+msgstr "Poucos"
 
 msgid "Medium"
-msgstr "Médio"
+msgstr "Médios"
 
 msgid "High"
-msgstr "Elevado"
+msgstr "Muitos"
 
 msgid "Map ID:"
 msgstr "ID do Mapa:"
@@ -317,7 +320,7 @@ msgid "Generating random map..."
 msgstr "Gerando mapa aleatório ..."
 
 msgid "Descr: "
-msgstr "Descr: "
+msgstr "Descrição: "
 
 msgid "Make Directory"
 msgstr "Criar Directório"
@@ -326,17 +329,17 @@ msgid "unnamed"
 msgstr "sem nome"
 
 msgid "directory"
-msgstr "directório"
+msgstr "diretório"
 
 msgid "Not a map file"
-msgstr "Não é um ficheiro de mapa"
+msgstr "Não é um mapa"
 
 #, c-format
-msgid "A File with the name ‘%s’ already exists. Overwrite?"
-msgstr ""
+msgid "A file with the name ‘%s’ already exists. Overwrite?"
+msgstr " Um ficheiro com o nome '%s' já existe. Desejas sobrescrever-o?"
 
-msgid "Error Saving Map!!"
-msgstr ""
+msgid "Error Saving Map!"
+msgstr "Erro ao guardar o mapa!"
 
 msgid ""
 "Error Saving Map!\n"
@@ -344,12 +347,16 @@ msgid ""
 "\n"
 "Reason given:\n"
 msgstr ""
+"Erro a Guardar Mapa!\n"
+"O ficheiro pode estar corrupto!\n"
+"\n"
+"Causa:\n"
 
 msgid "Enter Directory Name: "
-msgstr "Digita o nome do directório: "
+msgstr "Nome do directório: "
 
 msgid "Player Options"
-msgstr "Opções de jogador"
+msgstr "Opções de Jogador"
 
 msgid "Add player"
 msgstr "Adicionar jogador"
@@ -363,7 +370,7 @@ msgstr "Número de Jogadores"
 #. * TRANSLATORS: Default player name, e.g. Player 1
 #, c-format
 msgid "Player %s"
-msgstr ""
+msgstr "Jogador %s"
 
 msgid "Error!"
 msgstr "Erro!"
@@ -372,6 +379,9 @@ msgid ""
 "Cannot remove player. It is referenced someplace. Remove all buildings and "
 "bobs that depend on this player and try again."
 msgstr ""
+"Não é possível remover o jogador. Está a ser referenciado em algum lado. "
+"Remove todos os edifícios e objetos bob que dependem deste jogador e tenta "
+"outra vez."
 
 msgid "Allowed Buildings"
 msgstr "Edifícios Permitidos"
@@ -392,19 +402,19 @@ msgid "Height Tools Options"
 msgstr "Opções das Ferramentas de Elevação"
 
 msgid "Increase/Decrease Value"
-msgstr ""
+msgstr "Aumentar/Diminuir"
 
 msgid "Set Value"
-msgstr "Define valor"
+msgstr "Nivelar"
 
 msgid "Resources"
 msgstr "Recursos"
 
 msgid "Current Selection"
-msgstr "Selecção actual"
+msgstr "Seleção Atual"
 
 msgid "Change height"
-msgstr "Mudar a elevação"
+msgstr "Mudar elevação"
 
 msgid "Noise height"
 msgstr "Nivel de ruido"
@@ -413,16 +423,16 @@ msgid "Terrain"
 msgstr "Terreno"
 
 msgid "Immovables"
-msgstr "Amovíveis"
+msgstr "Objetos Imóveis"
 
 msgid "Bobs"
-msgstr "Bobs"
+msgstr "Objetos Bob"
 
 msgid "Set port space"
 msgstr "Definir local para o porto"
 
 msgid "Noise Height Options"
-msgstr "Opções do Nivel de Ruido"
+msgstr "Elevação com Ruído"
 
 #, c-format
 msgid "Minimum: %u"
@@ -437,20 +447,20 @@ msgid "Set value: %u"
 msgstr "Define valor: %u"
 
 msgid "Immovable Bobs"
-msgstr "Menu Natureza (bobs) amovível"
+msgstr "Objectos Imóveis"
 
 msgid "Terrain Select"
-msgstr "Terreno selecionado"
+msgstr "Seleção de Terreno"
 
 msgid "Current:"
-msgstr "Actual:"
+msgstr "Selecionado:"
 
 #, c-format
 msgid "Current Size: %u"
 msgstr "Tamanho actual: %u"
 
 msgid "Endless Game"
-msgstr "Jogo infinito"
+msgstr "Jogo Infinito"
 
 msgid "Scenario"
 msgstr "Cenário"
@@ -480,7 +490,7 @@ msgid "Big"
 msgstr "Grande"
 
 #, c-format
-msgid "%1$i%% built"
+msgid "%i%% built"
 msgstr ""
 
 #, c-format
@@ -575,29 +585,29 @@ msgstr ""
 "nenhuma posição inicial. Pode adicionar manualmente uma posição inicial\n"
 "com o editor de Widelands, para resolver o problema."
 
-#. * TRANSLATORS: %s = e.g. "economy needs ..." Context: "and/or not %s"
+#. * TRANSLATORS: %s = e.g. 'economy needs ...' Context: 'and/or not %s'
 #, c-format
 msgid "not %s"
 msgstr ""
 
-#. * TRANSLATORS: e.g. "economy needs water" Context: "and/or (not) economy needs %s"
-#. * TRANSLATORS: e.g. "economy needs worker" Context: "and/or (not) economy needs %s"
+#. * TRANSLATORS: e.g. 'economy needs water' Context: 'and/or (not) economy needs %s'
+#. * TRANSLATORS: e.g. 'economy needs worker' Context: 'and/or (not) economy needs %s'
 #, c-format
 msgid "economy needs %s"
 msgstr ""
 
-#. * TRANSLATORS: Adds a ware to list of wares in "Failed/Skipped ..." messages.
-#. * TRANSLATORS: e.g. "Failed work because: water, wheat (2) are missing"
+#. * TRANSLATORS: Adds a ware to list of wares in 'Failed/Skipped ...' messages.
+#. * TRANSLATORS: e.g. %1$s = 'Failed work because: water, wheat (2)' %2$s = 'are missing'
 #, c-format
 msgid "%1$s %2$s"
 msgstr ""
 
-#. * TRANSLATORS: Separator for list of wares in "Failed/Skipped ..." messages.
+#. * TRANSLATORS: Separator for list of wares in 'Failed/Skipped ...' messages.
 #, c-format
 msgid "%s,"
 msgstr ""
 
-#. * TRANSLATORS: e.g. "Failed work because: water, wheat (2) are missing"
+#. * TRANSLATORS: e.g. 'Failed work because: water, wheat (2) are missing'
 #, c-format
 msgid "%1$s (%2$i)"
 msgstr ""
@@ -607,45 +617,46 @@ msgstr ""
 msgid "site has%s"
 msgstr ""
 
+#. * TRANSLATORS: 'Failed/Skipped ... because: workers need experience'.
 msgid "workers need experience"
 msgstr "trabalhadores precisam experiência"
 
-#. * TRANSLATORS: "Failed %s because (not): %s {and/or %s}"
+#. * TRANSLATORS: 'Failed %s because (not): %s {and/or %s}'
 #, c-format
 msgid "Failed %s"
 msgstr ""
 
-#. * TRANSLATORS: "Completed %s because (not): %s {and/or %s}"
+#. * TRANSLATORS: 'Completed %s because (not): %s {and/or %s}'
 #, c-format
 msgid "Completed %s"
 msgstr ""
 
-#. * TRANSLATORS: "Skipped %s because (not): %s {and/or %s}"
+#. * TRANSLATORS: 'Skipped %s because (not): %s {and/or %s}'
 #, c-format
 msgid "Skipped %s"
 msgstr ""
 
-#. * TRANSLATORS: "Failed/Completed/Skipped %s because: %s {and %s}"
+#. * TRANSLATORS: 'Failed/Completed/Skipped %s because: %s {and %s}'
 #, c-format
 msgid "%s and "
 msgstr ""
 
-#. * TRANSLATORS: "Failed/Completed/Skipped %s because: %s {and %s}"
+#. * TRANSLATORS: 'Failed/Completed/Skipped %s because: %s {and %s}'
 #, c-format
 msgid "%1$s because: %2$s"
 msgstr ""
 
-#. * TRANSLATORS: "Failed/Completed/Skipped %s because not: %s {or %s}"
+#. * TRANSLATORS: 'Failed/Completed/Skipped %s because not: %s {or %s}'
 #, c-format
 msgid "%s or "
 msgstr ""
 
-#. * TRANSLATORS: "Failed/Completed/Skipped %s because not: %s {or %s}"
+#. * TRANSLATORS: 'Failed/Completed/Skipped %s because not: %s {or %s}'
 #, c-format
 msgid "%1$s because not: %2$s"
 msgstr ""
 
-#. * TRANSLATORS: e.g. "Failed work because: water, wheat (2) are missing"
+#. * TRANSLATORS: e.g. 'Failed work because: water, wheat (2) are missing'
 #, c-format
 msgid "Failed %s because:"
 msgstr ""
@@ -654,27 +665,34 @@ msgstr ""
 msgid "%s and"
 msgstr ""
 
+#. * TRANSLATORS: e.g. 'Failed work because: water, wheat (2) are missing'
 msgid " is missing"
 msgid_plural " are missing"
 msgstr[0] " falta"
 msgstr[1] " faltam"
 
+#. * TRANSLATORS: Number used in list of wares
+#. * TRANSLATORS: Number used in list of workers
 #, c-format
 msgid "%u "
 msgstr "%u "
 
+#. * TRANSLATORS: Separator for list of wares
+#. * TRANSLATORS: Separator for list of workers
 msgid ", "
 msgstr ", "
 
+#. * TRANSLATORS: %s is a list of wares
 #, c-format
 msgid "Produced %s"
 msgstr "Produzi %s"
 
+#. * TRANSLATORS: %s is a lost of workers
 #, c-format
-msgid "Recruited %s?"
-msgstr ""
+msgid "Recruited %s"
+msgstr "Recrutado um %s"
 
-#. * TRANSLATORS: %1$s = name, %2$s = production program, %3$s = resource
+#. * TRANSLATORS: %1$s = production site name, %2$s = production program name, %3$s = resource
 #, c-format
 msgid "%1$s %2$s mine %3$s"
 msgstr ""
@@ -737,10 +755,6 @@ msgstr ""
 msgid "An expedition ship is waiting for your commands."
 msgstr "Um novo barco de expedição está a espera das tuas ordens."
 
-#. * TRANSLATORS this is followed by "immovable" in the source string
-msgid "no"
-msgstr "não"
-
 msgid "Logic error"
 msgstr "erro lógico"
 
@@ -764,20 +778,15 @@ msgstr ""
 "devia criar tipo de recurso %s, que não existe no mundo; tribo não é "
 "compatível com este mundo"
 
-msgid "Out of Resources"
-msgstr ""
-
-msgid "Out of Fish"
-msgstr ""
-
-msgid "Out of Stone"
-msgstr ""
+#, c-format
+msgid "Out of %s"
+msgstr "Não há mais %s"
 
 #, c-format
-msgid ""
-"The worker of this building cannot find any more resources of the following "
-"type: %s"
+msgid "The worker of this building cannot find any more %s."
 msgstr ""
+"O trabalhador deste edifício já não consegue encontrar mais recursos do "
+"seguinte tipo: %s."
 
 msgid "A geologist found resources."
 msgstr "Um geólogo encontrou recursos."
@@ -863,6 +872,22 @@ msgstr ""
 
 msgid "Invalid message type"
 msgstr "tipo de mensagem inválida"
+
+#, c-format
+msgid "The game %s is now available"
+msgstr "O jogo %s está pronto"
+
+#, c-format
+msgid "The game %s has been closed"
+msgstr "O jogo %s terminou"
+
+#, c-format
+msgid "%s joined the lobby"
+msgstr "%s entrou no jogo"
+
+#, c-format
+msgid "%s left the lobby"
+msgstr "%s saiu do jogo"
 
 msgid "Chat message could not be sent. "
 msgstr "Mensagem instantânea não pode ser enviada. "
@@ -1021,12 +1046,12 @@ msgid "You can not kick the dedicated server"
 msgstr "Não podes expulsar o próprio servidor"
 
 #, c-format
-msgid "Are you sure you want to kick %s?<br>"
-msgstr "Tens a certeza que queres expulsar o %s?<br>"
+msgid "Are you sure you want to kick %s?"
+msgstr "Tens a certeza que queres expulsar o %s?"
 
 #, c-format
-msgid "The stated reason was: %s<br>"
-msgstr "A razão disto foi : %s<br>"
+msgid "The stated reason was: %s"
+msgstr "A razão disto foi : %s"
 
 #, c-format
 msgid "If yes, type: /ack_kick %s"
@@ -1270,6 +1295,16 @@ msgid ""
 "%2$s."
 msgstr ""
 
+msgid "End of replay"
+msgstr "Fim da repetição"
+
+msgid ""
+"The end of the replay has been reached and the game has been paused. You may "
+"unpause the game and continue watching if you want to."
+msgstr ""
+"A repetição acabou e o jogo foi pausado. Podes tirar o jogo da pausa e "
+"continuar a vê-la se quiseres."
+
 msgid "Bluebyte Settlers II Map. No comment defined!"
 msgstr "Mapa Bluebyte Settlers II. Sem comentário definido!"
 
@@ -1381,6 +1416,18 @@ msgstr "Junta-te a este jogo"
 msgid "Open a new game"
 msgstr "Abrir novo jogo"
 
+msgid "User Status"
+msgstr "Estado do Jogador"
+
+msgid "Registered"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Unregistered"
+msgstr ""
+
 msgid "Name"
 msgstr "Nome"
 
@@ -1405,6 +1452,7 @@ msgstr ""
 msgid "Press ESC or click to continue ..."
 msgstr "Pressiona ESC ou clique para continuar..."
 
+#. * TRANSLATORS: Dialog box title for selecting between map or saved game for new multiplayer game
 msgid "Please select"
 msgstr "Por favor selecciona"
 
@@ -1900,9 +1948,6 @@ msgstr ""
 msgid "DejaVuSerif (Default)"
 msgstr "DejaVuSerif (predefinição)"
 
-msgid "Single Player Menu"
-msgstr "Menu jogador Individual"
-
 msgid "New Game"
 msgstr "Novo jogo"
 
@@ -1963,14 +2008,6 @@ msgid ""
 msgstr ""
 
 msgid "                      Default is ~/.widelands"
-msgstr ""
-
-msgid ""
-" --record=FILENAME    Record all events to the given filename for\n"
-"                      later playback"
-msgstr ""
-
-msgid " --playback=FILENAME  Playback given filename (see --record)"
 msgstr ""
 
 msgid ""
@@ -2145,16 +2182,6 @@ msgstr ""
 msgid "The address of the game server is invalid"
 msgstr "O endereço do servidor do jogo é inválido."
 
-msgid "End of replay"
-msgstr "Fim da repetição"
-
-msgid ""
-"The end of the replay has been reached and the game has been paused. You may "
-"unpause the game and continue watching if you want to."
-msgstr ""
-"A repetição acabou e o jogo foi pausado. Podes tirar o jogo da pausa e "
-"continuar a vê-la se quiseres."
-
 msgid "Destroy building?"
 msgstr "Destruir edifício ?"
 
@@ -2221,17 +2248,14 @@ msgstr ""
 msgid "Jump to unproductive"
 msgstr ""
 
-msgid "Size"
-msgstr "Tamanho"
+msgid "Type"
+msgstr "Tipo"
 
 msgid "Prod"
 msgstr "Prod"
 
 msgid "Owned"
 msgstr "Propriedade"
-
-msgid "Build"
-msgstr "Construir"
 
 msgid "Show previous"
 msgstr "Mostrar anterior"
@@ -2294,7 +2318,7 @@ msgstr "Tipo(s) de mercadoria(s) consumida(s)"
 msgid "Quantity"
 msgstr "Quantidade"
 
-#. * TRANSLATORS: List or wares, e.g. "Fish or Meat"
+#. * TRANSLATORS: List of wares, e.g. "Fish or Meat"
 msgid " or "
 msgstr " ou "
 
@@ -2367,8 +2391,8 @@ msgstr "Cancelar estrada"
 msgid "Build roads"
 msgstr "Construir estradas"
 
-msgid "Chat Menu"
-msgstr "Menu de conversa"
+msgid "Chat"
+msgstr "Sala de conversa"
 
 msgid "Debug Field"
 msgstr "Campo de depuração"
@@ -2389,13 +2413,20 @@ msgid "Game Time:"
 msgstr ""
 
 msgid "Win condition:"
-msgstr ""
+msgstr "Condição de vitória: "
 
+# does that '%i'refer to a number or name?
+#, c-format
+msgid "%i player"
+msgid_plural "%i players"
+msgstr[0] "%i jogador"
+msgstr[1] "%i jogadores"
+
+#. * TRANSLATORS: This is preceded by a number
 msgid "player"
-msgstr "jogador"
-
-msgid "players"
-msgstr "Jogadores"
+msgid_plural "players"
+msgstr[0] "jogador"
+msgstr[1] "jogadores"
 
 msgid ""
 "Game Saving Error!\n"
@@ -2404,8 +2435,8 @@ msgid ""
 "Reason given:\n"
 msgstr ""
 
-msgid "Save Game Error!!"
-msgstr "Erro ao guardar o jogo !"
+msgid "Save Game Error!"
+msgstr "Erro ao guardar o jogo!"
 
 msgid "File deletion"
 msgstr "Apagar ficheiro"
@@ -2414,8 +2445,8 @@ msgstr "Apagar ficheiro"
 msgid "Do you really want to delete the file %s?"
 msgstr "Queres mesmo apagar o ficheiro %s?"
 
-msgid "Message Menu: Inbox"
-msgstr "Menu Mensagem: Recebidas"
+msgid "Messages: Inbox"
+msgstr "Caixa de Correio: Recebidas"
 
 msgid "Select"
 msgstr "Selecciona"
@@ -2450,8 +2481,8 @@ msgstr "Arquivo"
 msgid "center main mapview on location"
 msgstr "centrar vista no mapa no local"
 
-msgid "Message Menu: Archive"
-msgstr "Menu Mensagens : Arquivo"
+msgid "Messages: Archive"
+msgstr "Caixa de Correio : Arquivo"
 
 msgid "Restore selected messages"
 msgstr "Restaurar as mensagens selecionadas"
@@ -2459,8 +2490,8 @@ msgstr "Restaurar as mensagens selecionadas"
 msgid "Show Inbox"
 msgstr "Correio"
 
-msgid "Objectives Menu"
-msgstr "Menu de objectivos"
+msgid "Objectives"
+msgstr "Objectivos"
 
 msgid "Claim Victory"
 msgstr "Reivindica Vitória!"
@@ -2568,11 +2599,6 @@ msgstr "Edificação civil perdida"
 msgid "Military"
 msgstr "Militar"
 
-#. * TRANSLATORS: Game speed, e.g. 2.5x
-#, c-format
-msgid "%1$u.%2$ux"
-msgstr ""
-
 msgid "PAUSE"
 msgstr "PAUSA"
 
@@ -2584,14 +2610,8 @@ msgstr ""
 msgid "NO GAME CONTROLLER"
 msgstr "NENHUM CONTROLADOR DE JOGO"
 
-msgid "Chat"
-msgstr "Sala de conversa"
-
 msgid "Statistics"
 msgstr "Estatísticas"
-
-msgid "Objectives"
-msgstr "Objectivos"
 
 msgid "Messages"
 msgstr "Mensagens"
@@ -2668,7 +2688,7 @@ msgstr "Partilhado"
 msgid "Computer"
 msgstr "Computador"
 
-#. * TRANSLATORS %s = AI type, e.g. "Agressive"
+#. * TRANSLATORS %s = AI type, e.g. 'Agressive'
 #, c-format
 msgid "AI: %s"
 msgstr ""
@@ -2688,9 +2708,6 @@ msgstr "Tipo de jogador"
 msgid "Start"
 msgstr "Início"
 
-msgid "Type"
-msgstr "Tipo"
-
 msgid "Tribe"
 msgstr "Tribo"
 
@@ -2698,7 +2715,7 @@ msgid "Initialization"
 msgstr "Inicialização"
 
 msgid "AI: Random"
-msgstr ""
+msgstr "IA: Aleatório"
 
 msgid "d"
 msgstr "d"
@@ -2714,8 +2731,8 @@ msgstr "partida"
 
 msgid "Worker"
 msgid_plural "Workers"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Trabalhador"
+msgstr[1] "Trabalhadores"
 
 msgid "Exp"
 msgstr "Exp"
@@ -2877,4 +2894,7 @@ msgid "Follow"
 msgstr "Segue"
 
 msgid "Center the main view on this"
+msgstr ""
+
+msgid "Script console"
 msgstr ""
