@@ -3,26 +3,23 @@ Portuguese translation files for « Widelands »
 
 Statistics:
 
- » PT                               —   2750/    0/  3534 ( 77%) -797
- * win_conditions                   —     53/    0/    53 (100%) -0
- * texts                            —    160/    0/   160 (100%) -0
- * scenario_t03                     —     90/    0/    90 (100%) -0
- * scenario_t01                     —     71/    0/    71 (100%) -0
- * scenario_emp02                   —     90/    0/    90 (100%) -0
- * scenario_emp01                   —     75/    0/    75 (100%) -0
- * together_we_re_strong            —      7/    0/     7 (100%) -0
- * mp_scenario_smugglers            —     19/    0/    19 (100%) -0
- * map_plateau                      —     29/    0/    29 (100%) -0
- * world_desert                     —     56/    0/    57 ( 98%) -2
- * scenario_t02                     —    118/    0/   123 ( 95%) -6
- * mp_scenario_island_hopping       —     43/    0/    45 ( 95%) -3
- * scenario_tutorial01              —    181/    0/   195 ( 92%) -15
- * maps                             —    117/    0/   136 ( 86%) -20
- * scenario_atl01                   —    128/    0/   151 ( 84%) -24
- * tribe_atlanteans                 —    267/    0/   338 ( 78%) -72
- * widelands                        —    645/    0/   828 ( 77%) -184
- * tribe_empire                     —    259/    0/   343 ( 75%) -85
- * world_blackland                  —     48/    0/    72 ( 66%) -25
- * world_winterland                 —     46/    0/    79 ( 58%) -34
- * world_greenland                  —     42/    0/    81 ( 51%) -40
- * tribe_barbarians                 —    206/    0/   492 ( 41%) -287
+ » PT                             —   2453/    0/  3527 ( 69%) -1088
+ * win_conditions                 —     53/    0/    53 (100%) -0
+ * scenario_emp01.wmf             —     75/    0/    75 (100%) -0
+ * o_together_we_re_strong.wmf.po —      7/    0/     7 (100%) -0
+ * mp_scenario_smugglers.wmf      —     19/    0/    19 (100%) -0
+ * map_plateau.wmf                —     27/    0/    27 (100%) -0
+ * texts                          —    155/    0/   157 ( 98%) -3
+ * scenario_t01.wmf               —     70/    0/    71 ( 98%) -2
+ * scenario_emp02.wmf             —     87/    0/    89 ( 97%) -3
+ * scenario_island_hopping.wmf.po —     43/    0/    45 ( 95%) -3
+ * scenario_tutorial01.wmf        —    180/    0/   195 ( 92%) -16
+ * scenario_t03.wmf               —     87/    0/    95 ( 91%) -9
+ * scenario_t02.wmf               —    113/    0/   127 ( 88%) -15
+ * maps                           —    117/    0/   135 ( 86%) -19
+ * scenario_atl01.wmf             —    113/    0/   142 ( 79%) -30
+ * widelands                      —    623/    0/   813 ( 76%) -191
+ * tribe_atlanteans               —    220/    0/   393 ( 55%) -174
+ * tribe_empire                   —    224/    0/   414 ( 54%) -191
+ * world                          —     78/    0/   199 ( 39%) -122
+ * tribe_barbarians               —    162/    0/   471 ( 34%) -310
