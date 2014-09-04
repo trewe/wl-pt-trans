@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: widelands\n"
+"Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
+"POT-Creation-Date: 2014-08-05 09:15+0000\n"
+"PO-Revision-Date: 2014-07-12 11:02+0000\n"
+"Last-Translator: GunChleoc <Unknown>\n"
+"Language-Team: Portuguese <pt@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-08-06 05:55+0000\n"
+"X-Generator: Launchpad (build 17147)\n"
+"Language: pt\n"
+
+msgid "Badger"
+msgstr "Texugo"
+
+msgid "Brown bear"
+msgstr ""
+
+msgid "Bunny"
+msgstr "Coelho"
+
+msgid "Chamois"
+msgstr "Capricórnio"
+
+msgid "Deer"
+msgstr "Veado"
+
+msgid "Duck"
+msgstr "Pato"
+
+msgid "Elk"
+msgstr "Alce"
+
+msgid "Fox"
+msgstr "Raposa"
+
+msgid "Lynx"
+msgstr "Lince"
+
+msgid "Marten"
+msgstr "Marta"
+
+msgid "Reindeer"
+msgstr "Rena"
+
+msgid "Sheep"
+msgstr "Ovelha"
+
+msgid "Stag"
+msgstr ""
+
+msgid "Wild boar"
+msgstr ""
+
+msgid "Wisent"
+msgstr "Bisonte"
+
+msgid "Wolf"
+msgstr "Lobo"
+
+msgid "Bush"
+msgstr "Arbusto"
+
+msgid "Cactus"
+msgstr "Cacto"
+
+msgid "Grass"
+msgstr "Relva"
+
+msgid "Ruin"
+msgstr ""
+
+msgid "Debris"
+msgstr ""
+
+msgid "Snowman"
+msgstr "Boneco de neve"
+
+msgid "Mushroom"
+msgstr "Cogumelos"
+
+msgid "Pebble"
+msgstr "Seixo"
+
+msgid "Skeleton"
+msgstr "Esqueleto"
+
+msgid "Seashell"
+msgstr ""
+
+msgid "Standing Stone"
+msgstr ""
+
+msgid "Stones 1"
+msgstr ""
+
+msgid "Stones 2"
+msgstr ""
+
+msgid "Stones 3"
+msgstr ""
+
+msgid "Stones 4"
+msgstr ""
+
+msgid "Stones 5"
+msgstr ""
+
+msgid "Stones 6"
+msgstr ""
+
+msgid "Track"
+msgstr "Trilho"
+
+msgid "Alder (Sapling)"
+msgstr ""
+
+msgid "Alder (Pole)"
+msgstr ""
+
+msgid "Alder (Mature)"
+msgstr ""
+
+msgid "Alder (Old)"
+msgstr ""
+
+msgid "Aspen (Sapling)"
+msgstr ""
+
+msgid "Aspen (Pole)"
+msgstr ""
+
+msgid "Aspen (Mature)"
+msgstr ""
+
+msgid "Aspen (Old)"
+msgstr ""
+
+msgid "Beech (Sapling)"
+msgstr ""
+
+msgid "Beech (Pole)"
+msgstr ""
+
+msgid "Beech (Mature)"
+msgstr ""
+
+msgid "Beech (Old)"
+msgstr ""
+
+msgid "Birch (Sapling)"
+msgstr ""
+
+msgid "Birch (Pole)"
+msgstr ""
+
+msgid "Birch (Mature)"
+msgstr ""
+
+msgid "Birch (Old)"
+msgstr ""
+
+msgid "Cirrus Tree (Sapling)"
+msgstr ""
+
+msgid "Cirrus Tree (Pole)"
+msgstr ""
+
+msgid "Cirrus Tree (Mature)"
+msgstr ""
+
+msgid "Cirrus Tree (Old)"
+msgstr ""
+
+msgid "Dead Tree"
+msgstr "Árvore Morta"
+
+msgid "Fallen Tree"
+msgstr "Árvore Caída"
+
+msgid "Larch (Sapling)"
+msgstr "Rebento de cedro"
+
+msgid "Larch (Pole)"
+msgstr "Cedro pequeno"
+
+msgid "Larch (Mature)"
+msgstr "Cedro crescido"
+
+msgid "Larch (Old)"
+msgstr "Cedro antigo"
+
+msgid "Liana Tree (Sapling)"
+msgstr ""
+
+msgid "Liana Tree (Pole)"
+msgstr ""
+
+msgid "Liana Tree (Mature)"
+msgstr ""
+
+msgid "Liana Tree (Old)"
+msgstr ""
+
+msgid "Maple (Sapling)"
+msgstr ""
+
+msgid "Maple (Pole)"
+msgstr ""
+
+msgid "Maple (Mature)"
+msgstr ""
+
+msgid "Maple (Old)"
+msgstr ""
+
+msgid "Dark Mushroom Tree (Sapling)"
+msgstr ""
+
+msgid "Dark Mushroom Tree (Pole)"
+msgstr ""
+
+msgid "Dark Mushroom Tree (Mature)"
+msgstr ""
+
+msgid "Dark Mushroom Tree (Old)"
+msgstr ""
+
+msgid "Green Mushroom Tree (Sapling)"
+msgstr ""
+
+msgid "Green Mushroom Tree (Pole)"
+msgstr ""
+
+msgid "Green Mushroom Tree (Mature)"
+msgstr ""
+
+msgid "Green Mushroom Tree (Old)"
+msgstr ""
+
+msgid "Red Mushroom Tree (Sapling)"
+msgstr ""
+
+msgid "Red Mushroom Tree (Pole)"
+msgstr ""
+
+msgid "Red Mushroom Tree (Mature)"
+msgstr ""
+
+msgid "Red Mushroom Tree (Old)"
+msgstr ""
+
+msgid "Oak (Sapling)"
+msgstr "Carvalho (rebento)"
+
+msgid "Oak (Pole)"
+msgstr "Carvalho (jovem)"
+
+msgid "Oak (Mature)"
+msgstr "Carvalho (crescido)"
+
+msgid "Oak (Old)"
+msgstr "Carvalho (Antigo)"
+
+msgid "Borassus Palm (Sapling)"
+msgstr ""
+
+msgid "Borassus Palm (Pole)"
+msgstr ""
+
+msgid "Borassus Palm (Mature)"
+msgstr ""
+
+msgid "Borassus Palm (Old)"
+msgstr ""
+
+msgid "Coconut Palm (Sapling)"
+msgstr ""
+
+msgid "Coconut Palm (Pole)"
+msgstr ""
+
+msgid "Coconut Palm (Mature)"
+msgstr ""
+
+msgid "Coconut Palm (Old)"
+msgstr ""
+
+msgid "Date Palm (Sapling)"
+msgstr ""
+
+msgid "Date Palm (Pole)"
+msgstr ""
+
+msgid "Date Palm (Mature)"
+msgstr ""
+
+msgid "Date Palm (Old)"
+msgstr ""
+
+msgid "Oil Palm (Sapling)"
+msgstr ""
+
+msgid "Oil Palm (Pole)"
+msgstr ""
+
+msgid "Oil Palm (Mature)"
+msgstr ""
+
+msgid "Oil Palm (Old)"
+msgstr ""
+
+msgid "Roystonea regia Palm (Sapling)"
+msgstr ""
+
+msgid "Roystonea regia Palm (Pole)"
+msgstr ""
+
+msgid "Roystonea regia Palm (Mature)"
+msgstr ""
+
+msgid "Roystonea regia Palm (Old)"
+msgstr ""
+
+msgid "Rowan (Sapling)"
+msgstr "Rebento da sorva"
+
+msgid "Rowan (Pole)"
+msgstr "Sorva pequena"
+
+msgid "Rowan (Mature)"
+msgstr "Sorva crescida"
+
+msgid "Rowan (Old)"
+msgstr "Sorva antiga"
+
+msgid "Spruce (Sapling)"
+msgstr ""
+
+msgid "Spruce (Pole)"
+msgstr ""
+
+msgid "Spruce (Mature)"
+msgstr ""
+
+msgid "Spruce (Old)"
+msgstr ""
+
+msgid "Twine Tree (Sapling)"
+msgstr ""
+
+msgid "Twine Tree (Pole)"
+msgstr ""
+
+msgid "Twine Tree (Mature)"
+msgstr ""
+
+msgid "Twine Tree (Old)"
+msgstr ""
+
+msgid "Green Umbrella Tree (Sapling)"
+msgstr ""
+
+msgid "Green Umbrella Tree (Pole)"
+msgstr ""
+
+msgid "Green Umbrella Tree (Mature)"
+msgstr ""
+
+msgid "Green Umbrella Tree (Old)"
+msgstr ""
+
+msgid "Red Umbrella Tree (Sapling)"
+msgstr ""
+
+msgid "Red Umbrella Tree (Pole)"
+msgstr ""
+
+msgid "Red Umbrella Tree (Mature)"
+msgstr ""
+
+msgid "Red Umbrella Tree (Old)"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Plants"
+msgstr ""
+
+msgid "Standing Stones"
+msgstr "Obeliscos"
+
+msgid "Stones"
+msgstr "Pedras"
+
+msgid "Coniferous Trees"
+msgstr ""
+
+msgid "Dead Trees"
+msgstr ""
+
+msgid "Deciduous Trees"
+msgstr ""
+
+msgid "Palm Trees"
+msgstr ""
+
+msgid "Wasteland Trees"
+msgstr ""
+
+msgid "Coal"
+msgstr "Carvão"
+
+msgid "Gold"
+msgstr "Ouro"
+
+msgid "Iron"
+msgstr "Ferro"
+
+msgid "Granite"
+msgstr "Granito"
+
+msgid "Water"
+msgstr "Água"
+
+msgid "Fish"
+msgstr "Peixe"
+
+msgid "Summer"
+msgstr "Verão"
+
+msgid "Wasteland"
+msgstr ""
+
+msgid "Winter"
+msgstr "Inverno"
+
+msgid "Desert"
+msgstr "Deserto"
+
+msgid "Meadow 1"
+msgstr ""
+
+msgid "Meadow 2"
+msgstr ""
+
+msgid "Meadow 3"
+msgstr ""
+
+msgid "Meadow 4"
+msgstr ""
+
+msgid "Steppe"
+msgstr "Estepe"
+
+msgid "Barren Steppe"
+msgstr ""
+
+msgid "Mountain Meadow"
+msgstr "Planalto"
+
+msgid "Mountain 1"
+msgstr "Montanha 1"
+
+msgid "Mountain 2"
+msgstr "Montanha 2"
+
+msgid "Mountain 3"
+msgstr "Montanha 3"
+
+msgid "Mountain 4"
+msgstr "Montanha 4"
+
+msgid "Swamp"
+msgstr "Pântano"
+
+msgid "Beach"
+msgstr "Praia"
+
+msgid "Snow"
+msgstr "Neve"
+
+msgid "Lava"
+msgstr "Lava"
+
+msgid "Ashes"
+msgstr "Cinzas"
+
+msgid "Ashes 2"
+msgstr "Cinzas 2"
+
+msgid "Hard Ground 1"
+msgstr "Terreno Rochoso 1"
+
+msgid "Hard Ground 2"
+msgstr "Terreno Rochoso 2"
+
+msgid "Hard Ground 3"
+msgstr "Terreno Rochoso 3"
+
+msgid "Hard Ground 4"
+msgstr "Terreno Rochoso 4"
+
+msgid "Igneous Rocks"
+msgstr "Rochas Flamejantes"
+
+msgid "Beach (Wasteland)"
+msgstr ""
+
+msgid "Lava Rocks 1"
+msgstr "Pedra vulcânica 1"
+
+msgid "Lava Rocks 2"
+msgstr "Pedra vulcânica 2"
+
+msgid "Water (Wasteland)"
+msgstr ""
+
+msgid "Tundra"
+msgstr "Tundra"
+
+msgid "Tundra 2"
+msgstr "Tundra 2"
+
+msgid "Tundra 3"
+msgstr "Tundra 3"
+
+msgid "Tundra Taiga"
+msgstr ""
+
+msgid "Taiga"
+msgstr "Taiga"
+
+msgid "Mountain 1 (Winter)"
+msgstr ""
+
+msgid "Mountain 2 (Winter)"
+msgstr ""
+
+msgid "Mountain 3 (Winter)"
+msgstr ""
+
+msgid "Mountain 4 (Winter)"
+msgstr ""
+
+msgid "Ice"
+msgstr "Gelo"
+
+msgid "Beach (Winter)"
+msgstr ""
+
+msgid "Ice Floes"
+msgstr "Glaciar"
+
+msgid "Ice Floes 2"
+msgstr "Glaciar 2"
+
+msgid "Water (Winter)"
+msgstr ""
+
+msgid "Desert 4"
+msgstr "Deserto 4"
+
+msgid "Dry Soil"
+msgstr "Terra Seca"
+
+msgid "Steppe (Desert)"
+msgstr ""
+
+msgid "Meadow (Desert)"
+msgstr ""
+
+msgid "Mountain Meadow (Desert)"
+msgstr ""
+
+msgid "High Mountain Meadow (Desert)"
+msgstr ""
+
+msgid "Mountain 1 (Desert)"
+msgstr ""
+
+msgid "Mountain 2 (Desert)"
+msgstr ""
+
+msgid "Mountain 3 (Desert)"
+msgstr ""
+
+msgid "Mountain 4 (Desert)"
+msgstr ""
+
+msgid "Desert 1"
+msgstr "Deserto 1"
+
+msgid "Desert 2"
+msgstr "Deserto 2"
+
+msgid "Desert 3"
+msgstr "Deserto 3"
+
+msgid "Beach (Desert)"
+msgstr ""
+
+msgid "Water (Desert)"
+msgstr ""

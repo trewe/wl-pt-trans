@@ -1,20 +1,19 @@
-# European Portuguese Translation for Widelands
-# Copyright (©) the Widelands Development Team
-# trewe <sjrs456@yahoo.fr>, 2014
 # GunChleoc <fios@foramnagaidhlig.net>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: widelands\n"
-"Report-Msgid-Bugs-To: https://bugs.launchpad.net/widelands\n"
-"POT-Creation-Date: 2014-03-30 14:10+0000\n"
-"PO-Revision-Date: 2014-03-11 10:09+0000\n"
-"Last-Translator: GunChleoc <Unknown>\n"
+"Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
+"POT-Creation-Date: 2014-08-05 11:10+0000\n"
+"PO-Revision-Date: 2014-07-27 17:00+0000\n"
+"Last-Translator: SirVer <Unknown>\n"
 "Language-Team: Widelands fixxer upper\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n !=1)\n"
-"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2014-08-06 05:47+0000\n"
+"X-Generator: Launchpad (build 17147)\n"
+"Language: pt\n"
 
 msgid "Your barracks discovered an aggressor."
 msgstr ""
@@ -177,24 +176,16 @@ msgid ""
 "equipped with it."
 msgstr ""
 
-msgid "Produce ax"
+msgid "forging an ax"
 msgstr ""
 
-msgid "Produce sharp ax"
+msgid "forging a sharp ax"
 msgstr ""
 
-msgid "Produce broad ax"
+msgid "forging a broad ax"
 msgstr ""
 
-msgid "Work"
-msgstr "Trabalho"
-
-msgid "Lore"
-msgstr "História"
-
-msgid ""
-"‘A new Warrior’s Ax brings forth the best in its wielder – or the worst in "
-"its maker.’"
+msgid "working"
 msgstr ""
 
 msgid ""
@@ -202,152 +193,29 @@ msgid ""
 "sometimes."
 msgstr ""
 
-msgid "General"
-msgstr "Geral"
+msgid ""
+"‘A new warrior’s ax brings forth the best in its wielder – or the worst in "
+"its maker.’"
+msgstr ""
 
-msgid "Purpose:"
-msgstr "Propósito:"
+msgid "Produces axes, sharp axes and broad axes."
+msgstr ""
 
 msgid ""
-"The Barbarian Axfactory is the intermediate production site in a series of "
-"three buildings. It is an upgrade from the Metal Workshop but doesn’t "
+"The barbarian axfactory is the intermediate production site in a series of "
+"three buildings. It is an upgrade from the metal workshop but doesn’t "
 "require additional qualification for the worker."
 msgstr ""
 
-msgid "It can make axes, Sharp axes and Broad axes."
-msgstr ""
-
-msgid "Working radius:"
-msgstr "Alcance dos trabalhadores:"
-
-msgid "Conquer range:"
-msgstr ""
-
-msgid "Vision range:"
-msgstr "Alcance da visão:"
-
-msgid "Dependencies"
-msgstr "Dependências"
-
-msgid "Incoming:"
-msgstr "Rendimento:"
-
-msgid "%s from the Smelting Works"
-msgstr "%s dos trabalhos da fundição"
-
-msgid "Iron"
-msgstr "Ferro"
-
-msgid "%s from the Coal mine or the Charcoal Burner’s House"
-msgstr ""
-
-msgid "Coal"
-msgstr "Carvão"
-
-msgid "Outgoing:"
-msgstr ""
-
-msgid "Soldier"
-msgstr "Guerreiro"
-
-msgid "Training Camp"
-msgstr ""
-
-msgid "Building"
-msgstr "Construindo"
-
-msgid "Medium plot"
-msgstr ""
-
-msgid "Space required:"
-msgstr ""
-
-msgid "Metal Workshop"
-msgstr ""
-
-msgid "Upgraded from:"
-msgstr ""
-
-msgid "Upgrade cost:"
-msgstr ""
-
-msgid "%i Blackwood"
-msgid_plural "%i Blackwood"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "%i Thatch Reed"
-msgid_plural "%i Thatch Reeds"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "%i Grout"
-msgid_plural "%i Grout"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "%i Raw Stone"
-msgid_plural "%i Raw Stones"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "%i Log"
-msgid_plural "%i Logs"
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Cost cumulative:"
-msgstr ""
-
-msgid "Dismantle yields:"
-msgstr ""
-
-msgid "Upgradeable to:"
-msgstr ""
-
-msgid "War Mill"
-msgstr "Fábrica de guerra"
-
-msgid "Workers"
-msgstr "Trabalhadores"
-
-msgid "Crew required:"
-msgstr ""
-
-msgid "%s or better"
-msgstr ""
-
-msgid "Blacksmith"
-msgstr "Ferreiro"
-
-msgid "Hammer"
-msgstr "Martelo"
-
-msgid "Worker uses:"
-msgstr "Uso do trabalhador:"
-
-msgid "Experience levels:"
-msgstr "Níveis experimentais:"
-
-msgid "%s to %s (%s EP)"
-msgstr ""
-
-msgid "Master Blacksmith"
-msgstr "Mestre Ferreiro"
-
-msgid "Production"
-msgstr "Produção"
-
 msgid ""
-"If all needed wares are delivered in time, this building can produce %1$s in "
-"about %2$s on average."
+"If all needed wares are delivered in time, this building can produce each "
+"type of ax in about %s on average."
 msgstr ""
 
-msgid "Performance:"
-msgstr "Desempenho:"
-
-msgid "each item"
-msgstr "cada item"
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid ""
 "All three weapons take the same time for making, but the required raw "
@@ -357,76 +225,49 @@ msgstr ""
 msgid "Bakes bread for workers."
 msgstr "Coze o pão para os trabalhadores."
 
-msgid "Text needed"
-msgstr ""
-
 msgid "Source needed"
 msgstr ""
 
-msgid "Bake Pitta Bread for Soldiers and Miners alike."
+msgid "Text needed"
 msgstr ""
 
-msgid "Wheat from the Farm"
-msgstr "Trigo das quintas"
-
-msgid "Water from the Well"
-msgstr "Água do poço"
-
-msgid "Pitta Bread"
-msgstr "Pão pita"
-
-msgid "Tavern"
-msgstr "Taverna"
-
-msgid "Inn"
-msgstr "Hospedaria"
-
-msgid "Big Inn"
-msgstr "Estalagem"
-
-msgid "Battle Arena"
-msgstr "Arena de combate"
-
-msgid "Build cost:"
+msgid "Bakes pitta bread for soldiers and miners alike."
 msgstr ""
-
-msgid "Baker"
-msgstr "Padeiro"
-
-msgid "Bread Paddle"
-msgstr "Asse pão"
 
 msgid ""
-"If all needed wares are delivered in time, this building can produce %1$s in "
-"%2$s on average."
-msgstr ""
-
-msgid "a Pitta Bread"
+"If all needed wares are delivered in time, this building can produce a pitta "
+"bread in %s on average."
 msgstr ""
 
 msgid "Your soldiers have occupied your barrier."
 msgstr ""
 
-msgid "The help text of this building is under construction."
+msgid "Garrisons soldiers to expand your territory."
 msgstr ""
 
-msgid "Sleep"
-msgstr "Hibernação"
-
-msgid "Upgrade soldier evade from level 0 to level 1"
+msgid ""
+"If you’re low on soldiers to occupy new military sites, use the downward "
+"arrow button to decrease the capacity. You can also click on a soldier to "
+"send him away."
 msgstr ""
 
-msgid "Upgrade soldier evade from level 1 to level 2"
+msgid "sleeping"
+msgstr ""
+
+msgid "upgrading soldier evade from level 0 to level 1"
+msgstr ""
+
+msgid "upgrading soldier evade from level 1 to level 2"
+msgstr ""
+
+msgid "Said to originate from Neidhardt, the famous trainer."
 msgstr ""
 
 msgid ""
 "‘No better friend you have in battle than the enemy’s blow that misses.’"
 msgstr ""
 
-msgid "Said to originate from Neidhardt, the famous trainer."
-msgstr ""
-
-msgid "Trains soldiers in Evade up to level 2."
+msgid "Trains soldiers in ‘Evade’."
 msgstr ""
 
 msgid ""
@@ -434,45 +275,26 @@ msgid ""
 "remain totally unaffected."
 msgstr ""
 
+msgid ""
+"Barbarian soldiers cannot be trained in ‘Defense’ and will remain at the "
+"level with which they came."
+msgstr ""
+
+#
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 26
+# File: ../../tribes/barbarians/battlearena/help.lua, line: 26
 msgid "Evade Training:"
 msgstr "Treino de Evasão:"
 
-msgid "%s and"
+msgid ""
+"If all needed wares are delivered in time, a battle arena can train evade "
+"for one soldier from 0 to the highest level in %1$s and %2$s on average."
 msgstr ""
 
-msgid "Strong Beer"
-msgstr "Cerveja forte"
-
-msgid "%s or %s"
-msgstr ""
-
-msgid "Fish"
-msgstr "Peixe"
-
-msgid "Meat"
-msgstr "Carne"
-
-msgid "Big plot"
-msgstr ""
-
-msgid "%i Gold"
-msgid_plural "%i Gold"
+msgid "%d minute"
+msgid_plural "%d minutes"
 msgstr[0] ""
 msgstr[1] ""
-
-msgid "Trainer"
-msgstr "Treinador"
-
-msgid "%1$im%2$is"
-msgstr ""
-
-msgid "Evade"
-msgstr "Evasão"
-
-msgid ""
-"If all needed wares are delivered in time, a Battle Arena can train %1$s for "
-"one soldier from 0 to the highest level in %2$s on average."
-msgstr ""
 
 msgid ""
 "This is a dangerous weapon the barbarians are able to produce. It is "
@@ -486,14 +308,17 @@ msgid ""
 "snacks."
 msgstr ""
 
-msgid "Produce ration"
-msgstr "Produz ração"
+msgid "preparing a ration"
+msgstr ""
 
-msgid "Produce snack"
-msgstr "Produce lanche"
+msgid "preparing a snack"
+msgstr ""
 
-msgid "Produce meal"
-msgstr "Produz refeição"
+msgid "preparing a meal"
+msgstr ""
+
+msgid "Calculation needed"
+msgstr ""
 
 msgid "Produces weapons for soldiers and tools for workers."
 msgstr "Produz armas para os guerreiros e ferramentas para os trabalhadores."
@@ -514,6 +339,9 @@ msgid "Produces the finest ales to keep warriors strong and happy in training."
 msgstr ""
 "Produs a melhor cerveja para manter os guerreiros fortes e felizes no treino."
 
+msgid "brewing"
+msgstr ""
+
 msgid ""
 "The broad ax is produced by the axfactory and the war mill. It is used in "
 "the training camp – together with food – to train warriors with a "
@@ -529,26 +357,25 @@ msgstr ""
 msgid "Works at construction sites to raise new buildings."
 msgstr "Trabalha nas obras de construção para construir as novas construções."
 
-msgid "Burns coal."
-msgstr "Queima carvão"
-
 msgid "Carries items along the roads."
 msgstr "Carrega itens pelas estradas."
 
 msgid "Breeds the strong oxen that help with transporting wares."
 msgstr ""
 
-msgid "Breed Oxen for adding them to the transportation system."
-msgstr "Cria os bois de carga que ajudam no transporte das mercadorias."
-
-msgid "Ox"
-msgstr "Boi"
-
-msgid "Cattle Breeder"
-msgstr "Criador de Bois"
-
-msgid "an Ox"
+msgid "rearing cattle"
 msgstr ""
+
+msgid "Breeds oxen for adding them to the transportation system."
+msgstr ""
+
+msgid ""
+"If all needed wares are delivered in time, this building can produce an ox "
+"in %s on average."
+msgstr ""
+
+msgid "Burns coal."
+msgstr "Queima carvão"
 
 msgid "Works deep in the mines to obtain coal, iron or gold."
 msgstr ""
@@ -563,73 +390,38 @@ msgstr ""
 
 msgid ""
 "The fires of the barbarians are usually fed with coal. It is produced in "
-"coal mines or out of logs in a charcoal burner’s house. Consumers are "
-"several buildings: lime kiln, smelting works, axfactory, war mill, and helm "
-"smithy."
+"coal mines or out of logs in a charcoal kiln. Consumers are several "
+"buildings: lime kiln, smelting works, axfactory, war mill, and helm smithy."
+msgstr ""
+
+msgid "mining"
+msgstr ""
+
+msgid "Main Coal Vein Exhausted"
+msgstr ""
+
+msgid ""
+"This coal mine’s main vein is exhausted. Expect strongly diminished returns "
+"on investment. You should consider enhancing, dismantling or destroying it."
 msgstr ""
 
 msgid ""
 "Ages ago, the Barbarians learned to delve into mountainsides for that black "
-"material that feeds their furnaces.<br>\n"
+"material that feeds their furnaces. <br>\n"
 "Wood may serve for a household fire and to keep you warm, but when it comes "
 "to working with iron or gold, there is no way around coal."
 msgstr ""
 
-msgid ""
-"A %1$s exploits only %2$s of the resource. From there on out, it will only "
-"have a 5%% chance of finding %3$s."
+msgid "Digs coal out of the ground in mountain terrain."
 msgstr ""
-
-msgid "Coal mine"
-msgstr "Mina de carvão"
-
-msgid "Dig %s out of the ground in mountain terrain."
-msgstr ""
-
-msgid "%s from a Tavern"
-msgstr ""
-
-msgid "Ration"
-msgstr "Ração"
-
-msgid "%s from an Inn"
-msgstr ""
-
-msgid "%s from a Big Inn"
-msgstr ""
-
-msgid "Axfactory"
-msgstr ""
-
-msgid "Helm Smithy"
-msgstr "Armador de Elmos"
-
-msgid "Smelting Works"
-msgstr "Fundição"
-
-msgid "Lime Kiln"
-msgstr "Forno de cal"
-
-msgid "Mine plot"
-msgstr ""
-
-msgid "Deep Coal Mine"
-msgstr "Mina de carvão funda"
-
-msgid "Miner"
-msgstr "Mineiro"
-
-msgid "Pick"
-msgstr "Picareta"
-
-msgid "Chief Miner"
-msgstr "Mineiro chefe"
-
-msgid "Master Miner"
-msgstr "Mestre Mineiro"
 
 msgid ""
-"If the food supply is steady, this mine can produce %1$s in %2$s on average."
+"This mine exploits only %s of the resource. From there on out, it will only "
+"have a 5%% chance of finding any coal."
+msgstr ""
+
+msgid ""
+"If the food supply is steady, this mine can produce coal in %s on average."
 msgstr ""
 
 msgid "The Widelands Development Team"
@@ -648,19 +440,19 @@ msgid "Destroyed building"
 msgstr "Edifício destruído"
 
 msgid "Field (medium)"
-msgstr ""
+msgstr "Campo médio"
 
 msgid "Field (small)"
-msgstr ""
+msgstr "Campo pequeno"
 
 msgid "Field (tiny)"
-msgstr ""
+msgstr "Campo muito pequeno"
 
 msgid "Field (ripe)"
-msgstr ""
+msgstr "Campo maduro"
 
 msgid "Field (harvested)"
-msgstr ""
+msgstr "Campo colhido"
 
 msgid "Reed (medium)"
 msgstr ""
@@ -707,14 +499,14 @@ msgstr "Indicador de recursos água"
 msgid "Ship Construction Site"
 msgstr "Construção do Navio"
 
-msgid "Deer"
-msgstr "Veado"
-
-msgid "Wild Boar"
-msgstr ""
-
 msgid "Ax"
 msgstr ""
+
+#
+# File: ../../tribes/barbarians/conf, line: 74
+# File: ../../tribes/barbarians/conf, line: 74
+msgid "Bread Paddle"
+msgstr "Asse pão"
 
 msgid "Battle Ax"
 msgstr ""
@@ -734,11 +526,17 @@ msgstr ""
 msgid "Cloth"
 msgstr "Tecido"
 
+msgid "Coal"
+msgstr "Carvão"
+
 msgid "Felling Ax"
 msgstr ""
 
 msgid "Fire Tongs"
 msgstr "Pinças de fogo"
+
+msgid "Fish"
+msgstr "Peixe"
 
 msgid "Fishing Rod"
 msgstr "Cana de pesca"
@@ -752,11 +550,17 @@ msgstr "Minério de Ouro"
 msgid "Grout"
 msgstr "Argamassa"
 
+msgid "Hammer"
+msgstr "Martelo"
+
 msgid "Helmet"
 msgstr "Elmo"
 
 msgid "Hunting Spear"
 msgstr "Lança de caça"
+
+msgid "Iron"
+msgstr "Ferro"
 
 msgid "Iron Ore"
 msgstr "Minério de ferro"
@@ -769,6 +573,18 @@ msgstr "Máscara"
 
 msgid "Meal"
 msgstr "Refeição"
+
+msgid "Meat"
+msgstr "Carne"
+
+msgid "Pick"
+msgstr "Picareta"
+
+msgid "Pitta Bread"
+msgstr "Pão pita"
+
+msgid "Ration"
+msgstr "Ração"
 
 msgid "Raw Stone"
 msgstr "Pedra bruta"
@@ -784,6 +600,9 @@ msgstr "Pá"
 
 msgid "Snack"
 msgstr "Lanche"
+
+msgid "Strong Beer"
+msgstr "Cerveja forte"
 
 msgid "Thatch Reed"
 msgstr "Colmo"
@@ -806,6 +625,21 @@ msgstr "Trigo"
 msgid "Carrier"
 msgstr "Carregador"
 
+msgid "Ox"
+msgstr "Boi"
+
+msgid "Soldier"
+msgstr "Guerreiro"
+
+msgid "Baker"
+msgstr "Padeiro"
+
+msgid "Master Blacksmith"
+msgstr "Mestre Ferreiro"
+
+msgid "Blacksmith"
+msgstr "Ferreiro"
+
 msgid "Master Brewer"
 msgstr "Mestre Cervejeiro"
 
@@ -815,8 +649,14 @@ msgstr "Cervejeiro"
 msgid "Builder"
 msgstr "Construtor"
 
-msgid "Burner"
-msgstr "Queimador"
+msgid "Charcoal Burner"
+msgstr "Carvoeiro"
+
+msgid "Master Miner"
+msgstr "Mestre Mineiro"
+
+msgid "Chief Miner"
+msgstr "Mineiro chefe"
 
 msgid "Farmer"
 msgstr "Agricultor"
@@ -848,9 +688,15 @@ msgstr "Queimador de cal"
 msgid "Lumberjack"
 msgstr "Lenhador"
 
+msgid "Miner"
+msgstr "Mineiro"
+
 msgid "Ranger"
 msgstr "Silvicultor"
 
+#
+# File: ../../tribes/barbarians/conf, line: 143
+# File: ../../tribes/barbarians/conf, line: 143
 msgid "Shipwright"
 msgstr "Construtor naval"
 
@@ -860,18 +706,30 @@ msgstr "Fundidor"
 msgid "Stonemason"
 msgstr "Pedreiro"
 
+msgid "Trainer"
+msgstr "Treinador"
+
 msgid "Weaver"
 msgstr "Tecelão"
 
 msgid "Scout"
 msgstr "Explorador"
 
+msgid "Cattle Breeder"
+msgstr "Criador de Bois"
+
+#
+# File: ../../tribes/barbarians/conf, line: 152
+# File: ../../tribes/barbarians/conf, line: 152
 msgid "Ship"
 msgstr "Navio"
 
 msgid "Construction Site"
 msgstr "Construção"
 
+#
+# File: ../../tribes/barbarians/conf, line: 158
+# File: ../../tribes/barbarians/conf, line: 158
 msgid "Dismantle Site"
 msgstr "Desmontar local"
 
@@ -905,6 +763,9 @@ msgstr "Barreira"
 msgid "Fortress"
 msgstr "Fortaleza"
 
+#
+# File: ../../tribes/barbarians/conf, line: 172
+# File: ../../tribes/barbarians/conf, line: 172
 msgid "Outpost"
 msgstr "Posto Avançado"
 
@@ -914,6 +775,9 @@ msgstr "Quartel-general"
 msgid "Warehouse"
 msgstr "Armazém"
 
+#
+# File: ../../tribes/barbarians/conf, line: 179
+# File: ../../tribes/barbarians/conf, line: 179
 msgid "Port"
 msgstr "Porto"
 
@@ -944,6 +808,9 @@ msgstr ""
 msgid "Wood Hardener"
 msgstr "Endurecedor de madeira"
 
+msgid "Lime Kiln"
+msgstr "Forno de cal"
+
 msgid "Reed Yard"
 msgstr ""
 
@@ -956,26 +823,65 @@ msgstr "Cervejeira"
 msgid "Micro Brewery"
 msgstr "Pequena cervejeira"
 
-msgid "Charcoal Burner’s House"
-msgstr "Casa do Carvoeiro"
+msgid "Big Inn"
+msgstr "Estalagem"
 
+msgid "Inn"
+msgstr "Hospedaria"
+
+#
+# File: ../../tribes/barbarians/bakery/help.lua, line: 27
+# File: ../../tribes/barbarians/conf, line: 198
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 29
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 29
+# File: ../../tribes/barbarians/bakery/help.lua, line: 27
+# File: ../../tribes/barbarians/conf, line: 198
+# File: ../../tribes/barbarians/fishers_hut/help.lua, line: 29
+# File: ../../tribes/barbarians/hunters_hut/help.lua, line: 29
+msgid "Tavern"
+msgstr "Taverna"
+
+msgid "Charcoal Kiln"
+msgstr ""
+
+msgid "Smelting Works"
+msgstr "Fundição"
+
+#
+# File: ../../tribes/barbarians/conf, line: 201
+# File: ../../tribes/barbarians/conf, line: 201
 msgid "Shipyard"
 msgstr "Estaleiro Naval"
+
+msgid "War Mill"
+msgstr "Fábrica de guerra"
+
+msgid "Axfactory"
+msgstr ""
+
+msgid "Metal Workshop"
+msgstr ""
 
 msgid "Cattle Farm"
 msgstr "Criação de Bois"
 
-msgid "Weaving-Mill"
+msgid "Weaving Mill"
 msgstr "Tecelagem"
 
 msgid "Farm"
 msgstr "Quinta"
+
+msgid "Helm Smithy"
+msgstr "Armador de Elmos"
 
 msgid "Granite Mine"
 msgstr "Mina de granito"
 
 msgid "Deeper Coal Mine"
 msgstr "Mina de carvão muito profunda"
+
+msgid "Deep Coal Mine"
+msgstr "Mina de carvão funda"
 
 msgid "Coal Mine"
 msgstr "Mina de carvão"
@@ -1004,25 +910,51 @@ msgstr "Cidadela"
 msgid "Donjon"
 msgstr "Torre de Menagem"
 
-msgid "Headquarters Medium"
-msgstr "Quartel-general médio"
+msgid "Battle Arena"
+msgstr "Arena de combate"
 
-msgid "Citadel Village"
-msgstr "Aldeia da Cidadela"
+msgid "Training Camp"
+msgstr "Campo de treinos"
 
-msgid "Workers use:"
-msgstr "Uso dos trabalhadores:"
+msgid "Main Gold Vein Exhausted"
+msgstr ""
 
 msgid ""
-"‘Soft and supple.<br> And yet untouched by time and weather.<br> Rays of "
-"sun, wrought into eternity ...’"
+"This gold mine’s main vein is exhausted. Expect strongly diminished returns "
+"on investment. You should consider enhancing, dismantling or destroying it."
 msgstr ""
 
 msgid ""
 "Excerpt from ‘Our Treasures Underground’,<br> a traditional Barbarian song."
 msgstr ""
 
-msgid "%s always goes to the %s. It has no other use."
+msgid ""
+"‘Soft and supple.<br> And yet untouched by time and weather.<br> Rays of "
+"sun, wrought into eternity ...’"
+msgstr ""
+
+msgid "Digs gold ore out of the ground in mountain terrain."
+msgstr ""
+
+msgid ""
+"This mine exploits only %s of the resource. From there on out, it will only "
+"have a 5%% chance of finding any gold ore."
+msgstr ""
+
+msgid ""
+"If the food supply is steady, this mine can produce gold ore in %s on "
+"average."
+msgstr ""
+
+msgid "Main Iron Vein Exhausted"
+msgstr ""
+
+msgid ""
+"This iron mine’s main vein is exhausted. Expect strongly diminished returns "
+"on investment. You should consider enhancing, dismantling or destroying it."
+msgstr ""
+
+msgid "Quote from an anonymous miner."
 msgstr ""
 
 msgid ""
@@ -1030,35 +962,71 @@ msgid ""
 "important.’"
 msgstr ""
 
-msgid "Quote from an anonymous miner."
+msgid "Digs iron ore out of the ground in mountain terrain."
 msgstr ""
 
 msgid ""
-"If the food supply is steady, this mine can produce %s in %s on average."
+"This mine exploits only %s of the resource. From there on out, it will only "
+"have a 5%% chance of finding any iron ore."
 msgstr ""
 
 msgid ""
-"A %1$s exploits all of the resource down to the deepest level. But even "
-"after having done so, it will still have a %2$s chance of finding some more "
-"%3$s."
+"If the food supply is steady, this mine can produce iron ore in %s on "
+"average."
 msgstr ""
 
-msgid "%s or better and"
+msgid ""
+"This coal mine’s main vein is exhausted. Expect strongly diminished returns "
+"on investment. This mine can’t be enhanced any further, so you should "
+"consider dismantling or destroying it."
+msgstr ""
+
+msgid ""
+"This mine exploits all of the resource down to the deepest level. But even "
+"after having done so, it will still have a %s chance of finding some more "
+"coal."
+msgstr ""
+
+msgid ""
+"This gold mine’s main vein is exhausted. Expect strongly diminished returns "
+"on investment. This mine can’t be enhanced any further, so you should "
+"consider dismantling or destroying it."
+msgstr ""
+
+msgid ""
+"This mine exploits all of the resource down to the deepest level. But even "
+"after having done so, it will still have a %s chance of finding some more "
+"gold ore."
+msgstr ""
+
+msgid ""
+"This iron mine’s main vein is exhausted. Expect strongly diminished returns "
+"on investment. This mine can’t be enhanced any further, so you should "
+"consider dismantling or destroying it."
+msgstr ""
+
+msgid ""
+"This mine exploits all of the resource down to the deepest level. But even "
+"after having done so, it will still have a %s chance of finding some more "
+"iron ore."
 msgstr ""
 
 msgid "Your soldiers have occupied your donjon."
 msgstr ""
 
-msgid "Plant wheat"
-msgstr "Plantar trigo"
-
-msgid "Harvest wheat"
-msgstr "Colheita de trigo"
-
-msgid "Sow and harvest wheat."
+msgid "planting wheat"
 msgstr ""
 
-msgid "Calculation needed"
+msgid "harvesting wheat"
+msgstr ""
+
+msgid "Out of Fields"
+msgstr ""
+
+msgid "The farmer working at this farm has no cleared soil to plant his seeds."
+msgstr ""
+
+msgid "Sow and harvest wheat."
 msgstr ""
 
 msgid "Plants fields."
@@ -1085,19 +1053,27 @@ msgstr ""
 msgid "Catches fish in the sea."
 msgstr ""
 
+msgid "fishing"
+msgstr ""
+
+msgid "Out of Fish"
+msgstr ""
+
+msgid ""
+"The fisher working out of this fisher’s hut can’t find any fish in his "
+"working radius."
+msgstr ""
+
 msgid "‘What do you mean, my fish ain’t fresh?!’"
 msgstr ""
 
 msgid "Fishes on the coast near the hut."
 msgstr ""
 
-msgid "The Fisher’s Hut needs water full of fish in the vicinity."
+msgid "The fisher’s hut needs water full of fish within the working radius."
 msgstr ""
 
-msgid "Small plot"
-msgstr ""
-
-msgid "The fisher pauses 18s before going to work again."
+msgid "The fisher pauses %s before going to work again."
 msgstr ""
 
 msgid ""
@@ -1117,7 +1093,8 @@ msgstr ""
 "natural."
 
 msgid ""
-"‘He loves the animals and to breed them<br>as we love to cook and eat them.’"
+"‘He loves the animals and to breed them<br>\n"
+"\t\t\tas we love to cook and eat them.’"
 msgstr ""
 
 msgid "Barbarian nursery rhyme"
@@ -1126,7 +1103,7 @@ msgstr "Rima dos Bárbaros"
 msgid "Releases animals into the wild to steady the meat production."
 msgstr ""
 
-msgid "The gamekeeper pauses 52.5s before going to work again."
+msgid "The gamekeeper pauses %s before going to work again."
 msgstr ""
 
 msgid "Grows thatch reed."
@@ -1148,7 +1125,13 @@ msgid ""
 "and armor."
 msgstr ""
 
-msgid "‘I can handle tons of granite, man, but no more of your vain prattle.’"
+msgid "Main Granite Vein Exhausted"
+msgstr ""
+
+msgid ""
+"This granite mine’s main vein is exhausted. Expect strongly diminished "
+"returns on investment. This mine can’t be enhanced any further, so you "
+"should consider dismantling or destroying it."
 msgstr ""
 
 msgid ""
@@ -1159,10 +1142,24 @@ msgid ""
 "levee."
 msgstr ""
 
-msgid " It cannot be upgraded."
+msgid "‘I can handle tons of granite, man, but no more of your vain prattle.’"
 msgstr ""
 
-msgid "Carve %s out of the rock in mountain terrain."
+msgid "Carve raw stone out of the rock in mountain terrain."
+msgstr ""
+
+msgid "It cannot be upgraded."
+msgstr ""
+
+msgid ""
+"This mine exploits all of the resource down to the deepest level. But even "
+"after having done so, it will still have a %s chance of finding some more "
+"raw stone."
+msgstr ""
+
+msgid ""
+"If the food supply is steady, this mine can produce raw stone in %s on "
+"average."
 msgstr ""
 
 msgid ""
@@ -1178,6 +1175,12 @@ msgid ""
 "mill)."
 msgstr ""
 
+msgid "Accommodation for your people. Also stores your wares and tools."
+msgstr ""
+
+msgid "The headquarters is your main building."
+msgstr ""
+
 msgid ""
 "A helmet is a basic tool to protect warriors. It is produced in the helm "
 "smithy and used in the training camp – together with food – to train "
@@ -1187,17 +1190,29 @@ msgstr ""
 msgid "Smelts helmets for soldiers."
 msgstr "Forja elmos para guerreiros."
 
-msgid "Produce helm"
-msgstr "Produz elmos"
+msgid "forging a helm"
+msgstr ""
 
-msgid "Produce mask"
-msgstr "Produz máscara"
+msgid "forging a mask"
+msgstr ""
 
-msgid "Produce warhelm"
+msgid "forging a warhelm"
 msgstr ""
 
 msgid "The Hunter brings good meat to the colonists."
 msgstr "O caçador traz carne para os colonos."
+
+msgid "hunting"
+msgstr ""
+
+msgid "Out of Game"
+msgstr ""
+
+msgid ""
+"The hunter working out of this hunter’s hut can’t find any game in his "
+"working radius. Remember that you can build a gamekeeper’s hut to release "
+"more game into the wild."
+msgstr ""
 
 msgid ""
 "‘As silent as a panther,<br> as deft as a weasel,<br> as swift as an arrow,"
@@ -1207,13 +1222,13 @@ msgstr ""
 msgid "‘The Art of Hunting’"
 msgstr ""
 
-msgid "Hunt animals to produce meat."
+msgid "Hunts animals to produce meat."
 msgstr ""
 
-msgid "The Hunter’s Hut needs animals in the vicinity to hunt."
+msgid "The hunter’s hut needs animals to hunt within the working radius."
 msgstr ""
 
-msgid "The hunter pauses 35s before going to work again."
+msgid "The hunter pauses %s before going to work again."
 msgstr ""
 
 msgid ""
@@ -1244,23 +1259,23 @@ msgid ""
 "mill)."
 msgstr ""
 
+#
+# File: ../../tribes/barbarians/lime-burner/conf, line: 1
+# File: ../../tribes/barbarians/lime-burner/conf, line: 1
 msgid "Burns lime in the lime kiln."
 msgstr "Queima cal no forno da cal."
-
-msgid "‘Forming new stone from old with fire and water.’"
-msgstr ""
 
 msgid ""
 "Ragnald the Child’s answer to the question, what he’s doing in the dirt. His "
 "‘new stone’ now is an important building material."
 msgstr ""
 
+msgid "‘Forming new stone from old with fire and water.’"
+msgstr ""
+
 msgid ""
 "The Lime Kiln processes Raw Stones to make ‘Grout’, a substance that "
 "solidifies and so reinforces masonry."
-msgstr ""
-
-msgid "Raw Stone from the Granite Mine or Quarry"
 msgstr ""
 
 msgid ""
@@ -1269,33 +1284,47 @@ msgid ""
 msgstr ""
 
 msgid ""
+"If all needed wares are delivered in time, this building can produce grout "
+"in about %s on average."
+msgstr ""
+
+msgid ""
 "Logs are a principal building material of the barbarians. The trees are "
 "felled by lumberjacks; rangers care for the supply of trees. Logs are also "
-"used in the metal workshop to build basic tools, and in the charcoal "
-"burner’s house in the production of coal. The wood hardener refines logs by "
-"hardening them in the fire which gives blackwood."
+"used in the metal workshop to build basic tools, and in the charcoal kiln "
+"for the production of coal. The wood hardener refines logs by hardening them "
+"in the fire which gives blackwood."
 msgstr ""
 
 msgid "Fells trees."
 msgstr "Abate as árvores."
 
-msgid ""
-"‘Take 200 hits to fell a tree and you’re a baby. Take 100 and you’re a "
-"soldier. Take 50 and you’re a hero. Take 20 and soon you will be a honorable "
-"lumberjack.’"
+msgid "Out of Trees"
 msgstr ""
 
-msgid "Krumta, carpenter of Chat’Karuth"
+msgid ""
+"The lumberjack working at this lumberjack’s hut can’t find any trees in his "
+"working radius. You should consider dismantling or destroying the building "
+"or building a rangers’s hut."
+msgstr ""
+
+msgid ""
+"\"Take 200 hits to fell a tree and you're a baby. Take 100 and you're a "
+"soldier. Take 50 and you're a hero. Take 20 and soon you will be a honorable "
+"lumberjack.\""
+msgstr ""
+
+msgid "Krumta, carpenter of Chat'Karuth"
 msgstr ""
 
 msgid "Fell trees in the surrounding area and process them into logs."
 msgstr ""
 
-msgid "The Lumberjack’s Hut needs trees in the immediate vicinity to fell."
+msgid "The lumberjack's hut needs trees to fell within the working radius."
 msgstr ""
 
 msgid ""
-"The Lumberjack needs %s to fell a tree, not counting the time he needs to "
+"The lumberjack needs %s to fell a tree, not counting the time he needs to "
 "reach the destination and go home again."
 msgstr ""
 
@@ -1317,37 +1346,34 @@ msgid ""
 "arena)."
 msgstr ""
 
-msgid "Produce felling ax"
+msgid "making a bread paddle"
 msgstr ""
 
-msgid "Produce bread paddle"
+msgid "making a felling ax"
 msgstr ""
 
-msgid "Produce fire tongs"
-msgstr "Produz pinças de fogo"
+msgid "making fire tongs"
+msgstr ""
 
-msgid "Produce fishing rod"
-msgstr "Produz canas de pesca"
+msgid "making a fishing rod"
+msgstr ""
 
-msgid "Produce hammer"
-msgstr "Produz martelos"
+msgid "making a hammer"
+msgstr ""
 
-msgid "Produce kitchen tools"
-msgstr "Produz utensilios de cozinha"
+msgid "making a hunting spear"
+msgstr ""
 
-msgid "Produce pick"
-msgstr "Produz picareta"
+msgid "making kitchen tools"
+msgstr ""
 
-msgid "Produce scythe"
-msgstr "Produz foice"
+msgid "making a pick"
+msgstr ""
 
-msgid "Produce shovel"
-msgstr "Produz pá"
+msgid "making a scythe"
+msgstr ""
 
-msgid "Produce hunting spear"
-msgstr "Produz lança de caça"
-
-msgid "‘We make it work!’"
+msgid "making a shovel"
 msgstr ""
 
 msgid ""
@@ -1355,45 +1381,43 @@ msgid ""
 "the eldest known smithy."
 msgstr ""
 
+msgid "‘We make it work!’"
+msgstr ""
+
 msgid ""
-"The Barbarian Metal Workshop is the basic production site in a series of "
-"three buildings and creates all the tools that Barbarians need. The others "
+"The barbarian metal workshop can make bread paddles, felling axes, fire "
+"tongs, fishing rods, hammers, hunting spears, kitchen tools, picks, scythes "
+"and shovels."
+msgstr ""
+
+msgid ""
+"The barbarian metal workshop is the basic production site in a series of "
+"three buildings and creates all the tools that barbarians need. The others "
 "are for weapons."
 msgstr ""
 
 msgid ""
-"It can make Bread Paddles, Felling axs, Fire Tongs, Fishing Rods, Hammers, "
-"Hunting Spears, Kitchen Tools, Picks, Scythes and Shovels."
-msgstr ""
-
-msgid "%s from the Lumberjack’s hut"
-msgstr ""
-
-msgid "n/a"
-msgstr "n/a"
-
-msgid ""
-"‘Let the first one drive away the hunger, the second one put you at ease; "
-"when you have swallowed up your third one, it’s time for the next shift!’"
+"If all needed wares are delivered in time, this building can produce each "
+"tool in about %s on average."
 msgstr ""
 
 msgid "Widespread toast among Miners"
 msgstr ""
 
 msgid ""
-"The Micro Brewery produces Beer of the lower grade. This beer is a vital "
-"component of the Snacks that Inns and Big Inns prepare for Miners in Deep "
-"Mines."
+"‘Let the first one drive away the hunger, the second one put you at ease; "
+"when you have swallowed up your third one, it’s time for the next shift!’"
 msgstr ""
 
 msgid ""
-"If all needed wares are delivered in time, this building can produce %s in "
+"The micro brewery produces Beer of the lower grade. This beer is a vital "
+"component of the snacks that inns and big inns prepare for miners in deep "
+"mines."
+msgstr ""
+
+msgid ""
+"If all needed wares are delivered in time, this building can produce beer in "
 "about %s on average."
-msgstr ""
-
-msgid ""
-"An %1$s exploits only %2$s of the resource. From there on out, it will only "
-"have a 5%% chance of finding %3$s."
 msgstr ""
 
 msgid ""
@@ -1413,36 +1437,47 @@ msgid ""
 "It is also consumed at training sites (training camp and battle arena)."
 msgstr ""
 
-msgid "Carve %s out of stones lying near the hut."
+msgid "Out of Rocks"
 msgstr ""
 
-msgid "The Quarry needs stones in the vicinity."
+msgid ""
+"The stonemason working at this quarry can’t find any rocks in his working "
+"radius."
 msgstr ""
 
-msgid "The stonemason pauses 25s before going to work again."
+msgid "Carves raw stone out of rocks in the vicinity."
+msgstr ""
+
+msgid "The quarry needs stones to cut within the working radius."
+msgstr ""
+
+msgid "The stonemason pauses %s before going back to work again."
 msgstr ""
 
 msgid "Plants trees."
 msgstr "Planta árvores."
+
+msgid "planting trees"
+msgstr ""
+
+msgid "Chat’Karuth in a conversation with a Ranger"
+msgstr ""
 
 msgid ""
 "‘He who can grow two trees where normally only one will grow exceeds the "
 "most important general!’"
 msgstr ""
 
-msgid "Chat’Karuth in a conversation with a Ranger"
-msgstr ""
-
-msgid "Plant trees in the surrounding area."
+msgid "Plants trees in the surrounding area."
 msgstr ""
 
 msgid ""
-"The Ranger’s Hut needs free space in the immediate vicinity to plant the "
+"The ranger’s hut needs free space within the working radius to plant the "
 "trees."
 msgstr ""
 
 msgid ""
-"The Ranger needs %s to plant a tree, not counting the time he needs to reach "
+"The ranger needs %s to plant a tree, not counting the time he needs to reach "
 "the destination and go home again."
 msgstr ""
 
@@ -1457,39 +1492,45 @@ msgid ""
 "in quarries and granite mines."
 msgstr ""
 
-msgid "Plant reed"
-msgstr "Plantar colmo"
+msgid "planting reed"
+msgstr ""
 
-msgid "Harvest reed"
-msgstr "Colheira de colmo"
+msgid "harvesting reed"
+msgstr ""
 
-msgid "‘We grow roofs’"
+msgid ""
+"The gardener working at this reed yard has no cleared soil to plant his "
+"seeds."
 msgstr ""
 
 msgid "Slogan of the Guild of Gardeners"
 msgstr ""
 
+msgid "‘We grow roofs’"
+msgstr ""
+
 msgid ""
 "The Reed Yard cultivates reed that serves two different purposes for the "
-"Barbarian tribe.<br>It is the traditional material for roofing, and it is "
-"woven into the extremely durable cloth that they use for their ships’ sails."
+"Barbarian tribe."
 msgstr ""
 
-msgid "The Reed Yard’s output will only go to construction sites that need it."
+msgid ""
+"Thatch reed is the traditional material for roofing, and it is woven into "
+"the extremely durable cloth that they use for their ships’ sails."
 msgstr ""
 
-msgid "A Reed Yard can produce a sheaf of Thatch Reed in about %s on average."
+msgid "A reed yard can produce a sheaf of thatch reed in about %s on average."
 msgstr ""
 
 msgid ""
 "Scouts like Scotty the scout scouting unscouted areas in a scouty fashion."
 msgstr "O explorador explora áreas inexploradas explorando-as."
 
-msgid "Headquarters medium"
-msgstr "Quartel-general médio"
+msgid "scouting"
+msgstr ""
 
-msgid "Citadel village"
-msgstr "Aldeia da Cidadela"
+msgid "Fortified Village"
+msgstr ""
 
 msgid "Not enough space"
 msgstr "Espaço insuficiente"
@@ -1499,6 +1540,9 @@ msgid ""
 "You are at a disadvantage with this; consider restarting this map with a "
 "fair starting condition."
 msgstr ""
+"Alguns dos teus edifícios iniciais não foram construídos por não haver "
+"espaço suficiente para os construir, por isso estás em desvantagem. Re-"
+"iniciar o mapa para poderes começar em melhores condições."
 
 msgid ""
 "The scythe is the tool of the farmer. It is produced in the metal workshop "
@@ -1522,8 +1566,8 @@ msgstr "Um Navio pronto para navegar"
 msgid "Works at the shipyard and constructs new ships."
 msgstr "Trabalha no Estaleiro naval onde constrói as novas embarcações"
 
-msgid "Constructing ship"
-msgstr "Construindo o Navio"
+msgid "constructing a ship"
+msgstr ""
 
 msgid ""
 "The shovel is needed for the proper handling of plants. Therefore the "
@@ -1535,11 +1579,14 @@ msgstr ""
 msgid "Smelts iron."
 msgstr "Funde ferro."
 
-msgid "Smelt iron"
-msgstr "Fundir ferro"
+msgid "smelting iron"
+msgstr ""
 
-msgid "Smelt gold"
-msgstr "Fundir ouro"
+msgid "smelting gold"
+msgstr ""
+
+msgid "Smelts iron ore into iron and gold ore into gold."
+msgstr ""
 
 msgid ""
 "A bigger morsel than the ration to provide miners in deep mines. It is "
@@ -1567,28 +1614,31 @@ msgstr ""
 msgid "Trains the soldiers."
 msgstr "Treina os guerreiros."
 
-msgid "Upgrade soldier attack from level 0 to level 1"
+msgid "upgrading soldier attack from level 0 to level 1"
 msgstr ""
 
-msgid "Upgrade soldier attack from level 1 to level 2"
+msgid "upgrading soldier attack from level 1 to level 2"
 msgstr ""
 
-msgid "Upgrade soldier attack from level 2 to level 3"
+msgid "upgrading soldier attack from level 2 to level 3"
 msgstr ""
 
-msgid "Upgrade soldier attack from level 3 to level 4"
+msgid "upgrading soldier attack from level 3 to level 4"
 msgstr ""
 
-msgid "Upgrade soldier attack from level 4 to level 5"
+msgid "upgrading soldier attack from level 4 to level 5"
 msgstr ""
 
-msgid "Upgrade soldier health from level 0 to level 1"
+msgid "upgrading soldier health from level 0 to level 1"
 msgstr ""
 
-msgid "Upgrade soldier health from level 1 to level 2"
+msgid "upgrading soldier health from level 1 to level 2"
 msgstr ""
 
-msgid "Upgrade soldier health from level 2 to level 3"
+msgid "upgrading soldier health from level 2 to level 3"
+msgstr ""
+
+msgid "Chief Chat’Karuth in a speech to his army."
 msgstr ""
 
 msgid ""
@@ -1596,15 +1646,7 @@ msgid ""
 "suffered – in the past and for all future.’"
 msgstr ""
 
-msgid "Chief Chat’Karuth in a speech to his army."
-msgstr ""
-
-msgid ""
-"Trains soldiers in Attack up to level 5, and in Health up to level 3."
-"<br>Equips the soldiers with all necessary weapons and armor parts."
-msgstr ""
-
-msgid "Note:"
+msgid "Trains soldiers in ‘Attack’ and in ‘Health’."
 msgstr ""
 
 msgid ""
@@ -1612,33 +1654,18 @@ msgid ""
 "initial level."
 msgstr ""
 
-msgid "Training Attack:"
-msgstr ""
+msgid "Attack Training:"
+msgstr "Treino de ataque:"
 
-msgid "Provided by the Axfactory"
-msgstr ""
-
-msgid "Provided by the War Mill"
-msgstr ""
-
-msgid "Training Health:"
-msgstr ""
-
-msgid "Provided by the Helm Smithy"
-msgstr ""
-
-msgid "Training Both"
-msgstr ""
-
-msgid "Attack"
-msgstr "Ataque"
-
-msgid "Health"
+msgid "Health Training:"
 msgstr ""
 
 msgid ""
-"If all needed wares are delivered in time, a Training Camp can train one new "
-"soldier in %1$s and %2$s to the final level in %3$s on average."
+"If all needed wares are delivered in time, a training camp can train one new "
+"soldier in attack and health to the final level in %1$s and %2$s on average."
+msgstr ""
+
+msgid "Warehouses store soldiers, wares and tools."
 msgstr ""
 
 msgid ""
@@ -1647,21 +1674,26 @@ msgid ""
 "soldiers from health level 1 to level 2."
 msgstr ""
 
-msgid "Produce bronze ax"
+msgid "forging a bronze ax"
 msgstr ""
 
-msgid "Produce battle ax"
+msgid "forging a battle ax"
 msgstr ""
 
-msgid "Produce warrior’s ax"
+msgid "forging a warrior’s ax"
+msgstr ""
+
+msgid "The war mill produces all the axes that the barbarians use for warfare."
 msgstr ""
 
 msgid ""
-"The Barbarian War Mill is their most advanced production site for weapons. "
-"As such it needs to be upgraded from an Axfactory."
+"The barbarian war mill is their most advanced production site for weapons. "
+"As such it needs to be upgraded from an axfactory."
 msgstr ""
 
-msgid "Coal from the Coal mine or the Charcoal Burner’s House"
+msgid ""
+"If all needed wares are delivered in time, this building can produce each ax "
+"in about %s on average."
 msgstr ""
 
 msgid ""
@@ -1685,9 +1717,17 @@ msgstr ""
 msgid "Produces cloth for ships and soldiers."
 msgstr "Produz tecido para barcos e guerreiros"
 
+msgid "weaving"
+msgstr ""
+
+msgid "Weaves cloth out of thatch reed."
+msgstr ""
+
+msgid "Out of Water"
+msgstr ""
+
 msgid ""
-"‘Oh how sweet is the source of life,<br> that comes down from the sky <br> "
-"and lets the earth drink.’"
+"The carrier working at this well can’t find any water in his working radius."
 msgstr ""
 
 msgid ""
@@ -1695,10 +1735,15 @@ msgid ""
 "Drought in the 21st year of Chat’Karuth’s reign."
 msgstr ""
 
-msgid "Draw Water out of the deep."
+msgid ""
+"‘Oh how sweet is the source of life,<br> that comes down from the sky <br> "
+"and lets the earth drink.’"
 msgstr ""
 
-msgid "The Carrier needs %s to get one bucket full of water."
+msgid "Draws water out of the deep."
+msgstr ""
+
+msgid "The carrier needs %s to get one bucket full of water."
 msgstr ""
 
 msgid ""
@@ -1707,10 +1752,119 @@ msgid ""
 "supplied with wheat."
 msgstr ""
 
-msgid "Weaving Mill"
-msgstr "Tecelagem"
+#~ msgid "Work"
+#~ msgstr "Trabalho"
 
-msgid ""
-"It can make Bread Paddles, Felling Axes, Fire Tongs, Fishing Rods, Hammers, "
-"Hunting Spears, Kitchen Tools, Picks, Scythes and Shovels."
-msgstr ""
+#~ msgid "Lore"
+#~ msgstr "História"
+
+#~ msgid "General"
+#~ msgstr "Geral"
+
+#~ msgid "Purpose:"
+#~ msgstr "Propósito:"
+
+#~ msgid "Working radius:"
+#~ msgstr "Alcance dos trabalhadores:"
+
+#~ msgid "Vision range:"
+#~ msgstr "Alcance da visão:"
+
+#~ msgid "Dependencies"
+#~ msgstr "Dependências"
+
+#~ msgid "Incoming:"
+#~ msgstr "Rendimento:"
+
+#~ msgid "%s from the Smelting Works"
+#~ msgstr "%s dos trabalhos da fundição"
+
+#~ msgid "Building"
+#~ msgstr "Construindo"
+
+#~ msgid "Workers"
+#~ msgstr "Trabalhadores"
+
+#~ msgid "Worker uses:"
+#~ msgstr "Uso do trabalhador:"
+
+#~ msgid "Experience levels:"
+#~ msgstr "Níveis experimentais:"
+
+#~ msgid "Production"
+#~ msgstr "Produção"
+
+#~ msgid "Performance:"
+#~ msgstr "Desempenho:"
+
+#~ msgid "each item"
+#~ msgstr "cada item"
+
+#~ msgid "Wheat from the Farm"
+#~ msgstr "Trigo das quintas"
+
+#~ msgid "Water from the Well"
+#~ msgstr "Água do poço"
+
+#~ msgid "Evade"
+#~ msgstr "Evasão"
+
+#~ msgid "Produce ration"
+#~ msgstr "Produz ração"
+
+#~ msgid "Produce snack"
+#~ msgstr "Produce lanche"
+
+#~ msgid "Produce meal"
+#~ msgstr "Produz refeição"
+
+#~ msgid "Coal mine"
+#~ msgstr "Mina de carvão"
+
+#~ msgid "Deer"
+#~ msgstr "Veado"
+
+#~ msgid "Burner"
+#~ msgstr "Queimador"
+
+#~ msgid "Charcoal Burner’s House"
+#~ msgstr "Casa do Carvoeiro"
+
+#~ msgid "Headquarters Medium"
+#~ msgstr "Quartel-general médio"
+
+#~ msgid "Citadel Village"
+#~ msgstr "Aldeia da Cidadela"
+
+#~ msgid "Workers use:"
+#~ msgstr "Uso dos trabalhadores:"
+
+#~ msgid "Produce helm"
+#~ msgstr "Produz elmos"
+
+#~ msgid "Produce mask"
+#~ msgstr "Produz máscara"
+
+#~ msgid "Produce hammer"
+#~ msgstr "Produz martelos"
+
+#~ msgid "Produce pick"
+#~ msgstr "Produz picareta"
+
+#~ msgid "Produce scythe"
+#~ msgstr "Produz foice"
+
+#~ msgid "Produce shovel"
+#~ msgstr "Produz pá"
+
+#~ msgid "n/a"
+#~ msgstr "n/a"
+
+#~ msgid "Headquarters medium"
+#~ msgstr "Quartel-general médio"
+
+#~ msgid "Citadel village"
+#~ msgstr "Aldeia da Cidadela"
+
+#~ msgid "Attack"
+#~ msgstr "Ataque"
