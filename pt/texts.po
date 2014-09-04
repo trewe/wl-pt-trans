@@ -796,12 +796,3 @@ msgid ""
 msgstr ""
 "Os nossos jogadores computorizados são uma seca? Então visita-nos em www."
 "widelands.org e descobre outros jogadores para jogar mano-a-mano online."
-
-#~ msgid "E: toggles event menu"
-#~ msgstr "E: Liga o menu de interação"
-
-#~ msgid "CTRL+L: load Map"
-#~ msgstr "CTRL+L: Carregar Mapa"
-
-#~ msgid "CTRL+S: save Map"
-#~ msgstr "CTRL+S: Guardar Mapa"
