@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2014-07-27 17:03+0000\n"
-"Last-Translator: SirVer <Unknown>\n"
+"PO-Revision-Date: 2015-02-15 21:23-0000\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Widelands fixxer upper\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2014-08-06 05:43+0000\n"
-"X-Generator: Launchpad (build 17147)\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #: ../../campaigns/t03.wmf/scripting/texts.lua:21
 #: ../../campaigns/t03.wmf/scripting/texts.lua:23
@@ -25,6 +25,8 @@ msgid ""
 "Build up a basic food economy to provide your people with food – a fisher’s "
 "hut, a hunter’s hut, a well, a farm and a bakery."
 msgstr ""
+"Construa uma economia base para abasteceres o teu povo com mantimentos - uma "
+"cabana de pescador, um poço, uma quinta e uma padaria."
 
 #: ../../campaigns/t03.wmf/scripting/texts.lua:30
 msgid "Build a cattle farm"
@@ -40,6 +42,9 @@ msgid ""
 "of your oxen to help transport wares more quickly. Remember to build a "
 "cattle farm!"
 msgstr ""
+"Assim como as tuas estradas começam a ficar cada vez maiores e a tua "
+"economia maior, deves utilizar mais bois de trabalho para transportarem as "
+"mercadorias mais rapidamente. Lembra-te em construir uma quinta!"
 
 #: ../../campaigns/t03.wmf/scripting/texts.lua:39
 #: ../../campaigns/t03.wmf/scripting/texts.lua:41
@@ -79,6 +84,9 @@ msgid ""
 "and coal and build a mining economy with mines, taverns, smelting works and "
 "metalworks."
 msgstr ""
+"Expande o teu território até às montanhas, e envia geólogos para procurarem "
+"ouro e carvão afim de construires uma economia saudável de mineração com "
+"minas, tavernas, fundições e ferreiros."
 
 #: ../../campaigns/t03.wmf/scripting/texts.lua:66
 #: ../../campaigns/t03.wmf/scripting/texts.lua:68
@@ -162,7 +170,7 @@ msgstr ""
 
 #: ../../campaigns/t03.wmf/scripting/texts.lua:111
 msgid "The attributes are: health points, attack, defense and evade."
-msgstr ""
+msgstr "Os atributos são: pontos de saúde, de ataque, defesa e evasão."
 
 #: ../../campaigns/t03.wmf/scripting/texts.lua:116
 #: ../../campaigns/t03.wmf/scripting/texts.lua:118

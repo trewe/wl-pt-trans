@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: Widelands svnVERSION\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2014-03-11 10:01+0000\n"
-"Last-Translator: GunChleoc <Unknown>\n"
+"PO-Revision-Date: 2015-02-15 21:25-0000\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Widelands fixxer upper\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2014-08-06 05:54+0000\n"
-"X-Generator: Launchpad (build 17147)\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #
 # File: ../../maps/MP, line: -1
@@ -54,8 +54,8 @@ msgstr "Estado do Jogo"
 #: Hopping.wmf/scripting/multiplayer_init.lua:116
 msgid "%s Log"
 msgid_plural "%s Logs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Registo"
+msgstr[1] "%s Registos"
 
 #: ../../maps/MP Scenarios/Island
 #: Hopping.wmf/scripting/multiplayer_init.lua:118

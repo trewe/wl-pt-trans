@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: widelands\n"
 "Report-Msgid-Bugs-To: widelands-public@lists.sourceforge.net\n"
 "POT-Creation-Date: 2014-03-06 21:20+0000\n"
-"PO-Revision-Date: 2014-03-15 03:02+0000\n"
-"Last-Translator: GunChleoc <Unknown>\n"
+"PO-Revision-Date: 2015-02-15 21:29-0000\n"
+"Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: Widelands fixxer upper\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2014-08-06 05:54+0000\n"
-"X-Generator: Launchpad (build 17147)\n"
+"X-Generator: Poedit 1.7.4\n"
 
 #
 # File: ../../scripting/win_condition_texts.lua, line: 2
@@ -125,12 +125,12 @@ msgstr "Pontos"
 msgid "Status for %s"
 msgstr "Estado para %s"
 
+# OMG, what the hell :P
 #: TRANSLATORS: For example: "gold (3 P) x 4 = 12 P", P meaning "Points"
 #: ../../scripting/win_conditions/02_collectors.lua:105
-#, fuzzy
 #| msgid "  %1$s (%2$i P) x %3$i = %4$i P"
 msgid "  %1$s (%2$i P) x %3$i = %4$i P<br>"
-msgstr "  %1$s (%2$i P) x %3$i = %4$i P"
+msgstr "  %1$s (%2$i P) x %3$i = %4$i P<br>"
 
 #: ../../scripting/win_conditions/02_collectors.lua:109
 msgid "Total: %i point"
@@ -245,20 +245,16 @@ msgid "Wood Gnome"
 msgstr "Gnomo de Madeira"
 
 #: ../../scripting/win_conditions/04_wood_gnome.lua:16
-#, fuzzy
-#| msgid ""
-#| "As wood gnome you like big forests, so your task is to have more trees on "
-#| "your territory than any other player. The game will end after 4 hours of "
-#| "playing. The one with the most trees at that point will win the game."
 msgid ""
 "As wood gnome you like big forests, so your task is to have more trees on\n"
 "your territory than any other player. The game will end after 4 hours of\n"
 "playing. The one with the most trees at that point will win the game."
 msgstr ""
-"Agora que és um gnomo de madeira que gosta de grandes florestas, a tua "
-"tarefa vai ser ter mais árvores no teu território que qualquer outro "
-"jogador. O jogo terá a duração de 4 horas ao fim das quais quem tiver mais "
-"árvores será o grande vencedor do jogo."
+"Agora que és um gnomo de madeira que gosta de grandes florestas,\n"
+"a tua tarefa vai ser ter mais árvores no teu território que qualquer outro "
+"jogador.\n"
+"O jogo terá a duração de 4 horas ao fim das quais quem tiver mais árvores "
+"será o grande vencedor do jogo."
 
 #
 # File: ../../scripting/win_condition_texts.lua, line: 34
